@@ -1,0 +1,6739 @@
+timing:
+- zonesSum:
+  - 46
+  - 40
+  - 35
+  - 22
+  zonesFirst:
+  - 2017-04-08T03:40:53Z
+  - 2017-04-08T04:40:55Z
+  - 2017-04-08T05:12:06Z
+  - 2017-04-08T06:20:02Z
+  zonesLast:
+  - 2017-04-09T04:33:15Z
+  - 2017-04-09T05:09:42Z
+  - 2017-04-09T06:14:59Z
+  - 2017-04-09T07:35:25Z
+  zonesRankTime:
+  - - 2017-04-08T03:40:53Z
+    - 2017-04-08T03:41:25Z
+    - 2017-04-09T03:11:21Z
+    - 2017-04-09T03:12:49Z
+    - 2017-04-09T03:13:00Z
+    - 2017-04-09T03:13:30Z
+    - 2017-04-09T03:14:33Z
+    - 2017-04-09T03:15:18Z
+    - 2017-04-09T03:19:56Z
+    - 2017-04-09T03:20:19Z
+    - 2017-04-09T03:20:23Z
+    - 2017-04-09T03:20:30Z
+    - 2017-04-09T03:20:42Z
+    - 2017-04-09T03:21:00Z
+    - 2017-04-09T03:21:06Z
+    - 2017-04-09T03:21:09Z
+    - 2017-04-09T03:22:43Z
+    - 2017-04-09T03:22:43Z
+    - 2017-04-09T03:24:49Z
+    - 2017-04-09T03:25:54Z
+    - 2017-04-09T03:34:41Z
+    - 2017-04-09T03:40:01Z
+    - 2017-04-09T03:40:20Z
+    - 2017-04-09T03:40:28Z
+    - 2017-04-09T03:40:33Z
+    - 2017-04-09T03:40:35Z
+    - 2017-04-09T03:40:36Z
+    - 2017-04-09T03:40:37Z
+    - 2017-04-09T03:40:44Z
+    - 2017-04-09T03:40:53Z
+    - 2017-04-09T03:41:07Z
+    - 2017-04-09T03:41:09Z
+    - 2017-04-09T03:41:21Z
+    - 2017-04-09T03:41:36Z
+    - 2017-04-09T03:41:49Z
+    - 2017-04-09T03:41:55Z
+    - 2017-04-09T03:42:24Z
+    - 2017-04-09T03:43:13Z
+    - 2017-04-09T03:43:25Z
+    - 2017-04-09T03:43:42Z
+    - 2017-04-09T03:43:47Z
+    - 2017-04-09T03:43:52Z
+    - 2017-04-09T03:44:17Z
+    - 2017-04-09T03:45:01Z
+    - 2017-04-09T04:21:39Z
+    - 2017-04-09T04:33:15Z
+  - - 2017-04-08T04:40:55Z
+    - 2017-04-08T04:48:35Z
+    - 2017-04-09T04:23:56Z
+    - 2017-04-09T04:24:31Z
+    - 2017-04-09T04:24:34Z
+    - 2017-04-09T04:24:49Z
+    - 2017-04-09T04:25:58Z
+    - 2017-04-09T04:26:57Z
+    - 2017-04-09T04:28:46Z
+    - 2017-04-09T04:35:27Z
+    - 2017-04-09T04:36:30Z
+    - 2017-04-09T04:38:20Z
+    - 2017-04-09T04:38:28Z
+    - 2017-04-09T04:39:05Z
+    - 2017-04-09T04:40:28Z
+    - 2017-04-09T04:40:55Z
+    - 2017-04-09T04:40:56Z
+    - 2017-04-09T04:44:02Z
+    - 2017-04-09T04:44:09Z
+    - 2017-04-09T04:44:38Z
+    - 2017-04-09T04:44:59Z
+    - 2017-04-09T04:45:49Z
+    - 2017-04-09T04:48:08Z
+    - 2017-04-09T04:50:37Z
+    - 2017-04-09T04:51:13Z
+    - 2017-04-09T04:52:33Z
+    - 2017-04-09T04:52:44Z
+    - 2017-04-09T04:53:59Z
+    - 2017-04-09T04:54:40Z
+    - 2017-04-09T04:55:07Z
+    - 2017-04-09T04:55:53Z
+    - 2017-04-09T04:56:15Z
+    - 2017-04-09T04:57:22Z
+    - 2017-04-09T04:58:03Z
+    - 2017-04-09T04:58:15Z
+    - 2017-04-09T05:00:55Z
+    - 2017-04-09T05:01:21Z
+    - 2017-04-09T05:07:28Z
+    - 2017-04-09T05:08:52Z
+    - 2017-04-09T05:09:42Z
+  - - 2017-04-08T05:12:06Z
+    - 2017-04-09T05:07:08Z
+    - 2017-04-09T05:09:23Z
+    - 2017-04-09T05:12:09Z
+    - 2017-04-09T05:12:09Z
+    - 2017-04-09T05:12:28Z
+    - 2017-04-09T05:12:30Z
+    - 2017-04-09T05:13:55Z
+    - 2017-04-09T05:18:26Z
+    - 2017-04-09T05:20:49Z
+    - 2017-04-09T05:20:50Z
+    - 2017-04-09T05:22:46Z
+    - 2017-04-09T05:23:09Z
+    - 2017-04-09T05:23:33Z
+    - 2017-04-09T05:24:01Z
+    - 2017-04-09T05:24:50Z
+    - 2017-04-09T05:26:45Z
+    - 2017-04-09T05:27:44Z
+    - 2017-04-09T05:28:28Z
+    - 2017-04-09T05:29:05Z
+    - 2017-04-09T05:29:16Z
+    - 2017-04-09T05:29:22Z
+    - 2017-04-09T05:40:40Z
+    - 2017-04-09T05:41:20Z
+    - 2017-04-09T05:41:59Z
+    - 2017-04-09T05:42:25Z
+    - 2017-04-09T05:42:30Z
+    - 2017-04-09T05:44:15Z
+    - 2017-04-09T05:44:39Z
+    - 2017-04-09T05:58:45Z
+    - 2017-04-09T06:00:41Z
+    - 2017-04-09T06:01:32Z
+    - 2017-04-09T06:02:15Z
+    - 2017-04-09T06:08:24Z
+    - 2017-04-09T06:14:59Z
+  - - 2017-04-08T06:20:02Z
+    - 2017-04-09T06:08:10Z
+    - 2017-04-09T06:19:44Z
+    - 2017-04-09T06:20:00Z
+    - 2017-04-09T06:20:11Z
+    - 2017-04-09T06:20:31Z
+    - 2017-04-09T06:20:45Z
+    - 2017-04-09T06:22:40Z
+    - 2017-04-09T06:24:04Z
+    - 2017-04-09T06:24:56Z
+    - 2017-04-09T06:25:08Z
+    - 2017-04-09T06:25:14Z
+    - 2017-04-09T06:27:10Z
+    - 2017-04-09T06:33:19Z
+    - 2017-04-09T06:35:17Z
+    - 2017-04-09T06:37:30Z
+    - 2017-04-09T06:38:28Z
+    - 2017-04-09T06:45:20Z
+    - 2017-04-09T06:48:22Z
+    - 2017-04-09T06:51:04Z
+    - 2017-04-09T06:52:42Z
+    - 2017-04-09T07:35:25Z
+  zonesRankPilot:
+  - - - '8'
+      - Rod Flockhart
+    - - '19'
+      - Scott Barrett
+    - - '37'
+      - John Spencer
+    - - '14'
+      - Tony Giammichele
+    - - '38'
+      - Dave Stevens
+    - - '3'
+      - Paul Allen
+    - - '15'
+      - Andrew Sharpe
+    - - '24'
+      - Brodrick Osborne
+    - - '41'
+      - Peter Burkitt
+    - - '25'
+      - Hagen Bruggemann
+    - - '2'
+      - Tony Armstrong
+    - - '4'
+      - Nick Purcell
+    - - '51'
+      - Billy Miller-Macleod
+    - - '1'
+      - Mark Alton
+    - - '32'
+      - Rob Larkin
+    - - '45'
+      - steve crosby
+    - - '43'
+      - Simon West
+    - - '31'
+      - Tomas Kellner
+    - - '40'
+      - Hossain Tefaili
+    - - '17'
+      - Trevor Purcell
+    - - '28'
+      - John Harriot
+    - - '44'
+      - Josh Woods
+    - - '5'
+      - Jonny Durand
+    - - '9'
+      - Rohan Taylor
+    - - '12'
+      - Rory Duncan
+    - - '39'
+      - rob degroot
+    - - '26'
+      - Jason Kath
+    - - '13'
+      - Matthew Barlow
+    - - '33'
+      - Niki Longshore
+    - - '22'
+      - Steve Blenkinsop
+    - - '10'
+      - Craig Taylor
+    - - '18'
+      - Peter Adriaans
+    - - '46'
+      - Harrison Rowntree
+    - - '27'
+      - Guy Williams
+    - - '16'
+      - Andrew Barnes
+    - - '7'
+      - James Atkinson
+    - - '36'
+      - Brad Porter
+    - - '48'
+      - Derek Mckee
+    - - '21'
+      - Frank Chetcuti
+    - - '23'
+      - Noel Collins
+    - - '35'
+      - Anatoly Reyter
+    - - '6'
+      - Viv Clements
+    - - '34'
+      - dave moore
+    - - '20'
+      - Konrad Heilmann
+    - - '29'
+      - Guy Hubbard
+    - - '42'
+      - Mikhail Karmazin
+  - - - '19'
+      - Scott Barrett
+    - - '8'
+      - Rod Flockhart
+    - - '51'
+      - Billy Miller-Macleod
+    - - '4'
+      - Nick Purcell
+    - - '2'
+      - Tony Armstrong
+    - - '14'
+      - Tony Giammichele
+    - - '25'
+      - Hagen Bruggemann
+    - - '17'
+      - Trevor Purcell
+    - - '45'
+      - steve crosby
+    - - '37'
+      - John Spencer
+    - - '20'
+      - Konrad Heilmann
+    - - '9'
+      - Rohan Taylor
+    - - '5'
+      - Jonny Durand
+    - - '44'
+      - Josh Woods
+    - - '12'
+      - Rory Duncan
+    - - '24'
+      - Brodrick Osborne
+    - - '38'
+      - Dave Stevens
+    - - '46'
+      - Harrison Rowntree
+    - - '22'
+      - Steve Blenkinsop
+    - - '26'
+      - Jason Kath
+    - - '39'
+      - rob degroot
+    - - '13'
+      - Matthew Barlow
+    - - '10'
+      - Craig Taylor
+    - - '16'
+      - Andrew Barnes
+    - - '6'
+      - Viv Clements
+    - - '1'
+      - Mark Alton
+    - - '27'
+      - Guy Williams
+    - - '33'
+      - Niki Longshore
+    - - '23'
+      - Noel Collins
+    - - '36'
+      - Brad Porter
+    - - '21'
+      - Frank Chetcuti
+    - - '18'
+      - Peter Adriaans
+    - - '15'
+      - Andrew Sharpe
+    - - '7'
+      - James Atkinson
+    - - '28'
+      - John Harriot
+    - - '35'
+      - Anatoly Reyter
+    - - '34'
+      - dave moore
+    - - '48'
+      - Derek Mckee
+    - - '41'
+      - Peter Burkitt
+    - - '32'
+      - Rob Larkin
+  - - - '19'
+      - Scott Barrett
+    - - '5'
+      - Jonny Durand
+    - - '2'
+      - Tony Armstrong
+    - - '44'
+      - Josh Woods
+    - - '12'
+      - Rory Duncan
+    - - '25'
+      - Hagen Bruggemann
+    - - '17'
+      - Trevor Purcell
+    - - '4'
+      - Nick Purcell
+    - - '20'
+      - Konrad Heilmann
+    - - '9'
+      - Rohan Taylor
+    - - '51'
+      - Billy Miller-Macleod
+    - - '22'
+      - Steve Blenkinsop
+    - - '13'
+      - Matthew Barlow
+    - - '26'
+      - Jason Kath
+    - - '14'
+      - Tony Giammichele
+    - - '45'
+      - steve crosby
+    - - '24'
+      - Brodrick Osborne
+    - - '37'
+      - John Spencer
+    - - '46'
+      - Harrison Rowntree
+    - - '16'
+      - Andrew Barnes
+    - - '38'
+      - Dave Stevens
+    - - '6'
+      - Viv Clements
+    - - '27'
+      - Guy Williams
+    - - '1'
+      - Mark Alton
+    - - '39'
+      - rob degroot
+    - - '36'
+      - Brad Porter
+    - - '23'
+      - Noel Collins
+    - - '33'
+      - Niki Longshore
+    - - '7'
+      - James Atkinson
+    - - '48'
+      - Derek Mckee
+    - - '32'
+      - Rob Larkin
+    - - '35'
+      - Anatoly Reyter
+    - - '21'
+      - Frank Chetcuti
+    - - '28'
+      - John Harriot
+    - - '41'
+      - Peter Burkitt
+  - - - '19'
+      - Scott Barrett
+    - - '5'
+      - Jonny Durand
+    - - '26'
+      - Jason Kath
+    - - '22'
+      - Steve Blenkinsop
+    - - '44'
+      - Josh Woods
+    - - '51'
+      - Billy Miller-Macleod
+    - - '46'
+      - Harrison Rowntree
+    - - '17'
+      - Trevor Purcell
+    - - '20'
+      - Konrad Heilmann
+    - - '25'
+      - Hagen Bruggemann
+    - - '13'
+      - Matthew Barlow
+    - - '14'
+      - Tony Giammichele
+    - - '45'
+      - steve crosby
+    - - '16'
+      - Andrew Barnes
+    - - '6'
+      - Viv Clements
+    - - '37'
+      - John Spencer
+    - - '24'
+      - Brodrick Osborne
+    - - '39'
+      - rob degroot
+    - - '36'
+      - Brad Porter
+    - - '33'
+      - Niki Longshore
+    - - '27'
+      - Guy Williams
+    - - '21'
+      - Frank Chetcuti
+  lastLanding: 2017-04-09T07:47:42Z
+- zonesSum:
+  - 46
+  - 44
+  - 40
+  - 39
+  - 33
+  - 26
+  zonesFirst:
+  - 2017-04-12T02:57:14Z
+  - 2017-04-12T03:27:03Z
+  - 2017-04-12T03:50:00Z
+  - 2017-04-12T04:32:40Z
+  - 2017-04-12T05:21:29Z
+  - 2017-04-12T05:43:31Z
+  zonesLast:
+  - 2017-04-12T05:34:16Z
+  - 2017-04-12T05:59:49Z
+  - 2017-04-12T06:35:10Z
+  - 2017-04-12T05:52:30Z
+  - 2017-04-12T06:40:26Z
+  - 2017-04-12T07:23:09Z
+  zonesRankTime:
+  - - 2017-04-12T02:57:14Z
+    - 2017-04-12T03:00:52Z
+    - 2017-04-12T03:00:53Z
+    - 2017-04-12T03:01:17Z
+    - 2017-04-12T03:02:52Z
+    - 2017-04-12T03:02:58Z
+    - 2017-04-12T03:03:57Z
+    - 2017-04-12T03:10:12Z
+    - 2017-04-12T03:10:34Z
+    - 2017-04-12T03:10:44Z
+    - 2017-04-12T03:11:00Z
+    - 2017-04-12T03:11:27Z
+    - 2017-04-12T03:12:01Z
+    - 2017-04-12T03:12:38Z
+    - 2017-04-12T03:15:35Z
+    - 2017-04-12T03:15:35Z
+    - 2017-04-12T03:16:44Z
+    - 2017-04-12T03:20:43Z
+    - 2017-04-12T03:20:51Z
+    - 2017-04-12T03:20:52Z
+    - 2017-04-12T03:21:00Z
+    - 2017-04-12T03:21:04Z
+    - 2017-04-12T03:21:13Z
+    - 2017-04-12T03:21:20Z
+    - 2017-04-12T03:21:31Z
+    - 2017-04-12T03:21:33Z
+    - 2017-04-12T03:21:35Z
+    - 2017-04-12T03:21:37Z
+    - 2017-04-12T03:21:43Z
+    - 2017-04-12T03:21:43Z
+    - 2017-04-12T03:21:44Z
+    - 2017-04-12T03:21:53Z
+    - 2017-04-12T03:22:18Z
+    - 2017-04-12T03:22:20Z
+    - 2017-04-12T03:22:26Z
+    - 2017-04-12T03:22:36Z
+    - 2017-04-12T03:22:38Z
+    - 2017-04-12T03:22:55Z
+    - 2017-04-12T03:43:41Z
+    - 2017-04-12T03:43:42Z
+    - 2017-04-12T03:43:55Z
+    - 2017-04-12T03:44:25Z
+    - 2017-04-12T03:44:29Z
+    - 2017-04-12T03:45:33Z
+    - 2017-04-12T03:52:55Z
+    - 2017-04-12T05:34:16Z
+  - - 2017-04-12T03:27:03Z
+    - 2017-04-12T03:29:03Z
+    - 2017-04-12T03:29:42Z
+    - 2017-04-12T03:30:01Z
+    - 2017-04-12T03:36:57Z
+    - 2017-04-12T03:37:39Z
+    - 2017-04-12T03:42:47Z
+    - 2017-04-12T03:42:49Z
+    - 2017-04-12T03:43:59Z
+    - 2017-04-12T03:44:04Z
+    - 2017-04-12T03:44:21Z
+    - 2017-04-12T03:44:21Z
+    - 2017-04-12T03:44:37Z
+    - 2017-04-12T03:44:50Z
+    - 2017-04-12T03:45:00Z
+    - 2017-04-12T03:45:12Z
+    - 2017-04-12T03:46:52Z
+    - 2017-04-12T03:47:29Z
+    - 2017-04-12T03:48:01Z
+    - 2017-04-12T03:48:05Z
+    - 2017-04-12T03:48:49Z
+    - 2017-04-12T03:49:15Z
+    - 2017-04-12T03:49:21Z
+    - 2017-04-12T03:50:26Z
+    - 2017-04-12T03:50:50Z
+    - 2017-04-12T03:50:51Z
+    - 2017-04-12T03:52:10Z
+    - 2017-04-12T03:52:35Z
+    - 2017-04-12T03:52:40Z
+    - 2017-04-12T03:52:40Z
+    - 2017-04-12T03:57:27Z
+    - 2017-04-12T03:57:52Z
+    - 2017-04-12T04:00:42Z
+    - 2017-04-12T04:03:06Z
+    - 2017-04-12T04:03:14Z
+    - 2017-04-12T04:03:25Z
+    - 2017-04-12T04:03:37Z
+    - 2017-04-12T04:03:42Z
+    - 2017-04-12T04:05:16Z
+    - 2017-04-12T04:06:11Z
+    - 2017-04-12T04:08:39Z
+    - 2017-04-12T04:16:06Z
+    - 2017-04-12T04:32:50Z
+    - 2017-04-12T05:59:49Z
+  - - 2017-04-12T03:50:00Z
+    - 2017-04-12T03:51:39Z
+    - 2017-04-12T03:51:58Z
+    - 2017-04-12T03:52:23Z
+    - 2017-04-12T04:06:39Z
+    - 2017-04-12T04:06:42Z
+    - 2017-04-12T04:07:01Z
+    - 2017-04-12T04:07:16Z
+    - 2017-04-12T04:07:42Z
+    - 2017-04-12T04:08:51Z
+    - 2017-04-12T04:09:36Z
+    - 2017-04-12T04:10:03Z
+    - 2017-04-12T04:10:03Z
+    - 2017-04-12T04:11:37Z
+    - 2017-04-12T04:11:57Z
+    - 2017-04-12T04:12:50Z
+    - 2017-04-12T04:15:03Z
+    - 2017-04-12T04:16:23Z
+    - 2017-04-12T04:20:27Z
+    - 2017-04-12T04:21:27Z
+    - 2017-04-12T04:21:56Z
+    - 2017-04-12T04:24:54Z
+    - 2017-04-12T04:25:23Z
+    - 2017-04-12T04:25:28Z
+    - 2017-04-12T04:25:40Z
+    - 2017-04-12T04:25:46Z
+    - 2017-04-12T04:25:50Z
+    - 2017-04-12T04:26:07Z
+    - 2017-04-12T04:28:18Z
+    - 2017-04-12T04:29:49Z
+    - 2017-04-12T04:31:17Z
+    - 2017-04-12T04:31:55Z
+    - 2017-04-12T04:43:03Z
+    - 2017-04-12T04:43:47Z
+    - 2017-04-12T04:43:57Z
+    - 2017-04-12T04:46:22Z
+    - 2017-04-12T04:46:29Z
+    - 2017-04-12T04:55:47Z
+    - 2017-04-12T05:10:19Z
+    - 2017-04-12T06:35:10Z
+  - - 2017-04-12T04:32:40Z
+    - 2017-04-12T04:34:02Z
+    - 2017-04-12T04:35:10Z
+    - 2017-04-12T04:38:42Z
+    - 2017-04-12T04:41:24Z
+    - 2017-04-12T04:41:26Z
+    - 2017-04-12T04:41:27Z
+    - 2017-04-12T04:41:35Z
+    - 2017-04-12T04:41:44Z
+    - 2017-04-12T04:41:55Z
+    - 2017-04-12T04:44:26Z
+    - 2017-04-12T04:44:34Z
+    - 2017-04-12T04:53:26Z
+    - 2017-04-12T04:53:46Z
+    - 2017-04-12T04:53:57Z
+    - 2017-04-12T04:54:28Z
+    - 2017-04-12T04:55:21Z
+    - 2017-04-12T04:55:57Z
+    - 2017-04-12T04:56:02Z
+    - 2017-04-12T04:59:36Z
+    - 2017-04-12T05:00:05Z
+    - 2017-04-12T05:01:09Z
+    - 2017-04-12T05:01:43Z
+    - 2017-04-12T05:02:30Z
+    - 2017-04-12T05:04:50Z
+    - 2017-04-12T05:06:33Z
+    - 2017-04-12T05:09:16Z
+    - 2017-04-12T05:14:07Z
+    - 2017-04-12T05:14:27Z
+    - 2017-04-12T05:14:48Z
+    - 2017-04-12T05:15:16Z
+    - 2017-04-12T05:22:51Z
+    - 2017-04-12T05:27:12Z
+    - 2017-04-12T05:30:37Z
+    - 2017-04-12T05:34:30Z
+    - 2017-04-12T05:34:45Z
+    - 2017-04-12T05:40:53Z
+    - 2017-04-12T05:51:59Z
+    - 2017-04-12T05:52:30Z
+  - - 2017-04-12T05:21:29Z
+    - 2017-04-12T05:21:37Z
+    - 2017-04-12T05:21:41Z
+    - 2017-04-12T05:21:44Z
+    - 2017-04-12T05:22:30Z
+    - 2017-04-12T05:23:03Z
+    - 2017-04-12T05:25:11Z
+    - 2017-04-12T05:26:35Z
+    - 2017-04-12T05:26:56Z
+    - 2017-04-12T05:27:04Z
+    - 2017-04-12T05:29:45Z
+    - 2017-04-12T05:33:56Z
+    - 2017-04-12T05:34:28Z
+    - 2017-04-12T05:35:01Z
+    - 2017-04-12T05:40:24Z
+    - 2017-04-12T05:41:03Z
+    - 2017-04-12T05:41:04Z
+    - 2017-04-12T05:41:10Z
+    - 2017-04-12T05:41:36Z
+    - 2017-04-12T05:42:09Z
+    - 2017-04-12T05:45:20Z
+    - 2017-04-12T05:48:56Z
+    - 2017-04-12T05:54:05Z
+    - 2017-04-12T05:59:15Z
+    - 2017-04-12T06:00:10Z
+    - 2017-04-12T06:04:16Z
+    - 2017-04-12T06:08:21Z
+    - 2017-04-12T06:10:05Z
+    - 2017-04-12T06:12:08Z
+    - 2017-04-12T06:28:00Z
+    - 2017-04-12T06:29:56Z
+    - 2017-04-12T06:34:36Z
+    - 2017-04-12T06:40:26Z
+  - - 2017-04-12T05:43:31Z
+    - 2017-04-12T05:43:37Z
+    - 2017-04-12T05:44:00Z
+    - 2017-04-12T05:44:19Z
+    - 2017-04-12T05:44:19Z
+    - 2017-04-12T05:48:52Z
+    - 2017-04-12T05:54:33Z
+    - 2017-04-12T05:56:28Z
+    - 2017-04-12T05:56:39Z
+    - 2017-04-12T06:03:38Z
+    - 2017-04-12T06:07:48Z
+    - 2017-04-12T06:12:51Z
+    - 2017-04-12T06:14:52Z
+    - 2017-04-12T06:18:41Z
+    - 2017-04-12T06:18:45Z
+    - 2017-04-12T06:18:51Z
+    - 2017-04-12T06:19:03Z
+    - 2017-04-12T06:20:31Z
+    - 2017-04-12T06:27:26Z
+    - 2017-04-12T06:29:42Z
+    - 2017-04-12T06:33:59Z
+    - 2017-04-12T06:38:17Z
+    - 2017-04-12T06:39:36Z
+    - 2017-04-12T06:43:06Z
+    - 2017-04-12T06:43:21Z
+    - 2017-04-12T07:23:09Z
+  zonesRankPilot:
+  - - - '41'
+      - Peter Burkitt
+    - - '10'
+      - Craig Taylor
+    - - '42'
+      - Mikhail Karmazin
+    - - '27'
+      - Guy Williams
+    - - '20'
+      - Konrad Heilmann
+    - - '13'
+      - Matthew Barlow
+    - - '21'
+      - Frank Chetcuti
+    - - '31'
+      - Tomas Kellner
+    - - '18'
+      - Peter Adriaans
+    - - '34'
+      - dave moore
+    - - '3'
+      - Paul Allen
+    - - '28'
+      - John Harriot
+    - - '48'
+      - Derek Mckee
+    - - '40'
+      - Hossain Tefaili
+    - - '15'
+      - Andrew Sharpe
+    - - '23'
+      - Noel Collins
+    - - '38'
+      - Dave Stevens
+    - - '29'
+      - Guy Hubbard
+    - - '2'
+      - Tony Armstrong
+    - - '25'
+      - Hagen Bruggemann
+    - - '46'
+      - Harrison Rowntree
+    - - '51'
+      - Billy Miller-Macleod
+    - - '19'
+      - Scott Barrett
+    - - '22'
+      - Steve Blenkinsop
+    - - '1'
+      - Mark Alton
+    - - '26'
+      - Jason Kath
+    - - '9'
+      - Rohan Taylor
+    - - '44'
+      - Josh Woods
+    - - '33'
+      - Niki Longshore
+    - - '45'
+      - steve crosby
+    - - '4'
+      - Nick Purcell
+    - - '17'
+      - Trevor Purcell
+    - - '35'
+      - Anatoly Reyter
+    - - '39'
+      - rob degroot
+    - - '6'
+      - Viv Clements
+    - - '24'
+      - Brodrick Osborne
+    - - '37'
+      - John Spencer
+    - - '14'
+      - Tony Giammichele
+    - - '5'
+      - Jonny Durand
+    - - '12'
+      - Rory Duncan
+    - - '16'
+      - Andrew Barnes
+    - - '36'
+      - Brad Porter
+    - - '7'
+      - James Atkinson
+    - - '8'
+      - Rod Flockhart
+    - - '43'
+      - Simon West
+    - - '32'
+      - Rob Larkin
+  - - - '41'
+      - Peter Burkitt
+    - - '10'
+      - Craig Taylor
+    - - '42'
+      - Mikhail Karmazin
+    - - '20'
+      - Konrad Heilmann
+    - - '13'
+      - Matthew Barlow
+    - - '21'
+      - Frank Chetcuti
+    - - '26'
+      - Jason Kath
+    - - '46'
+      - Harrison Rowntree
+    - - '2'
+      - Tony Armstrong
+    - - '44'
+      - Josh Woods
+    - - '19'
+      - Scott Barrett
+    - - '22'
+      - Steve Blenkinsop
+    - - '33'
+      - Niki Longshore
+    - - '29'
+      - Guy Hubbard
+    - - '4'
+      - Nick Purcell
+    - - '39'
+      - rob degroot
+    - - '25'
+      - Hagen Bruggemann
+    - - '6'
+      - Viv Clements
+    - - '9'
+      - Rohan Taylor
+    - - '51'
+      - Billy Miller-Macleod
+    - - '48'
+      - Derek Mckee
+    - - '14'
+      - Tony Giammichele
+    - - '24'
+      - Brodrick Osborne
+    - - '17'
+      - Trevor Purcell
+    - - '38'
+      - Dave Stevens
+    - - '45'
+      - steve crosby
+    - - '37'
+      - John Spencer
+    - - '1'
+      - Mark Alton
+    - - '15'
+      - Andrew Sharpe
+    - - '23'
+      - Noel Collins
+    - - '40'
+      - Hossain Tefaili
+    - - '31'
+      - Tomas Kellner
+    - - '34'
+      - dave moore
+    - - '5'
+      - Jonny Durand
+    - - '36'
+      - Brad Porter
+    - - '8'
+      - Rod Flockhart
+    - - '12'
+      - Rory Duncan
+    - - '16'
+      - Andrew Barnes
+    - - '7'
+      - James Atkinson
+    - - '35'
+      - Anatoly Reyter
+    - - '18'
+      - Peter Adriaans
+    - - '3'
+      - Paul Allen
+    - - '43'
+      - Simon West
+    - - '32'
+      - Rob Larkin
+  - - - '20'
+      - Konrad Heilmann
+    - - '42'
+      - Mikhail Karmazin
+    - - '10'
+      - Craig Taylor
+    - - '41'
+      - Peter Burkitt
+    - - '22'
+      - Steve Blenkinsop
+    - - '4'
+      - Nick Purcell
+    - - '33'
+      - Niki Longshore
+    - - '29'
+      - Guy Hubbard
+    - - '13'
+      - Matthew Barlow
+    - - '39'
+      - rob degroot
+    - - '19'
+      - Scott Barrett
+    - - '44'
+      - Josh Woods
+    - - '2'
+      - Tony Armstrong
+    - - '26'
+      - Jason Kath
+    - - '46'
+      - Harrison Rowntree
+    - - '21'
+      - Frank Chetcuti
+    - - '1'
+      - Mark Alton
+    - - '9'
+      - Rohan Taylor
+    - - '25'
+      - Hagen Bruggemann
+    - - '51'
+      - Billy Miller-Macleod
+    - - '6'
+      - Viv Clements
+    - - '5'
+      - Jonny Durand
+    - - '45'
+      - steve crosby
+    - - '17'
+      - Trevor Purcell
+    - - '38'
+      - Dave Stevens
+    - - '36'
+      - Brad Porter
+    - - '8'
+      - Rod Flockhart
+    - - '12'
+      - Rory Duncan
+    - - '48'
+      - Derek Mckee
+    - - '16'
+      - Andrew Barnes
+    - - '7'
+      - James Atkinson
+    - - '37'
+      - John Spencer
+    - - '14'
+      - Tony Giammichele
+    - - '35'
+      - Anatoly Reyter
+    - - '24'
+      - Brodrick Osborne
+    - - '18'
+      - Peter Adriaans
+    - - '34'
+      - dave moore
+    - - '40'
+      - Hossain Tefaili
+    - - '43'
+      - Simon West
+    - - '32'
+      - Rob Larkin
+  - - - '41'
+      - Peter Burkitt
+    - - '10'
+      - Craig Taylor
+    - - '20'
+      - Konrad Heilmann
+    - - '42'
+      - Mikhail Karmazin
+    - - '4'
+      - Nick Purcell
+    - - '44'
+      - Josh Woods
+    - - '22'
+      - Steve Blenkinsop
+    - - '29'
+      - Guy Hubbard
+    - - '19'
+      - Scott Barrett
+    - - '13'
+      - Matthew Barlow
+    - - '2'
+      - Tony Armstrong
+    - - '33'
+      - Niki Longshore
+    - - '26'
+      - Jason Kath
+    - - '21'
+      - Frank Chetcuti
+    - - '51'
+      - Billy Miller-Macleod
+    - - '12'
+      - Rory Duncan
+    - - '39'
+      - rob degroot
+    - - '9'
+      - Rohan Taylor
+    - - '5'
+      - Jonny Durand
+    - - '46'
+      - Harrison Rowntree
+    - - '6'
+      - Viv Clements
+    - - '45'
+      - steve crosby
+    - - '17'
+      - Trevor Purcell
+    - - '25'
+      - Hagen Bruggemann
+    - - '36'
+      - Brad Porter
+    - - '16'
+      - Andrew Barnes
+    - - '37'
+      - John Spencer
+    - - '1'
+      - Mark Alton
+    - - '8'
+      - Rod Flockhart
+    - - '38'
+      - Dave Stevens
+    - - '48'
+      - Derek Mckee
+    - - '7'
+      - James Atkinson
+    - - '14'
+      - Tony Giammichele
+    - - '24'
+      - Brodrick Osborne
+    - - '18'
+      - Peter Adriaans
+    - - '34'
+      - dave moore
+    - - '35'
+      - Anatoly Reyter
+    - - '40'
+      - Hossain Tefaili
+    - - '43'
+      - Simon West
+  - - - '2'
+      - Tony Armstrong
+    - - '29'
+      - Guy Hubbard
+    - - '22'
+      - Steve Blenkinsop
+    - - '44'
+      - Josh Woods
+    - - '33'
+      - Niki Longshore
+    - - '4'
+      - Nick Purcell
+    - - '20'
+      - Konrad Heilmann
+    - - '42'
+      - Mikhail Karmazin
+    - - '10'
+      - Craig Taylor
+    - - '13'
+      - Matthew Barlow
+    - - '19'
+      - Scott Barrett
+    - - '26'
+      - Jason Kath
+    - - '39'
+      - rob degroot
+    - - '9'
+      - Rohan Taylor
+    - - '5'
+      - Jonny Durand
+    - - '12'
+      - Rory Duncan
+    - - '36'
+      - Brad Porter
+    - - '45'
+      - steve crosby
+    - - '46'
+      - Harrison Rowntree
+    - - '17'
+      - Trevor Purcell
+    - - '25'
+      - Hagen Bruggemann
+    - - '6'
+      - Viv Clements
+    - - '16'
+      - Andrew Barnes
+    - - '37'
+      - John Spencer
+    - - '38'
+      - Dave Stevens
+    - - '7'
+      - James Atkinson
+    - - '21'
+      - Frank Chetcuti
+    - - '8'
+      - Rod Flockhart
+    - - '14'
+      - Tony Giammichele
+    - - '18'
+      - Peter Adriaans
+    - - '35'
+      - Anatoly Reyter
+    - - '24'
+      - Brodrick Osborne
+    - - '34'
+      - dave moore
+  - - - '22'
+      - Steve Blenkinsop
+    - - '2'
+      - Tony Armstrong
+    - - '29'
+      - Guy Hubbard
+    - - '44'
+      - Josh Woods
+    - - '4'
+      - Nick Purcell
+    - - '20'
+      - Konrad Heilmann
+    - - '10'
+      - Craig Taylor
+    - - '33'
+      - Niki Longshore
+    - - '42'
+      - Mikhail Karmazin
+    - - '39'
+      - rob degroot
+    - - '46'
+      - Harrison Rowntree
+    - - '9'
+      - Rohan Taylor
+    - - '5'
+      - Jonny Durand
+    - - '45'
+      - steve crosby
+    - - '6'
+      - Viv Clements
+    - - '25'
+      - Hagen Bruggemann
+    - - '12'
+      - Rory Duncan
+    - - '26'
+      - Jason Kath
+    - - '16'
+      - Andrew Barnes
+    - - '38'
+      - Dave Stevens
+    - - '37'
+      - John Spencer
+    - - '8'
+      - Rod Flockhart
+    - - '21'
+      - Frank Chetcuti
+    - - '14'
+      - Tony Giammichele
+    - - '7'
+      - James Atkinson
+    - - '34'
+      - dave moore
+  lastLanding: 2017-04-12T07:45:35Z
+- zonesSum:
+  - 46
+  - 41
+  - 30
+  - 18
+  zonesFirst:
+  - 2017-04-13T03:00:09Z
+  - 2017-04-13T03:46:29Z
+  - 2017-04-13T04:23:18Z
+  - 2017-04-13T05:07:27Z
+  zonesLast:
+  - 2017-04-13T04:30:12Z
+  - 2017-04-13T05:50:13Z
+  - 2017-04-13T06:41:46Z
+  - 2017-04-13T07:07:19Z
+  zonesRankTime:
+  - - 2017-04-13T03:00:09Z
+    - 2017-04-13T03:00:10Z
+    - 2017-04-13T03:00:22Z
+    - 2017-04-13T03:00:24Z
+    - 2017-04-13T03:00:24Z
+    - 2017-04-13T03:00:27Z
+    - 2017-04-13T03:00:28Z
+    - 2017-04-13T03:00:29Z
+    - 2017-04-13T03:00:29Z
+    - 2017-04-13T03:00:33Z
+    - 2017-04-13T03:00:34Z
+    - 2017-04-13T03:00:35Z
+    - 2017-04-13T03:00:35Z
+    - 2017-04-13T03:00:35Z
+    - 2017-04-13T03:00:37Z
+    - 2017-04-13T03:00:38Z
+    - 2017-04-13T03:00:38Z
+    - 2017-04-13T03:00:42Z
+    - 2017-04-13T03:00:45Z
+    - 2017-04-13T03:00:52Z
+    - 2017-04-13T03:00:52Z
+    - 2017-04-13T03:00:53Z
+    - 2017-04-13T03:00:53Z
+    - 2017-04-13T03:00:56Z
+    - 2017-04-13T03:01:00Z
+    - 2017-04-13T03:01:03Z
+    - 2017-04-13T03:01:03Z
+    - 2017-04-13T03:01:03Z
+    - 2017-04-13T03:01:05Z
+    - 2017-04-13T03:01:07Z
+    - 2017-04-13T03:01:07Z
+    - 2017-04-13T03:01:14Z
+    - 2017-04-13T03:01:25Z
+    - 2017-04-13T03:01:38Z
+    - 2017-04-13T03:05:21Z
+    - 2017-04-13T03:05:34Z
+    - 2017-04-13T03:06:10Z
+    - 2017-04-13T03:20:31Z
+    - 2017-04-13T03:20:47Z
+    - 2017-04-13T03:21:44Z
+    - 2017-04-13T03:23:07Z
+    - 2017-04-13T03:33:59Z
+    - 2017-04-13T03:34:07Z
+    - 2017-04-13T03:45:45Z
+    - 2017-04-13T03:53:13Z
+    - 2017-04-13T04:30:12Z
+  - - 2017-04-13T03:46:29Z
+    - 2017-04-13T03:51:33Z
+    - 2017-04-13T03:51:37Z
+    - 2017-04-13T03:52:14Z
+    - 2017-04-13T03:52:43Z
+    - 2017-04-13T03:52:46Z
+    - 2017-04-13T03:52:51Z
+    - 2017-04-13T03:53:31Z
+    - 2017-04-13T03:53:41Z
+    - 2017-04-13T03:53:43Z
+    - 2017-04-13T03:54:17Z
+    - 2017-04-13T03:55:22Z
+    - 2017-04-13T03:56:59Z
+    - 2017-04-13T03:58:39Z
+    - 2017-04-13T04:02:21Z
+    - 2017-04-13T04:02:31Z
+    - 2017-04-13T04:03:23Z
+    - 2017-04-13T04:03:56Z
+    - 2017-04-13T04:04:56Z
+    - 2017-04-13T04:06:40Z
+    - 2017-04-13T04:09:59Z
+    - 2017-04-13T04:12:48Z
+    - 2017-04-13T04:12:53Z
+    - 2017-04-13T04:13:03Z
+    - 2017-04-13T04:13:16Z
+    - 2017-04-13T04:13:54Z
+    - 2017-04-13T04:14:34Z
+    - 2017-04-13T04:16:16Z
+    - 2017-04-13T04:17:01Z
+    - 2017-04-13T04:19:42Z
+    - 2017-04-13T04:20:44Z
+    - 2017-04-13T04:22:54Z
+    - 2017-04-13T04:27:07Z
+    - 2017-04-13T04:47:35Z
+    - 2017-04-13T04:48:14Z
+    - 2017-04-13T04:48:46Z
+    - 2017-04-13T04:51:05Z
+    - 2017-04-13T04:54:57Z
+    - 2017-04-13T04:57:07Z
+    - 2017-04-13T05:11:00Z
+    - 2017-04-13T05:50:13Z
+  - - 2017-04-13T04:23:18Z
+    - 2017-04-13T04:23:37Z
+    - 2017-04-13T04:23:39Z
+    - 2017-04-13T04:23:55Z
+    - 2017-04-13T04:24:22Z
+    - 2017-04-13T04:25:06Z
+    - 2017-04-13T04:26:23Z
+    - 2017-04-13T04:26:55Z
+    - 2017-04-13T04:38:45Z
+    - 2017-04-13T04:39:31Z
+    - 2017-04-13T04:39:37Z
+    - 2017-04-13T04:39:43Z
+    - 2017-04-13T04:46:12Z
+    - 2017-04-13T04:50:06Z
+    - 2017-04-13T04:52:36Z
+    - 2017-04-13T04:54:35Z
+    - 2017-04-13T04:57:25Z
+    - 2017-04-13T04:58:17Z
+    - 2017-04-13T05:03:48Z
+    - 2017-04-13T05:05:48Z
+    - 2017-04-13T05:07:05Z
+    - 2017-04-13T05:08:06Z
+    - 2017-04-13T05:08:16Z
+    - 2017-04-13T05:09:29Z
+    - 2017-04-13T05:19:31Z
+    - 2017-04-13T05:22:20Z
+    - 2017-04-13T05:29:11Z
+    - 2017-04-13T05:37:50Z
+    - 2017-04-13T05:44:59Z
+    - 2017-04-13T06:41:46Z
+  - - 2017-04-13T05:07:27Z
+    - 2017-04-13T05:14:16Z
+    - 2017-04-13T05:14:25Z
+    - 2017-04-13T05:14:51Z
+    - 2017-04-13T05:15:01Z
+    - 2017-04-13T05:15:36Z
+    - 2017-04-13T05:28:23Z
+    - 2017-04-13T05:28:27Z
+    - 2017-04-13T05:34:45Z
+    - 2017-04-13T05:35:30Z
+    - 2017-04-13T05:38:32Z
+    - 2017-04-13T06:28:39Z
+    - 2017-04-13T06:34:12Z
+    - 2017-04-13T06:47:15Z
+    - 2017-04-13T06:49:27Z
+    - 2017-04-13T06:58:10Z
+    - 2017-04-13T06:58:23Z
+    - 2017-04-13T07:07:19Z
+  zonesRankPilot:
+  - - - '34'
+      - dave moore
+    - - '42'
+      - Mikhail Karmazin
+    - - '10'
+      - Craig Taylor
+    - - '29'
+      - Guy Hubbard
+    - - '26'
+      - Jason Kath
+    - - '44'
+      - Josh Woods
+    - - '41'
+      - Peter Burkitt
+    - - '51'
+      - Billy Miller-Macleod
+    - - '33'
+      - Niki Longshore
+    - - '22'
+      - Steve Blenkinsop
+    - - '46'
+      - Harrison Rowntree
+    - - '36'
+      - Brad Porter
+    - - '9'
+      - Rohan Taylor
+    - - '19'
+      - Scott Barrett
+    - - '13'
+      - Matthew Barlow
+    - - '4'
+      - Nick Purcell
+    - - '45'
+      - steve crosby
+    - - '8'
+      - Rod Flockhart
+    - - '38'
+      - Dave Stevens
+    - - '16'
+      - Andrew Barnes
+    - - '7'
+      - James Atkinson
+    - - '37'
+      - John Spencer
+    - - '20'
+      - Konrad Heilmann
+    - - '2'
+      - Tony Armstrong
+    - - '21'
+      - Frank Chetcuti
+    - - '25'
+      - Hagen Bruggemann
+    - - '12'
+      - Rory Duncan
+    - - '17'
+      - Trevor Purcell
+    - - '48'
+      - Derek Mckee
+    - - '24'
+      - Brodrick Osborne
+    - - '18'
+      - Peter Adriaans
+    - - '14'
+      - Tony Giammichele
+    - - '6'
+      - Viv Clements
+    - - '23'
+      - Noel Collins
+    - - '28'
+      - John Harriot
+    - - '27'
+      - Guy Williams
+    - - '32'
+      - Rob Larkin
+    - - '35'
+      - Anatoly Reyter
+    - - '5'
+      - Jonny Durand
+    - - '15'
+      - Andrew Sharpe
+    - - '39'
+      - rob degroot
+    - - '43'
+      - Simon West
+    - - '40'
+      - Hossain Tefaili
+    - - '31'
+      - Tomas Kellner
+    - - '3'
+      - Paul Allen
+    - - '1'
+      - Mark Alton
+  - - - '19'
+      - Scott Barrett
+    - - '44'
+      - Josh Woods
+    - - '29'
+      - Guy Hubbard
+    - - '10'
+      - Craig Taylor
+    - - '2'
+      - Tony Armstrong
+    - - '12'
+      - Rory Duncan
+    - - '26'
+      - Jason Kath
+    - - '33'
+      - Niki Longshore
+    - - '8'
+      - Rod Flockhart
+    - - '22'
+      - Steve Blenkinsop
+    - - '46'
+      - Harrison Rowntree
+    - - '4'
+      - Nick Purcell
+    - - '16'
+      - Andrew Barnes
+    - - '9'
+      - Rohan Taylor
+    - - '14'
+      - Tony Giammichele
+    - - '17'
+      - Trevor Purcell
+    - - '13'
+      - Matthew Barlow
+    - - '45'
+      - steve crosby
+    - - '41'
+      - Peter Burkitt
+    - - '7'
+      - James Atkinson
+    - - '5'
+      - Jonny Durand
+    - - '36'
+      - Brad Porter
+    - - '23'
+      - Noel Collins
+    - - '42'
+      - Mikhail Karmazin
+    - - '25'
+      - Hagen Bruggemann
+    - - '21'
+      - Frank Chetcuti
+    - - '51'
+      - Billy Miller-Macleod
+    - - '6'
+      - Viv Clements
+    - - '18'
+      - Peter Adriaans
+    - - '37'
+      - John Spencer
+    - - '32'
+      - Rob Larkin
+    - - '38'
+      - Dave Stevens
+    - - '48'
+      - Derek Mckee
+    - - '39'
+      - rob degroot
+    - - '43'
+      - Simon West
+    - - '34'
+      - dave moore
+    - - '35'
+      - Anatoly Reyter
+    - - '27'
+      - Guy Williams
+    - - '40'
+      - Hossain Tefaili
+    - - '31'
+      - Tomas Kellner
+    - - '1'
+      - Mark Alton
+  - - - '22'
+      - Steve Blenkinsop
+    - - '26'
+      - Jason Kath
+    - - '19'
+      - Scott Barrett
+    - - '2'
+      - Tony Armstrong
+    - - '12'
+      - Rory Duncan
+    - - '10'
+      - Craig Taylor
+    - - '29'
+      - Guy Hubbard
+    - - '44'
+      - Josh Woods
+    - - '46'
+      - Harrison Rowntree
+    - - '5'
+      - Jonny Durand
+    - - '4'
+      - Nick Purcell
+    - - '33'
+      - Niki Longshore
+    - - '17'
+      - Trevor Purcell
+    - - '37'
+      - John Spencer
+    - - '21'
+      - Frank Chetcuti
+    - - '42'
+      - Mikhail Karmazin
+    - - '23'
+      - Noel Collins
+    - - '6'
+      - Viv Clements
+    - - '18'
+      - Peter Adriaans
+    - - '13'
+      - Matthew Barlow
+    - - '48'
+      - Derek Mckee
+    - - '36'
+      - Brad Porter
+    - - '51'
+      - Billy Miller-Macleod
+    - - '38'
+      - Dave Stevens
+    - - '25'
+      - Hagen Bruggemann
+    - - '39'
+      - rob degroot
+    - - '43'
+      - Simon West
+    - - '35'
+      - Anatoly Reyter
+    - - '27'
+      - Guy Williams
+    - - '1'
+      - Mark Alton
+  - - - '19'
+      - Scott Barrett
+    - - '2'
+      - Tony Armstrong
+    - - '22'
+      - Steve Blenkinsop
+    - - '12'
+      - Rory Duncan
+    - - '29'
+      - Guy Hubbard
+    - - '44'
+      - Josh Woods
+    - - '26'
+      - Jason Kath
+    - - '10'
+      - Craig Taylor
+    - - '5'
+      - Jonny Durand
+    - - '46'
+      - Harrison Rowntree
+    - - '4'
+      - Nick Purcell
+    - - '21'
+      - Frank Chetcuti
+    - - '6'
+      - Viv Clements
+    - - '42'
+      - Mikhail Karmazin
+    - - '18'
+      - Peter Adriaans
+    - - '51'
+      - Billy Miller-Macleod
+    - - '23'
+      - Noel Collins
+    - - '35'
+      - Anatoly Reyter
+  lastLanding: 2017-04-13T07:10:48Z
+- zonesSum:
+  - 45
+  - 37
+  - 28
+  - 15
+  zonesFirst:
+  - 2017-04-14T03:00:22Z
+  - 2017-04-14T04:01:24Z
+  - 2017-04-14T05:03:47Z
+  - 2017-04-14T05:50:08Z
+  zonesLast:
+  - 2017-04-14T06:03:42Z
+  - 2017-04-14T04:44:16Z
+  - 2017-04-14T06:02:00Z
+  - 2017-04-14T06:38:14Z
+  zonesRankTime:
+  - - 2017-04-14T03:00:22Z
+    - 2017-04-14T03:00:29Z
+    - 2017-04-14T03:00:54Z
+    - 2017-04-14T03:01:05Z
+    - 2017-04-14T03:01:32Z
+    - 2017-04-14T03:01:32Z
+    - 2017-04-14T03:01:48Z
+    - 2017-04-14T03:01:51Z
+    - 2017-04-14T03:01:52Z
+    - 2017-04-14T03:01:53Z
+    - 2017-04-14T03:02:36Z
+    - 2017-04-14T03:02:42Z
+    - 2017-04-14T03:03:02Z
+    - 2017-04-14T03:03:22Z
+    - 2017-04-14T03:03:33Z
+    - 2017-04-14T03:03:41Z
+    - 2017-04-14T03:03:50Z
+    - 2017-04-14T03:04:13Z
+    - 2017-04-14T03:04:19Z
+    - 2017-04-14T03:05:28Z
+    - 2017-04-14T03:05:39Z
+    - 2017-04-14T03:05:42Z
+    - 2017-04-14T03:06:00Z
+    - 2017-04-14T03:06:01Z
+    - 2017-04-14T03:06:10Z
+    - 2017-04-14T03:06:18Z
+    - 2017-04-14T03:06:54Z
+    - 2017-04-14T03:09:53Z
+    - 2017-04-14T03:10:26Z
+    - 2017-04-14T03:20:17Z
+    - 2017-04-14T03:20:25Z
+    - 2017-04-14T03:20:39Z
+    - 2017-04-14T03:20:43Z
+    - 2017-04-14T03:20:45Z
+    - 2017-04-14T03:20:52Z
+    - 2017-04-14T03:20:54Z
+    - 2017-04-14T03:21:13Z
+    - 2017-04-14T03:21:36Z
+    - 2017-04-14T03:22:13Z
+    - 2017-04-14T03:22:17Z
+    - 2017-04-14T03:30:05Z
+    - 2017-04-14T03:39:23Z
+    - 2017-04-14T03:39:52Z
+    - 2017-04-14T03:42:44Z
+    - 2017-04-14T06:03:42Z
+  - - 2017-04-14T04:01:24Z
+    - 2017-04-14T04:01:50Z
+    - 2017-04-14T04:01:57Z
+    - 2017-04-14T04:02:01Z
+    - 2017-04-14T04:03:08Z
+    - 2017-04-14T04:03:10Z
+    - 2017-04-14T04:03:30Z
+    - 2017-04-14T04:03:39Z
+    - 2017-04-14T04:04:21Z
+    - 2017-04-14T04:04:41Z
+    - 2017-04-14T04:04:46Z
+    - 2017-04-14T04:10:24Z
+    - 2017-04-14T04:10:26Z
+    - 2017-04-14T04:10:27Z
+    - 2017-04-14T04:10:45Z
+    - 2017-04-14T04:13:48Z
+    - 2017-04-14T04:14:10Z
+    - 2017-04-14T04:14:46Z
+    - 2017-04-14T04:15:09Z
+    - 2017-04-14T04:15:56Z
+    - 2017-04-14T04:16:47Z
+    - 2017-04-14T04:17:12Z
+    - 2017-04-14T04:17:56Z
+    - 2017-04-14T04:19:30Z
+    - 2017-04-14T04:20:43Z
+    - 2017-04-14T04:21:09Z
+    - 2017-04-14T04:21:47Z
+    - 2017-04-14T04:21:56Z
+    - 2017-04-14T04:23:59Z
+    - 2017-04-14T04:25:27Z
+    - 2017-04-14T04:26:21Z
+    - 2017-04-14T04:29:01Z
+    - 2017-04-14T04:29:41Z
+    - 2017-04-14T04:33:43Z
+    - 2017-04-14T04:40:52Z
+    - 2017-04-14T04:43:07Z
+    - 2017-04-14T04:44:16Z
+  - - 2017-04-14T05:03:47Z
+    - 2017-04-14T05:05:15Z
+    - 2017-04-14T05:06:19Z
+    - 2017-04-14T05:06:21Z
+    - 2017-04-14T05:07:05Z
+    - 2017-04-14T05:07:09Z
+    - 2017-04-14T05:07:15Z
+    - 2017-04-14T05:12:41Z
+    - 2017-04-14T05:12:51Z
+    - 2017-04-14T05:18:17Z
+    - 2017-04-14T05:18:56Z
+    - 2017-04-14T05:19:37Z
+    - 2017-04-14T05:19:39Z
+    - 2017-04-14T05:20:56Z
+    - 2017-04-14T05:21:29Z
+    - 2017-04-14T05:30:29Z
+    - 2017-04-14T05:30:43Z
+    - 2017-04-14T05:30:56Z
+    - 2017-04-14T05:33:40Z
+    - 2017-04-14T05:39:21Z
+    - 2017-04-14T05:40:47Z
+    - 2017-04-14T05:41:25Z
+    - 2017-04-14T05:52:49Z
+    - 2017-04-14T05:57:32Z
+    - 2017-04-14T05:58:31Z
+    - 2017-04-14T06:01:33Z
+    - 2017-04-14T06:01:52Z
+    - 2017-04-14T06:02:00Z
+  - - 2017-04-14T05:50:08Z
+    - 2017-04-14T05:51:14Z
+    - 2017-04-14T05:53:21Z
+    - 2017-04-14T05:56:28Z
+    - 2017-04-14T05:56:51Z
+    - 2017-04-14T05:59:38Z
+    - 2017-04-14T06:01:13Z
+    - 2017-04-14T06:01:14Z
+    - 2017-04-14T06:01:18Z
+    - 2017-04-14T06:02:24Z
+    - 2017-04-14T06:03:06Z
+    - 2017-04-14T06:13:59Z
+    - 2017-04-14T06:32:26Z
+    - 2017-04-14T06:34:24Z
+    - 2017-04-14T06:38:14Z
+  zonesRankPilot:
+  - - - '44'
+      - Josh Woods
+    - - '2'
+      - Tony Armstrong
+    - - '22'
+      - Steve Blenkinsop
+    - - '39'
+      - rob degroot
+    - - '20'
+      - Konrad Heilmann
+    - - '12'
+      - Rory Duncan
+    - - '13'
+      - Matthew Barlow
+    - - '46'
+      - Harrison Rowntree
+    - - '45'
+      - steve crosby
+    - - '33'
+      - Niki Longshore
+    - - '8'
+      - Rod Flockhart
+    - - '51'
+      - Billy Miller-Macleod
+    - - '7'
+      - James Atkinson
+    - - '29'
+      - Guy Hubbard
+    - - '16'
+      - Andrew Barnes
+    - - '4'
+      - Nick Purcell
+    - - '32'
+      - Rob Larkin
+    - - '1'
+      - Mark Alton
+    - - '19'
+      - Scott Barrett
+    - - '21'
+      - Frank Chetcuti
+    - - '25'
+      - Hagen Bruggemann
+    - - '38'
+      - Dave Stevens
+    - - '24'
+      - Brodrick Osborne
+    - - '42'
+      - Mikhail Karmazin
+    - - '37'
+      - John Spencer
+    - - '43'
+      - Simon West
+    - - '27'
+      - Guy Williams
+    - - '15'
+      - Andrew Sharpe
+    - - '35'
+      - Anatoly Reyter
+    - - '18'
+      - Peter Adriaans
+    - - '10'
+      - Craig Taylor
+    - - '23'
+      - Noel Collins
+    - - '14'
+      - Tony Giammichele
+    - - '26'
+      - Jason Kath
+    - - '36'
+      - Brad Porter
+    - - '5'
+      - Jonny Durand
+    - - '17'
+      - Trevor Purcell
+    - - '6'
+      - Viv Clements
+    - - '41'
+      - Peter Burkitt
+    - - '34'
+      - dave moore
+    - - '31'
+      - Tomas Kellner
+    - - '40'
+      - Hossain Tefaili
+    - - '48'
+      - Derek Mckee
+    - - '28'
+      - John Harriot
+    - - '9'
+      - Rohan Taylor
+  - - - '29'
+      - Guy Hubbard
+    - - '12'
+      - Rory Duncan
+    - - '39'
+      - rob degroot
+    - - '46'
+      - Harrison Rowntree
+    - - '2'
+      - Tony Armstrong
+    - - '33'
+      - Niki Longshore
+    - - '8'
+      - Rod Flockhart
+    - - '4'
+      - Nick Purcell
+    - - '16'
+      - Andrew Barnes
+    - - '44'
+      - Josh Woods
+    - - '22'
+      - Steve Blenkinsop
+    - - '26'
+      - Jason Kath
+    - - '20'
+      - Konrad Heilmann
+    - - '5'
+      - Jonny Durand
+    - - '51'
+      - Billy Miller-Macleod
+    - - '43'
+      - Simon West
+    - - '19'
+      - Scott Barrett
+    - - '25'
+      - Hagen Bruggemann
+    - - '24'
+      - Brodrick Osborne
+    - - '37'
+      - John Spencer
+    - - '38'
+      - Dave Stevens
+    - - '21'
+      - Frank Chetcuti
+    - - '42'
+      - Mikhail Karmazin
+    - - '13'
+      - Matthew Barlow
+    - - '14'
+      - Tony Giammichele
+    - - '10'
+      - Craig Taylor
+    - - '17'
+      - Trevor Purcell
+    - - '6'
+      - Viv Clements
+    - - '23'
+      - Noel Collins
+    - - '36'
+      - Brad Porter
+    - - '1'
+      - Mark Alton
+    - - '32'
+      - Rob Larkin
+    - - '45'
+      - steve crosby
+    - - '7'
+      - James Atkinson
+    - - '41'
+      - Peter Burkitt
+    - - '18'
+      - Peter Adriaans
+    - - '35'
+      - Anatoly Reyter
+  - - - '33'
+      - Niki Longshore
+    - - '2'
+      - Tony Armstrong
+    - - '29'
+      - Guy Hubbard
+    - - '22'
+      - Steve Blenkinsop
+    - - '4'
+      - Nick Purcell
+    - - '39'
+      - rob degroot
+    - - '12'
+      - Rory Duncan
+    - - '5'
+      - Jonny Durand
+    - - '20'
+      - Konrad Heilmann
+    - - '46'
+      - Harrison Rowntree
+    - - '44'
+      - Josh Woods
+    - - '26'
+      - Jason Kath
+    - - '19'
+      - Scott Barrett
+    - - '8'
+      - Rod Flockhart
+    - - '51'
+      - Billy Miller-Macleod
+    - - '13'
+      - Matthew Barlow
+    - - '42'
+      - Mikhail Karmazin
+    - - '25'
+      - Hagen Bruggemann
+    - - '16'
+      - Andrew Barnes
+    - - '37'
+      - John Spencer
+    - - '38'
+      - Dave Stevens
+    - - '10'
+      - Craig Taylor
+    - - '45'
+      - steve crosby
+    - - '6'
+      - Viv Clements
+    - - '18'
+      - Peter Adriaans
+    - - '36'
+      - Brad Porter
+    - - '7'
+      - James Atkinson
+    - - '24'
+      - Brodrick Osborne
+  - - - '2'
+      - Tony Armstrong
+    - - '22'
+      - Steve Blenkinsop
+    - - '29'
+      - Guy Hubbard
+    - - '5'
+      - Jonny Durand
+    - - '12'
+      - Rory Duncan
+    - - '46'
+      - Harrison Rowntree
+    - - '20'
+      - Konrad Heilmann
+    - - '44'
+      - Josh Woods
+    - - '26'
+      - Jason Kath
+    - - '4'
+      - Nick Purcell
+    - - '33'
+      - Niki Longshore
+    - - '19'
+      - Scott Barrett
+    - - '13'
+      - Matthew Barlow
+    - - '25'
+      - Hagen Bruggemann
+    - - '8'
+      - Rod Flockhart
+  lastLanding: 2017-04-14T07:12:10Z
+- zonesSum:
+  - 45
+  - 44
+  - 38
+  - 29
+  - 28
+  zonesFirst:
+  - 2017-04-15T02:59:21Z
+  - 2017-04-15T03:13:58Z
+  - 2017-04-15T04:00:14Z
+  - 2017-04-15T04:31:08Z
+  - 2017-04-15T04:52:38Z
+  zonesLast:
+  - 2017-04-15T03:54:10Z
+  - 2017-04-15T04:20:42Z
+  - 2017-04-15T05:51:01Z
+  - 2017-04-15T06:30:23Z
+  - 2017-04-15T05:59:44Z
+  zonesRankTime:
+  - - 2017-04-15T02:59:21Z
+    - 2017-04-15T03:00:01Z
+    - 2017-04-15T03:00:05Z
+    - 2017-04-15T03:00:11Z
+    - 2017-04-15T03:00:12Z
+    - 2017-04-15T03:00:15Z
+    - 2017-04-15T03:00:23Z
+    - 2017-04-15T03:00:29Z
+    - 2017-04-15T03:00:31Z
+    - 2017-04-15T03:00:33Z
+    - 2017-04-15T03:00:36Z
+    - 2017-04-15T03:00:37Z
+    - 2017-04-15T03:00:37Z
+    - 2017-04-15T03:00:38Z
+    - 2017-04-15T03:00:40Z
+    - 2017-04-15T03:00:42Z
+    - 2017-04-15T03:00:50Z
+    - 2017-04-15T03:00:50Z
+    - 2017-04-15T03:00:52Z
+    - 2017-04-15T03:00:55Z
+    - 2017-04-15T03:00:57Z
+    - 2017-04-15T03:01:03Z
+    - 2017-04-15T03:01:04Z
+    - 2017-04-15T03:01:12Z
+    - 2017-04-15T03:01:22Z
+    - 2017-04-15T03:01:28Z
+    - 2017-04-15T03:03:23Z
+    - 2017-04-15T03:04:02Z
+    - 2017-04-15T03:04:21Z
+    - 2017-04-15T03:04:52Z
+    - 2017-04-15T03:08:33Z
+    - 2017-04-15T03:19:21Z
+    - 2017-04-15T03:20:29Z
+    - 2017-04-15T03:21:08Z
+    - 2017-04-15T03:22:14Z
+    - 2017-04-15T03:22:30Z
+    - 2017-04-15T03:22:37Z
+    - 2017-04-15T03:22:51Z
+    - 2017-04-15T03:23:42Z
+    - 2017-04-15T03:25:05Z
+    - 2017-04-15T03:28:33Z
+    - 2017-04-15T03:30:13Z
+    - 2017-04-15T03:33:29Z
+    - 2017-04-15T03:44:03Z
+    - 2017-04-15T03:54:10Z
+  - - 2017-04-15T03:13:58Z
+    - 2017-04-15T03:15:51Z
+    - 2017-04-15T03:18:36Z
+    - 2017-04-15T03:18:48Z
+    - 2017-04-15T03:18:50Z
+    - 2017-04-15T03:19:05Z
+    - 2017-04-15T03:19:14Z
+    - 2017-04-15T03:19:16Z
+    - 2017-04-15T03:19:43Z
+    - 2017-04-15T03:19:51Z
+    - 2017-04-15T03:21:34Z
+    - 2017-04-15T03:21:39Z
+    - 2017-04-15T03:23:16Z
+    - 2017-04-15T03:23:22Z
+    - 2017-04-15T03:23:23Z
+    - 2017-04-15T03:23:45Z
+    - 2017-04-15T03:24:04Z
+    - 2017-04-15T03:24:11Z
+    - 2017-04-15T03:24:36Z
+    - 2017-04-15T03:24:48Z
+    - 2017-04-15T03:24:57Z
+    - 2017-04-15T03:25:04Z
+    - 2017-04-15T03:25:24Z
+    - 2017-04-15T03:26:42Z
+    - 2017-04-15T03:26:52Z
+    - 2017-04-15T03:27:27Z
+    - 2017-04-15T03:27:31Z
+    - 2017-04-15T03:28:35Z
+    - 2017-04-15T03:28:56Z
+    - 2017-04-15T03:29:10Z
+    - 2017-04-15T03:29:57Z
+    - 2017-04-15T03:45:21Z
+    - 2017-04-15T03:46:42Z
+    - 2017-04-15T03:54:14Z
+    - 2017-04-15T03:55:02Z
+    - 2017-04-15T03:59:27Z
+    - 2017-04-15T04:09:04Z
+    - 2017-04-15T04:10:40Z
+    - 2017-04-15T04:11:53Z
+    - 2017-04-15T04:12:15Z
+    - 2017-04-15T04:18:51Z
+    - 2017-04-15T04:18:52Z
+    - 2017-04-15T04:19:40Z
+    - 2017-04-15T04:20:42Z
+  - - 2017-04-15T04:00:14Z
+    - 2017-04-15T04:00:50Z
+    - 2017-04-15T04:01:04Z
+    - 2017-04-15T04:01:45Z
+    - 2017-04-15T04:04:15Z
+    - 2017-04-15T04:04:34Z
+    - 2017-04-15T04:04:41Z
+    - 2017-04-15T04:06:26Z
+    - 2017-04-15T04:07:14Z
+    - 2017-04-15T04:09:23Z
+    - 2017-04-15T04:19:28Z
+    - 2017-04-15T04:21:04Z
+    - 2017-04-15T04:21:26Z
+    - 2017-04-15T04:22:34Z
+    - 2017-04-15T04:22:36Z
+    - 2017-04-15T04:23:11Z
+    - 2017-04-15T04:24:35Z
+    - 2017-04-15T04:24:40Z
+    - 2017-04-15T04:26:13Z
+    - 2017-04-15T04:26:30Z
+    - 2017-04-15T04:26:53Z
+    - 2017-04-15T04:27:02Z
+    - 2017-04-15T04:27:47Z
+    - 2017-04-15T04:28:11Z
+    - 2017-04-15T04:28:20Z
+    - 2017-04-15T04:30:49Z
+    - 2017-04-15T04:31:36Z
+    - 2017-04-15T04:32:15Z
+    - 2017-04-15T04:36:48Z
+    - 2017-04-15T04:49:32Z
+    - 2017-04-15T04:57:26Z
+    - 2017-04-15T05:02:17Z
+    - 2017-04-15T05:08:54Z
+    - 2017-04-15T05:24:47Z
+    - 2017-04-15T05:28:45Z
+    - 2017-04-15T05:42:16Z
+    - 2017-04-15T05:44:30Z
+    - 2017-04-15T05:51:01Z
+  - - 2017-04-15T04:31:08Z
+    - 2017-04-15T04:37:51Z
+    - 2017-04-15T04:38:15Z
+    - 2017-04-15T04:39:17Z
+    - 2017-04-15T04:39:31Z
+    - 2017-04-15T04:40:52Z
+    - 2017-04-15T04:41:04Z
+    - 2017-04-15T04:45:08Z
+    - 2017-04-15T04:46:33Z
+    - 2017-04-15T04:47:13Z
+    - 2017-04-15T04:47:17Z
+    - 2017-04-15T04:47:24Z
+    - 2017-04-15T04:48:30Z
+    - 2017-04-15T04:48:44Z
+    - 2017-04-15T04:49:00Z
+    - 2017-04-15T04:49:53Z
+    - 2017-04-15T04:49:54Z
+    - 2017-04-15T04:50:32Z
+    - 2017-04-15T04:51:21Z
+    - 2017-04-15T04:53:01Z
+    - 2017-04-15T04:53:21Z
+    - 2017-04-15T04:54:17Z
+    - 2017-04-15T04:54:28Z
+    - 2017-04-15T04:58:49Z
+    - 2017-04-15T05:00:00Z
+    - 2017-04-15T05:10:51Z
+    - 2017-04-15T05:23:18Z
+    - 2017-04-15T05:36:23Z
+    - 2017-04-15T06:30:23Z
+  - - 2017-04-15T04:52:38Z
+    - 2017-04-15T04:57:33Z
+    - 2017-04-15T04:57:35Z
+    - 2017-04-15T05:00:32Z
+    - 2017-04-15T05:00:37Z
+    - 2017-04-15T05:01:55Z
+    - 2017-04-15T05:03:22Z
+    - 2017-04-15T05:05:53Z
+    - 2017-04-15T05:06:09Z
+    - 2017-04-15T05:06:57Z
+    - 2017-04-15T05:07:38Z
+    - 2017-04-15T05:08:17Z
+    - 2017-04-15T05:08:26Z
+    - 2017-04-15T05:08:36Z
+    - 2017-04-15T05:08:59Z
+    - 2017-04-15T05:09:51Z
+    - 2017-04-15T05:10:03Z
+    - 2017-04-15T05:10:25Z
+    - 2017-04-15T05:11:08Z
+    - 2017-04-15T05:14:36Z
+    - 2017-04-15T05:16:14Z
+    - 2017-04-15T05:17:26Z
+    - 2017-04-15T05:18:17Z
+    - 2017-04-15T05:22:12Z
+    - 2017-04-15T05:37:06Z
+    - 2017-04-15T05:42:42Z
+    - 2017-04-15T05:51:53Z
+    - 2017-04-15T05:59:44Z
+  zonesRankPilot:
+  - - - '35'
+      - Anatoly Reyter
+    - - '8'
+      - Rod Flockhart
+    - - '2'
+      - Tony Armstrong
+    - - '5'
+      - Jonny Durand
+    - - '19'
+      - Scott Barrett
+    - - '29'
+      - Guy Hubbard
+    - - '25'
+      - Hagen Bruggemann
+    - - '26'
+      - Jason Kath
+    - - '39'
+      - rob degroot
+    - - '17'
+      - Trevor Purcell
+    - - '37'
+      - John Spencer
+    - - '10'
+      - Craig Taylor
+    - - '44'
+      - Josh Woods
+    - - '36'
+      - Brad Porter
+    - - '12'
+      - Rory Duncan
+    - - '38'
+      - Dave Stevens
+    - - '23'
+      - Noel Collins
+    - - '14'
+      - Tony Giammichele
+    - - '21'
+      - Frank Chetcuti
+    - - '24'
+      - Brodrick Osborne
+    - - '16'
+      - Andrew Barnes
+    - - '46'
+      - Harrison Rowntree
+    - - '42'
+      - Mikhail Karmazin
+    - - '45'
+      - steve crosby
+    - - '41'
+      - Peter Burkitt
+    - - '6'
+      - Viv Clements
+    - - '33'
+      - Niki Longshore
+    - - '20'
+      - Konrad Heilmann
+    - - '9'
+      - Rohan Taylor
+    - - '51'
+      - Billy Miller-Macleod
+    - - '4'
+      - Nick Purcell
+    - - '15'
+      - Andrew Sharpe
+    - - '18'
+      - Peter Adriaans
+    - - '7'
+      - James Atkinson
+    - - '22'
+      - Steve Blenkinsop
+    - - '43'
+      - Simon West
+    - - '48'
+      - Derek Mckee
+    - - '1'
+      - Mark Alton
+    - - '34'
+      - dave moore
+    - - '27'
+      - Guy Williams
+    - - '40'
+      - Hossain Tefaili
+    - - '28'
+      - John Harriot
+    - - '31'
+      - Tomas Kellner
+    - - '32'
+      - Rob Larkin
+    - - '13'
+      - Matthew Barlow
+  - - - '5'
+      - Jonny Durand
+    - - '29'
+      - Guy Hubbard
+    - - '46'
+      - Harrison Rowntree
+    - - '19'
+      - Scott Barrett
+    - - '36'
+      - Brad Porter
+    - - '12'
+      - Rory Duncan
+    - - '44'
+      - Josh Woods
+    - - '8'
+      - Rod Flockhart
+    - - '26'
+      - Jason Kath
+    - - '2'
+      - Tony Armstrong
+    - - '20'
+      - Konrad Heilmann
+    - - '24'
+      - Brodrick Osborne
+    - - '39'
+      - rob degroot
+    - - '45'
+      - steve crosby
+    - - '17'
+      - Trevor Purcell
+    - - '16'
+      - Andrew Barnes
+    - - '25'
+      - Hagen Bruggemann
+    - - '6'
+      - Viv Clements
+    - - '10'
+      - Craig Taylor
+    - - '37'
+      - John Spencer
+    - - '14'
+      - Tony Giammichele
+    - - '33'
+      - Niki Longshore
+    - - '23'
+      - Noel Collins
+    - - '41'
+      - Peter Burkitt
+    - - '51'
+      - Billy Miller-Macleod
+    - - '21'
+      - Frank Chetcuti
+    - - '35'
+      - Anatoly Reyter
+    - - '9'
+      - Rohan Taylor
+    - - '42'
+      - Mikhail Karmazin
+    - - '38'
+      - Dave Stevens
+    - - '4'
+      - Nick Purcell
+    - - '22'
+      - Steve Blenkinsop
+    - - '27'
+      - Guy Williams
+    - - '43'
+      - Simon West
+    - - '18'
+      - Peter Adriaans
+    - - '48'
+      - Derek Mckee
+    - - '7'
+      - James Atkinson
+    - - '1'
+      - Mark Alton
+    - - '32'
+      - Rob Larkin
+    - - '40'
+      - Hossain Tefaili
+    - - '28'
+      - John Harriot
+    - - '13'
+      - Matthew Barlow
+    - - '34'
+      - dave moore
+    - - '15'
+      - Andrew Sharpe
+  - - - '5'
+      - Jonny Durand
+    - - '19'
+      - Scott Barrett
+    - - '29'
+      - Guy Hubbard
+    - - '12'
+      - Rory Duncan
+    - - '46'
+      - Harrison Rowntree
+    - - '44'
+      - Josh Woods
+    - - '2'
+      - Tony Armstrong
+    - - '8'
+      - Rod Flockhart
+    - - '36'
+      - Brad Porter
+    - - '20'
+      - Konrad Heilmann
+    - - '10'
+      - Craig Taylor
+    - - '33'
+      - Niki Longshore
+    - - '39'
+      - rob degroot
+    - - '25'
+      - Hagen Bruggemann
+    - - '16'
+      - Andrew Barnes
+    - - '45'
+      - steve crosby
+    - - '17'
+      - Trevor Purcell
+    - - '24'
+      - Brodrick Osborne
+    - - '26'
+      - Jason Kath
+    - - '4'
+      - Nick Purcell
+    - - '9'
+      - Rohan Taylor
+    - - '14'
+      - Tony Giammichele
+    - - '41'
+      - Peter Burkitt
+    - - '51'
+      - Billy Miller-Macleod
+    - - '6'
+      - Viv Clements
+    - - '37'
+      - John Spencer
+    - - '23'
+      - Noel Collins
+    - - '42'
+      - Mikhail Karmazin
+    - - '22'
+      - Steve Blenkinsop
+    - - '35'
+      - Anatoly Reyter
+    - - '43'
+      - Simon West
+    - - '18'
+      - Peter Adriaans
+    - - '48'
+      - Derek Mckee
+    - - '32'
+      - Rob Larkin
+    - - '21'
+      - Frank Chetcuti
+    - - '7'
+      - James Atkinson
+    - - '34'
+      - dave moore
+    - - '15'
+      - Andrew Sharpe
+  - - - '19'
+      - Scott Barrett
+    - - '46'
+      - Harrison Rowntree
+    - - '12'
+      - Rory Duncan
+    - - '44'
+      - Josh Woods
+    - - '2'
+      - Tony Armstrong
+    - - '20'
+      - Konrad Heilmann
+    - - '29'
+      - Guy Hubbard
+    - - '8'
+      - Rod Flockhart
+    - - '24'
+      - Brodrick Osborne
+    - - '45'
+      - steve crosby
+    - - '17'
+      - Trevor Purcell
+    - - '36'
+      - Brad Porter
+    - - '33'
+      - Niki Longshore
+    - - '10'
+      - Craig Taylor
+    - - '25'
+      - Hagen Bruggemann
+    - - '51'
+      - Billy Miller-Macleod
+    - - '39'
+      - rob degroot
+    - - '4'
+      - Nick Purcell
+    - - '16'
+      - Andrew Barnes
+    - - '42'
+      - Mikhail Karmazin
+    - - '37'
+      - John Spencer
+    - - '41'
+      - Peter Burkitt
+    - - '23'
+      - Noel Collins
+    - - '26'
+      - Jason Kath
+    - - '14'
+      - Tony Giammichele
+    - - '6'
+      - Viv Clements
+    - - '22'
+      - Steve Blenkinsop
+    - - '43'
+      - Simon West
+    - - '21'
+      - Frank Chetcuti
+  - - - '19'
+      - Scott Barrett
+    - - '46'
+      - Harrison Rowntree
+    - - '12'
+      - Rory Duncan
+    - - '44'
+      - Josh Woods
+    - - '2'
+      - Tony Armstrong
+    - - '29'
+      - Guy Hubbard
+    - - '20'
+      - Konrad Heilmann
+    - - '24'
+      - Brodrick Osborne
+    - - '45'
+      - steve crosby
+    - - '17'
+      - Trevor Purcell
+    - - '8'
+      - Rod Flockhart
+    - - '39'
+      - rob degroot
+    - - '36'
+      - Brad Porter
+    - - '33'
+      - Niki Longshore
+    - - '10'
+      - Craig Taylor
+    - - '4'
+      - Nick Purcell
+    - - '16'
+      - Andrew Barnes
+    - - '25'
+      - Hagen Bruggemann
+    - - '51'
+      - Billy Miller-Macleod
+    - - '23'
+      - Noel Collins
+    - - '42'
+      - Mikhail Karmazin
+    - - '37'
+      - John Spencer
+    - - '26'
+      - Jason Kath
+    - - '41'
+      - Peter Burkitt
+    - - '14'
+      - Tony Giammichele
+    - - '22'
+      - Steve Blenkinsop
+    - - '6'
+      - Viv Clements
+    - - '43'
+      - Simon West
+  lastLanding: 2017-04-15T07:00:47Z
+tagging:
+- - - - '35'
+      - Anatoly Reyter
+    - zonesTag:
+      - fix: 1218
+        time: 2017-04-09T03:43:47Z
+        lat: -27.11405
+        lng: 151.26448333
+      - fix: 3528
+        time: 2017-04-09T05:00:55Z
+        lat: -26.82258333
+        lng: 151.11631667
+      - fix: 5347
+        time: 2017-04-09T06:01:32Z
+        lat: -26.92596667
+        lng: 150.91726667
+      - null
+  - - - '16'
+      - Andrew Barnes
+    - zonesTag:
+      - fix: 815
+        time: 2017-04-09T03:41:49Z
+        lat: -27.11415
+        lng: 151.25998333
+      - fix: 1639
+        time: 2017-04-09T04:50:37Z
+        lat: -26.82166667
+        lng: 151.10746667
+      - fix: 2101
+        time: 2017-04-09T05:29:05Z
+        lat: -26.92751667
+        lng: 150.9178
+      - fix: 2871
+        time: 2017-04-09T06:33:19Z
+        lat: -27.15435
+        lng: 151.25513333
+  - - - '15'
+      - Andrew Sharpe
+    - zonesTag:
+      - fix: 2842
+        time: 2017-04-09T03:14:33Z
+        lat: -27.11875
+        lng: 151.24135
+      - fix: 9011
+        time: 2017-04-09T04:57:22Z
+        lat: -26.82256667
+        lng: 151.11835
+      - null
+      - null
+  - - - '51'
+      - Billy Miller-Macleod
+    - zonesTag:
+      - fix: 297
+        time: 2017-04-09T03:20:42Z
+        lat: -27.11815
+        lng: 151.24465
+      - fix: 677
+        time: 2017-04-09T04:23:56Z
+        lat: -26.82251667
+        lng: 151.11583333
+      - fix: 1020
+        time: 2017-04-09T05:20:50Z
+        lat: -26.9265
+        lng: 150.91741667
+      - fix: 1379
+        time: 2017-04-09T06:20:31Z
+        lat: -27.15431667
+        lng: 151.25505
+  - - - '36'
+      - Brad Porter
+    - zonesTag:
+      - fix: 3276
+        time: 2017-04-09T03:42:24Z
+        lat: -27.11406667
+        lng: 151.26098333
+      - fix: 4700
+        time: 2017-04-09T04:55:07Z
+        lat: -26.82208333
+        lng: 151.1232
+      - fix: 5627
+        time: 2017-04-09T05:42:25Z
+        lat: -26.92775
+        lng: 150.91786667
+      - fix: 6918
+        time: 2017-04-09T06:48:22Z
+        lat: -27.15328333
+        lng: 151.2563
+  - - - '24'
+      - Brodrick Osborne
+    - zonesTag:
+      - fix: 1598
+        time: 2017-04-09T03:15:18Z
+        lat: -27.11881667
+        lng: 151.24113333
+      - fix: 4160
+        time: 2017-04-09T04:40:55Z
+        lat: -26.82253333
+        lng: 151.11835
+      - fix: 5533
+        time: 2017-04-09T05:26:45Z
+        lat: -26.92516667
+        lng: 150.91613333
+      - fix: 7682
+        time: 2017-04-09T06:38:28Z
+        lat: -27.15771667
+        lng: 151.25393333
+  - - - '10'
+      - Craig Taylor
+    - zonesTag:
+      - fix: 455
+        time: 2017-04-09T03:41:07Z
+        lat: -27.11413333
+        lng: 151.26256667
+      - fix: 857
+        time: 2017-04-09T04:48:08Z
+        lat: -26.82231667
+        lng: 151.11175
+      - null
+      - null
+  - - - '49'
+      - Damian Peauril
+    - null
+  - - - '38'
+      - Dave Stevens
+    - zonesTag:
+      - fix: 422
+        time: 2017-04-09T03:13:00Z
+        lat: -27.11841667
+        lng: 151.24196667
+      - fix: 949
+        time: 2017-04-09T04:40:56Z
+        lat: -26.82236667
+        lng: 151.11273333
+      - fix: 1240
+        time: 2017-04-09T05:29:16Z
+        lat: -26.92806667
+        lng: 150.91786667
+      - null
+  - - - '48'
+      - Derek Mckee
+    - zonesTag:
+      - fix: 1197
+        time: 2017-04-09T03:43:13Z
+        lat: -27.11703333
+        lng: 151.24551667
+      - fix: 3719
+        time: 2017-04-09T05:07:28Z
+        lat: -26.82123333
+        lng: 151.1055
+      - fix: 5255
+        time: 2017-04-09T05:58:45Z
+        lat: -26.9266
+        lng: 150.91748333
+      - null
+  - - - '21'
+      - Frank Chetcuti
+    - zonesTag:
+      - fix: 584
+        time: 2017-04-09T03:43:25Z
+        lat: -27.11436667
+        lng: 151.26168333
+      - fix: 1389
+        time: 2017-04-09T04:55:53Z
+        lat: -26.82176667
+        lng: 151.12221667
+      - fix: 2181
+        time: 2017-04-09T06:02:15Z
+        lat: -26.9273
+        lng: 150.91775
+      - fix: 3252
+        time: 2017-04-09T07:35:25Z
+        lat: -27.15533333
+        lng: 151.25616667
+  - - - '29'
+      - Guy Hubbard
+    - zonesTag:
+      - fix: 82
+        time: 2017-04-09T04:21:39Z
+        lat: -27.12805
+        lng: 151.22801667
+      - null
+      - null
+      - null
+  - - - '27'
+      - Guy Williams
+    - zonesTag:
+      - fix: 725
+        time: 2017-04-09T03:41:36Z
+        lat: -27.11421667
+        lng: 151.26118333
+      - fix: 1578
+        time: 2017-04-09T04:52:44Z
+        lat: -26.82121667
+        lng: 151.12695
+      - fix: 2154
+        time: 2017-04-09T05:40:40Z
+        lat: -26.92476667
+        lng: 150.91601667
+      - fix: 3018
+        time: 2017-04-09T06:52:42Z
+        lat: -27.1549
+        lng: 151.25465
+  - - - '25'
+      - Hagen Bruggemann
+    - zonesTag:
+      - fix: 942
+        time: 2017-04-09T03:20:19Z
+        lat: -27.11815
+        lng: 151.24363333
+      - fix: 2240
+        time: 2017-04-09T04:25:58Z
+        lat: -26.82101667
+        lng: 151.10466667
+      - fix: 3161
+        time: 2017-04-09T05:12:28Z
+        lat: -26.9279
+        lng: 150.9178
+      - fix: 4600
+        time: 2017-04-09T06:24:56Z
+        lat: -27.15435
+        lng: 151.25513333
+  - - - '46'
+      - Harrison Rowntree
+    - zonesTag:
+      - fix: 1962
+        time: 2017-04-09T03:41:21Z
+        lat: -27.11415
+        lng: 151.26126667
+      - fix: 3205
+        time: 2017-04-09T04:44:02Z
+        lat: -26.82176667
+        lng: 151.10763333
+      - fix: 4094
+        time: 2017-04-09T05:28:28Z
+        lat: -26.9264
+        lng: 150.91755
+      - fix: 5134
+        time: 2017-04-09T06:20:45Z
+        lat: -27.15473333
+        lng: 151.25493333
+  - - - '40'
+      - Hossain Tefaili
+    - zonesTag:
+      - fix: 1121
+        time: 2017-04-09T03:24:49Z
+        lat: -27.11908333
+        lng: 151.24376667
+      - null
+      - null
+      - null
+  - - - '7'
+      - James Atkinson
+    - zonesTag:
+      - fix: 2137
+        time: 2017-04-09T03:41:55Z
+        lat: -27.114
+        lng: 151.2633
+      - fix: 4420
+        time: 2017-04-09T04:58:03Z
+        lat: -26.82251667
+        lng: 151.11855
+      - fix: 5818
+        time: 2017-04-09T05:44:39Z
+        lat: -26.92451667
+        lng: 150.9147
+      - null
+  - - - '26'
+      - Jason Kath
+    - zonesTag:
+      - fix: 3517
+        time: 2017-04-09T03:40:36Z
+        lat: -27.1142
+        lng: 151.25933333
+      - fix: 7219
+        time: 2017-04-09T04:44:38Z
+        lat: -26.82231667
+        lng: 151.11221667
+      - fix: 9444
+        time: 2017-04-09T05:23:33Z
+        lat: -26.92736667
+        lng: 150.91778333
+      - fix: 12661
+        time: 2017-04-09T06:19:44Z
+        lat: -27.15383333
+        lng: 151.2556
+  - - - '28'
+      - John Harriot
+    - zonesTag:
+      - fix: 924
+        time: 2017-04-09T03:34:41Z
+        lat: -27.1144
+        lng: 151.26905
+      - fix: 1927
+        time: 2017-04-09T04:58:15Z
+        lat: -26.8209
+        lng: 151.12853333
+      - fix: 2776
+        time: 2017-04-09T06:08:24Z
+        lat: -26.92783333
+        lng: 150.91785
+      - null
+  - - - '37'
+      - John Spencer
+    - zonesTag:
+      - fix: 551
+        time: 2017-04-09T03:11:21Z
+        lat: -27.11955
+        lng: 151.23965
+      - fix: 1555
+        time: 2017-04-09T04:35:27Z
+        lat: -26.82163333
+        lng: 151.1253
+      - fix: 2180
+        time: 2017-04-09T05:27:44Z
+        lat: -26.92603333
+        lng: 150.91725
+      - fix: 3014
+        time: 2017-04-09T06:37:30Z
+        lat: -27.15293333
+        lng: 151.25628333
+  - - - '5'
+      - Jonny Durand
+    - zonesTag:
+      - fix: 752
+        time: 2017-04-09T03:40:20Z
+        lat: -27.11425
+        lng: 151.26483333
+      - fix: 1905
+        time: 2017-04-09T04:38:28Z
+        lat: -26.81758333
+        lng: 151.096
+      - fix: 2477
+        time: 2017-04-09T05:07:08Z
+        lat: -26.92658333
+        lng: 150.91753333
+      - fix: 3689
+        time: 2017-04-09T06:08:10Z
+        lat: -27.15423333
+        lng: 151.25531667
+  - - - '44'
+      - Josh Woods
+    - zonesTag:
+      - fix: 1155
+        time: 2017-04-09T03:40:01Z
+        lat: -27.11411667
+        lng: 151.26801667
+      - fix: 1863
+        time: 2017-04-09T04:39:05Z
+        lat: -26.82251667
+        lng: 151.1144
+      - fix: 2260
+        time: 2017-04-09T05:12:09Z
+        lat: -26.9277
+        lng: 150.91786667
+      - fix: 3076
+        time: 2017-04-09T06:20:11Z
+        lat: -27.15401667
+        lng: 151.2553
+  - - - '20'
+      - Konrad Heilmann
+    - zonesTag:
+      - fix: 504
+        time: 2017-04-09T03:45:01Z
+        lat: -27.11418333
+        lng: 151.26536667
+      - fix: 813
+        time: 2017-04-09T04:36:30Z
+        lat: -26.8224
+        lng: 151.11993333
+      - fix: 1066
+        time: 2017-04-09T05:18:26Z
+        lat: -26.92598333
+        lng: 150.91725
+      - fix: 1461
+        time: 2017-04-09T06:24:04Z
+        lat: -27.15366667
+        lng: 151.25561667
+  - - - '1'
+      - Mark Alton
+    - zonesTag:
+      - fix: 381
+        time: 2017-04-09T03:21:00Z
+        lat: -27.1175
+        lng: 151.24575
+      - fix: 1479
+        time: 2017-04-09T04:52:33Z
+        lat: -26.82245
+        lng: 151.11911667
+      - fix: 2065
+        time: 2017-04-09T05:41:20Z
+        lat: -26.92813333
+        lng: 150.91771667
+      - null
+  - - - '13'
+      - Matthew Barlow
+    - zonesTag:
+      - fix: 704
+        time: 2017-04-09T03:40:37Z
+        lat: -27.11425
+        lng: 151.2596
+      - fix: 1485
+        time: 2017-04-09T04:45:49Z
+        lat: -26.82056667
+        lng: 151.10346667
+      - fix: 1933
+        time: 2017-04-09T05:23:09Z
+        lat: -26.92808333
+        lng: 150.9178
+      - fix: 2677
+        time: 2017-04-09T06:25:08Z
+        lat: -27.15506667
+        lng: 151.2546
+  - - - '42'
+      - Mikhail Karmazin
+    - zonesTag:
+      - fix: 381
+        time: 2017-04-09T04:33:15Z
+        lat: -27.11931667
+        lng: 151.24075
+      - null
+      - null
+      - null
+  - - - '4'
+      - Nick Purcell
+    - zonesTag:
+      - fix: 923
+        time: 2017-04-09T03:20:30Z
+        lat: -27.11768333
+        lng: 151.24413333
+      - fix: 2719
+        time: 2017-04-09T04:24:31Z
+        lat: -26.82108333
+        lng: 151.1048
+      - fix: 3997
+        time: 2017-04-09T05:13:55Z
+        lat: -26.92881667
+        lng: 150.91775
+      - null
+  - - - '33'
+      - Niki Longshore
+    - zonesTag:
+      - fix: 540
+        time: 2017-04-09T03:40:44Z
+        lat: -27.11415
+        lng: 151.26433333
+      - fix: 977
+        time: 2017-04-09T04:53:59Z
+        lat: -26.81993333
+        lng: 151.13135
+      - fix: 1279
+        time: 2017-04-09T05:44:15Z
+        lat: -26.92601667
+        lng: 150.91733333
+      - fix: 1679
+        time: 2017-04-09T06:51:04Z
+        lat: -27.15285
+        lng: 151.25628333
+  - - - '23'
+      - Noel Collins
+    - zonesTag:
+      - fix: 3780
+        time: 2017-04-09T03:43:42Z
+        lat: -27.11401667
+        lng: 151.2647
+      - fix: 8038
+        time: 2017-04-09T04:54:40Z
+        lat: -26.82251667
+        lng: 151.11633333
+      - fix: 10908
+        time: 2017-04-09T05:42:30Z
+        lat: -26.92656667
+        lng: 150.91746667
+      - null
+  - - - '3'
+      - Paul Allen
+    - zonesTag:
+      - fix: 387
+        time: 2017-04-09T03:13:30Z
+        lat: -27.11883333
+        lng: 151.24225
+      - null
+      - null
+      - null
+  - - - '18'
+      - Peter Adriaans
+    - zonesTag:
+      - fix: 3582
+        time: 2017-04-09T03:41:09Z
+        lat: -27.11401667
+        lng: 151.26346667
+      - fix: 8088
+        time: 2017-04-09T04:56:15Z
+        lat: -26.82238333
+        lng: 151.11993333
+      - null
+      - null
+  - - - '41'
+      - Peter Burkitt
+    - zonesTag:
+      - fix: 873
+        time: 2017-04-09T03:19:56Z
+        lat: -27.11718333
+        lng: 151.24505
+      - fix: 2187
+        time: 2017-04-09T05:08:52Z
+        lat: -26.81961667
+        lng: 151.13211667
+      - fix: 2987
+        time: 2017-04-09T06:14:59Z
+        lat: -26.92626667
+        lng: 150.91743333
+      - null
+  - - - '32'
+      - Rob Larkin
+    - zonesTag:
+      - fix: 390
+        time: 2017-04-09T03:21:06Z
+        lat: -27.11768333
+        lng: 151.24625
+      - fix: 1042
+        time: 2017-04-09T05:09:42Z
+        lat: -26.81963333
+        lng: 151.10033333
+      - fix: 1349
+        time: 2017-04-09T06:00:41Z
+        lat: -26.92735
+        lng: 150.91783333
+      - null
+  - - - '8'
+      - Rod Flockhart
+    - zonesTag:
+      - fix: 2334
+        time: 2017-04-08T03:40:53Z
+        lat: -27.1142
+        lng: 151.26141667
+      - fix: 3687
+        time: 2017-04-08T04:48:35Z
+        lat: -26.82221667
+        lng: 151.117
+      - null
+      - null
+  - - - '9'
+      - Rohan Taylor
+    - zonesTag:
+      - fix: 787
+        time: 2017-04-09T03:40:28Z
+        lat: -27.11428333
+        lng: 151.2668
+      - fix: 1620
+        time: 2017-04-09T04:38:20Z
+        lat: -26.82205
+        lng: 151.1141
+      - fix: 2232
+        time: 2017-04-09T05:20:49Z
+        lat: -26.92731667
+        lng: 150.91771667
+      - null
+  - - - '12'
+      - Rory Duncan
+    - zonesTag:
+      - fix: 420
+        time: 2017-04-09T03:40:33Z
+        lat: -27.11405
+        lng: 151.26658333
+      - fix: 779
+        time: 2017-04-09T04:40:28Z
+        lat: -26.82153333
+        lng: 151.11285
+      - fix: 969
+        time: 2017-04-09T05:12:09Z
+        lat: -26.92741667
+        lng: 150.9173
+      - null
+  - - - '19'
+      - Scott Barrett
+    - zonesTag:
+      - fix: 4357
+        time: 2017-04-08T03:41:25Z
+        lat: -27.11418333
+        lng: 151.2599
+      - fix: 5514
+        time: 2017-04-08T04:40:55Z
+        lat: -26.82181667
+        lng: 151.10853333
+      - fix: 6474
+        time: 2017-04-08T05:12:06Z
+        lat: -26.92883333
+        lng: 150.91756667
+      - fix: 8183
+        time: 2017-04-08T06:20:02Z
+        lat: -27.15421667
+        lng: 151.25516667
+  - - - '43'
+      - Simon West
+    - zonesTag:
+      - fix: 352
+        time: 2017-04-09T03:22:43Z
+        lat: -27.11951667
+        lng: 151.23951667
+      - null
+      - null
+      - null
+  - - - '22'
+      - Steve Blenkinsop
+    - zonesTag:
+      - fix: 1817
+        time: 2017-04-09T03:40:53Z
+        lat: -27.114
+        lng: 151.26313333
+      - fix: 3074
+        time: 2017-04-09T04:44:09Z
+        lat: -26.82153333
+        lng: 151.107
+      - fix: 3845
+        time: 2017-04-09T05:22:46Z
+        lat: -26.9273
+        lng: 150.91786667
+      - fix: 4985
+        time: 2017-04-09T06:20:00Z
+        lat: -27.154
+        lng: 151.25538333
+  - - - '31'
+      - Tomas Kellner
+    - zonesTag:
+      - fix: 352
+        time: 2017-04-09T03:22:43Z
+        lat: -27.11951667
+        lng: 151.23951667
+      - null
+      - null
+      - null
+  - - - '2'
+      - Tony Armstrong
+    - zonesTag:
+      - fix: 908
+        time: 2017-04-09T03:20:23Z
+        lat: -27.11781667
+        lng: 151.24383333
+      - fix: 2191
+        time: 2017-04-09T04:24:34Z
+        lat: -26.8208
+        lng: 151.10371667
+      - fix: 3088
+        time: 2017-04-09T05:09:23Z
+        lat: -26.92925
+        lng: 150.91733333
+      - null
+  - - - '14'
+      - Tony Giammichele
+    - zonesTag:
+      - fix: 269
+        time: 2017-04-09T03:12:49Z
+        lat: -27.11893333
+        lng: 151.24081667
+      - fix: 1697
+        time: 2017-04-09T04:24:49Z
+        lat: -26.82155
+        lng: 151.1067
+      - fix: 2879
+        time: 2017-04-09T05:24:01Z
+        lat: -26.9284
+        lng: 150.91768333
+      - fix: 4095
+        time: 2017-04-09T06:25:14Z
+        lat: -27.15378333
+        lng: 151.25566667
+  - - - '17'
+      - Trevor Purcell
+    - zonesTag:
+      - fix: 1483
+        time: 2017-04-09T03:25:54Z
+        lat: -27.11871667
+        lng: 151.2421
+      - fix: 2704
+        time: 2017-04-09T04:26:57Z
+        lat: -26.8214
+        lng: 151.10653333
+      - fix: 3615
+        time: 2017-04-09T05:12:30Z
+        lat: -26.92796667
+        lng: 150.91773333
+      - fix: 5019
+        time: 2017-04-09T06:22:40Z
+        lat: -27.1522
+        lng: 151.25745
+  - - - '6'
+      - Viv Clements
+    - zonesTag:
+      - fix: 3486
+        time: 2017-04-09T03:43:52Z
+        lat: -27.1141
+        lng: 151.2651
+      - fix: 7527
+        time: 2017-04-09T04:51:13Z
+        lat: -26.82181667
+        lng: 151.1079
+      - fix: 9816
+        time: 2017-04-09T05:29:22Z
+        lat: -26.92828333
+        lng: 150.91776667
+      - fix: 13771
+        time: 2017-04-09T06:35:17Z
+        lat: -27.15241667
+        lng: 151.25671667
+  - - - '34'
+      - dave moore
+    - zonesTag:
+      - fix: 1123
+        time: 2017-04-09T03:44:17Z
+        lat: -27.11398333
+        lng: 151.26478333
+      - fix: 2639
+        time: 2017-04-09T05:01:21Z
+        lat: -26.82248333
+        lng: 151.11973333
+      - null
+      - null
+  - - - '39'
+      - rob degroot
+    - zonesTag:
+      - fix: 949
+        time: 2017-04-09T03:40:35Z
+        lat: -27.11423333
+        lng: 151.26481667
+      - fix: 1915
+        time: 2017-04-09T04:44:59Z
+        lat: -26.82248333
+        lng: 151.11575
+      - fix: 2770
+        time: 2017-04-09T05:41:59Z
+        lat: -26.92643333
+        lng: 150.91736667
+      - fix: 3721
+        time: 2017-04-09T06:45:20Z
+        lat: -27.1523
+        lng: 151.25708333
+  - - - '45'
+      - steve crosby
+    - zonesTag:
+      - fix: 341
+        time: 2017-04-09T03:21:09Z
+        lat: -27.11758333
+        lng: 151.24486667
+      - fix: 747
+        time: 2017-04-09T04:28:46Z
+        lat: -26.82173333
+        lng: 151.10791667
+      - fix: 1084
+        time: 2017-04-09T05:24:50Z
+        lat: -26.92451667
+        lng: 150.91496667
+      - fix: 1457
+        time: 2017-04-09T06:27:10Z
+        lat: -27.15705
+        lng: 151.254
+- - - - '35'
+      - Anatoly Reyter
+    - zonesTag:
+      - fix: 1779
+        time: 2017-04-12T03:22:18Z
+        lat: -27.11758333
+        lng: 151.2442
+      - fix: 3092
+        time: 2017-04-12T04:06:11Z
+        lat: -27.04451667
+        lng: 151.07563333
+      - fix: 4219
+        time: 2017-04-12T04:43:47Z
+        lat: -26.95911667
+        lng: 151.21028333
+      - fix: 5929
+        time: 2017-04-12T05:40:53Z
+        lat: -26.9249
+        lng: 150.91608333
+      - fix: 7397
+        time: 2017-04-12T06:29:56Z
+        lat: -26.79256667
+        lng: 151.0766
+      - null
+  - - - '16'
+      - Andrew Barnes
+    - zonesTag:
+      - fix: 539
+        time: 2017-04-12T03:43:55Z
+        lat: -27.13561667
+        lng: 151.22166667
+      - fix: 776
+        time: 2017-04-12T04:03:42Z
+        lat: -27.03998333
+        lng: 151.07748333
+      - fix: 1089
+        time: 2017-04-12T04:29:49Z
+        lat: -26.96086667
+        lng: 151.20935
+      - fix: 1530
+        time: 2017-04-12T05:06:33Z
+        lat: -26.92661667
+        lng: 150.91761667
+      - fix: 2100
+        time: 2017-04-12T05:54:05Z
+        lat: -26.79953333
+        lng: 151.07875
+      - fix: 2500
+        time: 2017-04-12T06:27:26Z
+        lat: -26.84723333
+        lng: 150.80673333
+  - - - '15'
+      - Andrew Sharpe
+    - zonesTag:
+      - fix: 2429
+        time: 2017-04-12T03:15:35Z
+        lat: -27.11981667
+        lng: 151.23903333
+      - fix: 4654
+        time: 2017-04-12T03:52:40Z
+        lat: -27.04151667
+        lng: 151.07788333
+      - null
+      - null
+      - null
+      - null
+  - - - '51'
+      - Billy Miller-Macleod
+    - zonesTag:
+      - fix: 474
+        time: 2017-04-12T03:21:04Z
+        lat: -27.1215
+        lng: 151.23773333
+      - fix: 636
+        time: 2017-04-12T03:48:05Z
+        lat: -27.04075
+        lng: 151.07775
+      - fix: 837
+        time: 2017-04-12T04:21:27Z
+        lat: -26.96285
+        lng: 151.20968333
+      - fix: 1033
+        time: 2017-04-12T04:53:57Z
+        lat: -26.92531667
+        lng: 150.91666667
+      - null
+      - null
+  - - - '36'
+      - Brad Porter
+    - zonesTag:
+      - fix: 5146
+        time: 2017-04-12T03:44:25Z
+        lat: -27.13556667
+        lng: 151.22156667
+      - fix: 5516
+        time: 2017-04-12T04:03:14Z
+        lat: -27.0418
+        lng: 151.0779
+      - fix: 5960
+        time: 2017-04-12T04:25:46Z
+        lat: -26.96413333
+        lng: 151.21088333
+      - fix: 6727
+        time: 2017-04-12T05:04:50Z
+        lat: -26.92653333
+        lng: 150.91755
+      - fix: 7439
+        time: 2017-04-12T05:41:04Z
+        lat: -26.79711667
+        lng: 151.07786667
+      - null
+  - - - '24'
+      - Brodrick Osborne
+    - zonesTag:
+      - fix: 2031
+        time: 2017-04-12T03:22:36Z
+        lat: -27.11731667
+        lng: 151.24491667
+      - fix: 2830
+        time: 2017-04-12T03:49:21Z
+        lat: -27.04318333
+        lng: 151.07736667
+      - fix: 4463
+        time: 2017-04-12T04:43:57Z
+        lat: -26.96441667
+        lng: 151.21133333
+      - fix: 5858
+        time: 2017-04-12T05:30:37Z
+        lat: -26.92573333
+        lng: 150.91716667
+      - fix: 7771
+        time: 2017-04-12T06:34:36Z
+        lat: -26.80463333
+        lng: 151.08146667
+      - null
+  - - - '10'
+      - Craig Taylor
+    - zonesTag:
+      - fix: 180
+        time: 2017-04-12T03:00:52Z
+        lat: -27.12031667
+        lng: 151.23878333
+      - fix: 349
+        time: 2017-04-12T03:29:03Z
+        lat: -27.04036667
+        lng: 151.07765
+      - fix: 487
+        time: 2017-04-12T03:51:58Z
+        lat: -26.96178333
+        lng: 151.20946667
+      - fix: 740
+        time: 2017-04-12T04:34:02Z
+        lat: -26.92706667
+        lng: 150.9178
+      - fix: 1058
+        time: 2017-04-12T05:26:56Z
+        lat: -26.79263333
+        lng: 151.07673333
+      - fix: 1225
+        time: 2017-04-12T05:54:33Z
+        lat: -26.85033333
+        lng: 150.80716667
+  - - - '49'
+      - Damian Peauril
+    - null
+  - - - '38'
+      - Dave Stevens
+    - zonesTag:
+      - fix: 350
+        time: 2017-04-12T03:16:44Z
+        lat: -27.1177
+        lng: 151.24391667
+      - fix: 555
+        time: 2017-04-12T03:50:50Z
+        lat: -27.03796667
+        lng: 151.07471667
+      - fix: 765
+        time: 2017-04-12T04:25:40Z
+        lat: -26.9634
+        lng: 151.21011667
+      - fix: 1061
+        time: 2017-04-12T05:14:48Z
+        lat: -26.92441667
+        lng: 150.91493333
+      - fix: 1334
+        time: 2017-04-12T06:00:10Z
+        lat: -26.79203333
+        lng: 151.07651667
+      - fix: 1513
+        time: 2017-04-12T06:29:42Z
+        lat: -26.84523333
+        lng: 150.80586667
+  - - - '48'
+      - Derek Mckee
+    - zonesTag:
+      - fix: 2572
+        time: 2017-04-12T03:12:01Z
+        lat: -27.11883333
+        lng: 151.241
+      - fix: 3673
+        time: 2017-04-12T03:48:49Z
+        lat: -27.04008333
+        lng: 151.07753333
+      - fix: 4856
+        time: 2017-04-12T04:28:18Z
+        lat: -26.96333333
+        lng: 151.20998333
+      - fix: 6262
+        time: 2017-04-12T05:15:16Z
+        lat: -26.92641667
+        lng: 150.9175
+      - null
+      - null
+  - - - '21'
+      - Frank Chetcuti
+    - zonesTag:
+      - fix: 318
+        time: 2017-04-12T03:03:57Z
+        lat: -27.1179
+        lng: 151.2431
+      - fix: 342
+        time: 2017-04-12T03:37:39Z
+        lat: -27.04305
+        lng: 151.07611667
+      - fix: 370
+        time: 2017-04-12T04:12:50Z
+        lat: -26.96441667
+        lng: 151.21205
+      - fix: 400
+        time: 2017-04-12T04:53:46Z
+        lat: -26.92758333
+        lng: 150.91735
+      - fix: 462
+        time: 2017-04-12T06:08:21Z
+        lat: -26.78645
+        lng: 151.0762
+      - fix: 495
+        time: 2017-04-12T06:39:36Z
+        lat: -26.84685
+        lng: 150.80671667
+  - - - '29'
+      - Guy Hubbard
+    - zonesTag:
+      - fix: 552
+        time: 2017-04-12T03:20:43Z
+        lat: -27.12083333
+        lng: 151.2391
+      - fix: 697
+        time: 2017-04-12T03:44:50Z
+        lat: -27.03978333
+        lng: 151.07723333
+      - fix: 833
+        time: 2017-04-12T04:07:16Z
+        lat: -26.96311667
+        lng: 151.20991667
+      - fix: 1040
+        time: 2017-04-12T04:41:35Z
+        lat: -26.92651667
+        lng: 150.91746667
+      - fix: 1281
+        time: 2017-04-12T05:21:37Z
+        lat: -26.79856667
+        lng: 151.07838333
+      - fix: 1417
+        time: 2017-04-12T05:44:00Z
+        lat: -26.8434
+        lng: 150.80416667
+  - - - '27'
+      - Guy Williams
+    - zonesTag:
+      - fix: 572
+        time: 2017-04-12T03:01:17Z
+        lat: -27.12111667
+        lng: 151.2372
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '25'
+      - Hagen Bruggemann
+    - zonesTag:
+      - fix: 1119
+        time: 2017-04-12T03:20:52Z
+        lat: -27.11948333
+        lng: 151.24036667
+      - fix: 1634
+        time: 2017-04-12T03:46:52Z
+        lat: -27.0409
+        lng: 151.0778
+      - fix: 2300
+        time: 2017-04-12T04:20:27Z
+        lat: -26.96338333
+        lng: 151.21001667
+      - fix: 3134
+        time: 2017-04-12T05:02:30Z
+        lat: -26.92705
+        lng: 150.91771667
+      - fix: 3983
+        time: 2017-04-12T05:45:20Z
+        lat: -26.79751667
+        lng: 151.07801667
+      - fix: 4650
+        time: 2017-04-12T06:18:51Z
+        lat: -26.84743333
+        lng: 150.80698333
+  - - - '46'
+      - Harrison Rowntree
+    - zonesTag:
+      - fix: 778
+        time: 2017-04-12T03:21:00Z
+        lat: -27.12398333
+        lng: 151.232
+      - fix: 1211
+        time: 2017-04-12T03:42:49Z
+        lat: -27.04008333
+        lng: 151.07745
+      - fix: 1789
+        time: 2017-04-12T04:11:57Z
+        lat: -26.96443333
+        lng: 151.21135
+      - fix: 2739
+        time: 2017-04-12T04:59:36Z
+        lat: -26.92703333
+        lng: 150.91775
+      - fix: 3578
+        time: 2017-04-12T05:41:36Z
+        lat: -26.8023
+        lng: 151.08018333
+      - fix: 4102
+        time: 2017-04-12T06:07:48Z
+        lat: -26.84623333
+        lng: 150.80636667
+  - - - '40'
+      - Hossain Tefaili
+    - zonesTag:
+      - fix: 1067
+        time: 2017-04-12T03:12:38Z
+        lat: -27.1177
+        lng: 151.24363333
+      - fix: 2391
+        time: 2017-04-12T03:57:27Z
+        lat: -27.04125
+        lng: 151.07778333
+      - fix: 4112
+        time: 2017-04-12T04:55:47Z
+        lat: -26.96088333
+        lng: 151.20938333
+      - fix: 5771
+        time: 2017-04-12T05:51:59Z
+        lat: -26.92685
+        lng: 150.91776667
+      - null
+      - null
+  - - - '7'
+      - James Atkinson
+    - zonesTag:
+      - fix: 2889
+        time: 2017-04-12T03:44:29Z
+        lat: -27.13668333
+        lng: 151.21988333
+      - fix: 3512
+        time: 2017-04-12T04:05:16Z
+        lat: -27.04331667
+        lng: 151.0772
+      - fix: 4293
+        time: 2017-04-12T04:31:17Z
+        lat: -26.96043333
+        lng: 151.2095
+      - fix: 5839
+        time: 2017-04-12T05:22:51Z
+        lat: -26.93026667
+        lng: 150.9167
+      - fix: 7081
+        time: 2017-04-12T06:04:16Z
+        lat: -26.79046667
+        lng: 151.0764
+      - fix: 8252
+        time: 2017-04-12T06:43:21Z
+        lat: -26.84345
+        lng: 150.8045
+  - - - '26'
+      - Jason Kath
+    - zonesTag:
+      - fix: 4031
+        time: 2017-04-12T03:21:33Z
+        lat: -27.11945
+        lng: 151.23976667
+      - fix: 5222
+        time: 2017-04-12T03:42:47Z
+        lat: -27.04018333
+        lng: 151.0775
+      - fix: 6881
+        time: 2017-04-12T04:11:37Z
+        lat: -26.96286667
+        lng: 151.20961667
+      - fix: 9296
+        time: 2017-04-12T04:53:26Z
+        lat: -26.92596667
+        lng: 150.91736667
+      - fix: 11672
+        time: 2017-04-12T05:33:56Z
+        lat: -26.79618333
+        lng: 151.07751667
+      - fix: 14362
+        time: 2017-04-12T06:20:31Z
+        lat: -26.84381667
+        lng: 150.80475
+  - - - '28'
+      - John Harriot
+    - zonesTag:
+      - fix: 501
+        time: 2017-04-12T03:11:27Z
+        lat: -27.11776667
+        lng: 151.24393333
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '37'
+      - John Spencer
+    - zonesTag:
+      - fix: 760
+        time: 2017-04-12T03:22:38Z
+        lat: -27.11793333
+        lng: 151.24375
+      - fix: 1113
+        time: 2017-04-12T03:52:10Z
+        lat: -27.03856667
+        lng: 151.07621667
+      - fix: 1588
+        time: 2017-04-12T04:31:55Z
+        lat: -26.96075
+        lng: 151.20948333
+      - fix: 2035
+        time: 2017-04-12T05:09:16Z
+        lat: -26.92941667
+        lng: 150.91731667
+      - fix: 2633
+        time: 2017-04-12T05:59:15Z
+        lat: -26.78743333
+        lng: 151.07613333
+      - fix: 3049
+        time: 2017-04-12T06:33:59Z
+        lat: -26.84813333
+        lng: 150.80698333
+  - - - '5'
+      - Jonny Durand
+    - zonesTag:
+      - fix: 1033
+        time: 2017-04-12T03:43:41Z
+        lat: -27.13615
+        lng: 151.22038333
+      - fix: 1417
+        time: 2017-04-12T04:03:06Z
+        lat: -27.04285
+        lng: 151.07755
+      - fix: 1849
+        time: 2017-04-12T04:24:54Z
+        lat: -26.96263333
+        lng: 151.20963333
+      - fix: 2468
+        time: 2017-04-12T04:56:02Z
+        lat: -26.92466667
+        lng: 150.91591667
+      - fix: 3354
+        time: 2017-04-12T05:40:24Z
+        lat: -26.79218333
+        lng: 151.07655
+      - fix: 4042
+        time: 2017-04-12T06:14:52Z
+        lat: -26.8447
+        lng: 150.80558333
+  - - - '44'
+      - Josh Woods
+    - zonesTag:
+      - fix: 878
+        time: 2017-04-12T03:21:37Z
+        lat: -27.1208
+        lng: 151.23698333
+      - fix: 1147
+        time: 2017-04-12T03:44:04Z
+        lat: -27.03918333
+        lng: 151.07686667
+      - fix: 1459
+        time: 2017-04-12T04:10:03Z
+        lat: -26.9646
+        lng: 151.21175
+      - fix: 1836
+        time: 2017-04-12T04:41:26Z
+        lat: -26.92666667
+        lng: 150.9175
+      - fix: 2320
+        time: 2017-04-12T05:21:44Z
+        lat: -26.79923333
+        lng: 151.07873333
+      - fix: 2592
+        time: 2017-04-12T05:44:19Z
+        lat: -26.84665
+        lng: 150.80653333
+  - - - '20'
+      - Konrad Heilmann
+    - zonesTag:
+      - fix: 366
+        time: 2017-04-12T03:02:52Z
+        lat: -27.13331667
+        lng: 151.22253333
+      - fix: 529
+        time: 2017-04-12T03:30:01Z
+        lat: -27.04216667
+        lng: 151.07761667
+      - fix: 650
+        time: 2017-04-12T03:50:00Z
+        lat: -26.96391667
+        lng: 151.21051667
+      - fix: 922
+        time: 2017-04-12T04:35:10Z
+        lat: -26.9276
+        lng: 150.91781667
+      - fix: 1223
+        time: 2017-04-12T05:25:11Z
+        lat: -26.79643333
+        lng: 151.07761667
+      - fix: 1366
+        time: 2017-04-12T05:48:52Z
+        lat: -26.84816667
+        lng: 150.80613333
+  - - - '1'
+      - Mark Alton
+    - zonesTag:
+      - fix: 730
+        time: 2017-04-12T03:21:31Z
+        lat: -27.11976667
+        lng: 151.24033333
+      - fix: 1103
+        time: 2017-04-12T03:52:35Z
+        lat: -27.03898333
+        lng: 151.07091667
+      - fix: 1374
+        time: 2017-04-12T04:15:03Z
+        lat: -26.96365
+        lng: 151.21023333
+      - fix: 2083
+        time: 2017-04-12T05:14:07Z
+        lat: -26.92833333
+        lng: 150.91788333
+      - null
+      - null
+  - - - '13'
+      - Matthew Barlow
+    - zonesTag:
+      - fix: 775
+        time: 2017-04-12T03:02:58Z
+        lat: -27.12066667
+        lng: 151.23726667
+      - fix: 1182
+        time: 2017-04-12T03:36:57Z
+        lat: -27.03826667
+        lng: 151.07565
+      - fix: 1551
+        time: 2017-04-12T04:07:42Z
+        lat: -26.96185
+        lng: 151.20941667
+      - fix: 1962
+        time: 2017-04-12T04:41:55Z
+        lat: -26.9263
+        lng: 150.9174
+      - fix: 2504
+        time: 2017-04-12T05:27:04Z
+        lat: -26.79213333
+        lng: 151.07655
+      - null
+  - - - '42'
+      - Mikhail Karmazin
+    - zonesTag:
+      - fix: 2066
+        time: 2017-04-12T03:00:53Z
+        lat: -27.12381667
+        lng: 151.23248333
+      - fix: 2930
+        time: 2017-04-12T03:29:42Z
+        lat: -27.04003333
+        lng: 151.07743333
+      - fix: 3589
+        time: 2017-04-12T03:51:39Z
+        lat: -26.96185
+        lng: 151.20941667
+      - fix: 5000
+        time: 2017-04-12T04:38:42Z
+        lat: -26.92696667
+        lng: 150.9177
+      - fix: 6437
+        time: 2017-04-12T05:26:35Z
+        lat: -26.79308333
+        lng: 151.07683333
+      - fix: 7340
+        time: 2017-04-12T05:56:39Z
+        lat: -26.84171667
+        lng: 150.80181667
+  - - - '4'
+      - Nick Purcell
+    - zonesTag:
+      - fix: 1604
+        time: 2017-04-12T03:21:44Z
+        lat: -27.12068333
+        lng: 151.23721667
+      - fix: 2286
+        time: 2017-04-12T03:45:00Z
+        lat: -27.03851667
+        lng: 151.0763
+      - fix: 2949
+        time: 2017-04-12T04:06:42Z
+        lat: -26.96286667
+        lng: 151.20973333
+      - fix: 4058
+        time: 2017-04-12T04:41:24Z
+        lat: -26.92675
+        lng: 150.91776667
+      - fix: 5272
+        time: 2017-04-12T05:23:03Z
+        lat: -26.79715
+        lng: 151.0778
+      - fix: 5954
+        time: 2017-04-12T05:44:19Z
+        lat: -26.84596667
+        lng: 150.80631667
+  - - - '33'
+      - Niki Longshore
+    - zonesTag:
+      - fix: 439
+        time: 2017-04-12T03:21:43Z
+        lat: -27.12063333
+        lng: 151.23996667
+      - fix: 576
+        time: 2017-04-12T03:44:37Z
+        lat: -27.03936667
+        lng: 151.07706667
+      - fix: 711
+        time: 2017-04-12T04:07:01Z
+        lat: -26.96328333
+        lng: 151.20995
+      - fix: 937
+        time: 2017-04-12T04:44:34Z
+        lat: -26.92431667
+        lng: 150.91468333
+      - fix: 1165
+        time: 2017-04-12T05:22:30Z
+        lat: -26.7995
+        lng: 151.07871667
+      - fix: 1370
+        time: 2017-04-12T05:56:28Z
+        lat: -26.84123333
+        lng: 150.8006
+  - - - '23'
+      - Noel Collins
+    - zonesTag:
+      - fix: 2429
+        time: 2017-04-12T03:15:35Z
+        lat: -27.11981667
+        lng: 151.23903333
+      - fix: 4654
+        time: 2017-04-12T03:52:40Z
+        lat: -27.04151667
+        lng: 151.07788333
+      - null
+      - null
+      - null
+      - null
+  - - - '3'
+      - Paul Allen
+    - zonesTag:
+      - fix: 170
+        time: 2017-04-12T03:11:00Z
+        lat: -27.11771667
+        lng: 151.24378333
+      - fix: 560
+        time: 2017-04-12T04:16:06Z
+        lat: -27.04088333
+        lng: 151.07775
+      - null
+      - null
+      - null
+      - null
+  - - - '18'
+      - Peter Adriaans
+    - zonesTag:
+      - fix: 2251
+        time: 2017-04-12T03:10:34Z
+        lat: -27.11753333
+        lng: 151.24403333
+      - fix: 5736
+        time: 2017-04-12T04:08:39Z
+        lat: -27.03995
+        lng: 151.07758333
+      - fix: 7999
+        time: 2017-04-12T04:46:22Z
+        lat: -26.95933333
+        lng: 151.21006667
+      - fix: 10826
+        time: 2017-04-12T05:34:30Z
+        lat: -26.9244
+        lng: 150.91495
+      - fix: 14036
+        time: 2017-04-12T06:28:00Z
+        lat: -26.78108333
+        lng: 151.07651667
+      - null
+  - - - '41'
+      - Peter Burkitt
+    - zonesTag:
+      - fix: 363
+        time: 2017-04-12T02:57:14Z
+        lat: -27.12421667
+        lng: 151.23198333
+      - fix: 728
+        time: 2017-04-12T03:27:03Z
+        lat: -27.0413
+        lng: 151.07781667
+      - fix: 1038
+        time: 2017-04-12T03:52:23Z
+        lat: -26.9613
+        lng: 151.20938333
+      - fix: 1527
+        time: 2017-04-12T04:32:40Z
+        lat: -26.92586667
+        lng: 150.91718333
+      - null
+      - null
+  - - - '32'
+      - Rob Larkin
+    - zonesTag:
+      - fix: 137
+        time: 2017-04-12T05:34:16Z
+        lat: -27.12615
+        lng: 151.23163333
+      - fix: 291
+        time: 2017-04-12T05:59:49Z
+        lat: -27.0427
+        lng: 151.0775
+      - fix: 504
+        time: 2017-04-12T06:35:10Z
+        lat: -26.95968333
+        lng: 151.2098
+      - null
+      - null
+      - null
+  - - - '8'
+      - Rod Flockhart
+    - zonesTag:
+      - fix: 1619
+        time: 2017-04-12T03:45:33Z
+        lat: -27.13628333
+        lng: 151.22035
+      - fix: 1976
+        time: 2017-04-12T04:03:25Z
+        lat: -27.0434
+        lng: 151.07726667
+      - fix: 2424
+        time: 2017-04-12T04:25:50Z
+        lat: -26.96388333
+        lng: 151.21041667
+      - fix: 3396
+        time: 2017-04-12T05:14:27Z
+        lat: -26.9279
+        lng: 150.91791667
+      - fix: 4508
+        time: 2017-04-12T06:10:05Z
+        lat: -26.78515
+        lng: 151.0763
+      - fix: 5072
+        time: 2017-04-12T06:38:17Z
+        lat: -26.84395
+        lng: 150.80465
+  - - - '9'
+      - Rohan Taylor
+    - zonesTag:
+      - fix: 3097
+        time: 2017-04-12T03:21:35Z
+        lat: -27.12245
+        lng: 151.2344
+      - fix: 4519
+        time: 2017-04-12T03:48:01Z
+        lat: -27.0388
+        lng: 151.07636667
+      - fix: 6056
+        time: 2017-04-12T04:16:23Z
+        lat: -26.96458333
+        lng: 151.21131667
+      - fix: 8190
+        time: 2017-04-12T04:55:57Z
+        lat: -26.92428333
+        lng: 150.91375
+      - fix: 10337
+        time: 2017-04-12T05:35:01Z
+        lat: -26.79126667
+        lng: 151.0767
+      - fix: 12430
+        time: 2017-04-12T06:12:51Z
+        lat: -26.84783333
+        lng: 150.80705
+  - - - '12'
+      - Rory Duncan
+    - zonesTag:
+      - fix: 967
+        time: 2017-04-12T03:43:42Z
+        lat: -27.13665
+        lng: 151.22113333
+      - fix: 1206
+        time: 2017-04-12T04:03:37Z
+        lat: -27.04175
+        lng: 151.07745
+      - fix: 1476
+        time: 2017-04-12T04:26:07Z
+        lat: -26.96236667
+        lng: 151.21008333
+      - fix: 1816
+        time: 2017-04-12T04:54:28Z
+        lat: -26.9269
+        lng: 150.91755
+      - fix: 2375
+        time: 2017-04-12T05:41:03Z
+        lat: -26.79498333
+        lng: 151.07721667
+      - fix: 2831
+        time: 2017-04-12T06:19:03Z
+        lat: -26.8464
+        lng: 150.8058
+  - - - '19'
+      - Scott Barrett
+    - zonesTag:
+      - fix: 899
+        time: 2017-04-12T03:21:13Z
+        lat: -27.12501667
+        lng: 151.23088333
+      - fix: 1177
+        time: 2017-04-12T03:44:21Z
+        lat: -27.0396
+        lng: 151.07728333
+      - fix: 1481
+        time: 2017-04-12T04:09:36Z
+        lat: -26.96473333
+        lng: 151.21225
+      - fix: 1868
+        time: 2017-04-12T04:41:44Z
+        lat: -26.92603333
+        lng: 150.91733333
+      - fix: 2446
+        time: 2017-04-12T05:29:45Z
+        lat: -26.78555
+        lng: 151.07655
+      - null
+  - - - '43'
+      - Simon West
+    - zonesTag:
+      - fix: 330
+        time: 2017-04-12T03:52:55Z
+        lat: -27.13573333
+        lng: 151.22051667
+      - fix: 808
+        time: 2017-04-12T04:32:50Z
+        lat: -27.04413333
+        lng: 151.07633333
+      - fix: 1258
+        time: 2017-04-12T05:10:19Z
+        lat: -26.95878333
+        lng: 151.21076667
+      - fix: 1764
+        time: 2017-04-12T05:52:30Z
+        lat: -26.92683333
+        lng: 150.91763333
+      - null
+      - null
+  - - - '22'
+      - Steve Blenkinsop
+    - zonesTag:
+      - fix: 4095
+        time: 2017-04-12T03:21:20Z
+        lat: -27.1213
+        lng: 151.23615
+      - fix: 5476
+        time: 2017-04-12T03:44:21Z
+        lat: -27.03933333
+        lng: 151.07711667
+      - fix: 6814
+        time: 2017-04-12T04:06:39Z
+        lat: -26.9631
+        lng: 151.20985
+      - fix: 8902
+        time: 2017-04-12T04:41:27Z
+        lat: -26.9267
+        lng: 150.91765
+      - fix: 11316
+        time: 2017-04-12T05:21:41Z
+        lat: -26.79843333
+        lng: 151.07838333
+      - fix: 12626
+        time: 2017-04-12T05:43:31Z
+        lat: -26.8475
+        lng: 150.80686667
+  - - - '31'
+      - Tomas Kellner
+    - zonesTag:
+      - fix: 369
+        time: 2017-04-12T03:10:12Z
+        lat: -27.11785
+        lng: 151.24326667
+      - fix: 941
+        time: 2017-04-12T03:57:52Z
+        lat: -27.0392
+        lng: 151.07703333
+      - null
+      - null
+      - null
+      - null
+  - - - '2'
+      - Tony Armstrong
+    - zonesTag:
+      - fix: 1799
+        time: 2017-04-12T03:20:51Z
+        lat: -27.12146667
+        lng: 151.23583333
+      - fix: 2262
+        time: 2017-04-12T03:43:59Z
+        lat: -27.03965
+        lng: 151.07731667
+      - fix: 2784
+        time: 2017-04-12T04:10:03Z
+        lat: -26.9644
+        lng: 151.21125
+      - fix: 3472
+        time: 2017-04-12T04:44:26Z
+        lat: -26.92563333
+        lng: 150.91703333
+      - fix: 4214
+        time: 2017-04-12T05:21:29Z
+        lat: -26.79841667
+        lng: 151.07833333
+      - fix: 4658
+        time: 2017-04-12T05:43:37Z
+        lat: -26.84583333
+        lng: 150.80621667
+  - - - '14'
+      - Tony Giammichele
+    - zonesTag:
+      - fix: 1637
+        time: 2017-04-12T03:22:55Z
+        lat: -27.12471667
+        lng: 151.23155
+      - fix: 2158
+        time: 2017-04-12T03:49:15Z
+        lat: -27.03971667
+        lng: 151.07733333
+      - fix: 3224
+        time: 2017-04-12T04:43:03Z
+        lat: -26.96226667
+        lng: 151.20945
+      - fix: 4103
+        time: 2017-04-12T05:27:12Z
+        lat: -26.92531667
+        lng: 150.9167
+      - fix: 5001
+        time: 2017-04-12T06:12:08Z
+        lat: -26.78626667
+        lng: 151.07608333
+      - fix: 5620
+        time: 2017-04-12T06:43:06Z
+        lat: -26.84303333
+        lng: 150.80386667
+  - - - '17'
+      - Trevor Purcell
+    - zonesTag:
+      - fix: 1694
+        time: 2017-04-12T03:21:53Z
+        lat: -27.12101667
+        lng: 151.23716667
+      - fix: 2265
+        time: 2017-04-12T03:50:26Z
+        lat: -27.03845
+        lng: 151.07608333
+      - fix: 2966
+        time: 2017-04-12T04:25:28Z
+        lat: -26.96245
+        lng: 151.2098
+      - fix: 3691
+        time: 2017-04-12T05:01:43Z
+        lat: -26.92418333
+        lng: 150.91423333
+      - fix: 4500
+        time: 2017-04-12T05:42:09Z
+        lat: -26.79843333
+        lng: 151.07843333
+      - null
+  - - - '6'
+      - Viv Clements
+    - zonesTag:
+      - fix: 4970
+        time: 2017-04-12T03:22:26Z
+        lat: -27.11736667
+        lng: 151.24491667
+      - fix: 6473
+        time: 2017-04-12T03:47:29Z
+        lat: -27.04423333
+        lng: 151.0764
+      - fix: 8540
+        time: 2017-04-12T04:21:56Z
+        lat: -26.96475
+        lng: 151.2121
+      - fix: 10829
+        time: 2017-04-12T05:00:05Z
+        lat: -26.92736667
+        lng: 150.91778333
+      - fix: 13760
+        time: 2017-04-12T05:48:56Z
+        lat: -26.79433333
+        lng: 151.077
+      - fix: 15549
+        time: 2017-04-12T06:18:45Z
+        lat: -26.84841667
+        lng: 150.8072
+  - - - '34'
+      - dave moore
+    - zonesTag:
+      - fix: 783
+        time: 2017-04-12T03:10:44Z
+        lat: -27.11796667
+        lng: 151.2432
+      - fix: 1764
+        time: 2017-04-12T04:00:42Z
+        lat: -27.04341667
+        lng: 151.0771
+      - fix: 2661
+        time: 2017-04-12T04:46:29Z
+        lat: -26.95866667
+        lng: 151.21078333
+      - fix: 3612
+        time: 2017-04-12T05:34:45Z
+        lat: -26.92533333
+        lng: 150.91678333
+      - fix: 4914
+        time: 2017-04-12T06:40:26Z
+        lat: -26.77686667
+        lng: 151.07755
+      - fix: 5764
+        time: 2017-04-12T07:23:09Z
+        lat: -26.85658333
+        lng: 150.80358333
+  - - - '39'
+      - rob degroot
+    - zonesTag:
+      - fix: 1292
+        time: 2017-04-12T03:22:20Z
+        lat: -27.11991667
+        lng: 151.23881667
+      - fix: 1635
+        time: 2017-04-12T03:45:12Z
+        lat: -27.03903333
+        lng: 151.07645
+      - fix: 1990
+        time: 2017-04-12T04:08:51Z
+        lat: -26.96066667
+        lng: 151.2097
+      - fix: 2688
+        time: 2017-04-12T04:55:21Z
+        lat: -26.92475
+        lng: 150.9154
+      - fix: 3275
+        time: 2017-04-12T05:34:28Z
+        lat: -26.78933333
+        lng: 151.07653333
+      - fix: 3713
+        time: 2017-04-12T06:03:38Z
+        lat: -26.84425
+        lng: 150.80493333
+  - - - '45'
+      - steve crosby
+    - zonesTag:
+      - fix: 559
+        time: 2017-04-12T03:21:43Z
+        lat: -27.12315
+        lng: 151.2346
+      - fix: 734
+        time: 2017-04-12T03:50:51Z
+        lat: -27.03821667
+        lng: 151.07551667
+      - fix: 942
+        time: 2017-04-12T04:25:23Z
+        lat: -26.96288333
+        lng: 151.20986667
+      - fix: 1158
+        time: 2017-04-12T05:01:09Z
+        lat: -26.92711667
+        lng: 150.91763333
+      - fix: 1399
+        time: 2017-04-12T05:41:10Z
+        lat: -26.79605
+        lng: 151.07755
+      - fix: 1624
+        time: 2017-04-12T06:18:41Z
+        lat: -26.84626667
+        lng: 150.80638333
+- - - - '35'
+      - Anatoly Reyter
+    - zonesTag:
+      - fix: 1082
+        time: 2017-04-13T03:20:31Z
+        lat: -27.11481667
+        lng: 151.25543333
+      - fix: 3794
+        time: 2017-04-13T04:51:05Z
+        lat: -26.89038333
+        lng: 150.94138333
+      - fix: 5194
+        time: 2017-04-13T05:37:50Z
+        lat: -26.83718333
+        lng: 151.16653333
+      - fix: 7878
+        time: 2017-04-13T07:07:19Z
+        lat: -27.14993333
+        lng: 151.26285
+  - - - '16'
+      - Andrew Barnes
+    - zonesTag:
+      - fix: 577
+        time: 2017-04-13T03:00:52Z
+        lat: -27.11421667
+        lng: 151.26903333
+      - fix: 1249
+        time: 2017-04-13T03:56:59Z
+        lat: -26.89026667
+        lng: 150.94141667
+      - null
+      - null
+  - - - '15'
+      - Andrew Sharpe
+    - zonesTag:
+      - fix: 1251
+        time: 2017-04-13T03:21:44Z
+        lat: -27.12041667
+        lng: 151.2379
+      - null
+      - null
+      - null
+  - - - '51'
+      - Billy Miller-Macleod
+    - zonesTag:
+      - fix: 191
+        time: 2017-04-13T03:00:29Z
+        lat: -27.11553333
+        lng: 151.2516
+      - fix: 636
+        time: 2017-04-13T04:14:34Z
+        lat: -26.84826667
+        lng: 150.94846667
+      - fix: 960
+        time: 2017-04-13T05:08:16Z
+        lat: -26.87503333
+        lng: 151.21608333
+      - fix: 1620
+        time: 2017-04-13T06:58:10Z
+        lat: -27.15231667
+        lng: 151.25693333
+  - - - '36'
+      - Brad Porter
+    - zonesTag:
+      - fix: 1681
+        time: 2017-04-13T03:00:35Z
+        lat: -27.11448333
+        lng: 151.27118333
+      - fix: 3096
+        time: 2017-04-13T04:12:48Z
+        lat: -26.85215
+        lng: 150.94845
+      - fix: 4182
+        time: 2017-04-13T05:08:06Z
+        lat: -26.87543333
+        lng: 151.21723333
+      - null
+  - - - '24'
+      - Brodrick Osborne
+    - zonesTag:
+      - fix: 965
+        time: 2017-04-13T03:01:07Z
+        lat: -27.11498333
+        lng: 151.25405
+      - null
+      - null
+      - null
+  - - - '10'
+      - Craig Taylor
+    - zonesTag:
+      - fix: 147
+        time: 2017-04-13T03:00:22Z
+        lat: -27.11688333
+        lng: 151.25013333
+      - fix: 458
+        time: 2017-04-13T03:52:14Z
+        lat: -26.897
+        lng: 150.9389
+      - fix: 656
+        time: 2017-04-13T04:25:06Z
+        lat: -26.86745
+        lng: 151.20455
+      - fix: 1037
+        time: 2017-04-13T05:28:27Z
+        lat: -27.15026667
+        lng: 151.26076667
+  - - - '49'
+      - Damian Peauril
+    - null
+  - - - '38'
+      - Dave Stevens
+    - zonesTag:
+      - fix: 152
+        time: 2017-04-13T03:00:45Z
+        lat: -27.11541667
+        lng: 151.25105
+      - fix: 645
+        time: 2017-04-13T04:22:54Z
+        lat: -26.82396667
+        lng: 150.94565
+      - fix: 926
+        time: 2017-04-13T05:09:29Z
+        lat: -26.88901667
+        lng: 151.23985
+      - null
+  - - - '48'
+      - Derek Mckee
+    - zonesTag:
+      - fix: 1994
+        time: 2017-04-13T03:01:05Z
+        lat: -27.11511667
+        lng: 151.25325
+      - fix: 4569
+        time: 2017-04-13T04:27:07Z
+        lat: -26.79208333
+        lng: 150.93386667
+      - fix: 5767
+        time: 2017-04-13T05:07:05Z
+        lat: -26.80383333
+        lng: 151.1346
+      - null
+  - - - '21'
+      - Frank Chetcuti
+    - zonesTag:
+      - fix: 269
+        time: 2017-04-13T03:01:00Z
+        lat: -27.1145
+        lng: 151.26548333
+      - fix: 1037
+        time: 2017-04-13T04:13:54Z
+        lat: -26.84746667
+        lng: 150.94778333
+      - fix: 1439
+        time: 2017-04-13T04:52:36Z
+        lat: -26.80793333
+        lng: 151.13858333
+      - fix: 2435
+        time: 2017-04-13T06:28:39Z
+        lat: -27.15345
+        lng: 151.25663333
+  - - - '29'
+      - Guy Hubbard
+    - zonesTag:
+      - fix: 181
+        time: 2017-04-13T03:00:24Z
+        lat: -27.11771667
+        lng: 151.24503333
+      - fix: 489
+        time: 2017-04-13T03:51:37Z
+        lat: -26.89623333
+        lng: 150.9391
+      - fix: 700
+        time: 2017-04-13T04:26:23Z
+        lat: -26.8472
+        lng: 151.17813333
+      - fix: 992
+        time: 2017-04-13T05:15:01Z
+        lat: -27.14995
+        lng: 151.26253333
+  - - - '27'
+      - Guy Williams
+    - zonesTag:
+      - fix: 323
+        time: 2017-04-13T03:05:34Z
+        lat: -27.11471667
+        lng: 151.25541667
+      - fix: 1635
+        time: 2017-04-13T04:54:57Z
+        lat: -26.82796667
+        lng: 150.94646667
+      - fix: 2236
+        time: 2017-04-13T05:44:59Z
+        lat: -26.79315
+        lng: 151.12593333
+      - null
+  - - - '25'
+      - Hagen Bruggemann
+    - zonesTag:
+      - fix: 977
+        time: 2017-04-13T03:01:03Z
+        lat: -27.1151
+        lng: 151.2538
+      - fix: 2412
+        time: 2017-04-13T04:13:16Z
+        lat: -26.85055
+        lng: 150.94835
+      - fix: 3726
+        time: 2017-04-13T05:19:31Z
+        lat: -26.86035
+        lng: 151.19466667
+      - null
+  - - - '46'
+      - Harrison Rowntree
+    - zonesTag:
+      - fix: 795
+        time: 2017-04-13T03:00:34Z
+        lat: -27.11553333
+        lng: 151.2522
+      - fix: 1862
+        time: 2017-04-13T03:54:17Z
+        lat: -26.89488333
+        lng: 150.93975
+      - fix: 2750
+        time: 2017-04-13T04:38:45Z
+        lat: -26.83221667
+        lng: 151.16113333
+      - fix: 3878
+        time: 2017-04-13T05:35:30Z
+        lat: -27.15166667
+        lng: 151.25781667
+  - - - '40'
+      - Hossain Tefaili
+    - zonesTag:
+      - fix: 1235
+        time: 2017-04-13T03:34:07Z
+        lat: -27.11871667
+        lng: 151.24115
+      - fix: 3698
+        time: 2017-04-13T04:57:07Z
+        lat: -26.89448333
+        lng: 150.93973333
+      - null
+      - null
+  - - - '7'
+      - James Atkinson
+    - zonesTag:
+      - fix: 1578
+        time: 2017-04-13T03:00:52Z
+        lat: -27.11496667
+        lng: 151.25385
+      - fix: 3552
+        time: 2017-04-13T04:06:40Z
+        lat: -26.86335
+        lng: 150.9477
+      - null
+      - null
+  - - - '26'
+      - Jason Kath
+    - zonesTag:
+      - fix: 2523
+        time: 2017-04-13T03:00:24Z
+        lat: -27.11525
+        lng: 151.25243333
+      - fix: 5504
+        time: 2017-04-13T03:52:51Z
+        lat: -26.89528333
+        lng: 150.93958333
+      - fix: 7311
+        time: 2017-04-13T04:23:37Z
+        lat: -26.86641667
+        lng: 151.20321667
+      - fix: 10166
+        time: 2017-04-13T05:28:23Z
+        lat: -27.1507
+        lng: 151.25948333
+  - - - '28'
+      - John Harriot
+    - zonesTag:
+      - fix: 185
+        time: 2017-04-13T03:05:21Z
+        lat: -27.1147
+        lng: 151.27106667
+      - null
+      - null
+      - null
+  - - - '37'
+      - John Spencer
+    - zonesTag:
+      - fix: 449
+        time: 2017-04-13T03:00:53Z
+        lat: -27.11506667
+        lng: 151.25338333
+      - fix: 1390
+        time: 2017-04-13T04:19:42Z
+        lat: -26.85
+        lng: 150.94845
+      - fix: 1754
+        time: 2017-04-13T04:50:06Z
+        lat: -26.80056667
+        lng: 151.13176667
+      - null
+  - - - '5'
+      - Jonny Durand
+    - zonesTag:
+      - fix: 376
+        time: 2017-04-13T03:20:47Z
+        lat: -27.11938333
+        lng: 151.24076667
+      - fix: 1352
+        time: 2017-04-13T04:09:59Z
+        lat: -26.86526667
+        lng: 150.94745
+      - fix: 1941
+        time: 2017-04-13T04:39:31Z
+        lat: -26.81706667
+        lng: 151.1462
+      - fix: 3037
+        time: 2017-04-13T05:34:45Z
+        lat: -27.15073333
+        lng: 151.2597
+  - - - '44'
+      - Josh Woods
+    - zonesTag:
+      - fix: 449
+        time: 2017-04-13T03:00:27Z
+        lat: -27.11546667
+        lng: 151.2519
+      - fix: 1061
+        time: 2017-04-13T03:51:33Z
+        lat: -26.89585
+        lng: 150.93923333
+      - fix: 1486
+        time: 2017-04-13T04:26:55Z
+        lat: -26.86161667
+        lng: 151.19646667
+      - fix: 2070
+        time: 2017-04-13T05:15:36Z
+        lat: -27.15153333
+        lng: 151.25815
+  - - - '20'
+      - Konrad Heilmann
+    - zonesTag:
+      - fix: 268
+        time: 2017-04-13T03:00:53Z
+        lat: -27.145
+        lng: 151.21653333
+      - null
+      - null
+      - null
+  - - - '1'
+      - Mark Alton
+    - zonesTag:
+      - fix: 286
+        time: 2017-04-13T04:30:12Z
+        lat: -27.12888333
+        lng: 151.22671667
+      - fix: 1245
+        time: 2017-04-13T05:50:13Z
+        lat: -26.84216667
+        lng: 150.94821667
+      - fix: 1864
+        time: 2017-04-13T06:41:46Z
+        lat: -26.8664
+        lng: 151.20308333
+      - null
+  - - - '13'
+      - Matthew Barlow
+    - zonesTag:
+      - fix: 751
+        time: 2017-04-13T03:00:37Z
+        lat: -27.11638333
+        lng: 151.24931667
+      - fix: 1504
+        time: 2017-04-13T04:03:23Z
+        lat: -26.88711667
+        lng: 150.94238333
+      - fix: 2253
+        time: 2017-04-13T05:05:48Z
+        lat: -26.86085
+        lng: 151.19553333
+      - null
+  - - - '42'
+      - Mikhail Karmazin
+    - zonesTag:
+      - fix: 665
+        time: 2017-04-13T03:00:10Z
+        lat: -27.11446667
+        lng: 151.25628333
+      - fix: 2849
+        time: 2017-04-13T04:13:03Z
+        lat: -26.84365
+        lng: 150.94825
+      - fix: 4095
+        time: 2017-04-13T04:54:35Z
+        lat: -26.79138333
+        lng: 151.12451667
+      - fix: 7473
+        time: 2017-04-13T06:47:15Z
+        lat: -27.15098333
+        lng: 151.2591
+  - - - '4'
+      - Nick Purcell
+    - zonesTag:
+      - fix: 1501
+        time: 2017-04-13T03:00:38Z
+        lat: -27.11581667
+        lng: 151.2494
+      - fix: 3148
+        time: 2017-04-13T03:55:22Z
+        lat: -26.8917
+        lng: 150.94096667
+      - fix: 4418
+        time: 2017-04-13T04:39:37Z
+        lat: -26.8173
+        lng: 151.14646667
+      - fix: 6146
+        time: 2017-04-13T05:38:32Z
+        lat: -27.15081667
+        lng: 151.25943333
+  - - - '33'
+      - Niki Longshore
+    - zonesTag:
+      - fix: 273
+        time: 2017-04-13T03:00:29Z
+        lat: -27.11556667
+        lng: 151.25573333
+      - fix: 591
+        time: 2017-04-13T03:53:31Z
+        lat: -26.89368333
+        lng: 150.94018333
+      - fix: 868
+        time: 2017-04-13T04:39:43Z
+        lat: -26.81713333
+        lng: 151.14625
+      - null
+  - - - '23'
+      - Noel Collins
+    - zonesTag:
+      - fix: 802
+        time: 2017-04-13T03:01:38Z
+        lat: -27.11405
+        lng: 151.26071667
+      - fix: 5077
+        time: 2017-04-13T04:12:53Z
+        lat: -26.86041667
+        lng: 150.94793333
+      - fix: 7749
+        time: 2017-04-13T04:57:25Z
+        lat: -26.85638333
+        lng: 151.18943333
+      - fix: 15007
+        time: 2017-04-13T06:58:23Z
+        lat: -27.15013333
+        lng: 151.26131667
+  - - - '3'
+      - Paul Allen
+    - zonesTag:
+      - fix: 168
+        time: 2017-04-13T03:53:13Z
+        lat: -27.14368333
+        lng: 151.21713333
+      - null
+      - null
+      - null
+  - - - '18'
+      - Peter Adriaans
+    - zonesTag:
+      - fix: 972
+        time: 2017-04-13T03:01:07Z
+        lat: -27.11436667
+        lng: 151.2569
+      - fix: 5526
+        time: 2017-04-13T04:17:01Z
+        lat: -26.85726667
+        lng: 150.94806667
+      - fix: 8333
+        time: 2017-04-13T05:03:48Z
+        lat: -26.84235
+        lng: 151.1723
+      - fix: 14672
+        time: 2017-04-13T06:49:27Z
+        lat: -27.15335
+        lng: 151.25573333
+  - - - '41'
+      - Peter Burkitt
+    - zonesTag:
+      - fix: 160
+        time: 2017-04-13T03:00:28Z
+        lat: -27.11405
+        lng: 151.2607
+      - fix: 941
+        time: 2017-04-13T04:04:56Z
+        lat: -26.89566667
+        lng: 150.9394
+      - null
+      - null
+  - - - '32'
+      - Rob Larkin
+    - zonesTag:
+      - fix: 448
+        time: 2017-04-13T03:06:10Z
+        lat: -27.11655
+        lng: 151.28018333
+      - fix: 2685
+        time: 2017-04-13T04:20:44Z
+        lat: -26.82401667
+        lng: 150.94548333
+      - null
+      - null
+  - - - '8'
+      - Rod Flockhart
+    - zonesTag:
+      - fix: 883
+        time: 2017-04-13T03:00:42Z
+        lat: -27.11415
+        lng: 151.26626667
+      - fix: 1942
+        time: 2017-04-13T03:53:41Z
+        lat: -26.89311667
+        lng: 150.94013333
+      - null
+      - null
+  - - - '9'
+      - Rohan Taylor
+    - zonesTag:
+      - fix: 2052
+        time: 2017-04-13T03:00:35Z
+        lat: -27.11581667
+        lng: 151.24938333
+      - fix: 5229
+        time: 2017-04-13T03:58:39Z
+        lat: -26.88803333
+        lng: 150.94216667
+      - null
+      - null
+  - - - '12'
+      - Rory Duncan
+    - zonesTag:
+      - fix: 168
+        time: 2017-04-13T03:01:03Z
+        lat: -27.11535
+        lng: 151.25458333
+      - fix: 478
+        time: 2017-04-13T03:52:46Z
+        lat: -26.89603333
+        lng: 150.93928333
+      - fix: 669
+        time: 2017-04-13T04:24:22Z
+        lat: -26.87486667
+        lng: 151.21573333
+      - fix: 973
+        time: 2017-04-13T05:14:51Z
+        lat: -27.1503
+        lng: 151.26103333
+  - - - '19'
+      - Scott Barrett
+    - zonesTag:
+      - fix: 676
+        time: 2017-04-13T03:00:35Z
+        lat: -27.11543333
+        lng: 151.2527
+      - fix: 1227
+        time: 2017-04-13T03:46:29Z
+        lat: -26.89725
+        lng: 150.9388
+      - fix: 1674
+        time: 2017-04-13T04:23:39Z
+        lat: -26.87718333
+        lng: 151.21943333
+      - fix: 2201
+        time: 2017-04-13T05:07:27Z
+        lat: -27.15136667
+        lng: 151.25823333
+  - - - '43'
+      - Simon West
+    - zonesTag:
+      - fix: 448
+        time: 2017-04-13T03:33:59Z
+        lat: -27.12018333
+        lng: 151.2382
+      - fix: 1338
+        time: 2017-04-13T04:48:14Z
+        lat: -26.91933333
+        lng: 150.9268
+      - fix: 1831
+        time: 2017-04-13T05:29:11Z
+        lat: -26.81108333
+        lng: 151.14073333
+      - null
+  - - - '22'
+      - Steve Blenkinsop
+    - zonesTag:
+      - fix: 2244
+        time: 2017-04-13T03:00:33Z
+        lat: -27.11568333
+        lng: 151.24996667
+      - fix: 5434
+        time: 2017-04-13T03:53:43Z
+        lat: -26.89418333
+        lng: 150.94001667
+      - fix: 7209
+        time: 2017-04-13T04:23:18Z
+        lat: -26.87485
+        lng: 151.21576667
+      - fix: 10276
+        time: 2017-04-13T05:14:25Z
+        lat: -27.15055
+        lng: 151.26
+  - - - '31'
+      - Tomas Kellner
+    - zonesTag:
+      - fix: 226
+        time: 2017-04-13T03:45:45Z
+        lat: -27.12176667
+        lng: 151.23703333
+      - fix: 1249
+        time: 2017-04-13T05:11:00Z
+        lat: -26.93476667
+        lng: 150.9144
+      - null
+      - null
+  - - - '2'
+      - Tony Armstrong
+    - zonesTag:
+      - fix: 1048
+        time: 2017-04-13T03:00:56Z
+        lat: -27.11433333
+        lng: 151.25893333
+      - fix: 2083
+        time: 2017-04-13T03:52:43Z
+        lat: -26.89308333
+        lng: 150.94035
+      - fix: 2707
+        time: 2017-04-13T04:23:55Z
+        lat: -26.87615
+        lng: 151.21781667
+      - fix: 3714
+        time: 2017-04-13T05:14:16Z
+        lat: -27.15111667
+        lng: 151.25873333
+  - - - '14'
+      - Tony Giammichele
+    - zonesTag:
+      - fix: 1142
+        time: 2017-04-13T03:01:14Z
+        lat: -27.11575
+        lng: 151.25086667
+      - fix: 2356
+        time: 2017-04-13T04:02:21Z
+        lat: -26.8357
+        lng: 150.94763333
+      - null
+      - null
+  - - - '17'
+      - Trevor Purcell
+    - zonesTag:
+      - fix: 693
+        time: 2017-04-13T03:01:03Z
+        lat: -27.11623333
+        lng: 151.248
+      - fix: 1923
+        time: 2017-04-13T04:02:31Z
+        lat: -26.89825
+        lng: 150.93783333
+      - fix: 2797
+        time: 2017-04-13T04:46:12Z
+        lat: -26.8179
+        lng: 151.1473
+      - null
+  - - - '6'
+      - Viv Clements
+    - zonesTag:
+      - fix: 2829
+        time: 2017-04-13T03:01:25Z
+        lat: -27.11466667
+        lng: 151.25563333
+      - fix: 7320
+        time: 2017-04-13T04:16:16Z
+        lat: -26.85946667
+        lng: 150.94801667
+      - fix: 9841
+        time: 2017-04-13T04:58:17Z
+        lat: -26.86511667
+        lng: 151.20125
+      - fix: 15596
+        time: 2017-04-13T06:34:12Z
+        lat: -27.15076667
+        lng: 151.2593
+  - - - '34'
+      - dave moore
+    - zonesTag:
+      - fix: 326
+        time: 2017-04-13T03:00:09Z
+        lat: -27.11618333
+        lng: 151.2791
+      - fix: 2469
+        time: 2017-04-13T04:48:46Z
+        lat: -26.80913333
+        lng: 150.94133333
+      - null
+      - null
+  - - - '39'
+      - rob degroot
+    - zonesTag:
+      - fix: 1016
+        time: 2017-04-13T03:23:07Z
+        lat: -27.11481667
+        lng: 151.25511667
+      - fix: 2283
+        time: 2017-04-13T04:47:35Z
+        lat: -26.889
+        lng: 150.94175
+      - fix: 2805
+        time: 2017-04-13T05:22:20Z
+        lat: -26.82601667
+        lng: 151.15488333
+      - null
+  - - - '45'
+      - steve crosby
+    - zonesTag:
+      - fix: 344
+        time: 2017-04-13T03:00:38Z
+        lat: -27.11616667
+        lng: 151.25233333
+      - fix: 724
+        time: 2017-04-13T04:03:56Z
+        lat: -26.89003333
+        lng: 150.94146667
+      - null
+      - null
+- - - - '35'
+      - Anatoly Reyter
+    - zonesTag:
+      - fix: 922
+        time: 2017-04-14T03:10:26Z
+        lat: -27.12923333
+        lng: 151.22598333
+      - fix: 3732
+        time: 2017-04-14T04:44:16Z
+        lat: -26.93165
+        lng: 150.93355
+      - null
+      - null
+  - - - '16'
+      - Andrew Barnes
+    - zonesTag:
+      - fix: 676
+        time: 2017-04-14T03:03:33Z
+        lat: -27.14116667
+        lng: 151.21756667
+      - fix: 1403
+        time: 2017-04-14T04:04:21Z
+        lat: -26.9301
+        lng: 150.93383333
+      - fix: 2471
+        time: 2017-04-14T05:33:40Z
+        lat: -26.9288
+        lng: 151.42823333
+      - null
+  - - - '15'
+      - Andrew Sharpe
+    - zonesTag:
+      - fix: 1424
+        time: 2017-04-14T03:09:53Z
+        lat: -27.1256
+        lng: 151.22998333
+      - null
+      - null
+      - null
+  - - - '51'
+      - Billy Miller-Macleod
+    - zonesTag:
+      - fix: 239
+        time: 2017-04-14T03:02:42Z
+        lat: -27.16023333
+        lng: 151.21373333
+      - fix: 647
+        time: 2017-04-14T04:10:45Z
+        lat: -26.92538333
+        lng: 150.93378333
+      - fix: 1072
+        time: 2017-04-14T05:21:29Z
+        lat: -26.92966667
+        lng: 151.42823333
+      - null
+  - - - '36'
+      - Brad Porter
+    - zonesTag:
+      - fix: 3137
+        time: 2017-04-14T03:20:52Z
+        lat: -27.14058333
+        lng: 151.21786667
+      - fix: 4404
+        time: 2017-04-14T04:25:27Z
+        lat: -26.92558333
+        lng: 150.93388333
+      - fix: 6288
+        time: 2017-04-14T06:01:33Z
+        lat: -26.93885
+        lng: 151.43308333
+      - null
+  - - - '24'
+      - Brodrick Osborne
+    - zonesTag:
+      - fix: 778
+        time: 2017-04-14T03:06:00Z
+        lat: -27.13088333
+        lng: 151.22446667
+      - fix: 2842
+        time: 2017-04-14T04:15:09Z
+        lat: -26.92978333
+        lng: 150.93395
+      - fix: 6035
+        time: 2017-04-14T06:02:00Z
+        lat: -26.93651667
+        lng: 151.43118333
+      - null
+  - - - '10'
+      - Craig Taylor
+    - zonesTag:
+      - fix: 491
+        time: 2017-04-14T03:20:25Z
+        lat: -27.16236667
+        lng: 151.21425
+      - fix: 855
+        time: 2017-04-14T04:21:09Z
+        lat: -26.92856667
+        lng: 150.93398333
+      - fix: 1337
+        time: 2017-04-14T05:41:25Z
+        lat: -26.93953333
+        lng: 151.43388333
+      - null
+  - - - '49'
+      - Damian Peauril
+    - null
+  - - - '38'
+      - Dave Stevens
+    - zonesTag:
+      - fix: 193
+        time: 2017-04-14T03:05:42Z
+        lat: -27.12731667
+        lng: 151.22846667
+      - fix: 620
+        time: 2017-04-14T04:16:47Z
+        lat: -26.92663333
+        lng: 150.93393333
+      - fix: 1125
+        time: 2017-04-14T05:40:47Z
+        lat: -26.91625
+        lng: 151.43196667
+      - null
+  - - - '48'
+      - Derek Mckee
+    - zonesTag:
+      - fix: 3359
+        time: 2017-04-14T03:39:52Z
+        lat: -27.12868333
+        lng: 151.22656667
+      - null
+      - null
+      - null
+  - - - '21'
+      - Frank Chetcuti
+    - zonesTag:
+      - fix: 413
+        time: 2017-04-14T03:05:28Z
+        lat: -27.12935
+        lng: 151.22611667
+      - fix: 1162
+        time: 2017-04-14T04:17:12Z
+        lat: -26.9249
+        lng: 150.93316667
+      - null
+      - null
+  - - - '29'
+      - Guy Hubbard
+    - zonesTag:
+      - fix: 379
+        time: 2017-04-14T03:03:22Z
+        lat: -27.13888333
+        lng: 151.21875
+      - fix: 728
+        time: 2017-04-14T04:01:24Z
+        lat: -26.93065
+        lng: 150.93371667
+      - fix: 1119
+        time: 2017-04-14T05:06:19Z
+        lat: -26.93008333
+        lng: 151.42833333
+      - fix: 1402
+        time: 2017-04-14T05:53:21Z
+        lat: -27.15296667
+        lng: 151.27145
+  - - - '27'
+      - Guy Williams
+    - zonesTag:
+      - fix: 1010
+        time: 2017-04-14T03:06:54Z
+        lat: -27.12828333
+        lng: 151.22706667
+      - null
+      - null
+      - null
+  - - - '25'
+      - Hagen Bruggemann
+    - zonesTag:
+      - fix: 1304
+        time: 2017-04-14T03:05:39Z
+        lat: -27.12778333
+        lng: 151.2276
+      - fix: 2672
+        time: 2017-04-14T04:14:46Z
+        lat: -26.92436667
+        lng: 150.9336
+      - fix: 4181
+        time: 2017-04-14T05:30:56Z
+        lat: -26.93171667
+        lng: 151.42876667
+      - fix: 5440
+        time: 2017-04-14T06:34:24Z
+        lat: -27.15276667
+        lng: 151.27121667
+  - - - '46'
+      - Harrison Rowntree
+    - zonesTag:
+      - fix: 934
+        time: 2017-04-14T03:01:51Z
+        lat: -27.12315
+        lng: 151.23406667
+      - fix: 2129
+        time: 2017-04-14T04:02:01Z
+        lat: -26.92845
+        lng: 150.93403333
+      - fix: 3645
+        time: 2017-04-14T05:18:17Z
+        lat: -26.93531667
+        lng: 151.43063333
+      - fix: 4465
+        time: 2017-04-14T05:59:38Z
+        lat: -27.15306667
+        lng: 151.27125
+  - - - '40'
+      - Hossain Tefaili
+    - zonesTag:
+      - fix: 1411
+        time: 2017-04-14T03:39:23Z
+        lat: -27.13098333
+        lng: 151.22431667
+      - null
+      - null
+      - null
+  - - - '7'
+      - James Atkinson
+    - zonesTag:
+      - fix: 1807
+        time: 2017-04-14T03:03:02Z
+        lat: -27.12128333
+        lng: 151.23653333
+      - fix: 4527
+        time: 2017-04-14T04:33:43Z
+        lat: -26.93245
+        lng: 150.93318333
+      - fix: 7168
+        time: 2017-04-14T06:01:52Z
+        lat: -26.93755
+        lng: 151.43196667
+      - null
+  - - - '26'
+      - Jason Kath
+    - zonesTag:
+      - fix: 3040
+        time: 2017-04-14T03:20:45Z
+        lat: -27.14291667
+        lng: 151.21666667
+      - fix: 5882
+        time: 2017-04-14T04:10:24Z
+        lat: -26.92871667
+        lng: 150.93405
+      - fix: 9771
+        time: 2017-04-14T05:19:37Z
+        lat: -26.93235
+        lng: 151.42901667
+      - fix: 11897
+        time: 2017-04-14T06:01:18Z
+        lat: -27.15266667
+        lng: 151.27098333
+  - - - '28'
+      - John Harriot
+    - zonesTag:
+      - fix: 595
+        time: 2017-04-14T03:42:44Z
+        lat: -27.13186667
+        lng: 151.22383333
+      - null
+      - null
+      - null
+  - - - '37'
+      - John Spencer
+    - zonesTag:
+      - fix: 580
+        time: 2017-04-14T03:06:10Z
+        lat: -27.13041667
+        lng: 151.2254
+      - fix: 1413
+        time: 2017-04-14T04:15:56Z
+        lat: -26.9234
+        lng: 150.93338333
+      - fix: 2410
+        time: 2017-04-14T05:39:21Z
+        lat: -26.93385
+        lng: 151.42953333
+      - null
+  - - - '5'
+      - Jonny Durand
+    - zonesTag:
+      - fix: 655
+        time: 2017-04-14T03:20:54Z
+        lat: -27.14273333
+        lng: 151.21675
+      - fix: 1638
+        time: 2017-04-14T04:10:27Z
+        lat: -26.92678333
+        lng: 150.93395
+      - fix: 2875
+        time: 2017-04-14T05:12:41Z
+        lat: -26.92753333
+        lng: 151.42805
+      - fix: 3743
+        time: 2017-04-14T05:56:28Z
+        lat: -27.15538333
+        lng: 151.27305
+  - - - '44'
+      - Josh Woods
+    - zonesTag:
+      - fix: 476
+        time: 2017-04-14T03:00:22Z
+        lat: -27.12348333
+        lng: 151.23353333
+      - fix: 1247
+        time: 2017-04-14T04:04:41Z
+        lat: -26.92851667
+        lng: 150.93383333
+      - fix: 2138
+        time: 2017-04-14T05:18:56Z
+        lat: -26.93438333
+        lng: 151.42978333
+      - fix: 2646
+        time: 2017-04-14T06:01:14Z
+        lat: -27.15211667
+        lng: 151.27045
+  - - - '20'
+      - Konrad Heilmann
+    - zonesTag:
+      - fix: 395
+        time: 2017-04-14T03:01:32Z
+        lat: -27.16108333
+        lng: 151.21451667
+      - fix: 808
+        time: 2017-04-14T04:10:26Z
+        lat: -26.92935
+        lng: 150.93386667
+      - fix: 1183
+        time: 2017-04-14T05:12:51Z
+        lat: -26.9271
+        lng: 151.42878333
+      - fix: 1474
+        time: 2017-04-14T06:01:13Z
+        lat: -27.15453333
+        lng: 151.27245
+  - - - '1'
+      - Mark Alton
+    - zonesTag:
+      - fix: 204
+        time: 2017-04-14T03:04:13Z
+        lat: -27.12655
+        lng: 151.22998333
+      - fix: 696
+        time: 2017-04-14T04:26:21Z
+        lat: -26.92471667
+        lng: 150.93371667
+      - null
+      - null
+  - - - '13'
+      - Matthew Barlow
+    - zonesTag:
+      - fix: 498
+        time: 2017-04-14T03:01:48Z
+        lat: -27.16681667
+        lng: 151.21478333
+      - fix: 1429
+        time: 2017-04-14T04:19:30Z
+        lat: -26.92773333
+        lng: 150.93401667
+      - fix: 2280
+        time: 2017-04-14T05:30:29Z
+        lat: -26.93551667
+        lng: 151.4304
+      - fix: 3023
+        time: 2017-04-14T06:32:26Z
+        lat: -27.1557
+        lng: 151.27315
+  - - - '42'
+      - Mikhail Karmazin
+    - zonesTag:
+      - fix: 994
+        time: 2017-04-14T03:06:01Z
+        lat: -27.12855
+        lng: 151.22698333
+      - fix: 3150
+        time: 2017-04-14T04:17:56Z
+        lat: -26.92875
+        lng: 150.93393333
+      - fix: 5331
+        time: 2017-04-14T05:30:43Z
+        lat: -26.93216667
+        lng: 151.42891667
+      - null
+  - - - '4'
+      - Nick Purcell
+    - zonesTag:
+      - fix: 1495
+        time: 2017-04-14T03:03:41Z
+        lat: -27.13973333
+        lng: 151.21838333
+      - fix: 3337
+        time: 2017-04-14T04:03:39Z
+        lat: -26.92988333
+        lng: 150.93368333
+      - fix: 5175
+        time: 2017-04-14T05:07:05Z
+        lat: -26.93271667
+        lng: 151.42936667
+      - fix: 6805
+        time: 2017-04-14T06:02:24Z
+        lat: -27.1539
+        lng: 151.27225
+  - - - '33'
+      - Niki Longshore
+    - zonesTag:
+      - fix: 335
+        time: 2017-04-14T03:01:53Z
+        lat: -27.12343333
+        lng: 151.23396667
+      - fix: 701
+        time: 2017-04-14T04:03:10Z
+        lat: -26.93228333
+        lng: 150.93335
+      - fix: 1064
+        time: 2017-04-14T05:03:47Z
+        lat: -26.93248333
+        lng: 151.42898333
+      - fix: 1418
+        time: 2017-04-14T06:03:06Z
+        lat: -27.15273333
+        lng: 151.271
+  - - - '23'
+      - Noel Collins
+    - zonesTag:
+      - fix: 1851
+        time: 2017-04-14T03:20:39Z
+        lat: -27.15465
+        lng: 151.21355
+      - fix: 5651
+        time: 2017-04-14T04:23:59Z
+        lat: -26.92845
+        lng: 150.934
+      - null
+      - null
+  - - - '18'
+      - Peter Adriaans
+    - zonesTag:
+      - fix: 2807
+        time: 2017-04-14T03:20:17Z
+        lat: -27.1246
+        lng: 151.23115
+      - fix: 7777
+        time: 2017-04-14T04:43:07Z
+        lat: -26.92955
+        lng: 150.93398333
+      - fix: 12301
+        time: 2017-04-14T05:58:31Z
+        lat: -26.91476667
+        lng: 151.43346667
+      - null
+  - - - '41'
+      - Peter Burkitt
+    - zonesTag:
+      - fix: 352
+        time: 2017-04-14T03:22:13Z
+        lat: -27.14006667
+        lng: 151.21796667
+      - fix: 1303
+        time: 2017-04-14T04:40:52Z
+        lat: -26.92448333
+        lng: 150.93365
+      - null
+      - null
+  - - - '32'
+      - Rob Larkin
+    - zonesTag:
+      - fix: 551
+        time: 2017-04-14T03:03:50Z
+        lat: -27.126
+        lng: 151.23005
+      - fix: 2933
+        time: 2017-04-14T04:29:01Z
+        lat: -26.92195
+        lng: 150.93291667
+      - null
+      - null
+  - - - '8'
+      - Rod Flockhart
+    - zonesTag:
+      - fix: 890
+        time: 2017-04-14T03:02:36Z
+        lat: -27.123
+        lng: 151.23428333
+      - fix: 2107
+        time: 2017-04-14T04:03:30Z
+        lat: -26.93198333
+        lng: 150.93345
+      - fix: 3655
+        time: 2017-04-14T05:20:56Z
+        lat: -26.93201667
+        lng: 151.42878333
+      - fix: 5200
+        time: 2017-04-14T06:38:14Z
+        lat: -27.15373333
+        lng: 151.27146667
+  - - - '9'
+      - Rohan Taylor
+    - zonesTag:
+      - fix: 3041
+        time: 2017-04-14T06:03:42Z
+        lat: -27.13303333
+        lng: 151.30451667
+      - null
+      - null
+      - null
+  - - - '12'
+      - Rory Duncan
+    - zonesTag:
+      - fix: 319
+        time: 2017-04-14T03:01:32Z
+        lat: -27.16038333
+        lng: 151.21355
+      - fix: 681
+        time: 2017-04-14T04:01:50Z
+        lat: -26.92861667
+        lng: 150.93393333
+      - fix: 1075
+        time: 2017-04-14T05:07:15Z
+        lat: -26.93293333
+        lng: 151.42925
+      - fix: 1374
+        time: 2017-04-14T05:56:51Z
+        lat: -27.1547
+        lng: 151.27271667
+  - - - '19'
+      - Scott Barrett
+    - zonesTag:
+      - fix: 593
+        time: 2017-04-14T03:04:19Z
+        lat: -27.14096667
+        lng: 151.21786667
+      - fix: 1431
+        time: 2017-04-14T04:14:10Z
+        lat: -26.92735
+        lng: 150.93406667
+      - fix: 2219
+        time: 2017-04-14T05:19:39Z
+        lat: -26.9323
+        lng: 151.42888333
+      - fix: 2872
+        time: 2017-04-14T06:13:59Z
+        lat: -27.15001667
+        lng: 151.2621
+  - - - '43'
+      - Simon West
+    - zonesTag:
+      - fix: 299
+        time: 2017-04-14T03:06:18Z
+        lat: -27.16706667
+        lng: 151.21423333
+      - fix: 1107
+        time: 2017-04-14T04:13:48Z
+        lat: -26.92546667
+        lng: 150.93381667
+      - null
+      - null
+  - - - '22'
+      - Steve Blenkinsop
+    - zonesTag:
+      - fix: 2719
+        time: 2017-04-14T03:00:54Z
+        lat: -27.12503333
+        lng: 151.23075
+      - fix: 6551
+        time: 2017-04-14T04:04:46Z
+        lat: -26.93046667
+        lng: 150.93385
+      - fix: 10246
+        time: 2017-04-14T05:06:21Z
+        lat: -26.9296
+        lng: 151.42825
+      - fix: 12939
+        time: 2017-04-14T05:51:14Z
+        lat: -27.15723333
+        lng: 151.27375
+  - - - '31'
+      - Tomas Kellner
+    - zonesTag:
+      - fix: 470
+        time: 2017-04-14T03:30:05Z
+        lat: -27.13656667
+        lng: 151.22015
+      - null
+      - null
+      - null
+  - - - '2'
+      - Tony Armstrong
+    - zonesTag:
+      - fix: 989
+        time: 2017-04-14T03:00:29Z
+        lat: -27.12573333
+        lng: 151.23041667
+      - fix: 2240
+        time: 2017-04-14T04:03:08Z
+        lat: -26.93175
+        lng: 150.93346667
+      - fix: 3482
+        time: 2017-04-14T05:05:15Z
+        lat: -26.93391667
+        lng: 151.42955
+      - fix: 4381
+        time: 2017-04-14T05:50:08Z
+        lat: -27.15708333
+        lng: 151.27351667
+  - - - '14'
+      - Tony Giammichele
+    - zonesTag:
+      - fix: 1021
+        time: 2017-04-14T03:20:43Z
+        lat: -27.16195
+        lng: 151.21373333
+      - fix: 2213
+        time: 2017-04-14T04:20:43Z
+        lat: -26.92881667
+        lng: 150.93391667
+      - null
+      - null
+  - - - '17'
+      - Trevor Purcell
+    - zonesTag:
+      - fix: 1041
+        time: 2017-04-14T03:21:13Z
+        lat: -27.14338333
+        lng: 151.21673333
+      - fix: 2253
+        time: 2017-04-14T04:21:47Z
+        lat: -26.92898333
+        lng: 150.93388333
+      - null
+      - null
+  - - - '6'
+      - Viv Clements
+    - zonesTag:
+      - fix: 4701
+        time: 2017-04-14T03:21:36Z
+        lat: -27.14181667
+        lng: 151.21711667
+      - fix: 8321
+        time: 2017-04-14T04:21:56Z
+        lat: -26.93255
+        lng: 150.93331667
+      - fix: 14057
+        time: 2017-04-14T05:57:32Z
+        lat: -26.91875
+        lng: 151.4302
+      - null
+  - - - '34'
+      - dave moore
+    - zonesTag:
+      - fix: 1472
+        time: 2017-04-14T03:22:17Z
+        lat: -27.1573
+        lng: 151.21333333
+      - null
+      - null
+      - null
+  - - - '39'
+      - rob degroot
+    - zonesTag:
+      - fix: 879
+        time: 2017-04-14T03:01:05Z
+        lat: -27.1255
+        lng: 151.2306
+      - fix: 1792
+        time: 2017-04-14T04:01:57Z
+        lat: -26.933
+        lng: 150.93291667
+      - fix: 2770
+        time: 2017-04-14T05:07:09Z
+        lat: -26.93285
+        lng: 151.42931667
+      - null
+  - - - '45'
+      - steve crosby
+    - zonesTag:
+      - fix: 268
+        time: 2017-04-14T03:01:52Z
+        lat: -27.15951667
+        lng: 151.2143
+      - fix: 795
+        time: 2017-04-14T04:29:41Z
+        lat: -26.93311667
+        lng: 150.933
+      - fix: 1295
+        time: 2017-04-14T05:52:49Z
+        lat: -26.93105
+        lng: 151.42855
+      - null
+- - - - '35'
+      - Anatoly Reyter
+    - zonesTag:
+      - fix: 633
+        time: 2017-04-15T02:59:21Z
+        lat: -27.19625
+        lng: 151.236
+      - fix: 1477
+        time: 2017-04-15T03:27:31Z
+        lat: -27.30088333
+        lng: 151.1459
+      - fix: 3933
+        time: 2017-04-15T04:49:32Z
+        lat: -26.96456667
+        lng: 151.21133333
+      - null
+      - null
+  - - - '16'
+      - Andrew Barnes
+    - zonesTag:
+      - fix: 787
+        time: 2017-04-15T03:00:57Z
+        lat: -27.19488333
+        lng: 151.23448333
+      - fix: 1060
+        time: 2017-04-15T03:23:45Z
+        lat: -27.29565
+        lng: 151.13945
+      - fix: 1766
+        time: 2017-04-15T04:22:36Z
+        lat: -26.96441667
+        lng: 151.2112
+      - fix: 2111
+        time: 2017-04-15T04:51:21Z
+        lat: -27.0429
+        lng: 151.07751667
+      - fix: 2336
+        time: 2017-04-15T05:10:03Z
+        lat: -27.15496667
+        lng: 151.25475
+  - - - '15'
+      - Andrew Sharpe
+    - zonesTag:
+      - fix: 1802
+        time: 2017-04-15T03:19:21Z
+        lat: -27.19646667
+        lng: 151.23636667
+      - fix: 5483
+        time: 2017-04-15T04:20:42Z
+        lat: -27.29268333
+        lng: 151.1354
+      - fix: 10902
+        time: 2017-04-15T05:51:01Z
+        lat: -26.9635
+        lng: 151.21663333
+      - null
+      - null
+  - - - '51'
+      - Billy Miller-Macleod
+    - zonesTag:
+      - fix: 285
+        time: 2017-04-15T03:04:52Z
+        lat: -27.1973
+        lng: 151.23826667
+      - fix: 417
+        time: 2017-04-15T03:26:52Z
+        lat: -27.29371667
+        lng: 151.13693333
+      - fix: 786
+        time: 2017-04-15T04:28:11Z
+        lat: -26.96418333
+        lng: 151.21105
+      - fix: 917
+        time: 2017-04-15T04:49:53Z
+        lat: -27.04158333
+        lng: 151.07795
+      - fix: 1047
+        time: 2017-04-15T05:11:08Z
+        lat: -27.15608333
+        lng: 151.25416667
+  - - - '36'
+      - Brad Porter
+    - zonesTag:
+      - fix: 1999
+        time: 2017-04-15T03:00:38Z
+        lat: -27.19443333
+        lng: 151.2337
+      - fix: 2359
+        time: 2017-04-15T03:18:50Z
+        lat: -27.29433333
+        lng: 151.13781667
+      - fix: 3307
+        time: 2017-04-15T04:07:14Z
+        lat: -26.96503333
+        lng: 151.21348333
+      - fix: 4097
+        time: 2017-04-15T04:47:24Z
+        lat: -27.0411
+        lng: 151.07785
+      - fix: 4511
+        time: 2017-04-15T05:08:26Z
+        lat: -27.15573333
+        lng: 151.25436667
+  - - - '24'
+      - Brodrick Osborne
+    - zonesTag:
+      - fix: 794
+        time: 2017-04-15T03:00:55Z
+        lat: -27.19753333
+        lng: 151.23846667
+      - fix: 1414
+        time: 2017-04-15T03:21:39Z
+        lat: -27.2912
+        lng: 151.13293333
+      - fix: 3298
+        time: 2017-04-15T04:24:40Z
+        lat: -26.96458333
+        lng: 151.21156667
+      - fix: 3953
+        time: 2017-04-15T04:46:33Z
+        lat: -27.04066667
+        lng: 151.07785
+      - fix: 4532
+        time: 2017-04-15T05:05:53Z
+        lat: -27.15613333
+        lng: 151.25423333
+  - - - '10'
+      - Craig Taylor
+    - zonesTag:
+      - fix: 305
+        time: 2017-04-15T03:00:37Z
+        lat: -27.18613333
+        lng: 151.22481667
+      - fix: 449
+        time: 2017-04-15T03:24:36Z
+        lat: -27.29225
+        lng: 151.1346
+      - fix: 779
+        time: 2017-04-15T04:19:28Z
+        lat: -26.9649
+        lng: 151.21286667
+      - fix: 956
+        time: 2017-04-15T04:48:44Z
+        lat: -27.0416
+        lng: 151.07783333
+      - fix: 1079
+        time: 2017-04-15T05:08:59Z
+        lat: -27.15415
+        lng: 151.25525
+  - - - '49'
+      - Damian Peauril
+    - null
+  - - - '38'
+      - Dave Stevens
+    - zonesTag:
+      - fix: 211
+        time: 2017-04-15T03:00:42Z
+        lat: -27.19493333
+        lng: 151.23533333
+      - fix: 382
+        time: 2017-04-15T03:29:10Z
+        lat: -27.29653333
+        lng: 151.14083333
+      - null
+      - null
+      - null
+  - - - '48'
+      - Derek Mckee
+    - zonesTag:
+      - fix: 2750
+        time: 2017-04-15T03:22:37Z
+        lat: -27.20365
+        lng: 151.26533333
+      - fix: 3852
+        time: 2017-04-15T03:59:27Z
+        lat: -27.30095
+        lng: 151.14596667
+      - fix: 5932
+        time: 2017-04-15T05:08:54Z
+        lat: -26.9642
+        lng: 151.21083333
+      - null
+      - null
+  - - - '21'
+      - Frank Chetcuti
+    - zonesTag:
+      - fix: 380
+        time: 2017-04-15T03:00:52Z
+        lat: -27.19436667
+        lng: 151.23456667
+      - fix: 655
+        time: 2017-04-15T03:27:27Z
+        lat: -27.30066667
+        lng: 151.1451
+      - fix: 1990
+        time: 2017-04-15T05:28:45Z
+        lat: -26.96486667
+        lng: 151.21236667
+      - fix: 2684
+        time: 2017-04-15T06:30:23Z
+        lat: -27.04156667
+        lng: 151.0779
+      - null
+  - - - '29'
+      - Guy Hubbard
+    - zonesTag:
+      - fix: 328
+        time: 2017-04-15T03:00:15Z
+        lat: -27.18543333
+        lng: 151.22386667
+      - fix: 422
+        time: 2017-04-15T03:15:51Z
+        lat: -27.29218333
+        lng: 151.13451667
+      - fix: 695
+        time: 2017-04-15T04:01:04Z
+        lat: -26.96486667
+        lng: 151.2133
+      - fix: 936
+        time: 2017-04-15T04:41:04Z
+        lat: -27.04278333
+        lng: 151.07755
+      - fix: 1062
+        time: 2017-04-15T05:01:55Z
+        lat: -27.157
+        lng: 151.25395
+  - - - '27'
+      - Guy Williams
+    - zonesTag:
+      - fix: 1169
+        time: 2017-04-15T03:25:05Z
+        lat: -27.186
+        lng: 151.22388333
+      - fix: 1429
+        time: 2017-04-15T03:46:42Z
+        lat: -27.29075
+        lng: 151.132
+      - null
+      - null
+      - null
+  - - - '25'
+      - Hagen Bruggemann
+    - zonesTag:
+      - fix: 1144
+        time: 2017-04-15T03:00:23Z
+        lat: -27.1952
+        lng: 151.2348
+      - fix: 1614
+        time: 2017-04-15T03:24:04Z
+        lat: -27.29525
+        lng: 151.13906667
+      - fix: 2776
+        time: 2017-04-15T04:22:34Z
+        lat: -26.9643
+        lng: 151.21106667
+      - fix: 3302
+        time: 2017-04-15T04:49:00Z
+        lat: -27.0411
+        lng: 151.0778
+      - fix: 3729
+        time: 2017-04-15T05:10:25Z
+        lat: -27.15365
+        lng: 151.2555
+  - - - '46'
+      - Harrison Rowntree
+    - zonesTag:
+      - fix: 938
+        time: 2017-04-15T03:01:03Z
+        lat: -27.19685
+        lng: 151.2372
+      - fix: 1288
+        time: 2017-04-15T03:18:36Z
+        lat: -27.29376667
+        lng: 151.13703333
+      - fix: 2195
+        time: 2017-04-15T04:04:15Z
+        lat: -26.96478333
+        lng: 151.2143
+      - fix: 2862
+        time: 2017-04-15T04:37:51Z
+        lat: -27.04051667
+        lng: 151.07761667
+      - fix: 3253
+        time: 2017-04-15T04:57:33Z
+        lat: -27.15518333
+        lng: 151.25478333
+  - - - '40'
+      - Hossain Tefaili
+    - zonesTag:
+      - fix: 1171
+        time: 2017-04-15T03:28:33Z
+        lat: -27.2022
+        lng: 151.27628333
+      - fix: 2465
+        time: 2017-04-15T04:12:15Z
+        lat: -27.29173333
+        lng: 151.13346667
+      - null
+      - null
+      - null
+  - - - '7'
+      - James Atkinson
+    - zonesTag:
+      - fix: 2477
+        time: 2017-04-15T03:21:08Z
+        lat: -27.20366667
+        lng: 151.26165
+      - fix: 3914
+        time: 2017-04-15T04:09:04Z
+        lat: -27.29265
+        lng: 151.13515
+      - fix: 6710
+        time: 2017-04-15T05:42:16Z
+        lat: -26.96498333
+        lng: 151.21338333
+      - null
+      - null
+  - - - '26'
+      - Jason Kath
+    - zonesTag:
+      - fix: 3011
+        time: 2017-04-15T03:00:29Z
+        lat: -27.19575
+        lng: 151.23515
+      - fix: 4121
+        time: 2017-04-15T03:19:43Z
+        lat: -27.29273333
+        lng: 151.1353
+      - fix: 7816
+        time: 2017-04-15T04:26:13Z
+        lat: -26.96406667
+        lng: 151.21075
+      - fix: 9701
+        time: 2017-04-15T04:58:49Z
+        lat: -27.04185
+        lng: 151.07781667
+      - fix: 10819
+        time: 2017-04-15T05:18:17Z
+        lat: -27.15341667
+        lng: 151.25591667
+  - - - '28'
+      - John Harriot
+    - zonesTag:
+      - fix: 495
+        time: 2017-04-15T03:30:13Z
+        lat: -27.19955
+        lng: 151.28496667
+      - fix: 1086
+        time: 2017-04-15T04:18:51Z
+        lat: -27.31345
+        lng: 151.15613333
+      - null
+      - null
+      - null
+  - - - '37'
+      - John Spencer
+    - zonesTag:
+      - fix: 596
+        time: 2017-04-15T03:00:36Z
+        lat: -27.198
+        lng: 151.24033333
+      - fix: 885
+        time: 2017-04-15T03:24:48Z
+        lat: -27.30045
+        lng: 151.14535
+      - fix: 1674
+        time: 2017-04-15T04:30:49Z
+        lat: -26.96498333
+        lng: 151.21346667
+      - fix: 1944
+        time: 2017-04-15T04:53:21Z
+        lat: -27.04018333
+        lng: 151.07763333
+      - fix: 2233
+        time: 2017-04-15T05:17:26Z
+        lat: -27.15398333
+        lng: 151.25526667
+  - - - '5'
+      - Jonny Durand
+    - zonesTag:
+      - fix: 490
+        time: 2017-04-15T03:00:11Z
+        lat: -27.18691667
+        lng: 151.22501667
+      - fix: 763
+        time: 2017-04-15T03:13:58Z
+        lat: -27.291
+        lng: 151.13241667
+      - fix: 1678
+        time: 2017-04-15T04:00:14Z
+        lat: -26.96413333
+        lng: 151.21593333
+      - null
+      - null
+  - - - '44'
+      - Josh Woods
+    - zonesTag:
+      - fix: 542
+        time: 2017-04-15T03:00:37Z
+        lat: -27.19623333
+        lng: 151.23653333
+      - fix: 766
+        time: 2017-04-15T03:19:14Z
+        lat: -27.29328333
+        lng: 151.13625
+      - fix: 1310
+        time: 2017-04-15T04:04:34Z
+        lat: -26.96505
+        lng: 151.21346667
+      - fix: 1728
+        time: 2017-04-15T04:39:17Z
+        lat: -27.04105
+        lng: 151.07783333
+      - fix: 1984
+        time: 2017-04-15T05:00:32Z
+        lat: -27.15373333
+        lng: 151.25551667
+  - - - '20'
+      - Konrad Heilmann
+    - zonesTag:
+      - fix: 164
+        time: 2017-04-15T03:04:02Z
+        lat: -27.19993333
+        lng: 151.24415
+      - fix: 270
+        time: 2017-04-15T03:21:34Z
+        lat: -27.29338333
+        lng: 151.1363
+      - fix: 558
+        time: 2017-04-15T04:09:23Z
+        lat: -26.96443333
+        lng: 151.21525
+      - fix: 748
+        time: 2017-04-15T04:40:52Z
+        lat: -27.04011667
+        lng: 151.07746667
+      - fix: 884
+        time: 2017-04-15T05:03:22Z
+        lat: -27.15831667
+        lng: 151.25371667
+  - - - '1'
+      - Mark Alton
+    - zonesTag:
+      - fix: 489
+        time: 2017-04-15T03:22:51Z
+        lat: -27.20333333
+        lng: 151.26333333
+      - fix: 1063
+        time: 2017-04-15T04:10:40Z
+        lat: -27.29365
+        lng: 151.13676667
+      - null
+      - null
+      - null
+  - - - '13'
+      - Matthew Barlow
+    - zonesTag:
+      - fix: 1443
+        time: 2017-04-15T03:54:10Z
+        lat: -27.17676667
+        lng: 151.21758333
+      - fix: 1739
+        time: 2017-04-15T04:18:52Z
+        lat: -27.29905
+        lng: 151.1439
+      - null
+      - null
+      - null
+  - - - '42'
+      - Mikhail Karmazin
+    - zonesTag:
+      - fix: 1001
+        time: 2017-04-15T03:01:04Z
+        lat: -27.1969
+        lng: 151.23738333
+      - fix: 1836
+        time: 2017-04-15T03:28:56Z
+        lat: -27.29656667
+        lng: 151.1409
+      - fix: 3736
+        time: 2017-04-15T04:32:15Z
+        lat: -26.96456667
+        lng: 151.2116
+      - fix: 4359
+        time: 2017-04-15T04:53:01Z
+        lat: -27.04123333
+        lng: 151.07795
+      - fix: 5056
+        time: 2017-04-15T05:16:14Z
+        lat: -27.1555
+        lng: 151.25451667
+  - - - '4'
+      - Nick Purcell
+    - zonesTag:
+      - fix: 1593
+        time: 2017-04-15T03:08:33Z
+        lat: -27.20135
+        lng: 151.24776667
+      - fix: 2174
+        time: 2017-04-15T03:29:57Z
+        lat: -27.29051667
+        lng: 151.1317
+      - fix: 3819
+        time: 2017-04-15T04:26:30Z
+        lat: -26.96461667
+        lng: 151.21371667
+      - fix: 4614
+        time: 2017-04-15T04:50:32Z
+        lat: -27.04281667
+        lng: 151.07763333
+      - fix: 5289
+        time: 2017-04-15T05:09:51Z
+        lat: -27.15566667
+        lng: 151.255
+  - - - '33'
+      - Niki Longshore
+    - zonesTag:
+      - fix: 387
+        time: 2017-04-15T03:03:23Z
+        lat: -27.1982
+        lng: 151.24156667
+      - fix: 516
+        time: 2017-04-15T03:25:04Z
+        lat: -27.29276667
+        lng: 151.13546667
+      - fix: 850
+        time: 2017-04-15T04:21:04Z
+        lat: -26.96491667
+        lng: 151.2136
+      - fix: 1015
+        time: 2017-04-15T04:48:30Z
+        lat: -27.04061667
+        lng: 151.07778333
+      - fix: 1136
+        time: 2017-04-15T05:08:36Z
+        lat: -27.15426667
+        lng: 151.25528333
+  - - - '23'
+      - Noel Collins
+    - zonesTag:
+      - fix: 1420
+        time: 2017-04-15T03:00:50Z
+        lat: -27.19611667
+        lng: 151.2356
+      - fix: 2894
+        time: 2017-04-15T03:25:24Z
+        lat: -27.2931
+        lng: 151.13593333
+      - fix: 6866
+        time: 2017-04-15T04:31:36Z
+        lat: -26.96498333
+        lng: 151.21366667
+      - fix: 8238
+        time: 2017-04-15T04:54:28Z
+        lat: -27.04188333
+        lng: 151.07786667
+      - fix: 9446
+        time: 2017-04-15T05:14:36Z
+        lat: -27.1513
+        lng: 151.25825
+  - - - '18'
+      - Peter Adriaans
+    - zonesTag:
+      - fix: 2402
+        time: 2017-04-15T03:20:29Z
+        lat: -27.20365
+        lng: 151.2631
+      - fix: 4475
+        time: 2017-04-15T03:55:02Z
+        lat: -27.29421667
+        lng: 151.13765
+      - fix: 8510
+        time: 2017-04-15T05:02:17Z
+        lat: -26.96495
+        lng: 151.21408333
+      - null
+      - null
+  - - - '41'
+      - Peter Burkitt
+    - zonesTag:
+      - fix: 238
+        time: 2017-04-15T03:01:22Z
+        lat: -27.19515
+        lng: 151.23465
+      - fix: 542
+        time: 2017-04-15T03:26:42Z
+        lat: -27.29383333
+        lng: 151.13596667
+      - fix: 1275
+        time: 2017-04-15T04:27:47Z
+        lat: -26.96486667
+        lng: 151.21385
+      - fix: 1593
+        time: 2017-04-15T04:54:17Z
+        lat: -27.03896667
+        lng: 151.07653333
+      - fix: 1928
+        time: 2017-04-15T05:22:12Z
+        lat: -27.1573
+        lng: 151.2541
+  - - - '32'
+      - Rob Larkin
+    - zonesTag:
+      - fix: 1833
+        time: 2017-04-15T03:44:03Z
+        lat: -27.19731667
+        lng: 151.23773333
+      - fix: 2668
+        time: 2017-04-15T04:11:53Z
+        lat: -27.2918
+        lng: 151.13391667
+      - fix: 4853
+        time: 2017-04-15T05:24:47Z
+        lat: -26.96338333
+        lng: 151.21
+      - null
+      - null
+  - - - '8'
+      - Rod Flockhart
+    - zonesTag:
+      - fix: 1000
+        time: 2017-04-15T03:00:01Z
+        lat: -27.19505
+        lng: 151.23445
+      - fix: 1385
+        time: 2017-04-15T03:19:16Z
+        lat: -27.2946
+        lng: 151.13806667
+      - fix: 2327
+        time: 2017-04-15T04:06:26Z
+        lat: -26.96471667
+        lng: 151.21361667
+      - fix: 3101
+        time: 2017-04-15T04:45:08Z
+        lat: -27.04221667
+        lng: 151.07751667
+      - fix: 3551
+        time: 2017-04-15T05:07:38Z
+        lat: -27.15408333
+        lng: 151.2553
+  - - - '9'
+      - Rohan Taylor
+    - zonesTag:
+      - fix: 649
+        time: 2017-04-15T03:04:21Z
+        lat: -27.19938333
+        lng: 151.24268333
+      - fix: 1002
+        time: 2017-04-15T03:28:35Z
+        lat: -27.29373333
+        lng: 151.137
+      - fix: 1838
+        time: 2017-04-15T04:26:53Z
+        lat: -26.96486667
+        lng: 151.21241667
+      - null
+      - null
+  - - - '12'
+      - Rory Duncan
+    - zonesTag:
+      - fix: 679
+        time: 2017-04-15T03:00:40Z
+        lat: -27.19665
+        lng: 151.23763333
+      - fix: 900
+        time: 2017-04-15T03:19:05Z
+        lat: -27.29406667
+        lng: 151.1366
+      - fix: 1412
+        time: 2017-04-15T04:01:45Z
+        lat: -26.96455
+        lng: 151.2123
+      - fix: 1850
+        time: 2017-04-15T04:38:15Z
+        lat: -27.04083333
+        lng: 151.07733333
+      - fix: 2082
+        time: 2017-04-15T04:57:35Z
+        lat: -27.15406667
+        lng: 151.25656667
+  - - - '19'
+      - Scott Barrett
+    - zonesTag:
+      - fix: 579
+        time: 2017-04-15T03:00:12Z
+        lat: -27.18941667
+        lng: 151.22721667
+      - fix: 802
+        time: 2017-04-15T03:18:48Z
+        lat: -27.29428333
+        lng: 151.13738333
+      - fix: 1306
+        time: 2017-04-15T04:00:50Z
+        lat: -26.96455
+        lng: 151.21221667
+      - fix: 1669
+        time: 2017-04-15T04:31:08Z
+        lat: -27.04145
+        lng: 151.07733333
+      - fix: 1927
+        time: 2017-04-15T04:52:38Z
+        lat: -27.15751667
+        lng: 151.25426667
+  - - - '43'
+      - Simon West
+    - zonesTag:
+      - fix: 418
+        time: 2017-04-15T03:22:30Z
+        lat: -27.2036
+        lng: 151.26585
+      - fix: 798
+        time: 2017-04-15T03:54:14Z
+        lat: -27.29836667
+        lng: 151.14305
+      - fix: 1555
+        time: 2017-04-15T04:57:26Z
+        lat: -26.965
+        lng: 151.21355
+      - fix: 2023
+        time: 2017-04-15T05:36:23Z
+        lat: -27.04185
+        lng: 151.0778
+      - fix: 2304
+        time: 2017-04-15T05:59:44Z
+        lat: -27.15416667
+        lng: 151.25533333
+  - - - '22'
+      - Steve Blenkinsop
+    - zonesTag:
+      - fix: 3868
+        time: 2017-04-15T03:22:14Z
+        lat: -27.20376667
+        lng: 151.26325
+      - fix: 5255
+        time: 2017-04-15T03:45:21Z
+        lat: -27.29598333
+        lng: 151.14016667
+      - fix: 8342
+        time: 2017-04-15T04:36:48Z
+        lat: -26.96151667
+        lng: 151.20928333
+      - fix: 11132
+        time: 2017-04-15T05:23:18Z
+        lat: -27.03943333
+        lng: 151.07713333
+      - fix: 12296
+        time: 2017-04-15T05:42:42Z
+        lat: -27.15428333
+        lng: 151.2551
+  - - - '31'
+      - Tomas Kellner
+    - zonesTag:
+      - fix: 452
+        time: 2017-04-15T03:33:29Z
+        lat: -27.20201667
+        lng: 151.25066667
+      - null
+      - null
+      - null
+      - null
+  - - - '2'
+      - Tony Armstrong
+    - zonesTag:
+      - fix: 1078
+        time: 2017-04-15T03:00:05Z
+        lat: -27.19455
+        lng: 151.23386667
+      - fix: 1473
+        time: 2017-04-15T03:19:51Z
+        lat: -27.2873
+        lng: 151.12523333
+      - fix: 2369
+        time: 2017-04-15T04:04:41Z
+        lat: -26.96475
+        lng: 151.21218333
+      - fix: 3066
+        time: 2017-04-15T04:39:31Z
+        lat: -27.0414
+        lng: 151.0777
+      - fix: 3489
+        time: 2017-04-15T05:00:37Z
+        lat: -27.1543
+        lng: 151.25523333
+  - - - '14'
+      - Tony Giammichele
+    - zonesTag:
+      - fix: 655
+        time: 2017-04-15T03:00:50Z
+        lat: -27.19643333
+        lng: 151.23663333
+      - fix: 1133
+        time: 2017-04-15T03:24:57Z
+        lat: -27.29355
+        lng: 151.13666667
+      - fix: 2364
+        time: 2017-04-15T04:27:02Z
+        lat: -26.96488333
+        lng: 151.21296667
+      - fix: 3019
+        time: 2017-04-15T05:00:00Z
+        lat: -27.04208333
+        lng: 151.07776667
+      - fix: 3755
+        time: 2017-04-15T05:37:06Z
+        lat: -27.15348333
+        lng: 151.25581667
+  - - - '17'
+      - Trevor Purcell
+    - zonesTag:
+      - fix: 799
+        time: 2017-04-15T03:00:33Z
+        lat: -27.19556667
+        lng: 151.23525
+      - fix: 1256
+        time: 2017-04-15T03:23:23Z
+        lat: -27.29538333
+        lng: 151.13895
+      - fix: 2481
+        time: 2017-04-15T04:24:35Z
+        lat: -26.96448333
+        lng: 151.21195
+      - fix: 2935
+        time: 2017-04-15T04:47:17Z
+        lat: -27.04295
+        lng: 151.07758333
+      - fix: 3329
+        time: 2017-04-15T05:06:57Z
+        lat: -27.15263333
+        lng: 151.25646667
+  - - - '6'
+      - Viv Clements
+    - zonesTag:
+      - fix: 3735
+        time: 2017-04-15T03:01:28Z
+        lat: -27.19623333
+        lng: 151.23576667
+      - fix: 5098
+        time: 2017-04-15T03:24:11Z
+        lat: -27.29936667
+        lng: 151.14413333
+      - fix: 8947
+        time: 2017-04-15T04:28:20Z
+        lat: -26.96488333
+        lng: 151.21233333
+      - fix: 11498
+        time: 2017-04-15T05:10:51Z
+        lat: -27.04061667
+        lng: 151.0778
+      - fix: 13960
+        time: 2017-04-15T05:51:53Z
+        lat: -27.15456667
+        lng: 151.25503333
+  - - - '34'
+      - dave moore
+    - zonesTag:
+      - fix: 754
+        time: 2017-04-15T03:23:42Z
+        lat: -27.20338333
+        lng: 151.26918333
+      - fix: 1847
+        time: 2017-04-15T04:19:40Z
+        lat: -27.29778333
+        lng: 151.14231667
+      - fix: 3502
+        time: 2017-04-15T05:44:30Z
+        lat: -26.96491667
+        lng: 151.21271667
+      - null
+      - null
+  - - - '39'
+      - rob degroot
+    - zonesTag:
+      - fix: 886
+        time: 2017-04-15T03:00:31Z
+        lat: -27.19576667
+        lng: 151.23605
+      - fix: 1228
+        time: 2017-04-15T03:23:16Z
+        lat: -27.295
+        lng: 151.13843333
+      - fix: 2101
+        time: 2017-04-15T04:21:26Z
+        lat: -26.96453333
+        lng: 151.21176667
+      - fix: 2528
+        time: 2017-04-15T04:49:54Z
+        lat: -27.04255
+        lng: 151.0775
+      - fix: 2804
+        time: 2017-04-15T05:08:17Z
+        lat: -27.1551
+        lng: 151.25506667
+  - - - '45'
+      - steve crosby
+    - zonesTag:
+      - fix: 307
+        time: 2017-04-15T03:01:12Z
+        lat: -27.19623333
+        lng: 151.23846667
+      - fix: 440
+        time: 2017-04-15T03:23:22Z
+        lat: -27.29041667
+        lng: 151.13143333
+      - fix: 800
+        time: 2017-04-15T04:23:11Z
+        lat: -26.96446667
+        lng: 151.21145
+      - fix: 945
+        time: 2017-04-15T04:47:13Z
+        lat: -27.04051667
+        lng: 151.07766667
+      - fix: 1060
+        time: 2017-04-15T05:06:09Z
+        lat: -27.15418333
+        lng: 151.2552

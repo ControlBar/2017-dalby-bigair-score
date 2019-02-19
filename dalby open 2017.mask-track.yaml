@@ -1,0 +1,174 @@
+pilotsAtEss:
+- 1
+- 0
+- 0
+- 0
+- 0
+raceTime:
+- openTask: 2017-04-09T03:20:00Z
+  closeTask: 2017-04-09T10:00:00Z
+  firstStart: 2017-04-08T03:40:53Z
+  firstLead: 2017-04-08T03:40:53Z
+  lastArrival: 2017-04-09T07:35:25Z
+  leadAllDown: 101209
+  leadArrival: 100472
+  leadClose: 109147
+  openClose: 24000
+  tickClose: 109147
+- openTask: 2017-04-12T03:00:00Z
+  closeTask: 2017-04-12T10:00:00Z
+  firstStart: 2017-04-12T02:57:14Z
+  firstLead: 2017-04-12T02:57:14Z
+  lastArrival: 2017-04-12T07:23:09Z
+  leadAllDown: 17301
+  leadArrival: 15955
+  leadClose: 25366
+  openClose: 25200
+  tickClose: 25366
+- openTask: 2017-04-13T03:00:00Z
+  closeTask: 2017-04-13T10:00:00Z
+  firstStart: 2017-04-13T03:00:09Z
+  firstLead: 2017-04-13T03:00:09Z
+  lastArrival: 2017-04-13T07:07:19Z
+  leadAllDown: 15039
+  leadArrival: 14830
+  leadClose: 25191
+  openClose: 25200
+  tickClose: 25191
+- openTask: 2017-04-14T03:00:00Z
+  closeTask: 2017-04-14T10:00:00Z
+  firstStart: 2017-04-14T03:00:22Z
+  firstLead: 2017-04-14T03:00:22Z
+  lastArrival: 2017-04-14T06:38:14Z
+  leadAllDown: 15108
+  leadArrival: 13072
+  leadClose: 25178
+  openClose: 25200
+  tickClose: 25178
+- openTask: 2017-04-15T03:00:00Z
+  closeTask: 2017-04-15T10:00:00Z
+  firstStart: 2017-04-15T02:59:21Z
+  firstLead: 2017-04-15T02:59:21Z
+  lastArrival: 2017-04-15T05:59:44Z
+  leadAllDown: 14486
+  leadArrival: 10823
+  leadClose: 25239
+  openClose: 25200
+  tickClose: 25239
+ssBestTime:
+- 2.643611 h
+- null
+- null
+- null
+- null
+gsBestTime:
+- -20.999444 h
+- null
+- null
+- null
+- null
+taskDistance:
+- 99.562347 km
+- 111.262288 km
+- 96.914887 km
+- 114.375521 km
+- 88.973358 km
+taskSpeedDistance:
+- 99.562347 km
+- 111.262288 km
+- 96.914887 km
+- 114.375521 km
+- 88.973358 km
+bestDistance:
+- 99.562347 km
+- null
+- null
+- null
+- null
+sumDistance:
+- 94.562347 km
+- null
+- null
+- null
+- null
+leadScaling:
+- 5.604505e-8
+- 4.48778e-8
+- 5.914888e-8
+- 4.246795e-8
+- 7.017906e-8
+leadCoefMin:
+- 1.72692301
+- null
+- null
+- null
+- null
+lead:
+- - - - '19'
+      - Scott Barrett
+    - coef: 1.72692301
+      frac: 1
+- []
+- []
+- []
+- []
+arrival:
+- - - - '19'
+      - Scott Barrett
+    - rank: '1'
+      frac: 1
+- []
+- []
+- []
+- []
+ssSpeed:
+- - - - '19'
+      - Scott Barrett
+    - time: 2.643611 h
+      frac: 1
+- []
+- []
+- []
+- []
+gsSpeed:
+- - - - '19'
+      - Scott Barrett
+    - time: -20.999444 h
+      frac: 269653970229347386159395778618353710042696546841345985910145121736599013708251444699062715983611304031680170819807090036488184653221624933739271145959211186566651840137298227914453329401869141179179624428127508653257226023513694322210869665811240855745025766026879447359920868907719574457253034494436336205825
+- []
+- []
+- []
+- []
+nigh:
+- []
+- []
+- []
+- []
+- []
+land:
+- - - - '49'
+      - Damian Peauril
+    - togo: 94.562347 km
+      made: 5.000000 km
+- - - - '49'
+      - Damian Peauril
+    - togo: 106.262288 km
+      made: 5.000000 km
+- - - - '49'
+      - Damian Peauril
+    - togo: 91.914887 km
+      made: 5.000000 km
+- - - - '49'
+      - Damian Peauril
+    - togo: 109.375521 km
+      made: 5.000000 km
+- - - - '49'
+      - Damian Peauril
+    - togo: 83.973358 km
+      made: 5.000000 km
+altStopped:
+- []
+- []
+- []
+- []
+- []
