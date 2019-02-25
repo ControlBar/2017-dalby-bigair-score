@@ -295,127 +295,127 @@ lead:
   - - - '10'
       - Craig Taylor
     - coef: 2.09998242
-      frac: 0.94276781
+      frac: 0.93533652
   - - - '42'
       - Mikhail Karmazin
     - coef: 2.12674066
-      frac: 0.89869407
+      frac: 0.88554004
   - - - '13'
       - Matthew Barlow
     - coef: 2.3361076
-      frac: 0.68427275
+      frac: 0.64327726
   - - - '22'
       - Steve Blenkinsop
     - coef: 2.46538806
-      frac: 0.58531499
+      frac: 0.53147037
   - - - '29'
       - Guy Hubbard
     - coef: 2.48867243
-      frac: 0.56876588
+      frac: 0.51277245
   - - - '44'
       - Josh Woods
     - coef: 2.49083524
-      frac: 0.56724487
+      frac: 0.51105395
   - - - '4'
       - Nick Purcell
     - coef: 2.49576791
-      frac: 0.5637859
+      frac: 0.50714584
   - - - '33'
       - Niki Longshore
     - coef: 2.49900617
-      frac: 0.56152255
+      frac: 0.50458861
   - - - '41'
       - Peter Burkitt
     - coef: 2.50144267
-      frac: 0.55982342
+      frac: 0.50266886
   - - - '2'
       - Tony Armstrong
     - coef: 2.50311273
-      frac: 0.55866068
+      frac: 0.50135514
   - - - '19'
       - Scott Barrett
     - coef: 2.53045647
-      frac: 0.53983505
+      frac: 0.4800851
   - - - '26'
       - Jason Kath
     - coef: 2.60974988
-      frac: 0.48727854
+      frac: 0.42070442
   - - - '39'
       - rob degroot
     - coef: 2.63390827
-      frac: 0.47179999
+      frac: 0.40321606
   - - - '46'
       - Harrison Rowntree
     - coef: 2.65380012
-      frac: 0.45922344
+      frac: 0.38900652
   - - - '9'
       - Rohan Taylor
     - coef: 2.73966696
-      frac: 0.40651556
+      frac: 0.32945479
   - - - '25'
       - Hagen Bruggemann
     - coef: 2.90640231
-      frac: 0.31027708
+      frac: 0.22072026
   - - - '6'
       - Viv Clements
     - coef: 2.9358769
-      frac: 0.2939686
+      frac: 0.20229422
   - - - '17'
       - Trevor Purcell
     - coef: 2.9432337
-      frac: 0.28992742
+      frac: 0.19772831
   - - - '45'
       - steve crosby
     - coef: 2.95364227
-      frac: 0.28422941
+      frac: 0.19129045
   - - - '38'
       - Dave Stevens
     - coef: 3.11193045
-      frac: 0.20017131
+      frac: 9.631786e-2
   - - - '5'
       - Jonny Durand
     - coef: 3.12005707
-      frac: 0.19597666
+      frac: 9.157856e-2
   - - - '37'
       - John Spencer
     - coef: 3.13483944
-      frac: 0.18837448
+      frac: 8.298927e-2
   - - - '12'
       - Rory Duncan
     - coef: 3.15056632
-      frac: 0.18032544
+      frac: 7.389511e-2
   - - - '21'
       - Frank Chetcuti
     - coef: 3.21360462
-      frac: 0.14844963
+      frac: 3.78804e-2
   - - - '36'
       - Brad Porter
     - coef: 3.27688493
-      frac: 0.11704067
+      frac: 2.39314e-3
   - - - '14'
       - Tony Giammichele
     - coef: 3.29057014
-      frac: 0.11032159
+      frac: 0
   - - - '16'
       - Andrew Barnes
     - coef: 3.29394319
-      frac: 0.10866941
+      frac: 0
   - - - '8'
       - Rod Flockhart
     - coef: 3.35878187
-      frac: 7.720113e-2
+      frac: 0
   - - - '51'
       - Billy Miller-Macleod
     - coef: 3.39245067
-      frac: 6.107098e-2
+      frac: 0
   - - - '7'
       - James Atkinson
     - coef: 3.47276404
-      frac: 2.314046e-2
+      frac: 0
   - - - '1'
       - Mark Alton
     - coef: 3.47935388
-      frac: 2.006104e-2
+      frac: 0
   - - - '24'
       - Brodrick Osborne
     - coef: 3.55437421
@@ -479,107 +479,107 @@ lead:
   - - - '26'
       - Jason Kath
     - coef: 1.40720542
-      frac: 0.93064615
+      frac: 0.92677113
   - - - '22'
       - Steve Blenkinsop
     - coef: 1.40979574
-      frac: 0.92518194
+      frac: 0.92100161
   - - - '12'
       - Rory Duncan
     - coef: 1.44076192
-      frac: 0.8701876
+      frac: 0.86293455
   - - - '2'
       - Tony Armstrong
     - coef: 1.44262483
-      frac: 0.86727562
+      frac: 0.85985987
   - - - '10'
       - Craig Taylor
     - coef: 1.45484927
-      frac: 0.84889483
+      frac: 0.84045208
   - - - '44'
       - Josh Woods
     - coef: 1.45903881
-      frac: 0.84285107
+      frac: 0.83407064
   - - - '29'
       - Guy Hubbard
     - coef: 1.49154017
-      frac: 0.79930851
+      frac: 0.78809522
   - - - '33'
       - Niki Longshore
     - coef: 1.6528536
-      frac: 0.62794141
+      frac: 0.60715327
   - - - '4'
       - Nick Purcell
     - coef: 1.66428987
-      frac: 0.61739753
+      frac: 0.59602026
   - - - '46'
       - Harrison Rowntree
     - coef: 1.6922258
-      frac: 0.59222924
+      frac: 0.56944574
   - - - '36'
       - Brad Porter
     - coef: 2.03590401
-      frac: 0.32680567
+      frac: 0.28919207
   - - - '21'
       - Frank Chetcuti
     - coef: 2.03615611
-      frac: 0.32663166
+      frac: 0.28900834
   - - - '51'
       - Billy Miller-Macleod
     - coef: 2.03838108
-      frac: 0.32509696
+      frac: 0.2873879
   - - - '6'
       - Viv Clements
     - coef: 2.05967143
-      frac: 0.31049869
+      frac: 0.27197397
   - - - '25'
       - Hagen Bruggemann
     - coef: 2.06654638
-      frac: 0.30581768
+      frac: 0.26703141
   - - - '13'
       - Matthew Barlow
     - coef: 2.10173615
-      frac: 0.28209958
+      frac: 0.24198811
   - - - '37'
       - John Spencer
     - coef: 2.11282579
-      frac: 0.27470619
+      frac: 0.23418162
   - - - '5'
       - Jonny Durand
     - coef: 2.14336068
-      frac: 0.25454027
+      frac: 0.21288896
   - - - '23'
       - Noel Collins
     - coef: 2.16383025
-      frac: 0.24117329
+      frac: 0.19877513
   - - - '42'
       - Mikhail Karmazin
     - coef: 2.19877744
-      frac: 0.21861974
+      frac: 0.17496144
   - - - '18'
       - Peter Adriaans
     - coef: 2.21022057
-      frac: 0.21130543
+      frac: 0.16723845
   - - - '17'
       - Trevor Purcell
     - coef: 2.24448774
-      frac: 0.18960177
+      frac: 0.14432214
   - - - '9'
       - Rohan Taylor
     - coef: 2.27176721
-      frac: 0.17252967
+      frac: 0.12629617
   - - - '16'
       - Andrew Barnes
     - coef: 2.36769773
-      frac: 0.11383388
+      frac: 6.432085e-2
   - - - '38'
       - Dave Stevens
     - coef: 2.39732658
-      frac: 9.60973e-2
+      frac: 4.559326e-2
   - - - '7'
       - James Atkinson
     - coef: 2.5201432
-      frac: 2.434367e-2
+      frac: 0
   - - - '48'
       - Derek Mckee
     - coef: 2.7019935
@@ -663,135 +663,135 @@ lead:
   - - - '29'
       - Guy Hubbard
     - coef: 2.03066914
-      frac: 0.96252116
+      frac: 0.95786036
   - - - '39'
       - rob degroot
     - coef: 2.03331764
-      frac: 0.95635191
+      frac: 0.95092392
   - - - '22'
       - Steve Blenkinsop
     - coef: 2.03891349
-      frac: 0.94455391
+      frac: 0.93765874
   - - - '33'
       - Niki Longshore
     - coef: 2.04319144
-      frac: 0.93633058
+      frac: 0.92841278
   - - - '4'
       - Nick Purcell
     - coef: 2.04969288
-      frac: 0.92475681
+      frac: 0.91539971
   - - - '12'
       - Rory Duncan
     - coef: 2.04994804
-      frac: 0.92432116
+      frac: 0.91490988
   - - - '46'
       - Harrison Rowntree
     - coef: 2.1124829
-      frac: 0.83864523
+      frac: 0.81857946
   - - - '44'
       - Josh Woods
     - coef: 2.12519625
-      frac: 0.8241228
+      frac: 0.80225104
   - - - '8'
       - Rod Flockhart
     - coef: 2.12805077
-      frac: 0.82094467
+      frac: 0.79867769
   - - - '19'
       - Scott Barrett
     - coef: 2.21270284
-      frac: 0.73641897
+      frac: 0.70364054
   - - - '16'
       - Andrew Barnes
     - coef: 2.22071175
-      frac: 0.7291522
+      frac: 0.69547008
   - - - '20'
       - Konrad Heilmann
     - coef: 2.25649842
-      frac: 0.69779143
+      frac: 0.66020935
   - - - '5'
       - Jonny Durand
     - coef: 2.38948339
-      frac: 0.59295578
+      frac: 0.54233654
   - - - '26'
       - Jason Kath
     - coef: 2.4202857
-      frac: 0.57061535
+      frac: 0.5172179
   - - - '51'
       - Billy Miller-Macleod
     - coef: 2.46004048
-      frac: 0.54261194
+      frac: 0.48573203
   - - - '25'
       - Hagen Bruggemann
     - coef: 2.46836146
-      frac: 0.53685931
+      frac: 0.47926402
   - - - '13'
       - Matthew Barlow
     - coef: 2.50706727
-      frac: 0.51055376
+      frac: 0.44968716
   - - - '42'
       - Mikhail Karmazin
     - coef: 2.50757507
-      frac: 0.51021338
+      frac: 0.44930445
   - - - '38'
       - Dave Stevens
     - coef: 2.56900699
-      frac: 0.46986293
+      frac: 0.4039361
   - - - '24'
       - Brodrick Osborne
     - coef: 2.65744435
-      frac: 0.41432435
+      frac: 0.34149084
   - - - '37'
       - John Spencer
     - coef: 2.68771155
-      frac: 0.39591845
+      frac: 0.32079602
   - - - '10'
       - Craig Taylor
     - coef: 2.85490373
-      frac: 0.29882756
+      frac: 0.21163109
   - - - '45'
       - steve crosby
     - coef: 2.87244974
-      frac: 0.28903378
+      frac: 0.20061938
   - - - '6'
       - Viv Clements
     - coef: 2.92848315
-      frac: 0.25819716
+      frac: 0.16594798
   - - - '7'
       - James Atkinson
     - coef: 2.99088598
-      frac: 0.22459246
+      frac: 0.12816426
   - - - '43'
       - Simon West
     - coef: 2.99493921
-      frac: 0.22243506
+      frac: 0.12573857
   - - - '23'
       - Noel Collins
     - coef: 3.02292393
-      frac: 0.20762046
+      frac: 0.10908165
   - - - '17'
       - Trevor Purcell
     - coef: 3.02790792
-      frac: 0.20499656
+      frac: 0.10613145
   - - - '21'
       - Frank Chetcuti
     - coef: 3.06605123
-      frac: 0.18505656
+      frac: 8.371175e-2
   - - - '36'
       - Brad Porter
     - coef: 3.13881205
-      frac: 0.14767872
+      frac: 4.168567e-2
   - - - '18'
       - Peter Adriaans
     - coef: 3.26574196
-      frac: 8.435592e-2
+      frac: 0
   - - - '35'
       - Anatoly Reyter
     - coef: 3.2934234
-      frac: 7.083756e-2
+      frac: 0
   - - - '14'
       - Tony Giammichele
     - coef: 3.29573141
-      frac: 6.971488e-2
+      frac: 0
   - - - '41'
       - Peter Burkitt
     - coef: 3.61639304
@@ -839,119 +839,119 @@ lead:
   - - - '19'
       - Scott Barrett
     - coef: 1.27437113
-      frac: 0.91918201
+      frac: 0.91613432
   - - - '12'
       - Rory Duncan
     - coef: 1.30538043
-      frac: 0.86296963
+      frac: 0.85780215
   - - - '46'
       - Harrison Rowntree
     - coef: 1.3227608
-      frac: 0.83622394
+      frac: 0.83004787
   - - - '44'
       - Josh Woods
     - coef: 1.33538523
-      frac: 0.8181053
+      frac: 0.81124597
   - - - '2'
       - Tony Armstrong
     - coef: 1.3472886
-      frac: 0.80181383
+      frac: 0.79434014
   - - - '8'
       - Rod Flockhart
     - coef: 1.36248692
-      frac: 0.78193663
+      frac: 0.77371336
   - - - '36'
       - Brad Porter
     - coef: 1.37543217
-      frac: 0.76569673
+      frac: 0.75686104
   - - - '20'
       - Konrad Heilmann
     - coef: 1.39643447
-      frac: 0.74047803
+      frac: 0.73069134
   - - - '5'
       - Jonny Durand
     - coef: 1.5044443
-      frac: 0.62584234
+      frac: 0.61173268
   - - - '39'
       - rob degroot
     - coef: 1.54939791
-      frac: 0.58319094
+      frac: 0.56747288
   - - - '26'
       - Jason Kath
     - coef: 1.560601
-      frac: 0.57290158
+      frac: 0.5567955
   - - - '16'
       - Andrew Barnes
     - coef: 1.57029269
-      frac: 0.56409938
+      frac: 0.54766137
   - - - '10'
       - Craig Taylor
     - coef: 1.57184371
-      frac: 0.56269897
+      frac: 0.54620814
   - - - '24'
       - Brodrick Osborne
     - coef: 1.57274061
-      frac: 0.56189018
+      frac: 0.54536886
   - - - '25'
       - Hagen Bruggemann
     - coef: 1.57974394
-      frac: 0.55560033
+      frac: 0.53884181
   - - - '17'
       - Trevor Purcell
     - coef: 1.58118047
-      frac: 0.55431565
+      frac: 0.53750869
   - - - '45'
       - steve crosby
     - coef: 1.58752584
-      frac: 0.548663
+      frac: 0.53164288
   - - - '33'
       - Niki Longshore
     - coef: 1.61413282
-      frac: 0.52533401
+      frac: 0.50743413
   - - - '51'
       - Billy Miller-Macleod
     - coef: 1.67637648
-      frac: 0.47285954
+      frac: 0.45298083
   - - - '14'
       - Tony Giammichele
     - coef: 1.68044117
-      frac: 0.46952482
+      frac: 0.44952036
   - - - '23'
       - Noel Collins
     - coef: 1.74582856
-      frac: 0.41723294
+      frac: 0.39525653
   - - - '37'
       - John Spencer
     - coef: 1.74644401
-      frac: 0.41675206
+      frac: 0.39475751
   - - - '41'
       - Peter Burkitt
     - coef: 1.74670643
-      frac: 0.41654709
+      frac: 0.39454481
   - - - '42'
       - Mikhail Karmazin
     - coef: 1.74785034
-      frac: 0.41565398
+      frac: 0.39361802
   - - - '4'
       - Nick Purcell
     - coef: 1.76031199
-      frac: 0.40596831
+      frac: 0.3835671
   - - - '6'
       - Viv Clements
     - coef: 1.80966303
-      frac: 0.36835679
+      frac: 0.34453724
   - - - '9'
       - Rohan Taylor
     - coef: 1.94874639
-      frac: 0.26785021
+      frac: 0.24024051
   - - - '35'
       - Anatoly Reyter
     - coef: 2.24521145
-      frac: 7.351884e-2
+      frac: 3.858081e-2
   - - - '22'
       - Steve Blenkinsop
     - coef: 2.33558125
-      frac: 1.832049e-2
+      frac: 0
   - - - '43'
       - Simon West
     - coef: 2.75212145
@@ -1457,87 +1457,87 @@ ssSpeed:
   - - - '19'
       - Scott Barrett
     - time: 2.643333 h
-      frac: 0.76445188
+      frac: 0.72625271
   - - - '20'
       - Konrad Heilmann
     - time: 2.650833 h
-      frac: 0.75793351
+      frac: 0.71867725
   - - - '22'
       - Steve Blenkinsop
     - time: 2.651944 h
-      frac: 0.75697531
+      frac: 0.71756365
   - - - '26'
       - Jason Kath
     - time: 2.652222 h
-      frac: 0.75673605
+      frac: 0.71728559
   - - - '46'
       - Harrison Rowntree
     - time: 2.656667 h
-      frac: 0.75292378
+      frac: 0.71285509
   - - - '44'
       - Josh Woods
     - time: 2.669444 h
-      frac: 0.7421231
+      frac: 0.70030284
   - - - '13'
       - Matthew Barlow
     - time: 2.741944 h
-      frac: 0.68458621
+      frac: 0.63343511
   - - - '6'
       - Viv Clements
     - time: 2.856944 h
-      frac: 0.60272102
+      frac: 0.53829373
   - - - '16'
       - Andrew Barnes
     - time: 2.858333 h
-      frac: 0.6017857
+      frac: 0.53720672
   - - - '17'
       - Trevor Purcell
     - time: 2.946111 h
-      frac: 0.54470686
+      frac: 0.47087133
   - - - '51'
       - Billy Miller-Macleod
     - time: 2.996944 h
-      frac: 0.51324778
+      frac: 0.43431048
   - - - '25'
       - Hagen Bruggemann
     - time: 3.076944 h
-      frac: 0.46569056
+      frac: 0.37904084
   - - - '39'
       - rob degroot
     - time: 3.079167 h
-      frac: 0.46440015
+      frac: 0.37754117
   - - - '36'
       - Brad Porter
     - time: 3.099444 h
-      frac: 0.45269598
+      frac: 0.36393891
   - - - '45'
       - steve crosby
     - time: 3.100278 h
-      frac: 0.45221767
+      frac: 0.36338304
   - - - '33'
       - Niki Longshore
     - time: 3.172222 h
-      frac: 0.41167395
+      frac: 0.31626428
   - - - '27'
       - Guy Williams
     - time: 3.185000 h
-      frac: 0.40461976
+      frac: 0.30806611
   - - - '14'
       - Tony Giammichele
     - time: 3.206944 h
-      frac: 0.39260136
+      frac: 0.29409866
   - - - '24'
       - Brodrick Osborne
     - time: 3.386111 h
-      frac: 0.29851776
+      frac: 0.18475739
   - - - '37'
       - John Spencer
     - time: 3.435833 h
-      frac: 0.27352514
+      frac: 0.15571169
   - - - '21'
       - Frank Chetcuti
     - time: 3.866667 h
-      frac: 7.220461e-2
+      frac: 0
 - - - - '22'
       - Steve Blenkinsop
     - time: 2.369722 h
@@ -1545,99 +1545,99 @@ ssSpeed:
   - - - '4'
       - Nick Purcell
     - time: 2.376389 h
-      frac: 0.97343111
+      frac: 0.96932229
   - - - '44'
       - Josh Woods
     - time: 2.378333 h
-      frac: 0.96848817
+      frac: 0.96361493
   - - - '2'
       - Tony Armstrong
     - time: 2.379444 h
-      frac: 0.96583266
+      frac: 0.96054875
   - - - '29'
       - Guy Hubbard
     - time: 2.388056 h
-      frac: 0.9478491
+      frac: 0.93978407
   - - - '5'
       - Jonny Durand
     - time: 2.519722 h
-      frac: 0.78824759
+      frac: 0.75550052
   - - - '33'
       - Niki Longshore
     - time: 2.579167 h
-      frac: 0.73546686
+      frac: 0.69455737
   - - - '12'
       - Rory Duncan
     - time: 2.589167 h
-      frac: 0.72711233
+      frac: 0.68491082
   - - - '39'
       - rob degroot
     - time: 2.688333 h
-      frac: 0.650102
+      frac: 0.595991
   - - - '16'
       - Andrew Barnes
     - time: 2.725278 h
-      frac: 0.62355127
+      frac: 0.56533427
   - - - '20'
       - Konrad Heilmann
     - time: 2.766667 h
-      frac: 0.59487659
+      frac: 0.5322251
   - - - '46'
       - Harrison Rowntree
     - time: 2.780000 h
-      frac: 0.58585459
+      frac: 0.52180787
   - - - '9'
       - Rohan Taylor
     - time: 2.854444 h
-      frac: 0.5371615
+      frac: 0.4655845
   - - - '8'
       - Rod Flockhart
     - time: 2.878889 h
-      frac: 0.52172887
+      frac: 0.44776524
   - - - '10'
       - Craig Taylor
     - time: 2.894722 h
-      frac: 0.51186451
+      frac: 0.43637537
   - - - '42'
       - Mikhail Karmazin
     - time: 2.929444 h
-      frac: 0.4905723
+      frac: 0.41179038
   - - - '6'
       - Viv Clements
     - time: 2.938611 h
-      frac: 0.48502539
+      frac: 0.40538564
   - - - '45'
       - steve crosby
     - time: 2.949444 h
-      frac: 0.4785082
+      frac: 0.39786058
   - - - '25'
       - Hagen Bruggemann
     - time: 2.966389 h
-      frac: 0.46839543
+      frac: 0.3861839
   - - - '7'
       - James Atkinson
     - time: 2.981111 h
-      frac: 0.45968642
+      frac: 0.37612806
   - - - '26'
       - Jason Kath
     - time: 2.982778 h
-      frac: 0.45870493
+      frac: 0.37499477
   - - - '37'
       - John Spencer
     - time: 3.189167 h
-      frac: 0.34317875
+      frac: 0.24160271
   - - - '38'
       - Dave Stevens
     - time: 3.216111 h
-      frac: 0.32885841
+      frac: 0.22506776
   - - - '14'
       - Tony Giammichele
     - time: 3.336389 h
-      frac: 0.26669381
+      frac: 0.15328955
   - - - '21'
       - Frank Chetcuti
     - time: 3.594167 h
-      frac: 0.14152647
+      frac: 8.76533e-3
   - - - '34'
       - dave moore
     - time: 4.206944 h
@@ -1649,51 +1649,51 @@ ssSpeed:
   - - - '2'
       - Tony Armstrong
     - time: 2.222222 h
-      frac: 0.82355038
+      frac: 0.80009664
   - - - '12'
       - Rory Duncan
     - time: 2.230000 h
-      frac: 0.81516035
+      frac: 0.7905914
   - - - '22'
       - Steve Blenkinsop
     - time: 2.231111 h
-      frac: 0.81397738
+      frac: 0.78925118
   - - - '5'
       - Jonny Durand
     - time: 2.232778 h
-      frac: 0.81220992
+      frac: 0.7872488
   - - - '29'
       - Guy Hubbard
     - time: 2.243611 h
-      frac: 0.80091668
+      frac: 0.77445445
   - - - '44'
       - Josh Woods
     - time: 2.252500 h
-      frac: 0.79188478
+      frac: 0.76422204
   - - - '26'
       - Jason Kath
     - time: 2.466389 h
-      frac: 0.61162555
+      frac: 0.56000268
   - - - '10'
       - Craig Taylor
     - time: 2.468056 h
-      frac: 0.61040039
+      frac: 0.55861468
   - - - '46'
       - Harrison Rowntree
     - time: 2.582222 h
-      frac: 0.53050861
+      frac: 0.46810365
   - - - '4'
       - Nick Purcell
     - time: 2.631667 h
-      frac: 0.49798192
+      frac: 0.4312535
   - - - '21'
       - Frank Chetcuti
     - time: 3.460833 h
-      frac: 5.0019e-2
+      frac: 0
   - - - '6'
       - Viv Clements
     - time: 3.546389 h
-      frac: 1.018958e-2
+      frac: 0
   - - - '35'
       - Anatoly Reyter
     - time: 3.780000 h
@@ -1721,59 +1721,59 @@ ssSpeed:
   - - - '26'
       - Jason Kath
     - time: 2.675833 h
-      frac: 0.86143378
+      frac: 0.83758795
   - - - '2'
       - Tony Armstrong
     - time: 2.827500 h
-      frac: 0.72302045
+      frac: 0.6753551
   - - - '29'
       - Guy Hubbard
     - time: 2.833056 h
-      frac: 0.71866702
+      frac: 0.67025249
   - - - '22'
       - Steve Blenkinsop
     - time: 2.838889 h
-      frac: 0.71413189
+      frac: 0.6649369
   - - - '12'
       - Rory Duncan
     - time: 2.921944 h
-      frac: 0.65297923
+      frac: 0.5932605
   - - - '46'
       - Harrison Rowntree
     - time: 2.963056 h
-      frac: 0.62465555
+      frac: 0.5600626
   - - - '4'
       - Nick Purcell
     - time: 2.978611 h
-      frac: 0.61421554
+      frac: 0.54782597
   - - - '20'
       - Konrad Heilmann
     - time: 2.994722 h
-      frac: 0.60354954
+      frac: 0.53532447
   - - - '44'
       - Josh Woods
     - time: 3.014444 h
-      frac: 0.59068492
+      frac: 0.52024597
   - - - '33'
       - Niki Longshore
     - time: 3.020278 h
-      frac: 0.58691859
+      frac: 0.5158315
   - - - '19'
       - Scott Barrett
     - time: 3.161111 h
-      frac: 0.50056345
+      frac: 0.41461552
   - - - '25'
       - Hagen Bruggemann
     - time: 3.479167 h
-      frac: 0.32832203
+      frac: 0.21273311
   - - - '13'
       - Matthew Barlow
     - time: 3.510556 h
-      frac: 0.31255716
+      frac: 0.19425527
   - - - '8'
       - Rod Flockhart
     - time: 3.593889 h
-      frac: 0.27154999
+      frac: 0.14619118
 - - - - '19'
       - Scott Barrett
     - time: 1.873889 h
@@ -1781,111 +1781,111 @@ ssSpeed:
   - - - '46'
       - Harrison Rowntree
     - time: 1.941667 h
-      frac: 0.86516263
+      frac: 0.85028422
   - - - '12'
       - Rory Duncan
     - time: 1.948611 h
-      frac: 0.85610294
+      frac: 0.84022486
   - - - '20'
       - Konrad Heilmann
     - time: 1.988889 h
-      frac: 0.80818439
+      frac: 0.78701881
   - - - '44'
       - Josh Woods
     - time: 1.998611 h
-      frac: 0.7975204
+      frac: 0.77517811
   - - - '2'
       - Tony Armstrong
     - time: 2.008889 h
-      frac: 0.78654423
+      frac: 0.7629908
   - - - '4'
       - Nick Purcell
     - time: 2.021667 h
-      frac: 0.77327914
+      frac: 0.748262
   - - - '29'
       - Guy Hubbard
     - time: 2.027778 h
-      frac: 0.767071
+      frac: 0.74136883
   - - - '45'
       - steve crosby
     - time: 2.082500 h
-      frac: 0.71469437
+      frac: 0.68321278
   - - - '24'
       - Brodrick Osborne
     - time: 2.082778 h
-      frac: 0.71444116
+      frac: 0.68293163
   - - - '33'
       - Niki Longshore
     - time: 2.086944 h
-      frac: 0.71065634
+      frac: 0.67872919
   - - - '51'
       - Billy Miller-Macleod
     - time: 2.104444 h
-      frac: 0.69502158
+      frac: 0.66136923
   - - - '17'
       - Trevor Purcell
     - time: 2.106667 h
-      frac: 0.69306501
+      frac: 0.65919677
   - - - '8'
       - Rod Flockhart
     - time: 2.126944 h
-      frac: 0.67548909
+      frac: 0.63968146
   - - - '39'
       - rob degroot
     - time: 2.129444 h
-      frac: 0.67335531
+      frac: 0.63731223
   - - - '36'
       - Brad Porter
     - time: 2.130000 h
-      frac: 0.67288208
+      frac: 0.63678679
   - - - '10'
       - Craig Taylor
     - time: 2.139444 h
-      frac: 0.66488877
+      frac: 0.62791147
   - - - '16'
       - Andrew Barnes
     - time: 2.151667 h
-      frac: 0.65468372
+      frac: 0.61658036
   - - - '25'
       - Hagen Bruggemann
     - time: 2.167222 h
-      frac: 0.64190934
+      frac: 0.6023964
   - - - '23'
       - Noel Collins
     - time: 2.229444 h
-      frac: 0.59291006
+      frac: 0.54799038
   - - - '42'
       - Mikhail Karmazin
     - time: 2.252778 h
-      frac: 0.5752892
+      frac: 0.52842518
   - - - '37'
       - John Spencer
     - time: 2.280556 h
-      frac: 0.55477682
+      frac: 0.50564939
   - - - '26'
       - Jason Kath
     - time: 2.296667 h
-      frac: 0.54309404
+      frac: 0.49267749
   - - - '22'
       - Steve Blenkinsop
     - time: 2.341111 h
-      frac: 0.51160893
+      frac: 0.45771821
   - - - '41'
       - Peter Burkitt
     - time: 2.347222 h
-      frac: 0.5073595
+      frac: 0.45299988
   - - - '14'
       - Tony Giammichele
     - time: 2.604444 h
-      frac: 0.34205809
+      frac: 0.26945856
   - - - '43'
       - Simon West
     - time: 2.620556 h
-      frac: 0.33242013
+      frac: 0.25875712
   - - - '6'
       - Viv Clements
     - time: 2.840278 h
-      frac: 0.20715795
+      frac: 0.11967309
 gsSpeed:
 - - - - '5'
       - Jonny Durand
@@ -1894,87 +1894,87 @@ gsSpeed:
   - - - '26'
       - Jason Kath
     - time: 2.662222 h
-      frac: 0.75310921
+      frac: 0.71296285
   - - - '22'
       - Steve Blenkinsop
     - time: 2.666667 h
-      frac: 0.74932897
+      frac: 0.70856792
   - - - '19'
       - Scott Barrett
     - time: 2.667222 h
-      frac: 0.74885845
+      frac: 0.70802089
   - - - '44'
       - Josh Woods
     - time: 2.669722 h
-      frac: 0.74674652
+      frac: 0.70556554
   - - - '46'
       - Harrison Rowntree
     - time: 2.679167 h
-      frac: 0.73884608
+      frac: 0.69638043
   - - - '20'
       - Konrad Heilmann
     - time: 2.734444 h
-      frac: 0.69476746
+      frac: 0.64513429
   - - - '13'
       - Matthew Barlow
     - time: 2.752222 h
-      frac: 0.6812645
+      frac: 0.62943565
   - - - '16'
       - Andrew Barnes
     - time: 2.888611 h
-      frac: 0.58562704
+      frac: 0.51824679
   - - - '6'
       - Viv Clements
     - time: 2.921389 h
-      frac: 0.56429727
+      frac: 0.49344863
   - - - '51'
       - Billy Miller-Macleod
     - time: 3.008611 h
-      frac: 0.50990275
+      frac: 0.43020914
   - - - '17'
       - Trevor Purcell
     - time: 3.044444 h
-      frac: 0.48842167
+      frac: 0.40523507
   - - - '25'
       - Hagen Bruggemann
     - time: 3.082222 h
-      frac: 0.46625283
+      frac: 0.37946141
   - - - '14'
       - Tony Giammichele
     - time: 3.087222 h
-      frac: 0.46335334
+      frac: 0.37609043
   - - - '39'
       - rob degroot
     - time: 3.088889 h
-      frac: 0.46238858
+      frac: 0.3749688
   - - - '45'
       - steve crosby
     - time: 3.119444 h
-      frac: 0.44485153
+      frac: 0.35458009
   - - - '36'
       - Brad Porter
     - time: 3.139444 h
-      frac: 0.43352148
+      frac: 0.34140769
   - - - '33'
       - Niki Longshore
     - time: 3.184444 h
-      frac: 0.40843254
+      frac: 0.3122391
   - - - '27'
       - Guy Williams
     - time: 3.211667 h
-      frac: 0.39351106
+      frac: 0.29489127
   - - - '37'
       - John Spencer
     - time: 3.291667 h
-      frac: 0.35067859
+      frac: 0.24509391
   - - - '24'
       - Brodrick Osborne
     - time: 3.307778 h
-      frac: 0.34222393
+      frac: 0.23526445
   - - - '21'
       - Frank Chetcuti
     - time: 3.923611 h
-      frac: 5.03949e-2
+      frac: 0
 - - - - '22'
       - Steve Blenkinsop
     - time: 2.391944 h
@@ -1982,99 +1982,99 @@ gsSpeed:
   - - - '2'
       - Tony Armstrong
     - time: 2.393611 h
-      frac: 0.98948888
+      frac: 0.98784447
   - - - '29'
       - Guy Hubbard
     - time: 2.400000 h
-      frac: 0.96995216
+      frac: 0.96525131
   - - - '44'
       - Josh Woods
     - time: 2.405278 h
-      frac: 0.95795554
+      frac: 0.95137787
   - - - '4'
       - Nick Purcell
     - time: 2.405278 h
-      frac: 0.95795554
+      frac: 0.95137787
   - - - '5'
       - Jonny Durand
     - time: 2.581111 h
-      frac: 0.75359697
+      frac: 0.71504832
   - - - '33'
       - Niki Longshore
     - time: 2.607778 h
-      frac: 0.73095269
+      frac: 0.68886144
   - - - '12'
       - Rory Duncan
     - time: 2.650833 h
-      frac: 0.69626705
+      frac: 0.64874939
   - - - '39'
       - rob degroot
     - time: 2.727222 h
-      frac: 0.63912831
+      frac: 0.58267154
   - - - '16'
       - Andrew Barnes
     - time: 2.790556 h
-      frac: 0.5950054
+      frac: 0.5316458
   - - - '46'
       - Harrison Rowntree
     - time: 2.796667 h
-      frac: 0.59087658
+      frac: 0.52687105
   - - - '20'
       - Konrad Heilmann
     - time: 2.814444 h
-      frac: 0.57898189
+      frac: 0.51311549
   - - - '9'
       - Rohan Taylor
     - time: 2.880833 h
-      frac: 0.53595893
+      frac: 0.46336178
   - - - '10'
       - Craig Taylor
     - time: 2.909167 h
-      frac: 0.51819894
+      frac: 0.44282331
   - - - '42'
       - Mikhail Karmazin
     - time: 2.944167 h
-      frac: 0.49670159
+      frac: 0.41796281
   - - - '8'
       - Rod Flockhart
     - time: 2.971389 h
-      frac: 0.48029427
+      frac: 0.39898863
   - - - '45'
       - steve crosby
     - time: 2.978056 h
-      frac: 0.47631564
+      frac: 0.39438756
   - - - '6'
       - Viv Clements
     - time: 2.979167 h
-      frac: 0.475654
+      frac: 0.39362241
   - - - '25'
       - Hagen Bruggemann
     - time: 2.980833 h
-      frac: 0.47466233
+      frac: 0.3924756
   - - - '26'
       - Jason Kath
     - time: 3.008611 h
-      frac: 0.4582695
+      frac: 0.37351819
   - - - '7'
       - James Atkinson
     - time: 3.055833 h
-      frac: 0.43095505
+      frac: 0.34193052
   - - - '37'
       - John Spencer
     - time: 3.233056 h
-      frac: 0.33372751
+      frac: 0.22949215
   - - - '14'
       - Tony Giammichele
     - time: 3.385000 h
-      frac: 0.25572745
+      frac: 0.13928934
   - - - '38'
       - Dave Stevens
     - time: 3.495000 h
-      frac: 0.20173352
+      frac: 7.68483e-2
   - - - '21'
       - Frank Chetcuti
     - time: 3.660000 h
-      frac: 0.12399115
+      frac: 0
   - - - '34'
       - dave moore
     - time: 4.385833 h
@@ -2086,51 +2086,51 @@ gsSpeed:
   - - - '2'
       - Tony Armstrong
     - time: 2.237778 h
-      frac: 0.81751899
+      frac: 0.79310542
   - - - '22'
       - Steve Blenkinsop
     - time: 2.240278 h
-      frac: 0.81485173
+      frac: 0.79008132
   - - - '5'
       - Jonny Durand
     - time: 2.245833 h
-      frac: 0.80899201
+      frac: 0.78343764
   - - - '12'
       - Rory Duncan
     - time: 2.247500 h
-      frac: 0.8072516
+      frac: 0.78146439
   - - - '29'
       - Guy Hubbard
     - time: 2.250278 h
-      frac: 0.80436824
+      frac: 0.77819527
   - - - '44'
       - Josh Woods
     - time: 2.260000 h
-      frac: 0.79443869
+      frac: 0.76693728
   - - - '26'
       - Jason Kath
     - time: 2.473056 h
-      frac: 0.6144667
+      frac: 0.5628874
   - - - '10'
       - Craig Taylor
     - time: 2.474167 h
-      frac: 0.61364859
+      frac: 0.56195984
   - - - '46'
       - Harrison Rowntree
     - time: 2.591667 h
-      frac: 0.53141159
+      frac: 0.4687206
   - - - '4'
       - Nick Purcell
     - time: 2.642222 h
-      frac: 0.49821074
+      frac: 0.43107792
   - - - '21'
       - Frank Chetcuti
     - time: 3.477500 h
-      frac: 4.821179e-2
+      frac: 0
   - - - '6'
       - Viv Clements
     - time: 3.570000 h
-      frac: 5.32174e-3
+      frac: 0
   - - - '42'
       - Mikhail Karmazin
     - time: 3.787500 h
@@ -2158,59 +2158,59 @@ gsSpeed:
   - - - '26'
       - Jason Kath
     - time: 2.688333 h
-      frac: 0.86448934
+      frac: 0.84101656
   - - - '2'
       - Tony Armstrong
     - time: 2.835556 h
-      frac: 0.72903239
+      frac: 0.68209614
   - - - '22'
       - Steve Blenkinsop
     - time: 2.853889 h
-      frac: 0.71468105
+      frac: 0.66525889
   - - - '29'
       - Guy Hubbard
     - time: 2.889167 h
-      frac: 0.68802885
+      frac: 0.63399007
   - - - '12'
       - Rory Duncan
     - time: 2.947500 h
-      frac: 0.64628041
+      frac: 0.58501009
   - - - '46'
       - Harrison Rowntree
     - time: 2.993889 h
-      frac: 0.61477186
+      frac: 0.54804371
   - - - '20'
       - Konrad Heilmann
     - time: 3.020278 h
-      frac: 0.59741359
+      frac: 0.52767869
   - - - '44'
       - Josh Woods
     - time: 3.020556 h
-      frac: 0.59723288
+      frac: 0.52746667
   - - - '4'
       - Nick Purcell
     - time: 3.040000 h
-      frac: 0.58468157
+      frac: 0.51274127
   - - - '33'
       - Niki Longshore
     - time: 3.051667 h
-      frac: 0.5772412
+      frac: 0.50401209
   - - - '19'
       - Scott Barrett
     - time: 3.233056 h
-      frac: 0.46875873
+      frac: 0.3767386
   - - - '13'
       - Matthew Barlow
     - time: 3.540556 h
-      frac: 0.30642207
+      frac: 0.18628242
   - - - '25'
       - Hagen Bruggemann
     - time: 3.573333 h
-      frac: 0.29026757
+      frac: 0.16732969
   - - - '8'
       - Rod Flockhart
     - time: 3.637222 h
-      frac: 0.25929533
+      frac: 0.13099252
 - - - - '19'
       - Scott Barrett
     - time: 1.877222 h
@@ -2218,111 +2218,111 @@ gsSpeed:
   - - - '46'
       - Harrison Rowntree
     - time: 1.959167 h
-      frac: 0.84706469
+      frac: 0.83013898
   - - - '12'
       - Rory Duncan
     - time: 1.959722 h
-      frac: 0.84637423
+      frac: 0.82937211
   - - - '44'
       - Josh Woods
     - time: 2.008889 h
-      frac: 0.79019685
+      frac: 0.76697745
   - - - '2'
       - Tony Armstrong
     - time: 2.010278 h
-      frac: 0.78872403
+      frac: 0.76534162
   - - - '29'
       - Guy Hubbard
     - time: 2.031944 h
-      frac: 0.76636931
+      frac: 0.74051285
   - - - '20'
       - Konrad Heilmann
     - time: 2.056111 h
-      frac: 0.74263449
+      frac: 0.71415125
   - - - '24'
       - Brodrick Osborne
     - time: 2.098056 h
-      frac: 0.70383219
+      frac: 0.67105461
   - - - '45'
       - steve crosby
     - time: 2.102500 h
-      frac: 0.69987166
+      frac: 0.66665576
   - - - '17'
       - Trevor Purcell
     - time: 2.115833 h
-      frac: 0.6881432
+      frac: 0.65362929
   - - - '8'
       - Rod Flockhart
     - time: 2.127222 h
-      frac: 0.67829725
+      frac: 0.64269366
   - - - '39'
       - rob degroot
     - time: 2.138056 h
-      frac: 0.66906947
+      frac: 0.63244462
   - - - '36'
       - Brad Porter
     - time: 2.140556 h
-      frac: 0.66695826
+      frac: 0.63009976
   - - - '33'
       - Niki Longshore
     - time: 2.143333 h
-      frac: 0.6646203
+      frac: 0.62750305
   - - - '10'
       - Craig Taylor
     - time: 2.149722 h
-      frac: 0.65927361
+      frac: 0.62156463
   - - - '4'
       - Nick Purcell
     - time: 2.164167 h
-      frac: 0.64733693
+      frac: 0.60830689
   - - - '16'
       - Andrew Barnes
     - time: 2.167500 h
-      frac: 0.64461101
+      frac: 0.60527929
   - - - '25'
       - Hagen Bruggemann
     - time: 2.173611 h
-      frac: 0.63964044
+      frac: 0.59975861
   - - - '51'
       - Billy Miller-Macleod
     - time: 2.185556 h
-      frac: 0.63002269
+      frac: 0.58907644
   - - - '23'
       - Noel Collins
     - time: 2.243333 h
-      frac: 0.58513827
+      frac: 0.53922456
   - - - '42'
       - Mikhail Karmazin
     - time: 2.270556 h
-      frac: 0.56482032
+      frac: 0.51665798
   - - - '37'
       - John Spencer
     - time: 2.290556 h
-      frac: 0.55019074
+      frac: 0.50040931
   - - - '26'
       - Jason Kath
     - time: 2.304722 h
-      frac: 0.53997067
+      frac: 0.48905816
   - - - '41'
       - Peter Burkitt
     - time: 2.370000 h
-      frac: 0.4942582
+      frac: 0.43828659
   - - - '22'
       - Steve Blenkinsop
     - time: 2.378333 h
-      frac: 0.48857244
+      frac: 0.43197157
   - - - '14'
       - Tony Giammichele
     - time: 2.618333 h
-      frac: 0.33612907
+      frac: 0.26265693
   - - - '43'
       - Simon West
     - time: 2.662222 h
-      frac: 0.31017138
+      frac: 0.23382645
   - - - '6'
       - Viv Clements
     - time: 2.864722 h
-      frac: 0.19612935
+      frac: 0.10716312
 nigh:
 - - - - '38'
       - Dave Stevens
