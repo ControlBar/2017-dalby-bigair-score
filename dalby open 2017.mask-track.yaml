@@ -103,7 +103,7 @@ leadCoefMin:
 - 1.38570528
 - 2.02035595
 - 1.2486973
-lead:
+leadRank:
 - - - - '5'
       - Jonny Durand
     - coef: 0
@@ -1012,7 +1012,7 @@ lead:
       - Tomas Kellner
     - coef: 5.69797288
       frac: 0
-arrival:
+arrivalRank:
 - - - - '5'
       - Jonny Durand
     - rank: '1'
@@ -1449,6 +1449,919 @@ arrival:
       - Simon West
     - rank: '28'
       frac: 0.20151608
+reachRank:
+- - - - '5'
+      - Jonny Durand
+    - frac: 1
+      reach: 99.562347 km
+  - - - '26'
+      - Jason Kath
+    - frac: 1
+      reach: 99.562347 km
+  - - - '22'
+      - Steve Blenkinsop
+    - frac: 1
+      reach: 99.562347 km
+  - - - '19'
+      - Scott Barrett
+    - frac: 1
+      reach: 99.562347 km
+  - - - '44'
+      - Josh Woods
+    - frac: 1
+      reach: 99.562347 km
+  - - - '51'
+      - Billy Miller-Macleod
+    - frac: 1
+      reach: 99.562347 km
+  - - - '46'
+      - Harrison Rowntree
+    - frac: 1
+      reach: 99.562347 km
+  - - - '17'
+      - Trevor Purcell
+    - frac: 1
+      reach: 99.562347 km
+  - - - '20'
+      - Konrad Heilmann
+    - frac: 1
+      reach: 99.562347 km
+  - - - '25'
+      - Hagen Bruggemann
+    - frac: 1
+      reach: 99.562347 km
+  - - - '13'
+      - Matthew Barlow
+    - frac: 1
+      reach: 99.562347 km
+  - - - '14'
+      - Tony Giammichele
+    - frac: 1
+      reach: 99.562347 km
+  - - - '45'
+      - steve crosby
+    - frac: 1
+      reach: 99.562347 km
+  - - - '16'
+      - Andrew Barnes
+    - frac: 1
+      reach: 99.562347 km
+  - - - '6'
+      - Viv Clements
+    - frac: 1
+      reach: 99.562347 km
+  - - - '37'
+      - John Spencer
+    - frac: 1
+      reach: 99.562347 km
+  - - - '24'
+      - Brodrick Osborne
+    - frac: 1
+      reach: 99.562347 km
+  - - - '39'
+      - rob degroot
+    - frac: 1
+      reach: 99.562347 km
+  - - - '36'
+      - Brad Porter
+    - frac: 1
+      reach: 99.562347 km
+  - - - '33'
+      - Niki Longshore
+    - frac: 1
+      reach: 99.562347 km
+  - - - '27'
+      - Guy Williams
+    - frac: 1
+      reach: 99.562347 km
+  - - - '21'
+      - Frank Chetcuti
+    - frac: 1
+      reach: 99.562347 km
+  - - - '38'
+      - Dave Stevens
+    - frac: 0.99744883
+      reach: 99.308347 km
+  - - - '23'
+      - Noel Collins
+    - frac: 0.93032507
+      reach: 92.625347 km
+  - - - '1'
+      - Mark Alton
+    - frac: 0.90712352
+      reach: 90.315347 km
+  - - - '7'
+      - James Atkinson
+    - frac: 0.8847255
+      reach: 88.085347 km
+  - - - '4'
+      - Nick Purcell
+    - frac: 0.85900292
+      reach: 85.524347 km
+  - - - '35'
+      - Anatoly Reyter
+    - frac: 0.84646806
+      reach: 84.276347 km
+  - - - '9'
+      - Rohan Taylor
+    - frac: 0.84309329
+      reach: 83.940347 km
+  - - - '32'
+      - Rob Larkin
+    - frac: 0.8430029
+      reach: 83.931347 km
+  - - - '2'
+      - Tony Armstrong
+    - frac: 0.83177375
+      reach: 82.813347 km
+  - - - '12'
+      - Rory Duncan
+    - frac: 0.80246548
+      reach: 79.895347 km
+  - - - '41'
+      - Peter Burkitt
+    - frac: 0.75219548
+      reach: 74.890347 km
+  - - - '48'
+      - Derek Mckee
+    - frac: 0.68140566
+      reach: 67.842347 km
+  - - - '28'
+      - John Harriot
+    - frac: 0.64054684
+      reach: 63.774347 km
+  - - - '18'
+      - Peter Adriaans
+    - frac: 0.55622782
+      reach: 55.379347 km
+  - - - '34'
+      - dave moore
+    - frac: 0.55170804
+      reach: 54.929347 km
+  - - - '10'
+      - Craig Taylor
+    - frac: 0.52837592
+      reach: 52.606347 km
+  - - - '8'
+      - Rod Flockhart
+    - frac: 0.50952341
+      reach: 50.729347 km
+  - - - '15'
+      - Andrew Sharpe
+    - frac: 0.41890683
+      reach: 41.707347 km
+  - - - '43'
+      - Simon West
+    - frac: 0.21796741
+      reach: 21.701347 km
+  - - - '31'
+      - Tomas Kellner
+    - frac: 0.20319275
+      reach: 20.230347 km
+  - - - '3'
+      - Paul Allen
+    - frac: 6.431495e-2
+      reach: 6.403347 km
+  - - - '42'
+      - Mikhail Karmazin
+    - frac: 5.994582e-2
+      reach: 5.968347 km
+  - - - '40'
+      - Hossain Tefaili
+    - frac: 5.297532e-2
+      reach: 5.274347 km
+  - - - '29'
+      - Guy Hubbard
+    - frac: 4.77625e-2
+      reach: 4.755347 km
+- - - - '22'
+      - Steve Blenkinsop
+    - frac: 1
+      reach: 111.262288 km
+  - - - '2'
+      - Tony Armstrong
+    - frac: 1
+      reach: 111.262288 km
+  - - - '29'
+      - Guy Hubbard
+    - frac: 1
+      reach: 111.262288 km
+  - - - '44'
+      - Josh Woods
+    - frac: 1
+      reach: 111.262288 km
+  - - - '4'
+      - Nick Purcell
+    - frac: 1
+      reach: 111.262288 km
+  - - - '20'
+      - Konrad Heilmann
+    - frac: 1
+      reach: 111.262288 km
+  - - - '10'
+      - Craig Taylor
+    - frac: 1
+      reach: 111.262288 km
+  - - - '33'
+      - Niki Longshore
+    - frac: 1
+      reach: 111.262288 km
+  - - - '42'
+      - Mikhail Karmazin
+    - frac: 1
+      reach: 111.262288 km
+  - - - '39'
+      - rob degroot
+    - frac: 1
+      reach: 111.262288 km
+  - - - '46'
+      - Harrison Rowntree
+    - frac: 1
+      reach: 111.262288 km
+  - - - '9'
+      - Rohan Taylor
+    - frac: 1
+      reach: 111.262288 km
+  - - - '5'
+      - Jonny Durand
+    - frac: 1
+      reach: 111.262288 km
+  - - - '45'
+      - steve crosby
+    - frac: 1
+      reach: 111.262288 km
+  - - - '6'
+      - Viv Clements
+    - frac: 1
+      reach: 111.262288 km
+  - - - '25'
+      - Hagen Bruggemann
+    - frac: 1
+      reach: 111.262288 km
+  - - - '12'
+      - Rory Duncan
+    - frac: 1
+      reach: 111.262288 km
+  - - - '26'
+      - Jason Kath
+    - frac: 1
+      reach: 111.262288 km
+  - - - '16'
+      - Andrew Barnes
+    - frac: 1
+      reach: 111.262288 km
+  - - - '38'
+      - Dave Stevens
+    - frac: 1
+      reach: 111.262288 km
+  - - - '37'
+      - John Spencer
+    - frac: 1
+      reach: 111.262288 km
+  - - - '8'
+      - Rod Flockhart
+    - frac: 1
+      reach: 111.262288 km
+  - - - '21'
+      - Frank Chetcuti
+    - frac: 1
+      reach: 111.262288 km
+  - - - '14'
+      - Tony Giammichele
+    - frac: 1
+      reach: 111.262288 km
+  - - - '7'
+      - James Atkinson
+    - frac: 1
+      reach: 111.262288 km
+  - - - '34'
+      - dave moore
+    - frac: 1
+      reach: 111.262288 km
+  - - - '24'
+      - Brodrick Osborne
+    - frac: 0.99604538
+      reach: 110.822288 km
+  - - - '13'
+      - Matthew Barlow
+    - frac: 0.99536231
+      reach: 110.746288 km
+  - - - '19'
+      - Scott Barrett
+    - frac: 0.9619997
+      reach: 107.034288 km
+  - - - '35'
+      - Anatoly Reyter
+    - frac: 0.96127169
+      reach: 106.953288 km
+  - - - '18'
+      - Peter Adriaans
+    - frac: 0.96066052
+      reach: 106.885288 km
+  - - - '17'
+      - Trevor Purcell
+    - frac: 0.85379592
+      reach: 94.995288 km
+  - - - '36'
+      - Brad Porter
+    - frac: 0.81143656
+      reach: 90.282288 km
+  - - - '41'
+      - Peter Burkitt
+    - frac: 0.68267775
+      reach: 75.956288 km
+  - - - '40'
+      - Hossain Tefaili
+    - frac: 0.66824339
+      reach: 74.350288 km
+  - - - '48'
+      - Derek Mckee
+    - frac: 0.62662102
+      reach: 69.719288 km
+  - - - '51'
+      - Billy Miller-Macleod
+    - frac: 0.59803092
+      reach: 66.538288 km
+  - - - '1'
+      - Mark Alton
+    - frac: 0.59565814
+      reach: 66.274288 km
+  - - - '43'
+      - Simon West
+    - frac: 0.56500984
+      reach: 62.864288 km
+  - - - '32'
+      - Rob Larkin
+    - frac: 0.44629037
+      reach: 49.655288 km
+  - - - '31'
+      - Tomas Kellner
+    - frac: 0.20131069
+      reach: 22.398288 km
+  - - - '3'
+      - Paul Allen
+    - frac: 0.20077142
+      reach: 22.338288 km
+  - - - '15'
+      - Andrew Sharpe
+    - frac: 0.19992657
+      reach: 22.244288 km
+  - - - '23'
+      - Noel Collins
+    - frac: 0.19992657
+      reach: 22.244288 km
+  - - - '28'
+      - John Harriot
+    - frac: 0.15514051
+      reach: 17.261288 km
+  - - - '27'
+      - Guy Williams
+    - frac: 6.816585e-2
+      reach: 7.584288 km
+- - - - '19'
+      - Scott Barrett
+    - frac: 1
+      reach: 96.914887 km
+  - - - '2'
+      - Tony Armstrong
+    - frac: 1
+      reach: 96.914887 km
+  - - - '22'
+      - Steve Blenkinsop
+    - frac: 1
+      reach: 96.914887 km
+  - - - '12'
+      - Rory Duncan
+    - frac: 1
+      reach: 96.914887 km
+  - - - '29'
+      - Guy Hubbard
+    - frac: 1
+      reach: 96.914887 km
+  - - - '44'
+      - Josh Woods
+    - frac: 1
+      reach: 96.914887 km
+  - - - '26'
+      - Jason Kath
+    - frac: 1
+      reach: 96.914887 km
+  - - - '10'
+      - Craig Taylor
+    - frac: 1
+      reach: 96.914887 km
+  - - - '5'
+      - Jonny Durand
+    - frac: 1
+      reach: 96.914887 km
+  - - - '46'
+      - Harrison Rowntree
+    - frac: 1
+      reach: 96.914887 km
+  - - - '4'
+      - Nick Purcell
+    - frac: 1
+      reach: 96.914887 km
+  - - - '21'
+      - Frank Chetcuti
+    - frac: 1
+      reach: 96.914887 km
+  - - - '6'
+      - Viv Clements
+    - frac: 1
+      reach: 96.914887 km
+  - - - '42'
+      - Mikhail Karmazin
+    - frac: 1
+      reach: 96.914887 km
+  - - - '18'
+      - Peter Adriaans
+    - frac: 1
+      reach: 96.914887 km
+  - - - '51'
+      - Billy Miller-Macleod
+    - frac: 1
+      reach: 96.914887 km
+  - - - '23'
+      - Noel Collins
+    - frac: 1
+      reach: 96.914887 km
+  - - - '35'
+      - Anatoly Reyter
+    - frac: 1
+      reach: 96.914887 km
+  - - - '25'
+      - Hagen Bruggemann
+    - frac: 0.98661712
+      reach: 95.617887 km
+  - - - '39'
+      - rob degroot
+    - frac: 0.95536289
+      reach: 92.588887 km
+  - - - '33'
+      - Niki Longshore
+    - frac: 0.92971152
+      reach: 90.102887 km
+  - - - '13'
+      - Matthew Barlow
+    - frac: 0.84056113
+      reach: 81.462887 km
+  - - - '36'
+      - Brad Porter
+    - frac: 0.83019121
+      reach: 80.457887 km
+  - - - '37'
+      - John Spencer
+    - frac: 0.7938294
+      reach: 76.933887 km
+  - - - '38'
+      - Dave Stevens
+    - frac: 0.69979844
+      reach: 67.820887 km
+  - - - '17'
+      - Trevor Purcell
+    - frac: 0.69330821
+      reach: 67.191887 km
+  - - - '1'
+      - Mark Alton
+    - frac: 0.66944191
+      reach: 64.878887 km
+  - - - '43'
+      - Simon West
+    - frac: 0.66943159
+      reach: 64.877887 km
+  - - - '32'
+      - Rob Larkin
+    - frac: 0.66191985
+      reach: 64.149887 km
+  - - - '48'
+      - Derek Mckee
+    - frac: 0.65335563
+      reach: 63.319887 km
+  - - - '27'
+      - Guy Williams
+    - frac: 0.64263488
+      reach: 62.280887 km
+  - - - '16'
+      - Andrew Barnes
+    - frac: 0.63991084
+      reach: 62.016887 km
+  - - - '9'
+      - Rohan Taylor
+    - frac: 0.63947747
+      reach: 61.974887 km
+  - - - '7'
+      - James Atkinson
+    - frac: 0.63644388
+      reach: 61.680887 km
+  - - - '40'
+      - Hossain Tefaili
+    - frac: 0.62491831
+      reach: 60.563887 km
+  - - - '34'
+      - dave moore
+    - frac: 0.57541095
+      reach: 55.765887 km
+  - - - '31'
+      - Tomas Kellner
+    - frac: 0.48480567
+      reach: 46.984887 km
+  - - - '45'
+      - steve crosby
+    - frac: 0.42078042
+      reach: 40.779887 km
+  - - - '14'
+      - Tony Giammichele
+    - frac: 0.41993432
+      reach: 40.697887 km
+  - - - '41'
+      - Peter Burkitt
+    - frac: 0.41400128
+      reach: 40.122887 km
+  - - - '8'
+      - Rod Flockhart
+    - frac: 0.39893651
+      reach: 38.662887 km
+  - - - '20'
+      - Konrad Heilmann
+    - frac: 0.3911049
+      reach: 37.903887 km
+  - - - '24'
+      - Brodrick Osborne
+    - frac: 0.18485176
+      reach: 17.914887 km
+  - - - '3'
+      - Paul Allen
+    - frac: 0.13139248
+      reach: 12.733887 km
+  - - - '15'
+      - Andrew Sharpe
+    - frac: 9.573232e-2
+      reach: 9.277887 km
+  - - - '28'
+      - John Harriot
+    - frac: 2.285394e-2
+      reach: 2.214887 km
+- - - - '2'
+      - Tony Armstrong
+    - frac: 1
+      reach: 114.375521 km
+  - - - '22'
+      - Steve Blenkinsop
+    - frac: 1
+      reach: 114.375521 km
+  - - - '29'
+      - Guy Hubbard
+    - frac: 1
+      reach: 114.375521 km
+  - - - '5'
+      - Jonny Durand
+    - frac: 1
+      reach: 114.375521 km
+  - - - '12'
+      - Rory Duncan
+    - frac: 1
+      reach: 114.375521 km
+  - - - '46'
+      - Harrison Rowntree
+    - frac: 1
+      reach: 114.375521 km
+  - - - '20'
+      - Konrad Heilmann
+    - frac: 1
+      reach: 114.375521 km
+  - - - '44'
+      - Josh Woods
+    - frac: 1
+      reach: 114.375521 km
+  - - - '26'
+      - Jason Kath
+    - frac: 1
+      reach: 114.375521 km
+  - - - '4'
+      - Nick Purcell
+    - frac: 1
+      reach: 114.375521 km
+  - - - '33'
+      - Niki Longshore
+    - frac: 1
+      reach: 114.375521 km
+  - - - '19'
+      - Scott Barrett
+    - frac: 1
+      reach: 114.375521 km
+  - - - '13'
+      - Matthew Barlow
+    - frac: 1
+      reach: 114.375521 km
+  - - - '25'
+      - Hagen Bruggemann
+    - frac: 1
+      reach: 114.375521 km
+  - - - '8'
+      - Rod Flockhart
+    - frac: 1
+      reach: 114.375521 km
+  - - - '36'
+      - Brad Porter
+    - frac: 0.9445161
+      reach: 108.029521 km
+  - - - '39'
+      - rob degroot
+    - frac: 0.924914
+      reach: 105.787521 km
+  - - - '42'
+      - Mikhail Karmazin
+    - frac: 0.89549337
+      reach: 102.422521 km
+  - - - '16'
+      - Andrew Barnes
+    - frac: 0.87569018
+      reach: 100.157521 km
+  - - - '10'
+      - Craig Taylor
+    - frac: 0.87208801
+      reach: 99.745521 km
+  - - - '24'
+      - Brodrick Osborne
+    - frac: 0.86570553
+      reach: 99.015521 km
+  - - - '7'
+      - James Atkinson
+    - frac: 0.86304762
+      reach: 98.711521 km
+  - - - '45'
+      - steve crosby
+    - frac: 0.82386091
+      reach: 94.229521 km
+  - - - '6'
+      - Viv Clements
+    - frac: 0.80028943
+      reach: 91.533521 km
+  - - - '38'
+      - Dave Stevens
+    - frac: 0.76534315
+      reach: 87.536521 km
+  - - - '37'
+      - John Spencer
+    - frac: 0.76517703
+      reach: 87.517521 km
+  - - - '18'
+      - Peter Adriaans
+    - frac: 0.76327977
+      reach: 87.300521 km
+  - - - '51'
+      - Billy Miller-Macleod
+    - frac: 0.76287758
+      reach: 87.254521 km
+  - - - '35'
+      - Anatoly Reyter
+    - frac: 0.72562311
+      reach: 82.993521 km
+  - - - '23'
+      - Noel Collins
+    - frac: 0.7064232
+      reach: 80.797521 km
+  - - - '17'
+      - Trevor Purcell
+    - frac: 0.69031835
+      reach: 78.955521 km
+  - - - '43'
+      - Simon West
+    - frac: 0.56962819
+      reach: 65.151521 km
+  - - - '41'
+      - Peter Burkitt
+    - frac: 0.55905775
+      reach: 63.942521 km
+  - - - '14'
+      - Tony Giammichele
+    - frac: 0.55103155
+      reach: 63.024521 km
+  - - - '21'
+      - Frank Chetcuti
+    - frac: 0.54886326
+      reach: 62.776521 km
+  - - - '1'
+      - Mark Alton
+    - frac: 0.35583244
+      reach: 40.698521 km
+  - - - '32'
+      - Rob Larkin
+    - frac: 0.34697565
+      reach: 39.685521 km
+  - - - '9'
+      - Rohan Taylor
+    - frac: 0.31774737
+      reach: 36.342521 km
+  - - - '40'
+      - Hossain Tefaili
+    - frac: 0.26079462
+      reach: 29.828521 km
+  - - - '31'
+      - Tomas Kellner
+    - frac: 0.21351178
+      reach: 24.420521 km
+  - - - '48'
+      - Derek Mckee
+    - frac: 0.17974581
+      reach: 20.558521 km
+  - - - '27'
+      - Guy Williams
+    - frac: 0.15401478
+      reach: 17.615521 km
+  - - - '15'
+      - Andrew Sharpe
+    - frac: 9.480631e-2
+      reach: 10.843521 km
+  - - - '28'
+      - John Harriot
+    - frac: 8.984895e-2
+      reach: 10.276521 km
+  - - - '34'
+      - dave moore
+    - frac: 5.468409e-2
+      reach: 6.254521 km
+- - - - '19'
+      - Scott Barrett
+    - frac: 1
+      reach: 88.973358 km
+  - - - '46'
+      - Harrison Rowntree
+    - frac: 1
+      reach: 88.973358 km
+  - - - '12'
+      - Rory Duncan
+    - frac: 1
+      reach: 88.973358 km
+  - - - '44'
+      - Josh Woods
+    - frac: 1
+      reach: 88.973358 km
+  - - - '2'
+      - Tony Armstrong
+    - frac: 1
+      reach: 88.973358 km
+  - - - '29'
+      - Guy Hubbard
+    - frac: 1
+      reach: 88.973358 km
+  - - - '20'
+      - Konrad Heilmann
+    - frac: 1
+      reach: 88.973358 km
+  - - - '24'
+      - Brodrick Osborne
+    - frac: 1
+      reach: 88.973358 km
+  - - - '45'
+      - steve crosby
+    - frac: 1
+      reach: 88.973358 km
+  - - - '17'
+      - Trevor Purcell
+    - frac: 1
+      reach: 88.973358 km
+  - - - '8'
+      - Rod Flockhart
+    - frac: 1
+      reach: 88.973358 km
+  - - - '39'
+      - rob degroot
+    - frac: 1
+      reach: 88.973358 km
+  - - - '36'
+      - Brad Porter
+    - frac: 1
+      reach: 88.973358 km
+  - - - '33'
+      - Niki Longshore
+    - frac: 1
+      reach: 88.973358 km
+  - - - '10'
+      - Craig Taylor
+    - frac: 1
+      reach: 88.973358 km
+  - - - '4'
+      - Nick Purcell
+    - frac: 1
+      reach: 88.973358 km
+  - - - '16'
+      - Andrew Barnes
+    - frac: 1
+      reach: 88.973358 km
+  - - - '25'
+      - Hagen Bruggemann
+    - frac: 1
+      reach: 88.973358 km
+  - - - '51'
+      - Billy Miller-Macleod
+    - frac: 1
+      reach: 88.973358 km
+  - - - '23'
+      - Noel Collins
+    - frac: 1
+      reach: 88.973358 km
+  - - - '42'
+      - Mikhail Karmazin
+    - frac: 1
+      reach: 88.973358 km
+  - - - '37'
+      - John Spencer
+    - frac: 1
+      reach: 88.973358 km
+  - - - '26'
+      - Jason Kath
+    - frac: 1
+      reach: 88.973358 km
+  - - - '41'
+      - Peter Burkitt
+    - frac: 1
+      reach: 88.973358 km
+  - - - '14'
+      - Tony Giammichele
+    - frac: 1
+      reach: 88.973358 km
+  - - - '22'
+      - Steve Blenkinsop
+    - frac: 1
+      reach: 88.973358 km
+  - - - '6'
+      - Viv Clements
+    - frac: 1
+      reach: 88.973358 km
+  - - - '43'
+      - Simon West
+    - frac: 1
+      reach: 88.973358 km
+  - - - '21'
+      - Frank Chetcuti
+    - frac: 0.92703434
+      reach: 82.481358 km
+  - - - '9'
+      - Rohan Taylor
+    - frac: 0.67390238
+      reach: 59.959358 km
+  - - - '48'
+      - Derek Mckee
+    - frac: 0.66615849
+      reach: 59.270358 km
+  - - - '5'
+      - Jonny Durand
+    - frac: 0.66062875
+      reach: 58.778358 km
+  - - - '32'
+      - Rob Larkin
+    - frac: 0.64382596
+      reach: 57.283358 km
+  - - - '35'
+      - Anatoly Reyter
+    - frac: 0.62916989
+      reach: 55.979358 km
+  - - - '18'
+      - Peter Adriaans
+    - frac: 0.62836066
+      reach: 55.907358 km
+  - - - '15'
+      - Andrew Sharpe
+    - frac: 0.62316809
+      reach: 55.445358 km
+  - - - '7'
+      - James Atkinson
+    - frac: 0.61930177
+      reach: 55.101358 km
+  - - - '34'
+      - dave moore
+    - frac: 0.59784591
+      reach: 53.192358 km
+  - - - '13'
+      - Matthew Barlow
+    - frac: 0.57153466
+      reach: 50.851358 km
+  - - - '27'
+      - Guy Williams
+    - frac: 0.5214073
+      reach: 46.391358 km
+  - - - '1'
+      - Mark Alton
+    - frac: 0.46011929
+      reach: 40.938358 km
+  - - - '40'
+      - Hossain Tefaili
+    - frac: 0.45991698
+      reach: 40.920358 km
+  - - - '38'
+      - Dave Stevens
+    - frac: 0.26254329
+      reach: 23.359358 km
+  - - - '28'
+      - John Harriot
+    - frac: 0.14763249
+      reach: 13.135358 km
+  - - - '31'
+      - Tomas Kellner
+    - frac: 3.571134e-2
+      reach: 3.177358 km
 ssSpeed:
 - - - - '5'
       - Jonny Durand
