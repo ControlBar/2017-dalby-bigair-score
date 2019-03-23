@@ -7,66 +7,66 @@ pilotsAtEss:
 raceTime:
 - openTask: 2017-04-09T03:20:00Z
   closeTask: 2017-04-09T10:00:00Z
-  firstStart: 2017-04-09T03:11:21Z
-  firstLead: 2017-04-09T03:11:21Z
-  lastArrival: 2017-04-09T07:35:25Z
-  leadAllDown: 16581
-  leadArrival: 15844
-  leadClose: 24519
+  firstStart: 2017-04-08T03:40:55.699301814005Z
+  firstLead: 2017-04-08T03:40:55.699301814005Z
+  lastArrival: 2017-04-09T07:35:16.394768804806Z
+  leadAllDown: 101206.301
+  leadArrival: 100460.695
+  leadClose: 109144.301
   openClose: 24000
-  tickClose: 24519
+  tickClose: 109144.301
 - openTask: 2017-04-12T03:00:00Z
   closeTask: 2017-04-12T10:00:00Z
-  firstStart: 2017-04-12T02:57:14Z
-  firstLead: 2017-04-12T02:57:14Z
-  lastArrival: 2017-04-12T07:23:09Z
-  leadAllDown: 17301
-  leadArrival: 15955
-  leadClose: 25366
+  firstStart: 2017-04-12T02:57:15.265577775815Z
+  firstLead: 2017-04-12T02:57:15.265577775815Z
+  lastArrival: 2017-04-12T07:23:08.239999238347Z
+  leadAllDown: 17299.734
+  leadArrival: 15952.974
+  leadClose: 25364.734
   openClose: 25200
-  tickClose: 25366
+  tickClose: 25364.734
 - openTask: 2017-04-13T03:00:00Z
   closeTask: 2017-04-13T10:00:00Z
-  firstStart: 2017-04-13T03:00:09Z
-  firstLead: 2017-04-13T03:00:09Z
-  lastArrival: 2017-04-13T07:07:19Z
-  leadAllDown: 15039
-  leadArrival: 14830
-  leadClose: 25191
+  firstStart: 2017-04-13T03:00:09.909287780991Z
+  firstLead: 2017-04-13T03:00:09.909287780991Z
+  lastArrival: 2017-04-13T07:07:18.391224399974Z
+  leadAllDown: 15038.091
+  leadArrival: 14828.482
+  leadClose: 25190.091
   openClose: 25200
-  tickClose: 25191
+  tickClose: 25190.091
 - openTask: 2017-04-14T03:00:00Z
   closeTask: 2017-04-14T10:00:00Z
-  firstStart: 2017-04-14T03:00:22Z
-  firstLead: 2017-04-14T03:00:22Z
-  lastArrival: 2017-04-14T06:38:14Z
-  leadAllDown: 15108
-  leadArrival: 13072
-  leadClose: 25178
+  firstStart: 2017-04-14T03:00:25.270671803435Z
+  firstLead: 2017-04-14T03:00:25.270671803435Z
+  lastArrival: 2017-04-14T06:38:11.458331861777Z
+  leadAllDown: 15104.729
+  leadArrival: 13066.188
+  leadClose: 25174.729
   openClose: 25200
-  tickClose: 25178
+  tickClose: 25174.729
 - openTask: 2017-04-15T03:00:00Z
   closeTask: 2017-04-15T10:00:00Z
-  firstStart: 2017-04-15T02:59:21Z
-  firstLead: 2017-04-15T02:59:21Z
-  lastArrival: 2017-04-15T05:59:44Z
-  leadAllDown: 14486
-  leadArrival: 10823
-  leadClose: 25239
+  firstStart: 2017-04-15T02:59:22.090702781156Z
+  firstLead: 2017-04-15T02:59:22.090702781156Z
+  lastArrival: 2017-04-15T05:59:43.132120040656Z
+  leadAllDown: 14484.909
+  leadArrival: 10821.041
+  leadClose: 25237.909
   openClose: 25200
-  tickClose: 25239
+  tickClose: 25237.909
 ssBestTime:
-- 2.463889 h
-- 2.369722 h
-- 2.114444 h
-- 2.592778 h
-- 1.873889 h
+- 2.462907 h
+- 2.369484 h
+- 2.113375 h
+- 2.592486 h
+- 1.872238 h
 gsBestTime:
-- 2.469444 h
-- 2.391944 h
-- 2.124167 h
-- 2.607778 h
-- 1.877222 h
+- -20.999553 h
+- 2.391771 h
+- 2.124067 h
+- 2.607669 h
+- 1.876165 h
 taskDistance:
 - 99.562347 km
 - 111.262288 km
@@ -91,942 +91,1169 @@ sumDistance:
 - 3078.233915 km
 - 3474.040445 km
 - 3080.248752 km
-leadScaling:
-- 5.604505e-8
-- 4.48778e-8
-- 5.914888e-8
-- 4.246795e-8
-- 7.017906e-8
+leadAreaToCoef:
+- 0.00000005604505 km^-2 s^-1
+- 0.00000004487780 km^-2 s^-1
+- 0.00000005914888 km^-2 s^-1
+- 0.00000004246795 km^-2 s^-1
+- 0.00000007017906 km^-2 s^-1
 leadCoefMin:
-- 0
-- 2.08023471
-- 1.38570528
-- 2.02035595
-- 1.2486973
+- 1.7258257
+- 2.07886634
+- 1.38520279
+- 2.01854559
+- 1.24811643
 leadRank:
-- - - - '5'
-      - Jonny Durand
-    - coef: 0
-      frac: 0
-  - - - '26'
-      - Jason Kath
-    - coef: 0
-      frac: 0
-  - - - '22'
-      - Steve Blenkinsop
-    - coef: 0
-      frac: 0
-  - - - '44'
-      - Josh Woods
-    - coef: 0
-      frac: 0
-  - - - '51'
-      - Billy Miller-Macleod
-    - coef: 0
-      frac: 0
-  - - - '46'
-      - Harrison Rowntree
-    - coef: 0
-      frac: 0
-  - - - '17'
-      - Trevor Purcell
-    - coef: 0
+- - - - '19'
+      - Scott Barrett
+    - area: 30793544.9470 km^2 s
+      coef: 1.7258257
+      frac: 1
+  - - - '8'
+      - Rod Flockhart
+    - area: 258288211.8277 km^2 s
+      coef: 14.47577516
       frac: 0
   - - - '20'
       - Konrad Heilmann
-    - coef: 0
+    - area: 808895018.1704 km^2 s
+      coef: 45.3345599
       frac: 0
-  - - - '25'
-      - Hagen Bruggemann
-    - coef: 0
-      frac: 0
-  - - - '13'
-      - Matthew Barlow
-    - coef: 0
-      frac: 0
-  - - - '14'
-      - Tony Giammichele
-    - coef: 0
-      frac: 0
-  - - - '45'
-      - steve crosby
-    - coef: 0
-      frac: 0
-  - - - '16'
-      - Andrew Barnes
-    - coef: 0
-      frac: 0
-  - - - '6'
-      - Viv Clements
-    - coef: 0
-      frac: 0
-  - - - '37'
-      - John Spencer
-    - coef: 0
-      frac: 0
-  - - - '24'
-      - Brodrick Osborne
-    - coef: 0
-      frac: 0
-  - - - '39'
-      - rob degroot
-    - coef: 0
-      frac: 0
-  - - - '36'
-      - Brad Porter
-    - coef: 0
+  - - - '22'
+      - Steve Blenkinsop
+    - area: 833778765.0758 km^2 s
+      coef: 46.72917069
       frac: 0
   - - - '33'
       - Niki Longshore
-    - coef: 0
-      frac: 0
-  - - - '27'
-      - Guy Williams
-    - coef: 0
-      frac: 0
-  - - - '21'
-      - Frank Chetcuti
-    - coef: 0
-      frac: 0
-  - - - '38'
-      - Dave Stevens
-    - coef: 3.5133e-4
-      frac: 0
-  - - - '23'
-      - Noel Collins
-    - coef: 0.26466181
-      frac: 0
-  - - - '1'
-      - Mark Alton
-    - coef: 0.46759846
-      frac: 0
-  - - - '7'
-      - James Atkinson
-    - coef: 0.71608692
-      frac: 0
-  - - - '4'
-      - Nick Purcell
-    - coef: 1.03755743
-      frac: 0
-  - - - '35'
-      - Anatoly Reyter
-    - coef: 1.27460653
-      frac: 0
-  - - - '9'
-      - Rohan Taylor
-    - coef: 1.2915092
-      frac: 0
-  - - - '32'
-      - Rob Larkin
-    - coef: 1.33251684
-      frac: 0
-  - - - '2'
-      - Tony Armstrong
-    - coef: 1.47760956
-      frac: 0
-  - - - '19'
-      - Scott Barrett
-    - coef: 1.72692301
-      frac: 0
-  - - - '12'
-      - Rory Duncan
-    - coef: 2.0350821
-      frac: 0
-  - - - '8'
-      - Rod Flockhart
-    - coef: 3.16798884
-      frac: 0
-  - - - '41'
-      - Peter Burkitt
-    - coef: 3.31833637
+    - area: 841948290.3325 km^2 s
+      coef: 47.18703212
       frac: 0
   - - - '48'
       - Derek Mckee
-    - coef: 5.3995304
+    - area: 851134219.0378 km^2 s
+      coef: 47.70185793
       frac: 0
-  - - - '28'
-      - John Harriot
-    - coef: 6.90343538
+  - - - '23'
+      - Noel Collins
+    - area: 862021502.4280 km^2 s
+      coef: 48.31203625
       frac: 0
-  - - - '18'
-      - Peter Adriaans
-    - coef: 10.36998422
+  - - - '17'
+      - Trevor Purcell
+    - area: 864840173.4405 km^2 s
+      coef: 48.4700088
       frac: 0
-  - - - '34'
-      - dave moore
-    - coef: 10.57447936
+  - - - '51'
+      - Billy Miller-Macleod
+    - area: 865339732.5677 km^2 s
+      coef: 48.49800662
+      frac: 0
+  - - - '2'
+      - Tony Armstrong
+    - area: 865873307.7266 km^2 s
+      coef: 48.52791086
+      frac: 0
+  - - - '45'
+      - steve crosby
+    - area: 867918404.4385 km^2 s
+      coef: 48.64252841
+      frac: 0
+  - - - '39'
+      - rob degroot
+    - area: 869290933.8159 km^2 s
+      coef: 48.71945188
+      frac: 0
+  - - - '37'
+      - John Spencer
+    - area: 870232106.3627 km^2 s
+      coef: 48.77219994
+      frac: 0
+  - - - '4'
+      - Nick Purcell
+    - area: 870634986.3394 km^2 s
+      coef: 48.79477937
+      frac: 0
+  - - - '12'
+      - Rory Duncan
+    - area: 871188693.9681 km^2 s
+      coef: 48.82581194
+      frac: 0
+  - - - '44'
+      - Josh Woods
+    - area: 873197817.0392 km^2 s
+      coef: 48.93841334
+      frac: 0
+  - - - '46'
+      - Harrison Rowntree
+    - area: 875256993.8091 km^2 s
+      coef: 49.05382
+      frac: 0
+  - - - '9'
+      - Rohan Taylor
+    - area: 875288255.7536 km^2 s
+      coef: 49.05557207
+      frac: 0
+  - - - '26'
+      - Jason Kath
+    - area: 875292570.9510 km^2 s
+      coef: 49.05581392
+      frac: 0
+  - - - '25'
+      - Hagen Bruggemann
+    - area: 875656451.2081 km^2 s
+      coef: 49.07620761
+      frac: 0
+  - - - '13'
+      - Matthew Barlow
+    - area: 876988569.7108 km^2 s
+      coef: 49.15086625
+      frac: 0
+  - - - '36'
+      - Brad Porter
+    - area: 877822784.1748 km^2 s
+      coef: 49.19761984
+      frac: 0
+  - - - '5'
+      - Jonny Durand
+    - area: 880213261.0937 km^2 s
+      coef: 49.33159423
+      frac: 0
+  - - - '6'
+      - Viv Clements
+    - area: 882423323.6810 km^2 s
+      coef: 49.4554573
+      frac: 0
+  - - - '14'
+      - Tony Giammichele
+    - area: 884012291.7025 km^2 s
+      coef: 49.54451109
       frac: 0
   - - - '10'
       - Craig Taylor
-    - coef: 11.36848356
+    - area: 884261313.0940 km^2 s
+      coef: 49.5584675
+      frac: 0
+  - - - '16'
+      - Andrew Barnes
+    - area: 884616750.5596 km^2 s
+      coef: 49.57838801
+      frac: 0
+  - - - '27'
+      - Guy Williams
+    - area: 884739445.7981 km^2 s
+      coef: 49.58526447
+      frac: 0
+  - - - '7'
+      - James Atkinson
+    - area: 885396431.5912 km^2 s
+      coef: 49.62208527
+      frac: 0
+  - - - '32'
+      - Rob Larkin
+    - area: 887172996.3305 km^2 s
+      coef: 49.72165293
+      frac: 0
+  - - - '24'
+      - Brodrick Osborne
+    - area: 887572646.3733 km^2 s
+      coef: 49.74405133
+      frac: 0
+  - - - '38'
+      - Dave Stevens
+    - area: 888113112.9405 km^2 s
+      coef: 49.77434181
+      frac: 0
+  - - - '1'
+      - Mark Alton
+    - area: 888931562.5036 km^2 s
+      coef: 49.82021185
+      frac: 0
+  - - - '18'
+      - Peter Adriaans
+    - area: 892971486.9075 km^2 s
+      coef: 50.04662961
+      frac: 0
+  - - - '41'
+      - Peter Burkitt
+    - area: 896458985.3226 km^2 s
+      coef: 50.24208662
+      frac: 0
+  - - - '34'
+      - dave moore
+    - area: 897307209.5443 km^2 s
+      coef: 50.28962539
+      frac: 0
+  - - - '21'
+      - Frank Chetcuti
+    - area: 904747039.0536 km^2 s
+      coef: 50.70659099
+      frac: 0
+  - - - '35'
+      - Anatoly Reyter
+    - area: 905163981.6978 km^2 s
+      coef: 50.72995856
       frac: 0
   - - - '15'
       - Andrew Sharpe
-    - coef: 17.43836688
+    - area: 915077402.7415 km^2 s
+      coef: 51.28555672
+      frac: 0
+  - - - '28'
+      - John Harriot
+    - area: 920847409.7721 km^2 s
+      coef: 51.60893704
       frac: 0
   - - - '43'
       - Simon West
-    - coef: 30.32018821
+    - area: 928108227.3566 km^2 s
+      coef: 52.0158699
       frac: 0
   - - - '31'
       - Tomas Kellner
-    - coef: 31.24245916
-      frac: 0
-  - - - '3'
-      - Paul Allen
-    - coef: 41.51262803
+    - area: 930703654.2947 km^2 s
+      coef: 52.16133073
       frac: 0
   - - - '40'
       - Hossain Tefaili
-    - coef: 43.08744141
+    - area: 968793365.4184 km^2 s
+      coef: 54.29607041
+      frac: 0
+  - - - '3'
+      - Paul Allen
+    - area: 976229252.5275 km^2 s
+      coef: 54.71281506
       frac: 0
   - - - '42'
       - Mikhail Karmazin
-    - coef: 44.20473044
+    - area: 984255092.5991 km^2 s
+      coef: 55.16262365
       frac: 0
   - - - '29'
       - Guy Hubbard
-    - coef: 44.95294478
+    - area: 994107937.9722 km^2 s
+      coef: 55.71482684
       frac: 0
 - - - - '20'
       - Konrad Heilmann
-    - coef: 2.08023471
+    - area: 46322825.8272 km^2 s
+      coef: 2.07886634
       frac: 1
   - - - '10'
       - Craig Taylor
-    - coef: 2.09998242
-      frac: 0.93533652
+    - area: 46767661.0326 km^2 s
+      coef: 2.09882956
+      frac: 0.94233952
   - - - '42'
       - Mikhail Karmazin
-    - coef: 2.12674066
-      frac: 0.88554004
+    - area: 47374032.0527 km^2 s
+      coef: 2.12604215
+      frac: 0.89770114
   - - - '13'
       - Matthew Barlow
-    - coef: 2.3361076
-      frac: 0.64327726
+    - area: 52029836.7080 km^2 s
+      coef: 2.33498441
+      frac: 0.68400179
   - - - '22'
       - Steve Blenkinsop
-    - coef: 2.46538806
-      frac: 0.53147037
+    - area: 54920065.2338 km^2 s
+      coef: 2.46469149
+      frac: 0.58474184
   - - - '29'
       - Guy Hubbard
-    - coef: 2.48867243
-      frac: 0.51277245
+    - area: 55438782.2613 km^2 s
+      coef: 2.48797037
+      frac: 0.5682023
   - - - '44'
       - Josh Woods
-    - coef: 2.49083524
-      frac: 0.51105395
+    - area: 55486927.4699 km^2 s
+      coef: 2.49013102
+      frac: 0.5666833
   - - - '4'
       - Nick Purcell
-    - coef: 2.49576791
-      frac: 0.50714584
+    - area: 55596858.1861 km^2 s
+      coef: 2.49506447
+      frac: 0.56322487
   - - - '33'
       - Niki Longshore
-    - coef: 2.49900617
-      frac: 0.50458861
+    - area: 55668967.2936 km^2 s
+      coef: 2.49830057
+      frac: 0.56096374
   - - - '41'
       - Peter Burkitt
-    - coef: 2.50144267
-      frac: 0.50266886
+    - area: 55722311.5642 km^2 s
+      coef: 2.50069454
+      frac: 0.55929475
   - - - '2'
       - Tony Armstrong
-    - coef: 2.50311273
-      frac: 0.50135514
+    - area: 55760488.2469 km^2 s
+      coef: 2.50240783
+      frac: 0.55810226
   - - - '19'
       - Scott Barrett
-    - coef: 2.53045647
-      frac: 0.4800851
+    - area: 56369789.6017 km^2 s
+      coef: 2.52975193
+      frac: 0.53928178
   - - - '26'
       - Jason Kath
-    - coef: 2.60974988
-      frac: 0.42070442
+    - area: 58136722.0693 km^2 s
+      coef: 2.60904796
+      frac: 0.48673585
   - - - '39'
       - rob degroot
-    - coef: 2.63390827
-      frac: 0.40321606
+    - area: 58675001.7316 km^2 s
+      coef: 2.63320477
+      frac: 0.47126125
   - - - '46'
       - Harrison Rowntree
-    - coef: 2.65380012
-      frac: 0.38900652
+    - area: 59093713.3147 km^2 s
+      coef: 2.65199562
+      frac: 0.45937904
   - - - '9'
       - Rohan Taylor
-    - coef: 2.73966696
-      frac: 0.32945479
+    - area: 61031573.6366 km^2 s
+      coef: 2.73896252
+      frac: 0.40598699
   - - - '25'
       - Hagen Bruggemann
-    - coef: 2.90640231
-      frac: 0.22072026
+    - area: 64746941.6679 km^2 s
+      coef: 2.90570005
+      frac: 0.30975501
   - - - '6'
       - Viv Clements
-    - coef: 2.9358769
-      frac: 0.20229422
+    - area: 65403638.3128 km^2 s
+      coef: 2.93517115
+      frac: 0.29344919
   - - - '17'
       - Trevor Purcell
-    - coef: 2.9432337
-      frac: 0.19772831
+    - area: 65567324.7278 km^2 s
+      coef: 2.94251704
+      frac: 0.28941414
   - - - '45'
       - steve crosby
-    - coef: 2.95364227
-      frac: 0.19129045
+    - area: 65799516.2248 km^2 s
+      coef: 2.95293728
+      frac: 0.28370993
   - - - '38'
       - Dave Stevens
-    - coef: 3.11193045
-      frac: 9.631786e-2
+    - area: 69326621.4510 km^2 s
+      coef: 3.11122599
+      frac: 0.19965268
   - - - '5'
       - Jonny Durand
-    - coef: 3.12005707
-      frac: 9.157856e-2
+    - area: 69507846.8870 km^2 s
+      coef: 3.11935899
+      frac: 0.19545472
   - - - '37'
       - John Spencer
-    - coef: 3.13483944
-      frac: 8.298927e-2
+    - area: 69837169.5667 km^2 s
+      coef: 3.13413826
+      frac: 0.18785408
   - - - '12'
       - Rory Duncan
-    - coef: 3.15056632
-      frac: 7.389511e-2
+    - area: 70187652.2113 km^2 s
+      coef: 3.14986715
+      frac: 0.17980394
   - - - '21'
       - Frank Chetcuti
-    - coef: 3.21360462
-      frac: 3.78804e-2
+    - area: 71590279.7734 km^2 s
+      coef: 3.21281398
+      frac: 0.14797341
   - - - '36'
       - Brad Porter
-    - coef: 3.27688493
-      frac: 2.39314e-3
+    - area: 73002062.6807 km^2 s
+      coef: 3.27617169
+      frac: 0.11652467
   - - - '14'
       - Tony Giammichele
-    - coef: 3.29057014
-      frac: 0
+    - area: 73307631.9431 km^2 s
+      coef: 3.28988496
+      frac: 0.10979159
   - - - '16'
       - Andrew Barnes
-    - coef: 3.29394319
-      frac: 0
+    - area: 73382509.6084 km^2 s
+      coef: 3.29324531
+      frac: 0.10814558
   - - - '8'
       - Rod Flockhart
-    - coef: 3.35878187
-      frac: 0
+    - area: 74827188.6049 km^2 s
+      coef: 3.35807932
+      frac: 7.667828e-2
   - - - '51'
       - Billy Miller-Macleod
-    - coef: 3.39245067
-      frac: 0
+    - area: 75575912.8788 km^2 s
+      coef: 3.39168041
+      frac: 6.057966e-2
   - - - '7'
       - James Atkinson
-    - coef: 3.47276404
-      frac: 0
+    - area: 77367106.2022 km^2 s
+      coef: 3.47206522
+      frac: 2.2613e-2
   - - - '1'
       - Mark Alton
-    - coef: 3.47935388
-      frac: 0
+    - area: 77512270.4276 km^2 s
+      coef: 3.47857987
+      frac: 1.956851e-2
   - - - '24'
       - Brodrick Osborne
-    - coef: 3.55437421
+    - area: 79185531.2069 km^2 s
+      coef: 3.55367213
       frac: 0
   - - - '48'
       - Derek Mckee
-    - coef: 3.55773712
+    - area: 79258992.1005 km^2 s
+      coef: 3.55696889
       frac: 0
   - - - '35'
       - Anatoly Reyter
-    - coef: 3.65473546
+    - area: 81421897.0409 km^2 s
+      coef: 3.6540353
       frac: 0
   - - - '18'
       - Peter Adriaans
-    - coef: 3.68049698
+    - area: 81995621.7265 km^2 s
+      coef: 3.6797828
       frac: 0
   - - - '34'
       - dave moore
-    - coef: 3.7132383
+    - area: 82721020.1007 km^2 s
+      coef: 3.71233708
       frac: 0
   - - - '40'
       - Hossain Tefaili
-    - coef: 4.03940591
+    - area: 89992113.3726 km^2 s
+      coef: 4.03864772
       frac: 0
   - - - '43'
       - Simon West
-    - coef: 4.76947226
+    - area: 106211109.5990 km^2 s
+      coef: 4.76652053
       frac: 0
   - - - '31'
       - Tomas Kellner
-    - coef: 6.19169855
+    - area: 137934899.9280 km^2 s
+      coef: 6.19021433
       frac: 0
   - - - '15'
       - Andrew Sharpe
-    - coef: 6.24387874
+    - area: 139105144.4788 km^2 s
+      coef: 6.24273232
       frac: 0
   - - - '23'
       - Noel Collins
-    - coef: 6.24387874
+    - area: 139105144.4788 km^2 s
+      coef: 6.24273232
       frac: 0
   - - - '3'
       - Paul Allen
-    - coef: 6.47129698
+    - area: 144163478.2386 km^2 s
+      coef: 6.46973919
       frac: 0
   - - - '28'
       - John Harriot
-    - coef: 7.03643345
+    - area: 156768362.8272 km^2 s
+      coef: 7.03541863
       frac: 0
   - - - '32'
       - Rob Larkin
-    - coef: 7.38641822
+    - area: 164138288.2732 km^2 s
+      coef: 7.36616465
       frac: 0
   - - - '27'
       - Guy Williams
-    - coef: 7.75706621
+    - area: 172821683.1046 km^2 s
+      coef: 7.75585627
       frac: 0
 - - - - '19'
       - Scott Barrett
-    - coef: 1.38570528
+    - area: 23418919.2243 km^2 s
+      coef: 1.38520279
       frac: 1
   - - - '26'
       - Jason Kath
-    - coef: 1.40720542
-      frac: 0.92677113
+    - area: 23782292.7772 km^2 s
+      coef: 1.40669592
+      frac: 0.93065283
   - - - '22'
       - Steve Blenkinsop
-    - coef: 1.40979574
-      frac: 0.92100161
+    - area: 23826029.4554 km^2 s
+      coef: 1.4092829
+      frac: 0.92519432
   - - - '12'
       - Rory Duncan
-    - coef: 1.44076192
-      frac: 0.86293455
+    - area: 24349690.8855 km^2 s
+      coef: 1.44025688
+      frac: 0.8701759
   - - - '2'
       - Tony Armstrong
-    - coef: 1.44262483
-      frac: 0.85985987
+    - area: 24381218.6316 km^2 s
+      coef: 1.44212171
+      frac: 0.86726054
   - - - '10'
       - Craig Taylor
-    - coef: 1.45484927
-      frac: 0.84045208
+    - area: 24587826.4295 km^2 s
+      coef: 1.45434233
+      frac: 0.84888303
   - - - '44'
       - Josh Woods
-    - coef: 1.45903881
-      frac: 0.83407064
+    - area: 24658686.4330 km^2 s
+      coef: 1.45853362
+      frac: 0.84283591
   - - - '29'
       - Guy Hubbard
-    - coef: 1.49154017
-      frac: 0.78809522
+    - area: 25208229.5856 km^2 s
+      coef: 1.49103848
+      frac: 0.79928322
   - - - '33'
       - Niki Longshore
-    - coef: 1.6528536
-      frac: 0.60715327
+    - area: 27935329.9780 km^2 s
+      coef: 1.65234341
+      frac: 0.62790357
   - - - '4'
       - Nick Purcell
-    - coef: 1.66428987
-      frac: 0.59602026
+    - area: 28128771.9205 km^2 s
+      coef: 1.66378529
+      frac: 0.61735319
   - - - '46'
       - Harrison Rowntree
-    - coef: 1.6922258
-      frac: 0.56944574
+    - area: 28600991.3856 km^2 s
+      coef: 1.69171654
+      frac: 0.59218594
   - - - '36'
       - Brad Porter
-    - coef: 2.03590401
-      frac: 0.28919207
+    - area: 34411278.1737 km^2 s
+      coef: 2.03538848
+      frac: 0.32673327
   - - - '21'
       - Frank Chetcuti
-    - coef: 2.03615611
-      frac: 0.28900834
+    - area: 34413688.3273 km^2 s
+      coef: 2.03553104
+      frac: 0.32663486
   - - - '51'
       - Billy Miller-Macleod
-    - coef: 2.03838108
-      frac: 0.2873879
+    - area: 34453373.4056 km^2 s
+      coef: 2.03787836
+      frac: 0.32501552
   - - - '6'
       - Viv Clements
-    - coef: 2.05967143
-      frac: 0.27197397
+    - area: 34813196.5691 km^2 s
+      coef: 2.0591615
+      frac: 0.31042039
   - - - '25'
       - Hagen Bruggemann
-    - coef: 2.06654638
-      frac: 0.26703141
+    - area: 34929487.2957 km^2 s
+      coef: 2.06603997
+      frac: 0.30573641
   - - - '13'
       - Matthew Barlow
-    - coef: 2.10173615
-      frac: 0.24198811
+    - area: 35524177.1899 km^2 s
+      coef: 2.10121521
+      frac: 0.28202512
   - - - '37'
       - John Spencer
-    - coef: 2.11282579
-      frac: 0.23418162
+    - area: 35711753.8411 km^2 s
+      coef: 2.11231015
+      frac: 0.27462723
   - - - '5'
       - Jonny Durand
-    - coef: 2.14336068
-      frac: 0.21288896
+    - area: 36212697.5776 km^2 s
+      coef: 2.14194041
+      frac: 0.25505233
   - - - '23'
       - Noel Collins
-    - coef: 2.16383025
-      frac: 0.19877513
+    - area: 36573713.2621 km^2 s
+      coef: 2.16329409
+      frac: 0.24110343
   - - - '42'
       - Mikhail Karmazin
-    - coef: 2.19877744
-      frac: 0.17496144
+    - area: 37164937.8667 km^2 s
+      coef: 2.19826436
+      frac: 0.21853205
   - - - '18'
       - Peter Adriaans
-    - coef: 2.21022057
-      frac: 0.16723845
+    - area: 37358117.3475 km^2 s
+      coef: 2.20969071
+      frac: 0.21122753
   - - - '17'
       - Trevor Purcell
-    - coef: 2.24448774
-      frac: 0.14432214
+    - area: 37937249.5494 km^2 s
+      coef: 2.24394573
+      frac: 0.18952865
   - - - '9'
       - Rohan Taylor
-    - coef: 2.27176721
-      frac: 0.12629617
+    - area: 38398252.3650 km^2 s
+      coef: 2.27121353
+      frac: 0.1724615
   - - - '16'
       - Andrew Barnes
-    - coef: 2.36769773
-      frac: 6.432085e-2
+    - area: 40019544.8751 km^2 s
+      coef: 2.36711116
+      frac: 0.11377733
   - - - '38'
       - Dave Stevens
-    - coef: 2.39732658
-      frac: 4.559326e-2
+    - area: 40521336.0371 km^2 s
+      coef: 2.39679154
+      frac: 9.60074e-2
   - - - '7'
       - James Atkinson
-    - coef: 2.5201432
-      frac: 0
+    - area: 42597402.8341 km^2 s
+      coef: 2.51958856
+      frac: 2.425561e-2
   - - - '48'
       - Derek Mckee
-    - coef: 2.7019935
+    - area: 45672020.5003 km^2 s
+      coef: 2.70144875
       frac: 0
   - - - '32'
       - Rob Larkin
-    - coef: 2.74271706
+    - area: 46360127.1185 km^2 s
+      coef: 2.74214948
       frac: 0
   - - - '39'
       - rob degroot
-    - coef: 2.98584003
+    - area: 50471818.1552 km^2 s
+      coef: 2.98535139
       frac: 0
   - - - '35'
       - Anatoly Reyter
-    - coef: 3.15779402
+    - area: 53378513.0963 km^2 s
+      coef: 3.15727913
       frac: 0
   - - - '27'
       - Guy Williams
-    - coef: 3.20842463
+    - area: 54233877.5743 km^2 s
+      coef: 3.20787298
       frac: 0
   - - - '45'
       - steve crosby
-    - coef: 3.40806615
+    - area: 57607924.6736 km^2 s
+      coef: 3.40744408
       frac: 0
   - - - '34'
       - dave moore
-    - coef: 3.41723238
+    - area: 57763292.9239 km^2 s
+      coef: 3.41663394
       frac: 0
   - - - '41'
       - Peter Burkitt
-    - coef: 3.47854563
+    - area: 58799173.5928 km^2 s
+      coef: 3.47790512
       frac: 0
   - - - '14'
       - Tony Giammichele
-    - coef: 3.48291692
+    - area: 58873527.0654 km^2 s
+      coef: 3.48230304
       frac: 0
   - - - '43'
       - Simon West
-    - coef: 3.48670187
+    - area: 58913062.8261 km^2 s
+      coef: 3.48464154
       frac: 0
   - - - '8'
       - Rod Flockhart
-    - coef: 3.5387473
+    - area: 59816868.1275 km^2 s
+      coef: 3.53810061
       frac: 0
   - - - '20'
       - Konrad Heilmann
-    - coef: 3.54561256
+    - area: 59931436.6515 km^2 s
+      coef: 3.54487721
       frac: 0
   - - - '40'
       - Hossain Tefaili
-    - coef: 3.64255294
+    - area: 61563483.7675 km^2 s
+      coef: 3.64141096
       frac: 0
   - - - '31'
       - Tomas Kellner
-    - coef: 4.6290967
+    - area: 78192124.8183 km^2 s
+      coef: 4.62497642
       frac: 0
   - - - '1'
       - Mark Alton
-    - coef: 5.07196718
+    - area: 85652008.8302 km^2 s
+      coef: 5.06622018
       frac: 0
   - - - '24'
       - Brodrick Osborne
-    - coef: 5.63775244
+    - area: 95302200.2677 km^2 s
+      coef: 5.63701817
       frac: 0
   - - - '3'
       - Paul Allen
-    - coef: 6.75392984
+    - area: 114172331.9439 km^2 s
+      coef: 6.75316528
       frac: 0
   - - - '15'
       - Andrew Sharpe
-    - coef: 6.91894116
+    - area: 116957496.3622 km^2 s
+      coef: 6.91790463
       frac: 0
   - - - '28'
       - John Harriot
-    - coef: 7.89912186
+    - area: 133529731.6753 km^2 s
+      coef: 7.89813375
       frac: 0
 - - - - '2'
       - Tony Armstrong
-    - coef: 2.02035595
+    - area: 47531031.4754 km^2 s
+      coef: 2.01854559
       frac: 1
   - - - '29'
       - Guy Hubbard
-    - coef: 2.03066914
-      frac: 0.95786036
+    - area: 47765646.0755 km^2 s
+      coef: 2.02850919
+      frac: 0.96336203
   - - - '39'
       - rob degroot
-    - coef: 2.03331764
-      frac: 0.95092392
+    - area: 47836104.4769 km^2 s
+      coef: 2.03150142
+      frac: 0.95635205
   - - - '22'
       - Steve Blenkinsop
-    - coef: 2.03891349
-      frac: 0.93765874
+    - area: 47967652.3244 km^2 s
+      coef: 2.03708799
+      frac: 0.94456752
   - - - '33'
       - Niki Longshore
-    - coef: 2.04319144
-      frac: 0.92841278
+    - area: 48064126.8581 km^2 s
+      coef: 2.04118506
+      frac: 0.93667654
   - - - '4'
       - Nick Purcell
-    - coef: 2.04969288
-      frac: 0.91539971
+    - area: 48219847.5776 km^2 s
+      coef: 2.0477982
+      frac: 0.92487862
   - - - '12'
       - Rory Duncan
-    - coef: 2.04994804
-      frac: 0.91490988
+    - area: 48224454.8690 km^2 s
+      coef: 2.04799386
+      frac: 0.92454402
   - - - '46'
       - Harrison Rowntree
-    - coef: 2.1124829
-      frac: 0.81857946
+    - area: 49698215.8796 km^2 s
+      coef: 2.11058148
+      frac: 0.83870338
   - - - '44'
       - Josh Woods
-    - coef: 2.12519625
-      frac: 0.80225104
+    - area: 49999391.4724 km^2 s
+      coef: 2.12337179
+      frac: 0.82408602
   - - - '8'
       - Rod Flockhart
-    - coef: 2.12805077
-      frac: 0.79867769
+    - area: 50064772.4377 km^2 s
+      coef: 2.12614838
+      frac: 0.82099321
   - - - '19'
       - Scott Barrett
-    - coef: 2.21270284
-      frac: 0.70364054
+    - area: 52054535.9139 km^2 s
+      coef: 2.21064956
+      frac: 0.73656223
   - - - '16'
       - Andrew Barnes
-    - coef: 2.22071175
-      frac: 0.69547008
+    - area: 52243670.6384 km^2 s
+      coef: 2.21868173
+      frac: 0.72926931
   - - - '20'
       - Konrad Heilmann
-    - coef: 2.25649842
-      frac: 0.66020935
+    - area: 53087175.5709 km^2 s
+      coef: 2.25450366
+      frac: 0.69785851
   - - - '5'
       - Jonny Durand
-    - coef: 2.38948339
-      frac: 0.54233654
+    - area: 56207087.1192 km^2 s
+      coef: 2.38699991
+      frac: 0.59332927
   - - - '26'
       - Jason Kath
-    - coef: 2.4202857
-      frac: 0.5172179
+    - area: 56943436.7414 km^2 s
+      coef: 2.41827117
+      frac: 0.57063322
   - - - '51'
       - Billy Miller-Macleod
-    - coef: 2.46004048
-      frac: 0.48573203
+    - area: 57875420.9545 km^2 s
+      coef: 2.45785064
+      frac: 0.54273853
   - - - '25'
       - Hagen Bruggemann
-    - coef: 2.46836146
-      frac: 0.47926402
+    - area: 58076551.7587 km^2 s
+      coef: 2.46639225
+      frac: 0.53683041
   - - - '13'
       - Matthew Barlow
-    - coef: 2.50706727
-      frac: 0.44968716
+    - area: 58988628.5908 km^2 s
+      coef: 2.50512628
+      frac: 0.51049508
   - - - '42'
       - Mikhail Karmazin
-    - coef: 2.50757507
-      frac: 0.44930445
+    - area: 59000629.1470 km^2 s
+      coef: 2.50563592
+      frac: 0.51015334
   - - - '38'
       - Dave Stevens
-    - coef: 2.56900699
-      frac: 0.4039361
+    - area: 60436510.2180 km^2 s
+      coef: 2.56661485
+      frac: 0.47007943
   - - - '24'
       - Brodrick Osborne
-    - coef: 2.65744435
-      frac: 0.34149084
+    - area: 62528888.7268 km^2 s
+      coef: 2.65547388
+      frac: 0.41424747
   - - - '37'
       - John Spencer
-    - coef: 2.68771155
-      frac: 0.32079602
+    - area: 63243414.1106 km^2 s
+      coef: 2.68581831
+      frac: 0.39578794
   - - - '10'
       - Craig Taylor
-    - coef: 2.85490373
-      frac: 0.21163109
+    - area: 67181313.6863 km^2 s
+      coef: 2.85305285
+      frac: 0.29864071
   - - - '45'
       - steve crosby
-    - coef: 2.87244974
-      frac: 0.20061938
+    - area: 67589405.1636 km^2 s
+      coef: 2.87038366
+      frac: 0.28896359
   - - - '6'
       - Viv Clements
-    - coef: 2.92848315
-      frac: 0.16594798
+    - area: 68907692.2091 km^2 s
+      coef: 2.92636861
+      frac: 0.25814117
   - - - '7'
       - James Atkinson
-    - coef: 2.99088598
-      frac: 0.12816426
+    - area: 70382277.9121 km^2 s
+      coef: 2.98899124
+      frac: 0.22440567
   - - - '43'
       - Simon West
-    - coef: 2.99493921
-      frac: 0.12573857
+    - area: 70465490.8396 km^2 s
+      coef: 2.99252513
+      frac: 0.22252393
   - - - '23'
       - Noel Collins
-    - coef: 3.02292393
-      frac: 0.10908165
+    - area: 71135274.6387 km^2 s
+      coef: 3.02096947
+      frac: 0.20745959
   - - - '17'
       - Trevor Purcell
-    - coef: 3.02790792
-      frac: 0.10613145
+    - area: 71233838.7292 km^2 s
+      coef: 3.02515529
+      frac: 0.20525485
   - - - '21'
       - Frank Chetcuti
-    - coef: 3.06605123
-      frac: 8.371175e-2
+    - area: 72137443.7859 km^2 s
+      coef: 3.06352954
+      frac: 0.18518273
   - - - '36'
       - Brad Porter
-    - coef: 3.13881205
-      frac: 4.168567e-2
+    - area: 73861883.8685 km^2 s
+      coef: 3.13676298
+      frac: 0.1475453
   - - - '18'
       - Peter Adriaans
-    - coef: 3.26574196
-      frac: 0
+    - area: 76850134.5173 km^2 s
+      coef: 3.26366787
+      frac: 8.421158e-2
   - - - '35'
       - Anatoly Reyter
-    - coef: 3.2934234
-      frac: 0
+    - area: 77501906.7151 km^2 s
+      coef: 3.2913473
+      frac: 7.068921e-2
   - - - '14'
       - Tony Giammichele
-    - coef: 3.29573141
-      frac: 0
+    - area: 77555217.8849 km^2 s
+      coef: 3.29361132
+      frac: 6.958752e-2
   - - - '41'
       - Peter Burkitt
-    - coef: 3.61639304
+    - area: 85101969.5945 km^2 s
+      coef: 3.61410641
       frac: 0
   - - - '32'
       - Rob Larkin
-    - coef: 3.97633525
+    - area: 93572093.8115 km^2 s
+      coef: 3.97381525
       frac: 0
   - - - '1'
       - Mark Alton
-    - coef: 4.04039049
+    - area: 95072680.4582 km^2 s
+      coef: 4.03754209
       frac: 0
   - - - '40'
       - Hossain Tefaili
-    - coef: 5.12640156
+    - area: 120636829.5465 km^2 s
+      coef: 5.12319916
       frac: 0
   - - - '31'
       - Tomas Kellner
-    - coef: 5.15424699
+    - area: 121266569.1655 km^2 s
+      coef: 5.14994291
       frac: 0
   - - - '27'
       - Guy Williams
-    - coef: 5.41685675
+    - area: 127476146.7479 km^2 s
+      coef: 5.41365096
       frac: 0
   - - - '48'
       - Derek Mckee
-    - coef: 5.71113373
+    - area: 134398501.4813 km^2 s
+      coef: 5.70762919
       frac: 0
   - - - '15'
       - Andrew Sharpe
-    - coef: 6.07022162
+    - area: 142864864.3318 km^2 s
+      coef: 6.06717829
       frac: 0
   - - - '28'
       - John Harriot
-    - coef: 6.31984416
+    - area: 148708607.4762 km^2 s
+      coef: 6.3153501
       frac: 0
   - - - '34'
       - dave moore
-    - coef: 6.60146018
+    - area: 155368485.5336 km^2 s
+      coef: 6.59818148
       frac: 0
 - - - - '29'
       - Guy Hubbard
-    - coef: 1.2486973
+    - area: 17784741.9272 km^2 s
+      coef: 1.24811643
       frac: 1
   - - - '19'
       - Scott Barrett
-    - coef: 1.27437113
-      frac: 0.91613432
+    - area: 18150389.4443 km^2 s
+      coef: 1.27377722
+      frac: 0.91919683
   - - - '12'
       - Rory Duncan
-    - coef: 1.30538043
-      frac: 0.85780215
+    - area: 18591089.4343 km^2 s
+      coef: 1.30470513
+      frac: 0.86310062
   - - - '46'
       - Harrison Rowntree
-    - coef: 1.3227608
-      frac: 0.83004787
+    - area: 18838641.4137 km^2 s
+      coef: 1.3220781
+      frac: 0.8363487
   - - - '44'
       - Josh Woods
-    - coef: 1.33538523
-      frac: 0.81124597
+    - area: 19018356.5421 km^2 s
+      coef: 1.33469034
+      frac: 0.81823665
   - - - '2'
       - Tony Armstrong
-    - coef: 1.3472886
-      frac: 0.79434014
+    - area: 19189314.0175 km^2 s
+      coef: 1.34668797
+      frac: 0.80180957
   - - - '8'
       - Rod Flockhart
-    - coef: 1.36248692
-      frac: 0.77371336
+    - area: 19405521.8293 km^2 s
+      coef: 1.36186123
+      frac: 0.78196008
   - - - '36'
       - Brad Porter
-    - coef: 1.37543217
-      frac: 0.75686104
+    - area: 19590418.8216 km^2 s
+      coef: 1.37483713
+      frac: 0.76567785
   - - - '20'
       - Konrad Heilmann
-    - coef: 1.39643447
-      frac: 0.73069134
+    - area: 19880759.6324 km^2 s
+      coef: 1.39521297
+      frac: 0.74118867
   - - - '5'
       - Jonny Durand
-    - coef: 1.5044443
-      frac: 0.61173268
+    - area: 21428070.0624 km^2 s
+      coef: 1.50380176
+      frac: 0.62584446
   - - - '39'
       - rob degroot
-    - coef: 1.54939791
-      frac: 0.56747288
+    - area: 22068215.0655 km^2 s
+      coef: 1.54872653
+      frac: 0.58320994
   - - - '26'
       - Jason Kath
-    - coef: 1.560601
-      frac: 0.5567955
+    - area: 22228507.3649 km^2 s
+      coef: 1.5599757
+      frac: 0.5728759
   - - - '16'
       - Andrew Barnes
-    - coef: 1.57029269
-      frac: 0.54766137
+    - area: 22365141.3794 km^2 s
+      coef: 1.56956454
+      frac: 0.56416488
   - - - '10'
       - Craig Taylor
-    - coef: 1.57184371
-      frac: 0.54620814
+    - area: 22389260.1175 km^2 s
+      coef: 1.57125717
+      frac: 0.56263625
   - - - '24'
       - Brodrick Osborne
-    - coef: 1.57274061
-      frac: 0.54536886
+    - area: 22401115.0359 km^2 s
+      coef: 1.57208914
+      frac: 0.56188587
   - - - '25'
       - Hagen Bruggemann
-    - coef: 1.57974394
-      frac: 0.53884181
+    - area: 22501079.2130 km^2 s
+      coef: 1.57910453
+      frac: 0.55558379
   - - - '17'
       - Trevor Purcell
-    - coef: 1.58118047
-      frac: 0.53750869
+    - area: 22521383.5100 km^2 s
+      coef: 1.58052947
+      frac: 0.5543092
   - - - '45'
       - steve crosby
-    - coef: 1.58752584
-      frac: 0.53164288
+    - area: 22609083.6401 km^2 s
+      coef: 1.58668418
+      frac: 0.54882465
   - - - '33'
       - Niki Longshore
-    - coef: 1.61413282
-      frac: 0.50743413
+    - area: 22983202.6115 km^2 s
+      coef: 1.6129395
+      frac: 0.52579096
   - - - '51'
       - Billy Miller-Macleod
-    - coef: 1.67637648
-      frac: 0.45298083
+    - area: 23867956.6833 km^2 s
+      coef: 1.6750307
+      frac: 0.47340659
   - - - '14'
       - Tony Giammichele
-    - coef: 1.68044117
-      frac: 0.44952036
+    - area: 23935541.6482 km^2 s
+      coef: 1.67977375
+      frac: 0.46951345
   - - - '23'
       - Noel Collins
-    - coef: 1.74582856
-      frac: 0.39525653
+    - area: 24868204.6499 km^2 s
+      coef: 1.74522716
+      frac: 0.4171586
   - - - '37'
       - John Spencer
-    - coef: 1.74644401
-      frac: 0.39475751
+    - area: 24875750.1520 km^2 s
+      coef: 1.7457567
+      frac: 0.41674476
   - - - '41'
       - Peter Burkitt
-    - coef: 1.74670643
-      frac: 0.39454481
+    - area: 24879257.5629 km^2 s
+      coef: 1.74600285
+      frac: 0.41655245
   - - - '42'
       - Mikhail Karmazin
-    - coef: 1.74785034
-      frac: 0.39361802
+    - area: 24896209.7630 km^2 s
+      coef: 1.74719254
+      frac: 0.41562339
   - - - '4'
       - Nick Purcell
-    - coef: 1.76031199
-      frac: 0.3835671
+    - area: 25070357.9289 km^2 s
+      coef: 1.75941409
+      frac: 0.40612163
   - - - '6'
       - Viv Clements
-    - coef: 1.80966303
-      frac: 0.34453724
+    - area: 25777361.6236 km^2 s
+      coef: 1.80903094
+      frac: 0.36829727
   - - - '9'
       - Rohan Taylor
-    - coef: 1.94874639
-      frac: 0.24024051
+    - area: 27754972.1346 km^2 s
+      coef: 1.94781778
+      frac: 0.26797916
   - - - '35'
       - Anatoly Reyter
-    - coef: 2.24521145
-      frac: 3.858081e-2
+    - area: 31983020.8055 km^2 s
+      coef: 2.24453826
+      frac: 7.343237e-2
   - - - '22'
       - Steve Blenkinsop
-    - coef: 2.33558125
-      frac: 0
+    - area: 33271663.9600 km^2 s
+      coef: 2.33497402
+      frac: 1.81841e-2
   - - - '43'
       - Simon West
-    - coef: 2.75212145
+    - area: 39186539.8754 km^2 s
+      coef: 2.75007443
       frac: 0
   - - - '27'
       - Guy Williams
-    - coef: 2.79585006
+    - area: 39828958.9636 km^2 s
+      coef: 2.7951588
       frac: 0
   - - - '21'
       - Frank Chetcuti
-    - coef: 2.86807659
+    - area: 40855755.3603 km^2 s
+      coef: 2.8672184
       frac: 0
   - - - '18'
       - Peter Adriaans
-    - coef: 2.87823836
+    - area: 41003058.3635 km^2 s
+      coef: 2.87755599
       frac: 0
   - - - '48'
       - Derek Mckee
-    - coef: 3.10906307
+    - area: 44285026.7148 km^2 s
+      coef: 3.10788143
       frac: 0
   - - - '13'
       - Matthew Barlow
-    - coef: 3.49279502
+    - area: 49759993.8175 km^2 s
+      coef: 3.49210947
       frac: 0
   - - - '32'
       - Rob Larkin
-    - coef: 3.50246195
+    - area: 49883165.5632 km^2 s
+      coef: 3.50075354
       frac: 0
   - - - '7'
       - James Atkinson
-    - coef: 3.54094766
+    - area: 50446016.7542 km^2 s
+      coef: 3.54025391
       frac: 0
   - - - '38'
       - Dave Stevens
-    - coef: 3.55889024
+    - area: 50696531.5534 km^2 s
+      coef: 3.5578348
       frac: 0
   - - - '1'
       - Mark Alton
-    - coef: 3.64885028
+    - area: 51959222.9032 km^2 s
+      coef: 3.64644929
       frac: 0
   - - - '15'
       - Andrew Sharpe
-    - coef: 3.72737605
+    - area: 53099752.0509 km^2 s
+      coef: 3.72649055
       frac: 0
   - - - '34'
       - dave moore
-    - coef: 3.74156653
+    - area: 53292711.5400 km^2 s
+      coef: 3.74003227
       frac: 0
   - - - '40'
       - Hossain Tefaili
-    - coef: 3.74618717
+    - area: 53358955.8286 km^2 s
+      coef: 3.74468123
       frac: 0
   - - - '28'
       - John Harriot
-    - coef: 4.96427526
+    - area: 70722964.0173 km^2 s
+      coef: 4.96327096
       frac: 0
   - - - '31'
       - Tomas Kellner
-    - coef: 5.69797288
+    - area: 81145888.5072 km^2 s
+      coef: 5.69474197
       frac: 0
 arrivalRank:
-- - - - '5'
-      - Jonny Durand
+- - - - '19'
+      - Scott Barrett
     - rank: '1'
       frac: 1
-  - - - '26'
-      - Jason Kath
+  - - - '5'
+      - Jonny Durand
     - rank: '2'
       frac: 0.90431452
-  - - - '22'
-      - Steve Blenkinsop
+  - - - '26'
+      - Jason Kath
     - rank: '3'
       frac: 0.81665665
-  - - - '19'
-      - Scott Barrett
+  - - - '22'
+      - Steve Blenkinsop
     - rank: '4'
       frac: 0.7366697
   - - - '44'
@@ -1341,12 +1568,12 @@ arrivalRank:
       - Scott Barrett
     - rank: '1'
       frac: 1
-  - - - '46'
-      - Harrison Rowntree
-    - rank: '2'
-      frac: 0.9241306
   - - - '12'
       - Rory Duncan
+    - rank: '2'
+      frac: 0.9241306
+  - - - '46'
+      - Harrison Rowntree
     - rank: '3'
       frac: 0.85326421
   - - - '44'
@@ -1450,7 +1677,11 @@ arrivalRank:
     - rank: '28'
       frac: 0.20151608
 reachRank:
-- - - - '5'
+- - - - '19'
+      - Scott Barrett
+    - frac: 1
+      reach: 99.562347 km
+  - - - '5'
       - Jonny Durand
     - frac: 1
       reach: 99.562347 km
@@ -1460,10 +1691,6 @@ reachRank:
       reach: 99.562347 km
   - - - '22'
       - Steve Blenkinsop
-    - frac: 1
-      reach: 99.562347 km
-  - - - '19'
-      - Scott Barrett
     - frac: 1
       reach: 99.562347 km
   - - - '44'
@@ -2186,12 +2413,12 @@ reachRank:
       - Scott Barrett
     - frac: 1
       reach: 88.973358 km
-  - - - '46'
-      - Harrison Rowntree
-    - frac: 1
-      reach: 88.973358 km
   - - - '12'
       - Rory Duncan
+    - frac: 1
+      reach: 88.973358 km
+  - - - '46'
+      - Harrison Rowntree
     - frac: 1
       reach: 88.973358 km
   - - - '44'
@@ -2365,877 +2592,877 @@ reachRank:
 ssSpeed:
 - - - - '5'
       - Jonny Durand
-    - time: 2.463889 h
+    - time: 2.462907 h
       frac: 1
   - - - '19'
       - Scott Barrett
-    - time: 2.643333 h
-      frac: 0.72625271
+    - time: 2.643249 h
+      frac: 0.76363544
   - - - '20'
       - Konrad Heilmann
-    - time: 2.650833 h
-      frac: 0.71867725
+    - time: 2.648565 h
+      frac: 0.75901283
   - - - '22'
       - Steve Blenkinsop
-    - time: 2.651944 h
-      frac: 0.71756365
+    - time: 2.651645 h
+      frac: 0.75635478
   - - - '26'
       - Jason Kath
-    - time: 2.652222 h
-      frac: 0.71728559
+    - time: 2.651783 h
+      frac: 0.75623581
   - - - '46'
       - Harrison Rowntree
-    - time: 2.656667 h
-      frac: 0.71285509
+    - time: 2.655901 h
+      frac: 0.75270557
   - - - '44'
       - Josh Woods
-    - time: 2.669444 h
-      frac: 0.70030284
+    - time: 2.669223 h
+      frac: 0.74145284
   - - - '13'
       - Matthew Barlow
-    - time: 2.741944 h
-      frac: 0.63343511
+    - time: 2.741337 h
+      frac: 0.68426047
   - - - '6'
       - Viv Clements
-    - time: 2.856944 h
-      frac: 0.53829373
+    - time: 2.856653 h
+      frac: 0.60220245
   - - - '16'
       - Andrew Barnes
-    - time: 2.858333 h
-      frac: 0.53720672
+    - time: 2.857947 h
+      frac: 0.60133197
   - - - '17'
       - Trevor Purcell
-    - time: 2.946111 h
-      frac: 0.47087133
+    - time: 2.944930 h
+      frac: 0.54477154
   - - - '51'
       - Billy Miller-Macleod
-    - time: 2.996944 h
-      frac: 0.43431048
+    - time: 2.994911 h
+      frac: 0.51382298
   - - - '25'
       - Hagen Bruggemann
-    - time: 3.076944 h
-      frac: 0.37904084
+    - time: 3.076012 h
+      frac: 0.46559057
   - - - '39'
       - rob degroot
-    - time: 3.079167 h
-      frac: 0.37754117
+    - time: 3.077930 h
+      frac: 0.46447638
   - - - '36'
       - Brad Porter
-    - time: 3.099444 h
-      frac: 0.36393891
+    - time: 3.098825 h
+      frac: 0.45241505
   - - - '45'
       - steve crosby
-    - time: 3.100278 h
-      frac: 0.36338304
+    - time: 3.099384 h
+      frac: 0.45209426
   - - - '33'
       - Niki Longshore
-    - time: 3.172222 h
-      frac: 0.31626428
+    - time: 3.171381 h
+      frac: 0.41151734
   - - - '27'
       - Guy Williams
-    - time: 3.185000 h
-      frac: 0.30806611
+    - time: 3.184440 h
+      frac: 0.40430807
   - - - '14'
       - Tony Giammichele
-    - time: 3.206944 h
-      frac: 0.29409866
+    - time: 3.206556 h
+      frac: 0.39219719
   - - - '24'
       - Brodrick Osborne
-    - time: 3.386111 h
-      frac: 0.18475739
+    - time: 3.385407 h
+      frac: 0.29828344
   - - - '37'
       - John Spencer
-    - time: 3.435833 h
-      frac: 0.15571169
+    - time: 3.434834 h
+      frac: 0.2734373
   - - - '21'
       - Frank Chetcuti
-    - time: 3.866667 h
-      frac: 0
+    - time: 3.863319 h
+      frac: 7.312462e-2
 - - - - '22'
       - Steve Blenkinsop
-    - time: 2.369722 h
+    - time: 2.369484 h
       frac: 1
   - - - '4'
       - Nick Purcell
-    - time: 2.376389 h
-      frac: 0.96932229
+    - time: 2.376209 h
+      frac: 0.97327548
   - - - '44'
       - Josh Woods
-    - time: 2.378333 h
-      frac: 0.96361493
+    - time: 2.378043 h
+      frac: 0.96861455
   - - - '2'
       - Tony Armstrong
-    - time: 2.379444 h
-      frac: 0.96054875
+    - time: 2.379238 h
+      frac: 0.96575849
   - - - '29'
       - Guy Hubbard
-    - time: 2.388056 h
-      frac: 0.93978407
+    - time: 2.385704 h
+      frac: 0.95193696
   - - - '5'
       - Jonny Durand
-    - time: 2.519722 h
-      frac: 0.75550052
+    - time: 2.519461 h
+      frac: 0.78826221
   - - - '33'
       - Niki Longshore
-    - time: 2.579167 h
-      frac: 0.69455737
+    - time: 2.576447 h
+      frac: 0.73755219
   - - - '12'
       - Rory Duncan
-    - time: 2.589167 h
-      frac: 0.68491082
+    - time: 2.586902 h
+      frac: 0.72878601
   - - - '39'
       - rob degroot
-    - time: 2.688333 h
-      frac: 0.595991
+    - time: 2.687605 h
+      frac: 0.6504494
   - - - '16'
       - Andrew Barnes
-    - time: 2.725278 h
-      frac: 0.56533427
+    - time: 2.723887 h
+      frac: 0.62435316
   - - - '20'
       - Konrad Heilmann
-    - time: 2.766667 h
-      frac: 0.5322251
+    - time: 2.764357 h
+      frac: 0.59627416
   - - - '46'
       - Harrison Rowntree
-    - time: 2.780000 h
-      frac: 0.52180787
+    - time: 2.779736 h
+      frac: 0.58585825
   - - - '9'
       - Rohan Taylor
-    - time: 2.854444 h
-      frac: 0.4655845
+    - time: 2.854192 h
+      frac: 0.5371556
   - - - '8'
       - Rod Flockhart
-    - time: 2.878889 h
-      frac: 0.44776524
+    - time: 2.878266 h
+      frac: 0.52195396
   - - - '10'
       - Craig Taylor
-    - time: 2.894722 h
-      frac: 0.43637537
+    - time: 2.893839 h
+      frac: 0.51224862
   - - - '42'
       - Mikhail Karmazin
-    - time: 2.929444 h
-      frac: 0.41179038
+    - time: 2.929103 h
+      frac: 0.49061804
   - - - '6'
       - Viv Clements
-    - time: 2.938611 h
-      frac: 0.40538564
+    - time: 2.938330 h
+      frac: 0.48503431
   - - - '45'
       - steve crosby
-    - time: 2.949444 h
-      frac: 0.39786058
+    - time: 2.947806 h
+      frac: 0.4793314
   - - - '25'
       - Hagen Bruggemann
-    - time: 2.966389 h
-      frac: 0.3861839
+    - time: 2.965722 h
+      frac: 0.46863241
   - - - '7'
       - James Atkinson
-    - time: 2.981111 h
-      frac: 0.37612806
+    - time: 2.981025 h
+      frac: 0.4595788
   - - - '26'
       - Jason Kath
-    - time: 2.982778 h
-      frac: 0.37499477
+    - time: 2.982416 h
+      frac: 0.45876007
   - - - '37'
       - John Spencer
-    - time: 3.189167 h
-      frac: 0.24160271
+    - time: 3.188258 h
+      frac: 0.3435154
   - - - '38'
       - Dave Stevens
-    - time: 3.216111 h
-      frac: 0.22506776
+    - time: 3.215743 h
+      frac: 0.32890502
   - - - '14'
       - Tony Giammichele
-    - time: 3.336389 h
-      frac: 0.15328955
+    - time: 3.335476 h
+      frac: 0.26701053
   - - - '21'
       - Frank Chetcuti
-    - time: 3.594167 h
-      frac: 8.76533e-3
+    - time: 3.593967 h
+      frac: 0.14147995
   - - - '34'
       - dave moore
-    - time: 4.206944 h
+    - time: 4.206533 h
       frac: 0
 - - - - '19'
       - Scott Barrett
-    - time: 2.114444 h
+    - time: 2.113375 h
       frac: 1
   - - - '2'
       - Tony Armstrong
-    - time: 2.222222 h
-      frac: 0.80009664
+    - time: 2.221595 h
+      frac: 0.82303774
   - - - '12'
       - Rory Duncan
-    - time: 2.230000 h
-      frac: 0.7905914
+    - time: 2.228660 h
+      frac: 0.81541816
   - - - '22'
       - Steve Blenkinsop
-    - time: 2.231111 h
-      frac: 0.78925118
+    - time: 2.230906 h
+      frac: 0.81302824
   - - - '5'
       - Jonny Durand
-    - time: 2.232778 h
-      frac: 0.7872488
+    - time: 2.231903 h
+      frac: 0.81197225
   - - - '29'
       - Guy Hubbard
-    - time: 2.243611 h
-      frac: 0.77445445
+    - time: 2.242434 h
+      frac: 0.80099422
   - - - '44'
       - Josh Woods
-    - time: 2.252500 h
-      frac: 0.76422204
-  - - - '26'
-      - Jason Kath
-    - time: 2.466389 h
-      frac: 0.56000268
+    - time: 2.251415 h
+      frac: 0.79186503
   - - - '10'
       - Craig Taylor
-    - time: 2.468056 h
-      frac: 0.55861468
+    - time: 2.465903 h
+      frac: 0.61113072
+  - - - '26'
+      - Jason Kath
+    - time: 2.466104 h
+      frac: 0.61098315
   - - - '46'
       - Harrison Rowntree
-    - time: 2.582222 h
-      frac: 0.46810365
+    - time: 2.581485 h
+      frac: 0.53020724
   - - - '4'
       - Nick Purcell
-    - time: 2.631667 h
-      frac: 0.4312535
+    - time: 2.631398 h
+      frac: 0.49737919
   - - - '21'
       - Frank Chetcuti
-    - time: 3.460833 h
-      frac: 0
+    - time: 3.457217 h
+      frac: 5.105749e-2
   - - - '6'
       - Viv Clements
-    - time: 3.546389 h
-      frac: 0
+    - time: 3.546125 h
+      frac: 9.6513e-3
   - - - '35'
       - Anatoly Reyter
-    - time: 3.780000 h
+    - time: 3.779337 h
       frac: 0
   - - - '42'
       - Mikhail Karmazin
-    - time: 3.784722 h
+    - time: 3.784488 h
       frac: 0
   - - - '18'
       - Peter Adriaans
-    - time: 3.805556 h
+    - time: 3.805528 h
       frac: 0
   - - - '23'
       - Noel Collins
-    - time: 3.945833 h
+    - time: 3.945655 h
       frac: 0
   - - - '51'
       - Billy Miller-Macleod
-    - time: 3.961389 h
+    - time: 3.960660 h
       frac: 0
 - - - - '5'
       - Jonny Durand
-    - time: 2.592778 h
+    - time: 2.592486 h
       frac: 1
   - - - '26'
       - Jason Kath
-    - time: 2.675833 h
-      frac: 0.83758795
+    - time: 2.675529 h
+      frac: 0.86144348
   - - - '2'
       - Tony Armstrong
-    - time: 2.827500 h
-      frac: 0.6753551
+    - time: 2.826554 h
+      frac: 0.7235254
   - - - '29'
       - Guy Hubbard
-    - time: 2.833056 h
-      frac: 0.67025249
+    - time: 2.832745 h
+      frac: 0.71867166
   - - - '22'
       - Steve Blenkinsop
-    - time: 2.838889 h
-      frac: 0.6649369
+    - time: 2.838687 h
+      frac: 0.71405197
   - - - '12'
       - Rory Duncan
-    - time: 2.921944 h
-      frac: 0.5932605
+    - time: 2.921346 h
+      frac: 0.65318179
   - - - '46'
       - Harrison Rowntree
-    - time: 2.963056 h
-      frac: 0.5600626
+    - time: 2.962111 h
+      frac: 0.62508293
   - - - '4'
       - Nick Purcell
-    - time: 2.978611 h
-      frac: 0.54782597
+    - time: 2.978183 h
+      frac: 0.6142923
   - - - '20'
       - Konrad Heilmann
-    - time: 2.994722 h
-      frac: 0.53532447
+    - time: 2.992181 h
+      frac: 0.60501575
   - - - '44'
       - Josh Woods
-    - time: 3.014444 h
-      frac: 0.52024597
+    - time: 3.013466 h
+      frac: 0.5911142
   - - - '33'
       - Niki Longshore
-    - time: 3.020278 h
-      frac: 0.5158315
+    - time: 3.019129 h
+      frac: 0.58745537
   - - - '19'
       - Scott Barrett
-    - time: 3.161111 h
-      frac: 0.41461552
+    - time: 3.160455 h
+      frac: 0.50075872
   - - - '25'
       - Hagen Bruggemann
-    - time: 3.479167 h
-      frac: 0.21273311
+    - time: 3.478730 h
+      frac: 0.32837017
   - - - '13'
       - Matthew Barlow
-    - time: 3.510556 h
-      frac: 0.19425527
+    - time: 3.509082 h
+      frac: 0.31312166
   - - - '8'
       - Rod Flockhart
-    - time: 3.593889 h
-      frac: 0.14619118
+    - time: 3.592450 h
+      frac: 0.27207969
 - - - - '19'
       - Scott Barrett
-    - time: 1.873889 h
+    - time: 1.872238 h
       frac: 1
   - - - '46'
       - Harrison Rowntree
-    - time: 1.941667 h
-      frac: 0.85028422
+    - time: 1.941010 h
+      frac: 0.86380612
   - - - '12'
       - Rory Duncan
-    - time: 1.948611 h
-      frac: 0.84022486
+    - time: 1.946109 h
+      frac: 0.85715515
   - - - '20'
       - Konrad Heilmann
-    - time: 1.988889 h
-      frac: 0.78701881
+    - time: 1.988221 h
+      frac: 0.8070357
   - - - '44'
       - Josh Woods
-    - time: 1.998611 h
-      frac: 0.77517811
+    - time: 1.997789 h
+      frac: 0.79656441
   - - - '2'
       - Tony Armstrong
-    - time: 2.008889 h
-      frac: 0.7629908
+    - time: 2.008066 h
+      frac: 0.78560887
   - - - '4'
       - Nick Purcell
-    - time: 2.021667 h
-      frac: 0.748262
+    - time: 2.020587 h
+      frac: 0.77262794
   - - - '29'
       - Guy Hubbard
-    - time: 2.027778 h
-      frac: 0.74136883
+    - time: 2.026711 h
+      frac: 0.76641255
   - - - '45'
       - steve crosby
-    - time: 2.082500 h
-      frac: 0.68321278
+    - time: 2.079661 h
+      frac: 0.71569445
   - - - '24'
       - Brodrick Osborne
-    - time: 2.082778 h
-      frac: 0.68293163
+    - time: 2.082243 h
+      frac: 0.71334034
   - - - '33'
       - Niki Longshore
-    - time: 2.086944 h
-      frac: 0.67872919
+    - time: 2.085014 h
+      frac: 0.7108238
   - - - '51'
       - Billy Miller-Macleod
-    - time: 2.104444 h
-      frac: 0.66136923
+    - time: 2.103770 h
+      frac: 0.69407085
   - - - '17'
       - Trevor Purcell
-    - time: 2.106667 h
-      frac: 0.65919677
+    - time: 2.105996 h
+      frac: 0.69211319
   - - - '8'
       - Rod Flockhart
-    - time: 2.126944 h
-      frac: 0.63968146
+    - time: 2.126082 h
+      frac: 0.67471954
   - - - '39'
       - rob degroot
-    - time: 2.129444 h
-      frac: 0.63731223
+    - time: 2.128000 h
+      frac: 0.67308319
   - - - '36'
       - Brad Porter
-    - time: 2.130000 h
-      frac: 0.63678679
+    - time: 2.129352 h
+      frac: 0.67193189
   - - - '10'
       - Craig Taylor
-    - time: 2.139444 h
-      frac: 0.62791147
+    - time: 2.137731 h
+      frac: 0.66484228
   - - - '16'
       - Andrew Barnes
-    - time: 2.151667 h
-      frac: 0.61658036
+    - time: 2.150890 h
+      frac: 0.65385749
   - - - '25'
       - Hagen Bruggemann
-    - time: 2.167222 h
-      frac: 0.6023964
+    - time: 2.166411 h
+      frac: 0.64112058
   - - - '23'
       - Noel Collins
-    - time: 2.229444 h
-      frac: 0.54799038
+    - time: 2.229388 h
+      frac: 0.59157392
   - - - '42'
       - Mikhail Karmazin
-    - time: 2.252778 h
-      frac: 0.52842518
+    - time: 2.252232 h
+      frac: 0.57433873
   - - - '37'
       - John Spencer
-    - time: 2.280556 h
-      frac: 0.50564939
+    - time: 2.279293 h
+      frac: 0.55436251
   - - - '26'
       - Jason Kath
-    - time: 2.296667 h
-      frac: 0.49267749
+    - time: 2.296268 h
+      frac: 0.54205748
   - - - '22'
       - Steve Blenkinsop
-    - time: 2.341111 h
-      frac: 0.45771821
+    - time: 2.341019 h
+      frac: 0.51037922
   - - - '41'
       - Peter Burkitt
-    - time: 2.347222 h
-      frac: 0.45299988
+    - time: 2.345871 h
+      frac: 0.5070064
   - - - '14'
       - Tony Giammichele
-    - time: 2.604444 h
-      frac: 0.26945856
+    - time: 2.603756 h
+      frac: 0.34128666
   - - - '43'
       - Simon West
-    - time: 2.620556 h
-      frac: 0.25875712
+    - time: 2.619849 h
+      frac: 0.33166096
   - - - '6'
       - Viv Clements
-    - time: 2.840278 h
-      frac: 0.11967309
+    - time: 2.840111 h
+      frac: 0.20611292
 gsSpeed:
-- - - - '5'
+- - - - '19'
+      - Scott Barrett
+    - time: -20.999553 h
+      frac: 0
+  - - - '5'
       - Jonny Durand
-    - time: 2.469444 h
-      frac: 1
+    - time: 2.469229 h
+      frac: 0
   - - - '26'
       - Jason Kath
-    - time: 2.662222 h
-      frac: 0.71296285
+    - time: 2.661955 h
+      frac: 0
   - - - '22'
       - Steve Blenkinsop
-    - time: 2.666667 h
-      frac: 0.70856792
-  - - - '19'
-      - Scott Barrett
-    - time: 2.667222 h
-      frac: 0.70802089
+    - time: 2.666518 h
+      frac: 0
   - - - '44'
       - Josh Woods
-    - time: 2.669722 h
-      frac: 0.70556554
+    - time: 2.669595 h
+      frac: 0
   - - - '46'
       - Harrison Rowntree
-    - time: 2.679167 h
-      frac: 0.69638043
+    - time: 2.678904 h
+      frac: 0
   - - - '20'
       - Konrad Heilmann
-    - time: 2.734444 h
-      frac: 0.64513429
+    - time: 2.734208 h
+      frac: 0
   - - - '13'
       - Matthew Barlow
-    - time: 2.752222 h
-      frac: 0.62943565
+    - time: 2.752169 h
+      frac: 0
   - - - '16'
       - Andrew Barnes
-    - time: 2.888611 h
-      frac: 0.51824679
+    - time: 2.888438 h
+      frac: 0
   - - - '6'
       - Viv Clements
-    - time: 2.921389 h
-      frac: 0.49344863
+    - time: 2.921340 h
+      frac: 0
   - - - '51'
       - Billy Miller-Macleod
-    - time: 3.008611 h
-      frac: 0.43020914
+    - time: 3.008553 h
+      frac: 0
   - - - '17'
       - Trevor Purcell
-    - time: 3.044444 h
-      frac: 0.40523507
+    - time: 3.043828 h
+      frac: 0
   - - - '25'
       - Hagen Bruggemann
-    - time: 3.082222 h
-      frac: 0.37946141
+    - time: 3.082079 h
+      frac: 0
   - - - '14'
       - Tony Giammichele
-    - time: 3.087222 h
-      frac: 0.37609043
+    - time: 3.086972 h
+      frac: 0
   - - - '39'
       - rob degroot
-    - time: 3.088889 h
-      frac: 0.3749688
+    - time: 3.088616 h
+      frac: 0
   - - - '45'
       - steve crosby
-    - time: 3.119444 h
-      frac: 0.35458009
+    - time: 3.119187 h
+      frac: 0
   - - - '36'
       - Brad Porter
-    - time: 3.139444 h
-      frac: 0.34140769
+    - time: 3.138998 h
+      frac: 0
   - - - '33'
       - Niki Longshore
-    - time: 3.184444 h
-      frac: 0.3122391
+    - time: 3.184374 h
+      frac: 0
   - - - '27'
       - Guy Williams
-    - time: 3.211667 h
-      frac: 0.29489127
+    - time: 3.211665 h
+      frac: 0
   - - - '37'
       - John Spencer
-    - time: 3.291667 h
-      frac: 0.24509391
+    - time: 3.291474 h
+      frac: 0
   - - - '24'
       - Brodrick Osborne
-    - time: 3.307778 h
-      frac: 0.23526445
+    - time: 3.307375 h
+      frac: 0
   - - - '21'
       - Frank Chetcuti
-    - time: 3.923611 h
+    - time: 3.921221 h
       frac: 0
 - - - - '22'
       - Steve Blenkinsop
-    - time: 2.391944 h
+    - time: 2.391771 h
       frac: 1
   - - - '2'
       - Tony Armstrong
-    - time: 2.393611 h
-      frac: 0.98784447
+    - time: 2.393435 h
+      frac: 0.98949896
   - - - '29'
       - Guy Hubbard
-    - time: 2.400000 h
-      frac: 0.96525131
+    - time: 2.399702 h
+      frac: 0.97026196
   - - - '44'
       - Josh Woods
-    - time: 2.405278 h
-      frac: 0.95137787
+    - time: 2.405003 h
+      frac: 0.95816775
   - - - '4'
       - Nick Purcell
-    - time: 2.405278 h
-      frac: 0.95137787
+    - time: 2.405132 h
+      frac: 0.95789664
   - - - '5'
       - Jonny Durand
-    - time: 2.581111 h
-      frac: 0.71504832
+    - time: 2.581022 h
+      frac: 0.75351793
   - - - '33'
       - Niki Longshore
-    - time: 2.607778 h
-      frac: 0.68886144
+    - time: 2.607642 h
+      frac: 0.73091467
   - - - '12'
       - Rory Duncan
-    - time: 2.650833 h
-      frac: 0.64874939
+    - time: 2.649907 h
+      frac: 0.69684892
   - - - '39'
       - rob degroot
-    - time: 2.727222 h
-      frac: 0.58267154
+    - time: 2.726671 h
+      frac: 0.63939064
   - - - '16'
       - Andrew Barnes
-    - time: 2.790556 h
-      frac: 0.5316458
+    - time: 2.790318 h
+      frac: 0.59503902
   - - - '46'
       - Harrison Rowntree
-    - time: 2.796667 h
-      frac: 0.52687105
+    - time: 2.796427 h
+      frac: 0.59091085
   - - - '20'
       - Konrad Heilmann
-    - time: 2.814444 h
-      frac: 0.51311549
+    - time: 2.812468 h
+      frac: 0.58017027
   - - - '9'
       - Rohan Taylor
-    - time: 2.880833 h
-      frac: 0.46336178
+    - time: 2.880745 h
+      frac: 0.53589362
   - - - '10'
       - Craig Taylor
-    - time: 2.909167 h
-      frac: 0.44282331
+    - time: 2.909002 h
+      frac: 0.51818143
   - - - '42'
       - Mikhail Karmazin
-    - time: 2.944167 h
-      frac: 0.41796281
+    - time: 2.944036 h
+      frac: 0.49666302
   - - - '8'
       - Rod Flockhart
-    - time: 2.971389 h
-      frac: 0.39898863
+    - time: 2.971007 h
+      frac: 0.48040622
   - - - '45'
       - steve crosby
-    - time: 2.978056 h
-      frac: 0.39438756
+    - time: 2.977845 h
+      frac: 0.47632507
   - - - '6'
       - Viv Clements
-    - time: 2.979167 h
-      frac: 0.39362241
+    - time: 2.979123 h
+      frac: 0.47556372
   - - - '25'
       - Hagen Bruggemann
-    - time: 2.980833 h
-      frac: 0.3924756
+    - time: 2.980784 h
+      frac: 0.47457554
   - - - '26'
       - Jason Kath
-    - time: 3.008611 h
-      frac: 0.37351819
+    - time: 3.008378 h
+      frac: 0.45829144
   - - - '7'
       - James Atkinson
-    - time: 3.055833 h
-      frac: 0.34193052
+    - time: 3.055754 h
+      frac: 0.43088753
   - - - '37'
       - John Spencer
-    - time: 3.233056 h
-      frac: 0.22949215
+    - time: 3.232753 h
+      frac: 0.33377965
   - - - '14'
       - Tony Giammichele
-    - time: 3.385000 h
-      frac: 0.13928934
+    - time: 3.384773 h
+      frac: 0.25573616
   - - - '38'
       - Dave Stevens
-    - time: 3.495000 h
-      frac: 7.68483e-2
+    - time: 3.494833 h
+      frac: 0.20171111
   - - - '21'
       - Frank Chetcuti
-    - time: 3.660000 h
-      frac: 0
+    - time: 3.659831 h
+      frac: 0.12396781
   - - - '34'
       - dave moore
-    - time: 4.385833 h
+    - time: 4.385622 h
       frac: 0
 - - - - '19'
       - Scott Barrett
-    - time: 2.124167 h
+    - time: 2.124067 h
       frac: 1
   - - - '2'
       - Tony Armstrong
-    - time: 2.237778 h
-      frac: 0.79310542
+    - time: 2.237645 h
+      frac: 0.81755168
   - - - '22'
       - Steve Blenkinsop
-    - time: 2.240278 h
-      frac: 0.79008132
+    - time: 2.240133 h
+      frac: 0.81489698
   - - - '5'
       - Jonny Durand
-    - time: 2.245833 h
-      frac: 0.78343764
+    - time: 2.245661 h
+      frac: 0.80906459
   - - - '12'
       - Rory Duncan
-    - time: 2.247500 h
-      frac: 0.78146439
+    - time: 2.247304 h
+      frac: 0.80734914
   - - - '29'
       - Guy Hubbard
-    - time: 2.250278 h
-      frac: 0.77819527
+    - time: 2.250179 h
+      frac: 0.80436371
   - - - '44'
       - Josh Woods
-    - time: 2.260000 h
-      frac: 0.76693728
+    - time: 2.259756 h
+      frac: 0.79458116
   - - - '26'
       - Jason Kath
-    - time: 2.473056 h
-      frac: 0.5628874
+    - time: 2.473023 h
+      frac: 0.6144109
   - - - '10'
       - Craig Taylor
-    - time: 2.474167 h
-      frac: 0.56195984
+    - time: 2.474122 h
+      frac: 0.61360203
   - - - '46'
       - Harrison Rowntree
-    - time: 2.591667 h
-      frac: 0.4687206
+    - time: 2.591516 h
+      frac: 0.53143847
   - - - '4'
       - Nick Purcell
-    - time: 2.642222 h
-      frac: 0.43107792
+    - time: 2.642006 h
+      frac: 0.49827768
   - - - '21'
       - Frank Chetcuti
-    - time: 3.477500 h
-      frac: 0
+    - time: 3.475554 h
+      frac: 4.906271e-2
   - - - '6'
       - Viv Clements
-    - time: 3.570000 h
-      frac: 0
+    - time: 3.569971 h
+      frac: 5.27373e-3
   - - - '42'
       - Mikhail Karmazin
-    - time: 3.787500 h
+    - time: 3.787311 h
       frac: 0
   - - - '35'
       - Anatoly Reyter
-    - time: 3.788611 h
+    - time: 3.788442 h
       frac: 0
   - - - '18'
       - Peter Adriaans
-    - time: 3.824167 h
+    - time: 3.824157 h
       frac: 0
   - - - '51'
       - Billy Miller-Macleod
-    - time: 3.969444 h
+    - time: 3.969327 h
       frac: 0
   - - - '23'
       - Noel Collins
-    - time: 3.973056 h
+    - time: 3.972984 h
       frac: 0
 - - - - '5'
       - Jonny Durand
-    - time: 2.607778 h
+    - time: 2.607669 h
       frac: 1
   - - - '26'
       - Jason Kath
-    - time: 2.688333 h
-      frac: 0.84101656
+    - time: 2.688177 h
+      frac: 0.86454039
   - - - '2'
       - Tony Armstrong
-    - time: 2.835556 h
-      frac: 0.68209614
+    - time: 2.835293 h
+      frac: 0.72915085
   - - - '22'
       - Steve Blenkinsop
-    - time: 2.853889 h
-      frac: 0.66525889
+    - time: 2.853860 h
+      frac: 0.71461563
   - - - '29'
       - Guy Hubbard
-    - time: 2.889167 h
-      frac: 0.63399007
+    - time: 2.889141 h
+      frac: 0.68796308
   - - - '12'
       - Rory Duncan
-    - time: 2.947500 h
-      frac: 0.58501009
+    - time: 2.947400 h
+      frac: 0.64626913
   - - - '46'
       - Harrison Rowntree
-    - time: 2.993889 h
-      frac: 0.54804371
+    - time: 2.993597 h
+      frac: 0.61488832
   - - - '20'
       - Konrad Heilmann
-    - time: 3.020278 h
-      frac: 0.52767869
+    - time: 3.020018 h
+      frac: 0.59750648
   - - - '44'
       - Josh Woods
-    - time: 3.020556 h
-      frac: 0.52746667
+    - time: 3.020486 h
+      frac: 0.59720181
   - - - '4'
       - Nick Purcell
-    - time: 3.040000 h
-      frac: 0.51274127
+    - time: 3.039980 h
+      frac: 0.58461923
   - - - '33'
       - Niki Longshore
-    - time: 3.051667 h
-      frac: 0.50401209
+    - time: 3.051425 h
+      frac: 0.57731995
   - - - '19'
       - Scott Barrett
-    - time: 3.233056 h
-      frac: 0.3767386
+    - time: 3.232942 h
+      frac: 0.46875392
   - - - '13'
       - Matthew Barlow
-    - time: 3.540556 h
-      frac: 0.18628242
+    - time: 3.540397 h
+      frac: 0.30643732
   - - - '25'
       - Hagen Bruggemann
-    - time: 3.573333 h
-      frac: 0.16732969
+    - time: 3.573254 h
+      frac: 0.29024314
   - - - '8'
       - Rod Flockhart
-    - time: 3.637222 h
-      frac: 0.13099252
+    - time: 3.636516 h
+      frac: 0.25957154
 - - - - '19'
       - Scott Barrett
-    - time: 1.877222 h
+    - time: 1.876165 h
       frac: 1
-  - - - '46'
-      - Harrison Rowntree
-    - time: 1.959167 h
-      frac: 0.83013898
   - - - '12'
       - Rory Duncan
-    - time: 1.959722 h
-      frac: 0.82937211
+    - time: 1.958575 h
+      frac: 0.8464573
+  - - - '46'
+      - Harrison Rowntree
+    - time: 1.958891 h
+      frac: 0.84606567
   - - - '44'
       - Josh Woods
-    - time: 2.008889 h
-      frac: 0.76697745
+    - time: 2.008812 h
+      frac: 0.7891175
   - - - '2'
       - Tony Armstrong
-    - time: 2.010278 h
-      frac: 0.76534162
+    - time: 2.010094 h
+      frac: 0.78776069
   - - - '29'
       - Guy Hubbard
-    - time: 2.031944 h
-      frac: 0.74051285
+    - time: 2.031800 h
+      frac: 0.76540795
   - - - '20'
       - Konrad Heilmann
-    - time: 2.056111 h
-      frac: 0.71415125
+    - time: 2.055982 h
+      frac: 0.74169675
   - - - '24'
       - Brodrick Osborne
-    - time: 2.098056 h
-      frac: 0.67105461
+    - time: 2.097887 h
+      frac: 0.70298292
   - - - '45'
       - steve crosby
-    - time: 2.102500 h
-      frac: 0.66665576
+    - time: 2.102399 h
+      frac: 0.69896684
   - - - '17'
       - Trevor Purcell
-    - time: 2.115833 h
-      frac: 0.65362929
+    - time: 2.115770 h
+      frac: 0.68721981
   - - - '8'
       - Rod Flockhart
-    - time: 2.127222 h
-      frac: 0.64269366
+    - time: 2.127092 h
+      frac: 0.67744258
   - - - '39'
       - rob degroot
-    - time: 2.138056 h
-      frac: 0.63244462
+    - time: 2.137566 h
+      frac: 0.66852787
   - - - '36'
       - Brad Porter
-    - time: 2.140556 h
-      frac: 0.63009976
+    - time: 2.140421 h
+      frac: 0.66611884
   - - - '33'
       - Niki Longshore
-    - time: 2.143333 h
-      frac: 0.62750305
+    - time: 2.143076 h
+      frac: 0.66388548
   - - - '10'
       - Craig Taylor
-    - time: 2.149722 h
-      frac: 0.62156463
+    - time: 2.149584 h
+      frac: 0.65844418
   - - - '4'
       - Nick Purcell
-    - time: 2.164167 h
-      frac: 0.60830689
+    - time: 2.163407 h
+      frac: 0.64702724
   - - - '16'
       - Andrew Barnes
-    - time: 2.167500 h
-      frac: 0.60527929
+    - time: 2.167375 h
+      frac: 0.64378409
   - - - '25'
       - Hagen Bruggemann
-    - time: 2.173611 h
-      frac: 0.59975861
+    - time: 2.173595 h
+      frac: 0.63872993
   - - - '51'
       - Billy Miller-Macleod
-    - time: 2.185556 h
-      frac: 0.58907644
+    - time: 2.185462 h
+      frac: 0.62918323
   - - - '23'
       - Noel Collins
-    - time: 2.243333 h
-      frac: 0.53922456
+    - time: 2.243305 h
+      frac: 0.58428362
   - - - '42'
       - Mikhail Karmazin
-    - time: 2.270556 h
-      frac: 0.51665798
+    - time: 2.270386 h
+      frac: 0.56408405
   - - - '37'
       - John Spencer
-    - time: 2.290556 h
-      frac: 0.50040931
+    - time: 2.290520 h
+      frac: 0.54936533
   - - - '26'
       - Jason Kath
-    - time: 2.304722 h
-      frac: 0.48905816
+    - time: 2.304469 h
+      frac: 0.53930813
   - - - '41'
       - Peter Burkitt
-    - time: 2.370000 h
-      frac: 0.43828659
+    - time: 2.369517 h
+      frac: 0.49377082
   - - - '22'
       - Steve Blenkinsop
-    - time: 2.378333 h
-      frac: 0.43197157
+    - time: 2.378269 h
+      frac: 0.48780112
   - - - '14'
       - Tony Giammichele
-    - time: 2.618333 h
-      frac: 0.26265693
+    - time: 2.618147 h
+      frac: 0.33548475
   - - - '43'
       - Simon West
-    - time: 2.662222 h
-      frac: 0.23382645
+    - time: 2.661981 h
+      frac: 0.309564
   - - - '6'
       - Viv Clements
-    - time: 2.864722 h
-      frac: 0.10716312
+    - time: 2.864558 h
+      frac: 0.19549386
 nigh:
 - - - - '38'
       - Dave Stevens
