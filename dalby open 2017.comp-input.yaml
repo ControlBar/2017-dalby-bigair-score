@@ -10,7 +10,7 @@ comp:
     timeZoneMinutes: 600
   scoreBack: 900.000 s
   give:
-    giveFraction: 5.0e-4
+    giveFraction: 5.0e-3
     giveDistance: 5.0 m
   earth:
     sphere:
@@ -32,13 +32,13 @@ tasks:
       lat: -27.15886
       lng: 151.26378
       radius: 5000.0 m
-      give: 4995.0 m
+      give: 4975.0 m
       alt: 351.000 m
     - zoneName: JANDOW
       lat: -26.7866
       lng: 151.11634
       radius: 4000.0 m
-      give: 4005.0 m
+      give: 4020.0 m
       alt: 365.000 m
     - zoneName: WARRA
       lat: -26.92781
@@ -99,7 +99,7 @@ tasks:
       lat: -27.15886
       lng: 151.26378
       radius: 5000.0 m
-      give: 4995.0 m
+      give: 4975.0 m
       alt: 351.000 m
     - zoneName: MACALI
       lat: -27.04144
@@ -123,7 +123,7 @@ tasks:
       lat: -26.7866
       lng: 151.11634
       radius: 4000.0 m
-      give: 4005.0 m
+      give: 4020.0 m
       alt: 365.000 m
     - zoneName: BRIGAL
       lat: -26.84967
@@ -188,19 +188,19 @@ tasks:
       lat: -27.15886
       lng: 151.26378
       radius: 5000.0 m
-      give: 4995.0 m
+      give: 4975.0 m
       alt: 351.000 m
     - zoneName: BRIGAL
       lat: -26.84967
       lng: 150.79721
       radius: 15000.0 m
-      give: 15007.5 m
+      give: 15075.0 m
       alt: 335.000 m
     - zoneName: IRON
       lat: -26.60408
       lng: 151.43256
       radius: 37000.0 m
-      give: 37018.5 m
+      give: 37185.0 m
       alt: 426.000 m
     - zoneName: 1DALBY
       lat: -27.15886
@@ -255,19 +255,19 @@ tasks:
       lat: -27.15886
       lng: 151.26378
       radius: 5000.0 m
-      give: 4995.0 m
+      give: 4975.0 m
       alt: 351.000 m
     - zoneName: WARRA
       lat: -26.92781
       lng: 150.91386
       radius: 2000.0 m
-      give: 2005.0 m
+      give: 2010.0 m
       alt: 335.000 m
     - zoneName: BELL
       lat: -26.92697
       lng: 151.44817
       radius: 2000.0 m
-      give: 2005.0 m
+      give: 2010.0 m
       alt: 487.000 m
     - zoneName: 1DALBY
       lat: -27.15886
@@ -322,13 +322,13 @@ tasks:
       lat: -27.15886
       lng: 151.26378
       radius: 5000.0 m
-      give: 4995.0 m
+      give: 4975.0 m
       alt: 351.000 m
     - zoneName: BROADW
       lat: -27.34386
       lng: 151.09409
       radius: 7000.0 m
-      give: 7005.0 m
+      give: 7035.0 m
       alt: 365.000 m
     - zoneName: JIMBOU
       lat: -26.96142

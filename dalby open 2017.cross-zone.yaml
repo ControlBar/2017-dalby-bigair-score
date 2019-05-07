@@ -47054,17 +47054,17 @@ crossing:
       - Rohan Taylor
     - zonesCrossSelected:
       - crossingPair:
-        - fix: 3040
-          time: 2017-04-14T06:03:38Z
-          lat: -27.1327
-          lng: 151.30516667
-        - fix: 3041
-          time: 2017-04-14T06:03:42Z
-          lat: -27.13303333
-          lng: 151.30451667
+        - fix: 409
+          time: 2017-04-14T03:01:29Z
+          lat: -27.16083333
+          lng: 151.21393333
+        - fix: 410
+          time: 2017-04-14T03:01:33Z
+          lat: -27.16063333
+          lng: 151.21313333
         inZone:
-        - false
         - true
+        - false
       - null
       - null
       - null

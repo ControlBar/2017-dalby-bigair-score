@@ -4707,8 +4707,8 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2017-04-14T06:03:39.247880529484Z
-        gs: 2017-04-14T03:40:00Z
+        ss: 2017-04-14T03:01:32.254767135268Z
+        gs: 2017-04-14T03:00:00Z
         es: null
         ssDistance: null
         ssElapsed: null
@@ -10442,8 +10442,8 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2017-04-14T06:03:39.247880529484Z
-        gs: 2017-04-14T03:40:00Z
+        ss: 2017-04-14T03:01:32.254767135268Z
+        gs: 2017-04-14T03:00:00Z
         es: null
         ssDistance: null
         ssElapsed: null

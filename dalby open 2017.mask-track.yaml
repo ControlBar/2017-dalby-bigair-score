@@ -974,6 +974,11 @@ leadRank:
     - area: 93607376.6502 km^2 s
       coef: 3.97534207
       frac: 0
+  - - - '9'
+      - Rohan Taylor
+    - area: 94996392.6602 km^2 s
+      coef: 4.03433116
+      frac: 0
   - - - '1'
       - Mark Alton
     - area: 95109110.3950 km^2 s
