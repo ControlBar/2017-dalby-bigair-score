@@ -22,6 +22,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 1
   - - - '26'
       - Jason Kath
     - place: '2'
@@ -39,6 +40,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0.90496454
   - - - '22'
       - Steve Blenkinsop
     - place: '3'
@@ -56,6 +58,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0.81702128
   - - - '19'
       - Scott Barrett
     - place: '4'
@@ -73,6 +76,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0.73758865
   - - - '44'
       - Josh Woods
     - place: '5'
@@ -90,6 +94,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0.66382979
   - - - '46'
       - Harrison Rowntree
     - place: '6'
@@ -107,6 +112,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0.53900709
   - - - '20'
       - Konrad Heilmann
     - place: '7'
@@ -124,6 +130,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0.43971631
   - - - '13'
       - Matthew Barlow
     - place: '8'
@@ -141,6 +148,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0.36170213
   - - - '16'
       - Andrew Barnes
     - place: '9'
@@ -158,6 +166,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0.28085106
   - - - '6'
       - Viv Clements
     - place: '10'
@@ -175,6 +184,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0.26099291
   - - - '51'
       - Billy Miller-Macleod
     - place: '11'
@@ -192,6 +202,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0.59858156
   - - - '17'
       - Trevor Purcell
     - place: '12'
@@ -209,6 +220,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0.48652482
   - - - '25'
       - Hagen Bruggemann
     - place: '13'
@@ -226,6 +238,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0.39858156
   - - - '39'
       - rob degroot
     - place: '14'
@@ -243,6 +256,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0.22269504
   - - - '14'
       - Tony Giammichele
     - place: '15'
@@ -260,6 +274,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0.33049645
   - - - '45'
       - steve crosby
     - place: '16'
@@ -277,6 +292,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0.3035461
   - - - '36'
       - Brad Porter
     - place: '17'
@@ -294,6 +310,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0.21560284
   - - - '33'
       - Niki Longshore
     - place: '18'
@@ -311,6 +328,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0.20851064
   - - - '27'
       - Guy Williams
     - place: '19'
@@ -328,6 +346,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0.20567376
   - - - '37'
       - John Spencer
     - place: '20'
@@ -345,6 +364,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0.24539007
   - - - '24'
       - Brodrick Osborne
     - place: '21'
@@ -362,6 +382,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0.23262411
   - - - '21'
       - Frank Chetcuti
     - place: '22'
@@ -379,6 +400,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0.20141844
   - - - '38'
       - Dave Stevens
     - place: '23'
@@ -396,6 +418,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '23'
       - Noel Collins
     - place: '24'
@@ -413,6 +436,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '1'
       - Mark Alton
     - place: '25'
@@ -430,6 +454,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '7'
       - James Atkinson
     - place: '26'
@@ -447,6 +472,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '4'
       - Nick Purcell
     - place: '27'
@@ -464,6 +490,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '35'
       - Anatoly Reyter
     - place: '28'
@@ -481,6 +508,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '9'
       - Rohan Taylor
     - place: '29'
@@ -498,6 +526,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '32'
       - Rob Larkin
     - place: '29'
@@ -515,6 +544,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '2'
       - Tony Armstrong
     - place: '31'
@@ -532,6 +562,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '12'
       - Rory Duncan
     - place: '32'
@@ -549,6 +580,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '41'
       - Peter Burkitt
     - place: '33'
@@ -566,6 +598,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '48'
       - Derek Mckee
     - place: '34'
@@ -583,6 +616,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '28'
       - John Harriot
     - place: '35'
@@ -600,6 +634,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '34'
       - dave moore
     - place: '36'
@@ -617,6 +652,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '18'
       - Peter Adriaans
     - place: '37'
@@ -634,6 +670,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '10'
       - Craig Taylor
     - place: '38'
@@ -651,6 +688,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '8'
       - Rod Flockhart
     - place: '39'
@@ -668,6 +706,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '15'
       - Andrew Sharpe
     - place: '40'
@@ -685,6 +724,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '43'
       - Simon West
     - place: '41'
@@ -702,6 +742,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '31'
       - Tomas Kellner
     - place: '42'
@@ -719,6 +760,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '42'
       - Mikhail Karmazin
     - place: '43'
@@ -736,6 +778,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '40'
       - Hossain Tefaili
     - place: '44'
@@ -753,6 +796,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '3'
       - Paul Allen
     - place: '45'
@@ -770,6 +814,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '29'
       - Guy Hubbard
     - place: '45'
@@ -787,6 +832,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '49'
       - Damian Peauril
     - place: '45'
@@ -804,6 +850,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
 - - - - '22'
       - Steve Blenkinsop
     - place: '1'
@@ -821,6 +868,7 @@ score:
       leadingArea: 53716013.0000 km^2 s
       leadingCoef: 2.41026768
       leadingFrac: 0.57526366
+      arrivalFrac: 1
   - - - '2'
       - Tony Armstrong
     - place: '2'
@@ -838,6 +886,7 @@ score:
       leadingArea: 54329518.0000 km^2 s
       leadingCoef: 2.43779597
       leadingFrac: 0.55512943
+      arrivalFrac: 0.91946309
   - - - '29'
       - Guy Hubbard
     - place: '3'
@@ -855,6 +904,7 @@ score:
       leadingArea: 54047317.0000 km^2 s
       leadingCoef: 2.42513348
       leadingFrac: 0.56471716
+      arrivalFrac: 0.84295302
   - - - '44'
       - Josh Woods
     - place: '4'
@@ -872,6 +922,7 @@ score:
       leadingArea: 54076814.0000 km^2 s
       leadingCoef: 2.42645703
       leadingFrac: 0.56375839
+      arrivalFrac: 0.77315436
   - - - '4'
       - Nick Purcell
     - place: '4'
@@ -889,6 +940,7 @@ score:
       leadingArea: 54215871.0000 km^2 s
       leadingCoef: 2.43269658
       leadingFrac: 0.55896453
+      arrivalFrac: 0.77315436
   - - - '33'
       - Niki Longshore
     - place: '6'
@@ -906,6 +958,7 @@ score:
       leadingArea: 54214797.0000 km^2 s
       leadingCoef: 2.43264837
       leadingFrac: 0.55896453
+      arrivalFrac: 0.54362416
   - - - '20'
       - Konrad Heilmann
     - place: '7'
@@ -923,6 +976,7 @@ score:
       leadingArea: 44950363.0000 km^2 s
       leadingCoef: 2.01694804
       leadingFrac: 1
+      arrivalFrac: 0.64832215
   - - - '5'
       - Jonny Durand
     - place: '8'
@@ -940,6 +994,7 @@ score:
       leadingArea: 68372607.0000 km^2 s
       leadingCoef: 3.06791729
       leadingFrac: 0.18216683
+      arrivalFrac: 0.35704698
   - - - '10'
       - Craig Taylor
     - place: '9'
@@ -957,6 +1012,7 @@ score:
       leadingArea: 45372505.0000 km^2 s
       leadingCoef: 2.0358898
       leadingFrac: 0.94439118
+      arrivalFrac: 0.59328859
   - - - '39'
       - rob degroot
     - place: '10'
@@ -974,6 +1030,7 @@ score:
       leadingArea: 57291487.0000 km^2 s
       leadingCoef: 2.57070119
       leadingFrac: 0.46596357
+      arrivalFrac: 0.45637584
   - - - '42'
       - Mikhail Karmazin
     - place: '11'
@@ -991,6 +1048,7 @@ score:
       leadingArea: 46030135.0000 km^2 s
       leadingCoef: 2.06539802
       leadingFrac: 0.894535
+      arrivalFrac: 0.49798658
   - - - '12'
       - Rory Duncan
     - place: '12'
@@ -1008,6 +1066,7 @@ score:
       leadingArea: 68966883.0000 km^2 s
       leadingCoef: 3.09458278
       leadingFrac: 0.16778523
+      arrivalFrac: 0.26979866
   - - - '46'
       - Harrison Rowntree
     - place: '13'
@@ -1025,6 +1084,7 @@ score:
       leadingArea: 57644472.0000 km^2 s
       leadingCoef: 2.58653983
       leadingFrac: 0.45637584
+      arrivalFrac: 0.42013423
   - - - '9'
       - Rohan Taylor
     - place: '14'
@@ -1042,6 +1102,7 @@ score:
       leadingArea: 59633712.0000 km^2 s
       leadingCoef: 2.67579813
       leadingFrac: 0.40076702
+      arrivalFrac: 0.38657718
   - - - '16'
       - Andrew Barnes
     - place: '15'
@@ -1059,6 +1120,7 @@ score:
       leadingArea: 72211286.0000 km^2 s
       leadingCoef: 3.24016095
       leadingFrac: 9.49185e-2
+      arrivalFrac: 0.24161074
   - - - '26'
       - Jason Kath
     - place: '16'
@@ -1076,6 +1138,7 @@ score:
       leadingArea: 56796830.0000 km^2 s
       leadingCoef: 2.54850566
       leadingFrac: 0.48034516
+      arrivalFrac: 0.25503356
   - - - '45'
       - steve crosby
     - place: '17'
@@ -1093,6 +1156,7 @@ score:
       leadingArea: 64385242.0000 km^2 s
       leadingCoef: 2.88900196
       leadingFrac: 0.27708533
+      arrivalFrac: 0.33020134
   - - - '6'
       - Viv Clements
     - place: '18'
@@ -1110,6 +1174,7 @@ score:
       leadingArea: 63951397.0000 km^2 s
       leadingCoef: 2.86953512
       leadingFrac: 0.2885906
+      arrivalFrac: 0.30738255
   - - - '25'
       - Hagen Bruggemann
     - place: '18'
@@ -1127,6 +1192,7 @@ score:
       leadingArea: 63405093.0000 km^2 s
       leadingCoef: 2.84502214
       leadingFrac: 0.30201342
+      arrivalFrac: 0.28724832
   - - - '8'
       - Rod Flockhart
     - place: '20'
@@ -1144,6 +1210,7 @@ score:
       leadingArea: 73480774.0000 km^2 s
       leadingCoef: 3.29712358
       leadingFrac: 6.711409e-2
+      arrivalFrac: 0.21610738
   - - - '7'
       - James Atkinson
     - place: '21'
@@ -1161,6 +1228,7 @@ score:
       leadingArea: 76218836.0000 km^2 s
       leadingCoef: 3.41998199
       leadingFrac: 7.67018e-3
+      arrivalFrac: 0.20402685
   - - - '37'
       - John Spencer
     - place: '22'
@@ -1178,6 +1246,7 @@ score:
       leadingArea: 68501363.0000 km^2 s
       leadingCoef: 3.07369462
       leadingFrac: 0.17833174
+      arrivalFrac: 0.22281879
   - - - '14'
       - Tony Giammichele
     - place: '23'
@@ -1195,6 +1264,7 @@ score:
       leadingArea: 72453584.0000 km^2 s
       leadingCoef: 3.25103303
       leadingFrac: 8.916587e-2
+      arrivalFrac: 0.20671141
   - - - '38'
       - Dave Stevens
     - place: '24'
@@ -1212,6 +1282,7 @@ score:
       leadingArea: 67929812.0000 km^2 s
       leadingCoef: 3.0480488
       leadingFrac: 0.19175455
+      arrivalFrac: 0.23221477
   - - - '21'
       - Frank Chetcuti
     - place: '25'
@@ -1229,6 +1300,7 @@ score:
       leadingArea: 70161273.0000 km^2 s
       leadingCoef: 3.14817571
       leadingFrac: 0.1409396
+      arrivalFrac: 0.21073826
   - - - '13'
       - Matthew Barlow
     - place: '26'
@@ -1246,6 +1318,7 @@ score:
       leadingArea: 50630802.0000 km^2 s
       leadingCoef: 2.27183254
       leadingFrac: 0.68168744
+      arrivalFrac: 0
   - - - '19'
       - Scott Barrett
     - place: '27'
@@ -1263,6 +1336,7 @@ score:
       leadingArea: 55002847.0000 km^2 s
       leadingCoef: 2.46800865
       leadingFrac: 0.53403643
+      arrivalFrac: 0
   - - - '34'
       - dave moore
     - place: '28'
@@ -1280,6 +1354,7 @@ score:
       leadingArea: 81207684.0000 km^2 s
       leadingCoef: 3.64383441
       leadingFrac: 0
+      arrivalFrac: 0.20134228
   - - - '24'
       - Brodrick Osborne
     - place: '29'
@@ -1297,6 +1372,7 @@ score:
       leadingArea: 77865091.0000 km^2 s
       leadingCoef: 3.49385037
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '18'
       - Peter Adriaans
     - place: '30'
@@ -1314,6 +1390,7 @@ score:
       leadingArea: 80576515.0000 km^2 s
       leadingCoef: 3.61551346
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '35'
       - Anatoly Reyter
     - place: '31'
@@ -1331,6 +1408,7 @@ score:
       leadingArea: 80210635.0000 km^2 s
       leadingCoef: 3.59909624
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '17'
       - Trevor Purcell
     - place: '32'
@@ -1348,6 +1426,7 @@ score:
       leadingArea: 64447198.0000 km^2 s
       leadingCoef: 2.89178199
       leadingFrac: 0.27612656
+      arrivalFrac: 0
   - - - '36'
       - Brad Porter
     - place: '33'
@@ -1365,6 +1444,7 @@ score:
       leadingArea: 72455920.0000 km^2 s
       leadingCoef: 3.25113783
       leadingFrac: 8.916587e-2
+      arrivalFrac: 0
   - - - '41'
       - Peter Burkitt
     - place: '34'
@@ -1382,6 +1462,7 @@ score:
       leadingArea: 56135628.0000 km^2 s
       leadingCoef: 2.51883714
       leadingFrac: 0.49952061
+      arrivalFrac: 0
   - - - '40'
       - Hossain Tefaili
     - place: '35'
@@ -1399,6 +1480,7 @@ score:
       leadingArea: 90422350.0000 km^2 s
       leadingCoef: 4.05730165
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '48'
       - Derek Mckee
     - place: '36'
@@ -1416,6 +1498,7 @@ score:
       leadingArea: 80235217.0000 km^2 s
       leadingCoef: 3.60019926
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '51'
       - Billy Miller-Macleod
     - place: '37'
@@ -1433,6 +1516,7 @@ score:
       leadingArea: 77073138.0000 km^2 s
       leadingCoef: 3.45831499
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '1'
       - Mark Alton
     - place: '38'
@@ -1450,6 +1534,7 @@ score:
       leadingArea: 78946708.0000 km^2 s
       leadingCoef: 3.54238314
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '43'
       - Simon West
     - place: '39'
@@ -1467,6 +1552,7 @@ score:
       leadingArea: 108149221.0000 km^2 s
       leadingCoef: 4.85271629
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '32'
       - Rob Larkin
     - place: '40'
@@ -1484,6 +1570,7 @@ score:
       leadingArea: 165484874.0000 km^2 s
       leadingCoef: 7.42539925
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '3'
       - Paul Allen
     - place: '41'
@@ -1501,6 +1588,7 @@ score:
       leadingArea: 153816307.0000 km^2 s
       leadingCoef: 6.90182407
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '31'
       - Tomas Kellner
     - place: '41'
@@ -1518,6 +1606,7 @@ score:
       leadingArea: 147600927.0000 km^2 s
       leadingCoef: 6.62293649
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '23'
       - Noel Collins
     - place: '43'
@@ -1535,6 +1624,7 @@ score:
       leadingArea: 148853993.0000 km^2 s
       leadingCoef: 6.67916226
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '15'
       - Andrew Sharpe
     - place: '43'
@@ -1552,6 +1642,7 @@ score:
       leadingArea: 148853993.0000 km^2 s
       leadingCoef: 6.67916226
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '28'
       - John Harriot
     - place: '45'
@@ -1569,6 +1660,7 @@ score:
       leadingArea: 167763846.0000 km^2 s
       leadingCoef: 7.52765798
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '27'
       - Guy Williams
     - place: '46'
@@ -1586,6 +1678,7 @@ score:
       leadingArea: 186726586.0000 km^2 s
       leadingCoef: 8.37852681
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '49'
       - Damian Peauril
     - place: '47'
@@ -1603,6 +1696,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
 - - - - '19'
       - Scott Barrett
     - place: '1'
@@ -1620,6 +1714,7 @@ score:
       leadingArea: 23390809.0000 km^2 s
       leadingCoef: 1.38581097
       leadingFrac: 1
+      arrivalFrac: 1
   - - - '2'
       - Tony Armstrong
     - place: '2'
@@ -1637,6 +1732,7 @@ score:
       leadingArea: 24355102.0000 km^2 s
       leadingCoef: 1.44294146
       leadingFrac: 0.86645636
+      arrivalFrac: 0.89543446
   - - - '22'
       - Steve Blenkinsop
     - place: '3'
@@ -1654,6 +1750,7 @@ score:
       leadingArea: 23788525.0000 km^2 s
       leadingCoef: 1.409374
       leadingFrac: 0.92639327
+      arrivalFrac: 0.8011782
   - - - '12'
       - Rory Duncan
     - place: '4'
@@ -1671,6 +1768,7 @@ score:
       leadingArea: 24319713.0000 km^2 s
       leadingCoef: 1.44084479
       leadingFrac: 0.87066246
+      arrivalFrac: 0.71428571
   - - - '29'
       - Guy Hubbard
     - place: '5'
@@ -1688,6 +1786,7 @@ score:
       leadingArea: 25179465.0000 km^2 s
       leadingCoef: 1.49178162
       leadingFrac: 0.79915878
+      arrivalFrac: 0.6377025
   - - - '44'
       - Josh Woods
     - place: '6'
@@ -1705,6 +1804,7 @@ score:
       leadingArea: 24627556.0000 km^2 s
       leadingCoef: 1.45908324
       leadingFrac: 0.84332282
+      arrivalFrac: 0.56848306
   - - - '5'
       - Jonny Durand
     - place: '7'
@@ -1722,6 +1822,7 @@ score:
       leadingArea: 36084854.0000 km^2 s
       leadingCoef: 2.13788186
       leadingFrac: 0.25762355
+      arrivalFrac: 0.40648012
   - - - '26'
       - Jason Kath
     - place: '8'
@@ -1739,6 +1840,7 @@ score:
       leadingArea: 23748332.0000 km^2 s
       leadingCoef: 1.40699275
       leadingFrac: 0.93165089
+      arrivalFrac: 0.50662739
   - - - '10'
       - Craig Taylor
     - place: '9'
@@ -1756,6 +1858,7 @@ score:
       leadingArea: 24557088.0000 km^2 s
       leadingCoef: 1.45490828
       leadingFrac: 0.84858044
+      arrivalFrac: 0.45360825
   - - - '46'
       - Harrison Rowntree
     - place: '10'
@@ -1773,6 +1876,7 @@ score:
       leadingArea: 28564112.0000 km^2 s
       leadingCoef: 1.69230824
       leadingFrac: 0.59200841
+      arrivalFrac: 0.365243
   - - - '4'
       - Nick Purcell
     - place: '11'
@@ -1790,6 +1894,7 @@ score:
       leadingArea: 28094217.0000 km^2 s
       leadingCoef: 1.6644689
       leadingFrac: 0.61724501
+      arrivalFrac: 0.32989691
   - - - '16'
       - Andrew Barnes
     - place: '12'
@@ -1807,6 +1912,7 @@ score:
       leadingArea: 33844463.0000 km^2 s
       leadingCoef: 2.00514775
       leadingFrac: 0.34805468
+      arrivalFrac: 0.30044183
   - - - '21'
       - Frank Chetcuti
     - place: '13'
@@ -1824,6 +1930,7 @@ score:
       leadingArea: 34349846.0000 km^2 s
       leadingCoef: 2.03508966
       leadingFrac: 0.32702419
+      arrivalFrac: 0.27687776
   - - - '7'
       - James Atkinson
     - place: '14'
@@ -1841,6 +1948,7 @@ score:
       leadingArea: 36106681.0000 km^2 s
       leadingCoef: 2.13917501
       leadingFrac: 0.25762355
+      arrivalFrac: 0.2562592
   - - - '6'
       - Viv Clements
     - place: '15'
@@ -1858,6 +1966,7 @@ score:
       leadingArea: 34774179.0000 km^2 s
       leadingCoef: 2.06022965
       leadingFrac: 0.31019979
+      arrivalFrac: 0.24005891
   - - - '51'
       - Billy Miller-Macleod
     - place: '16'
@@ -1875,6 +1984,7 @@ score:
       leadingArea: 34430689.0000 km^2 s
       leadingCoef: 2.03987928
       leadingFrac: 0.32386961
+      arrivalFrac: 0.21060383
   - - - '33'
       - Niki Longshore
     - place: '17'
@@ -1892,6 +2002,7 @@ score:
       leadingArea: 27899898.0000 km^2 s
       leadingCoef: 1.65295627
       leadingFrac: 0.62776025
+      arrivalFrac: 0
   - - - '23'
       - Noel Collins
     - place: '18'
@@ -1909,6 +2020,7 @@ score:
       leadingArea: 36515010.0000 km^2 s
       leadingCoef: 2.16336684
       leadingFrac: 0.24185068
+      arrivalFrac: 0.20618557
   - - - '42'
       - Mikhail Karmazin
     - place: '19'
@@ -1926,6 +2038,7 @@ score:
       leadingArea: 37136524.0000 km^2 s
       leadingCoef: 2.20018908
       leadingFrac: 0.21766562
+      arrivalFrac: 0.22680412
   - - - '18'
       - Peter Adriaans
     - place: '20'
@@ -1943,6 +2056,7 @@ score:
       leadingArea: 37314827.0000 km^2 s
       leadingCoef: 2.21075278
       leadingFrac: 0.21135647
+      arrivalFrac: 0.2179676
   - - - '25'
       - Hagen Bruggemann
     - place: '21'
@@ -1960,6 +2074,7 @@ score:
       leadingArea: 34884122.0000 km^2 s
       leadingCoef: 2.06674336
       leadingFrac: 0.30599369
+      arrivalFrac: 0
   - - - '35'
       - Anatoly Reyter
     - place: '22'
@@ -1977,6 +2092,7 @@ score:
       leadingArea: 53084328.0000 km^2 s
       leadingCoef: 3.14503206
       leadingFrac: 0
+      arrivalFrac: 0.2017673
   - - - '39'
       - rob degroot
     - place: '23'
@@ -1994,6 +2110,7 @@ score:
       leadingArea: 50890497.0000 km^2 s
       leadingCoef: 3.0150564
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '13'
       - Matthew Barlow
     - place: '24'
@@ -2011,6 +2128,7 @@ score:
       leadingArea: 35480537.0000 km^2 s
       leadingCoef: 2.10207851
       leadingFrac: 0.28180862
+      arrivalFrac: 0
   - - - '36'
       - Brad Porter
     - place: '24'
@@ -2028,6 +2146,7 @@ score:
       leadingArea: 34377805.0000 km^2 s
       leadingCoef: 2.03674612
       leadingFrac: 0.32597266
+      arrivalFrac: 0
   - - - '37'
       - John Spencer
     - place: '26'
@@ -2045,6 +2164,7 @@ score:
       leadingArea: 35705462.0000 km^2 s
       leadingCoef: 2.11540439
       leadingFrac: 0.27339642
+      arrivalFrac: 0
   - - - '17'
       - Trevor Purcell
     - place: '27'
@@ -2062,6 +2182,7 @@ score:
       leadingArea: 37899533.0000 km^2 s
       leadingCoef: 2.24539426
       leadingFrac: 0.18927445
+      arrivalFrac: 0
   - - - '38'
       - Dave Stevens
     - place: '28'
@@ -2079,6 +2200,7 @@ score:
       leadingArea: 40499786.0000 km^2 s
       leadingCoef: 2.39944874
       leadingFrac: 9.463722e-2
+      arrivalFrac: 0
   - - - '9'
       - Rohan Taylor
     - place: '29'
@@ -2096,6 +2218,7 @@ score:
       leadingArea: 37457119.0000 km^2 s
       leadingCoef: 2.21918302
       leadingFrac: 0.20504732
+      arrivalFrac: 0
   - - - '1'
       - Mark Alton
     - place: '30'
@@ -2113,6 +2236,7 @@ score:
       leadingArea: 85501869.0000 km^2 s
       leadingCoef: 5.06564038
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '43'
       - Simon West
     - place: '30'
@@ -2130,6 +2254,7 @@ score:
       leadingArea: 58773504.0000 km^2 s
       leadingCoef: 3.48209276
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '32'
       - Rob Larkin
     - place: '32'
@@ -2147,6 +2272,7 @@ score:
       leadingArea: 46055359.0000 km^2 s
       leadingCoef: 2.72859402
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '48'
       - Derek Mckee
     - place: '33'
@@ -2164,6 +2290,7 @@ score:
       leadingArea: 45668344.0000 km^2 s
       leadingCoef: 2.70566491
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '27'
       - Guy Williams
     - place: '34'
@@ -2181,6 +2308,7 @@ score:
       leadingArea: 54186850.0000 km^2 s
       leadingCoef: 3.21035201
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '40'
       - Hossain Tefaili
     - place: '35'
@@ -2198,6 +2326,7 @@ score:
       leadingArea: 61359870.0000 km^2 s
       leadingCoef: 3.63532447
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '34'
       - dave moore
     - place: '36'
@@ -2215,6 +2344,7 @@ score:
       leadingArea: 57685459.0000 km^2 s
       leadingCoef: 3.41763046
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '31'
       - Tomas Kellner
     - place: '37'
@@ -2232,6 +2362,7 @@ score:
       leadingArea: 77942057.0000 km^2 s
       leadingCoef: 4.6177521
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '45'
       - steve crosby
     - place: '38'
@@ -2249,6 +2380,7 @@ score:
       leadingArea: 57523142.0000 km^2 s
       leadingCoef: 3.40801381
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '14'
       - Tony Giammichele
     - place: '39'
@@ -2266,6 +2398,7 @@ score:
       leadingArea: 58822475.0000 km^2 s
       leadingCoef: 3.48499405
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '41'
       - Peter Burkitt
     - place: '40'
@@ -2283,6 +2416,7 @@ score:
       leadingArea: 58689655.0000 km^2 s
       leadingCoef: 3.47712504
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '8'
       - Rod Flockhart
     - place: '41'
@@ -2300,6 +2434,7 @@ score:
       leadingArea: 59667849.0000 km^2 s
       leadingCoef: 3.53507908
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '20'
       - Konrad Heilmann
     - place: '42'
@@ -2317,6 +2452,7 @@ score:
       leadingArea: 59864643.0000 km^2 s
       leadingCoef: 3.54673832
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '24'
       - Brodrick Osborne
     - place: '43'
@@ -2334,6 +2470,7 @@ score:
       leadingArea: 95242170.0000 km^2 s
       leadingCoef: 5.64271392
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '3'
       - Paul Allen
     - place: '44'
@@ -2351,6 +2488,7 @@ score:
       leadingArea: 113787897.0000 km^2 s
       leadingCoef: 6.74147334
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '15'
       - Andrew Sharpe
     - place: '45'
@@ -2368,6 +2506,7 @@ score:
       leadingArea: 116850763.0000 km^2 s
       leadingCoef: 6.92293578
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '28'
       - John Harriot
     - place: '46'
@@ -2385,6 +2524,7 @@ score:
       leadingArea: 133262597.0000 km^2 s
       leadingCoef: 7.89527066
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '49'
       - Damian Peauril
     - place: '46'
@@ -2402,6 +2542,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
 - - - - '5'
       - Jonny Durand
     - place: '1'
@@ -2419,6 +2560,7 @@ score:
       leadingArea: 56145726.0000 km^2 s
       leadingCoef: 2.38430941
       leadingFrac: 0.59493671
+      arrivalFrac: 0.65539452
   - - - '2'
       - Tony Armstrong
     - place: '2'
@@ -2436,6 +2578,7 @@ score:
       leadingArea: 47535180.0000 km^2 s
       leadingCoef: 2.01865015
       leadingFrac: 1
+      arrivalFrac: 1
   - - - '22'
       - Steve Blenkinsop
     - place: '3'
@@ -2453,6 +2596,7 @@ score:
       leadingArea: 47970576.0000 km^2 s
       leadingCoef: 2.03713985
       leadingFrac: 0.9447641
+      arrivalFrac: 0.86956522
   - - - '26'
       - Jason Kath
     - place: '4'
@@ -2470,6 +2614,7 @@ score:
       leadingArea: 56878339.0000 km^2 s
       leadingCoef: 2.41542089
       leadingFrac: 0.57192175
+      arrivalFrac: 0.33011272
   - - - '29'
       - Guy Hubbard
     - place: '5'
@@ -2487,6 +2632,7 @@ score:
       leadingArea: 47760943.0000 km^2 s
       leadingCoef: 2.02823751
       leadingFrac: 0.96432681
+      arrivalFrac: 0.75523349
   - - - '12'
       - Rory Duncan
     - place: '6'
@@ -2504,6 +2650,7 @@ score:
       leadingArea: 48190540.0000 km^2 s
       leadingCoef: 2.04648096
       leadingFrac: 0.92750288
+      arrivalFrac: 0.568438
   - - - '46'
       - Harrison Rowntree
     - place: '7'
@@ -2521,6 +2668,7 @@ score:
       leadingArea: 49696179.0000 km^2 s
       leadingCoef: 2.11042007
       leadingFrac: 0.83889528
+      arrivalFrac: 0.49275362
   - - - '44'
       - Josh Woods
     - place: '8'
@@ -2538,6 +2686,7 @@ score:
       leadingArea: 50004086.0000 km^2 s
       leadingCoef: 2.12349579
       leadingFrac: 0.82393556
+      arrivalFrac: 0.37520129
   - - - '4'
       - Nick Purcell
     - place: '9'
@@ -2555,6 +2704,7 @@ score:
       leadingArea: 48213801.0000 km^2 s
       leadingCoef: 2.04746876
       leadingFrac: 0.92520138
+      arrivalFrac: 0.29468599
   - - - '33'
       - Niki Longshore
     - place: '10'
@@ -2572,6 +2722,7 @@ score:
       leadingArea: 48057692.0000 km^2 s
       leadingCoef: 2.04083938
       leadingFrac: 0.93785961
+      arrivalFrac: 0.26570048
   - - - '20'
       - Konrad Heilmann
     - place: '11'
@@ -2589,6 +2740,7 @@ score:
       leadingArea: 53055330.0000 km^2 s
       leadingCoef: 2.2530713
       leadingFrac: 0.69850403
+      arrivalFrac: 0.42834138
   - - - '9'
       - Rohan Taylor
     - place: '12'
@@ -2606,6 +2758,7 @@ score:
       leadingArea: 54328876.0000 km^2 s
       leadingCoef: 2.30715425
       leadingFrac: 0.65362486
+      arrivalFrac: 0.2431562
   - - - '19'
       - Scott Barrett
     - place: '13'
@@ -2623,6 +2776,7 @@ score:
       leadingArea: 52050540.0000 km^2 s
       leadingCoef: 2.21040143
       leadingFrac: 0.73647871
+      arrivalFrac: 0.22705314
   - - - '8'
       - Rod Flockhart
     - place: '14'
@@ -2640,6 +2794,7 @@ score:
       leadingArea: 50060035.0000 km^2 s
       leadingCoef: 2.12587177
       leadingFrac: 0.82163406
+      arrivalFrac: 0.20289855
   - - - '13'
       - Matthew Barlow
     - place: '15'
@@ -2657,6 +2812,7 @@ score:
       leadingArea: 58926405.0000 km^2 s
       leadingCoef: 2.50239496
       leadingFrac: 0.51208285
+      arrivalFrac: 0.215781
   - - - '25'
       - Hagen Bruggemann
     - place: '16'
@@ -2674,6 +2830,7 @@ score:
       leadingArea: 58079064.0000 km^2 s
       leadingCoef: 2.46641141
       leadingFrac: 0.53624856
+      arrivalFrac: 0.20772947
   - - - '39'
       - rob degroot
     - place: '17'
@@ -2691,6 +2848,7 @@ score:
       leadingArea: 47992948.0000 km^2 s
       leadingCoef: 2.03808992
       leadingFrac: 0.9424626
+      arrivalFrac: 0
   - - - '16'
       - Andrew Barnes
     - place: '18'
@@ -2708,6 +2866,7 @@ score:
       leadingArea: 52648684.0000 km^2 s
       leadingCoef: 2.23580246
       leadingFrac: 0.71346375
+      arrivalFrac: 0
   - - - '42'
       - Mikhail Karmazin
     - place: '19'
@@ -2725,6 +2884,7 @@ score:
       leadingArea: 59296572.0000 km^2 s
       leadingCoef: 2.51811464
       leadingFrac: 0.50172612
+      arrivalFrac: 0
   - - - '36'
       - Brad Porter
     - place: '20'
@@ -2742,6 +2902,7 @@ score:
       leadingArea: 73816403.0000 km^2 s
       leadingCoef: 3.13472028
       leadingFrac: 0.14844649
+      arrivalFrac: 0
   - - - '24'
       - Brodrick Osborne
     - place: '21'
@@ -2759,6 +2920,7 @@ score:
       leadingArea: 63014503.0000 km^2 s
       leadingCoef: 2.67600195
       leadingFrac: 0.40161105
+      arrivalFrac: 0
   - - - '10'
       - Craig Taylor
     - place: '22'
@@ -2776,6 +2938,7 @@ score:
       leadingArea: 67470874.0000 km^2 s
       leadingCoef: 2.8652482
       leadingFrac: 0.29113924
+      arrivalFrac: 0
   - - - '7'
       - James Atkinson
     - place: '23'
@@ -2793,6 +2956,7 @@ score:
       leadingArea: 70876748.0000 km^2 s
       leadingCoef: 3.00988359
       leadingFrac: 0.21288838
+      arrivalFrac: 0
   - - - '45'
       - steve crosby
     - place: '24'
@@ -2810,6 +2974,7 @@ score:
       leadingArea: 68387699.0000 km^2 s
       leadingCoef: 2.90418252
       leadingFrac: 0.27042578
+      arrivalFrac: 0
   - - - '6'
       - Viv Clements
     - place: '25'
@@ -2827,6 +2992,7 @@ score:
       leadingArea: 69904027.0000 km^2 s
       leadingCoef: 2.96857558
       leadingFrac: 0.23475259
+      arrivalFrac: 0
   - - - '51'
       - Billy Miller-Macleod
     - place: '26'
@@ -2844,6 +3010,7 @@ score:
       leadingArea: 59312955.0000 km^2 s
       leadingCoef: 2.51881038
       leadingFrac: 0.50057537
+      arrivalFrac: 0
   - - - '38'
       - Dave Stevens
     - place: '27'
@@ -2861,6 +3028,7 @@ score:
       leadingArea: 61906181.0000 km^2 s
       leadingCoef: 2.62893546
       leadingFrac: 0.43037975
+      arrivalFrac: 0
   - - - '37'
       - John Spencer
     - place: '28'
@@ -2878,6 +3046,7 @@ score:
       leadingArea: 64722521.0000 km^2 s
       leadingCoef: 2.74853544
       leadingFrac: 0.35788262
+      arrivalFrac: 0
   - - - '18'
       - Peter Adriaans
     - place: '29'
@@ -2895,6 +3064,7 @@ score:
       leadingArea: 78306091.0000 km^2 s
       leadingCoef: 3.32538136
       leadingFrac: 5.408516e-2
+      arrivalFrac: 0
   - - - '35'
       - Anatoly Reyter
     - place: '30'
@@ -2912,6 +3082,7 @@ score:
       leadingArea: 79525601.0000 km^2 s
       leadingCoef: 3.3771696
       leadingFrac: 2.991945e-2
+      arrivalFrac: 0
   - - - '23'
       - Noel Collins
     - place: '31'
@@ -2929,6 +3100,7 @@ score:
       leadingArea: 73302162.0000 km^2 s
       leadingCoef: 3.11288229
       leadingFrac: 0.15995397
+      arrivalFrac: 0
   - - - '17'
       - Trevor Purcell
     - place: '32'
@@ -2946,6 +3118,7 @@ score:
       leadingArea: 73713154.0000 km^2 s
       leadingCoef: 3.13033567
       leadingFrac: 0.15074799
+      arrivalFrac: 0
   - - - '43'
       - Simon West
     - place: '33'
@@ -2963,6 +3136,7 @@ score:
       leadingArea: 75201691.0000 km^2 s
       leadingCoef: 3.19354853
       leadingFrac: 0.11852704
+      arrivalFrac: 0
   - - - '21'
       - Frank Chetcuti
     - place: '34'
@@ -2980,6 +3154,7 @@ score:
       leadingArea: 77573438.0000 km^2 s
       leadingCoef: 3.29426818
       leadingFrac: 6.904488e-2
+      arrivalFrac: 0
   - - - '41'
       - Peter Burkitt
     - place: '35'
@@ -2997,6 +3172,7 @@ score:
       leadingArea: 90253527.0000 km^2 s
       leadingCoef: 3.83274652
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '14'
       - Tony Giammichele
     - place: '36'
@@ -3014,6 +3190,7 @@ score:
       leadingArea: 82762669.0000 km^2 s
       leadingCoef: 3.51463637
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '1'
       - Mark Alton
     - place: '37'
@@ -3031,6 +3208,7 @@ score:
       leadingArea: 106146424.0000 km^2 s
       leadingCoef: 4.50766136
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '32'
       - Rob Larkin
     - place: '38'
@@ -3048,6 +3226,7 @@ score:
       leadingArea: 104978912.0000 km^2 s
       leadingCoef: 4.45808129
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '40'
       - Hossain Tefaili
     - place: '39'
@@ -3065,6 +3244,7 @@ score:
       leadingArea: 135248158.0000 km^2 s
       leadingCoef: 5.74350855
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '31'
       - Tomas Kellner
     - place: '40'
@@ -3082,6 +3262,7 @@ score:
       leadingArea: 137782926.0000 km^2 s
       leadingCoef: 5.85115112
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '48'
       - Derek Mckee
     - place: '41'
@@ -3099,6 +3280,7 @@ score:
       leadingArea: 152311265.0000 km^2 s
       leadingCoef: 6.46811805
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '27'
       - Guy Williams
     - place: '42'
@@ -3116,6 +3298,7 @@ score:
       leadingArea: 146614775.0000 km^2 s
       leadingCoef: 6.22620838
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '15'
       - Andrew Sharpe
     - place: '43'
@@ -3133,6 +3316,7 @@ score:
       leadingArea: 164764604.0000 km^2 s
       leadingCoef: 6.99696712
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '28'
       - John Harriot
     - place: '44'
@@ -3150,6 +3334,7 @@ score:
       leadingArea: 170833713.0000 km^2 s
       leadingCoef: 7.25470058
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '34'
       - dave moore
     - place: '45'
@@ -3167,6 +3352,7 @@ score:
       leadingArea: 178914854.0000 km^2 s
       leadingCoef: 7.59787792
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '49'
       - Damian Peauril
     - place: '46'
@@ -3184,6 +3370,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
 - - - - '19'
       - Scott Barrett
     - place: '1'
@@ -3201,6 +3388,7 @@ score:
       leadingArea: 18163421.0000 km^2 s
       leadingCoef: 1.27585347
       leadingFrac: 0.92242991
+      arrivalFrac: 1
   - - - '12'
       - Rory Duncan
     - place: '2'
@@ -3218,6 +3406,7 @@ score:
       leadingArea: 18588663.0000 km^2 s
       leadingCoef: 1.30572373
       leadingFrac: 0.86728972
+      arrivalFrac: 0.92408377
   - - - '46'
       - Harrison Rowntree
     - place: '3'
@@ -3235,6 +3424,7 @@ score:
       leadingArea: 18836859.0000 km^2 s
       leadingCoef: 1.32315775
       leadingFrac: 0.84018692
+      arrivalFrac: 0.85340314
   - - - '44'
       - Josh Woods
     - place: '4'
@@ -3252,6 +3442,7 @@ score:
       leadingArea: 19018147.0000 km^2 s
       leadingCoef: 1.33589196
       leadingFrac: 0.82149533
+      arrivalFrac: 0.78664921
   - - - '29'
       - Guy Hubbard
     - place: '5'
@@ -3269,6 +3460,7 @@ score:
       leadingArea: 17823897.0000 km^2 s
       leadingCoef: 1.25200425
       leadingFrac: 1
+      arrivalFrac: 0.66884817
   - - - '2'
       - Tony Armstrong
     - place: '6'
@@ -3286,6 +3478,7 @@ score:
       leadingArea: 19195133.0000 km^2 s
       leadingCoef: 1.34832403
       leadingFrac: 0.8046729
+      arrivalFrac: 0.72643979
   - - - '20'
       - Konrad Heilmann
     - place: '7'
@@ -3303,6 +3496,7 @@ score:
       leadingArea: 19854116.0000 km^2 s
       leadingCoef: 1.39461294
       leadingFrac: 0.74579439
+      arrivalFrac: 0.61649215
   - - - '8'
       - Rod Flockhart
     - place: '8'
@@ -3320,6 +3514,7 @@ score:
       leadingArea: 19407413.0000 km^2 s
       leadingCoef: 1.36323519
       leadingFrac: 0.78504673
+      arrivalFrac: 0.44502618
   - - - '24'
       - Brodrick Osborne
     - place: '9'
@@ -3337,6 +3532,7 @@ score:
       leadingArea: 22400524.0000 km^2 s
       leadingCoef: 1.57348034
       leadingFrac: 0.5635514
+      arrivalFrac: 0.56806283
   - - - '45'
       - steve crosby
     - place: '10'
@@ -3354,6 +3550,7 @@ score:
       leadingArea: 22604349.0000 km^2 s
       leadingCoef: 1.58779761
       leadingFrac: 0.55140187
+      arrivalFrac: 0.52356021
   - - - '36'
       - Brad Porter
     - place: '11'
@@ -3371,6 +3568,7 @@ score:
       leadingArea: 19606249.0000 km^2 s
       leadingCoef: 1.37720205
       leadingFrac: 0.76728972
+      arrivalFrac: 0.38219895
   - - - '17'
       - Trevor Purcell
     - place: '12'
@@ -3388,6 +3586,7 @@ score:
       leadingArea: 22523804.0000 km^2 s
       leadingCoef: 1.58213992
       leadingFrac: 0.55607477
+      arrivalFrac: 0.48298429
   - - - '39'
       - rob degroot
     - place: '13'
@@ -3405,6 +3604,7 @@ score:
       leadingArea: 22069830.0000 km^2 s
       leadingCoef: 1.5502514
       leadingFrac: 0.58504673
+      arrivalFrac: 0.41230366
   - - - '33'
       - Niki Longshore
     - place: '14'
@@ -3422,6 +3622,7 @@ score:
       leadingArea: 22968255.0000 km^2 s
       leadingCoef: 1.6133595
       leadingFrac: 0.52897196
+      arrivalFrac: 0.35471204
   - - - '10'
       - Craig Taylor
     - place: '15'
@@ -3439,6 +3640,7 @@ score:
       leadingArea: 22420575.0000 km^2 s
       leadingCoef: 1.57488879
       leadingFrac: 0.56261682
+      arrivalFrac: 0.32984293
   - - - '16'
       - Andrew Barnes
     - place: '16'
@@ -3456,6 +3658,7 @@ score:
       leadingArea: 22365776.0000 km^2 s
       leadingCoef: 1.57103955
       leadingFrac: 0.56635514
+      arrivalFrac: 0.28926702
   - - - '25'
       - Hagen Bruggemann
     - place: '17'
@@ -3473,6 +3676,7 @@ score:
       leadingArea: 22503588.0000 km^2 s
       leadingCoef: 1.58071991
       leadingFrac: 0.55794393
+      arrivalFrac: 0.27356021
   - - - '4'
       - Nick Purcell
     - place: '18'
@@ -3490,6 +3694,7 @@ score:
       leadingArea: 25009651.0000 km^2 s
       leadingCoef: 1.75675331
       leadingFrac: 0.41121495
+      arrivalFrac: 0.30890052
   - - - '51'
       - Billy Miller-Macleod
     - place: '19'
@@ -3507,6 +3712,7 @@ score:
       leadingArea: 23851829.0000 km^2 s
       leadingCoef: 1.67542442
       leadingFrac: 0.47663551
+      arrivalFrac: 0.2591623
   - - - '23'
       - Noel Collins
     - place: '20'
@@ -3524,6 +3730,7 @@ score:
       leadingArea: 24877277.0000 km^2 s
       leadingCoef: 1.74745492
       leadingFrac: 0.41869159
+      arrivalFrac: 0.2460733
   - - - '26'
       - Jason Kath
     - place: '21'
@@ -3541,6 +3748,7 @@ score:
       leadingArea: 22231284.0000 km^2 s
       leadingCoef: 1.5615924
       leadingFrac: 0.57476636
+      arrivalFrac: 0.21989529
   - - - '42'
       - Mikhail Karmazin
     - place: '22'
@@ -3558,6 +3766,7 @@ score:
       leadingArea: 24898396.0000 km^2 s
       leadingCoef: 1.7489384
       leadingFrac: 0.41775701
+      arrivalFrac: 0.23560209
   - - - '37'
       - John Spencer
     - place: '23'
@@ -3575,6 +3784,7 @@ score:
       leadingArea: 24875806.0000 km^2 s
       leadingCoef: 1.74735159
       leadingFrac: 0.41869159
+      arrivalFrac: 0.22774869
   - - - '41'
       - Peter Burkitt
     - place: '24'
@@ -3592,6 +3802,7 @@ score:
       leadingArea: 24879149.0000 km^2 s
       leadingCoef: 1.74758645
       leadingFrac: 0.41869159
+      arrivalFrac: 0.21465969
   - - - '22'
       - Steve Blenkinsop
     - place: '25'
@@ -3609,6 +3820,7 @@ score:
       leadingArea: 33239173.0000 km^2 s
       leadingCoef: 2.33481977
       leadingFrac: 2.149533e-2
+      arrivalFrac: 0.20680628
   - - - '14'
       - Tony Giammichele
     - place: '26'
@@ -3626,6 +3838,7 @@ score:
       leadingArea: 23938076.0000 km^2 s
       leadingCoef: 1.68148265
       leadingFrac: 0.47102804
+      arrivalFrac: 0.20942408
   - - - '43'
       - Simon West
     - place: '27'
@@ -3643,6 +3856,7 @@ score:
       leadingArea: 38706904.0000 km^2 s
       leadingCoef: 2.71888964
       leadingFrac: 0
+      arrivalFrac: 0.20157068
   - - - '6'
       - Viv Clements
     - place: '28'
@@ -3660,6 +3874,7 @@ score:
       leadingArea: 25781045.0000 km^2 s
       leadingCoef: 1.81093836
       leadingFrac: 0.37009346
+      arrivalFrac: 0.20287958
   - - - '21'
       - Frank Chetcuti
     - place: '29'
@@ -3677,6 +3892,7 @@ score:
       leadingArea: 40888714.0000 km^2 s
       leadingCoef: 2.87214655
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '5'
       - Jonny Durand
     - place: '30'
@@ -3694,6 +3910,7 @@ score:
       leadingArea: 24799459.0000 km^2 s
       leadingCoef: 1.7419888
       leadingFrac: 0.42242991
+      arrivalFrac: 0
   - - - '9'
       - Rohan Taylor
     - place: '31'
@@ -3711,6 +3928,7 @@ score:
       leadingArea: 30824372.0000 km^2 s
       leadingCoef: 2.16519684
       leadingFrac: 0.12616822
+      arrivalFrac: 0
   - - - '48'
       - Derek Mckee
     - place: '32'
@@ -3728,6 +3946,7 @@ score:
       leadingArea: 47060807.0000 km^2 s
       leadingCoef: 3.305693
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '32'
       - Rob Larkin
     - place: '33'
@@ -3745,6 +3964,7 @@ score:
       leadingArea: 53493280.0000 km^2 s
       leadingCoef: 3.75752931
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '18'
       - Peter Adriaans
     - place: '34'
@@ -3762,6 +3982,7 @@ score:
       leadingArea: 44834322.0000 km^2 s
       leadingCoef: 3.14929793
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '35'
       - Anatoly Reyter
     - place: '35'
@@ -3779,6 +4000,7 @@ score:
       leadingArea: 35985942.0000 km^2 s
       leadingCoef: 2.5277611
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '15'
       - Andrew Sharpe
     - place: '35'
@@ -3796,6 +4018,7 @@ score:
       leadingArea: 57202558.0000 km^2 s
       leadingCoef: 4.01808019
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '7'
       - James Atkinson
     - place: '37'
@@ -3813,6 +4036,7 @@ score:
       leadingArea: 54332578.0000 km^2 s
       leadingCoef: 3.81648412
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '34'
       - dave moore
     - place: '38'
@@ -3830,6 +4054,7 @@ score:
       leadingArea: 57397946.0000 km^2 s
       leadingCoef: 4.03180483
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '13'
       - Matthew Barlow
     - place: '39'
@@ -3847,6 +4072,7 @@ score:
       leadingArea: 55431964.0000 km^2 s
       leadingCoef: 3.89370831
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '27'
       - Guy Williams
     - place: '40'
@@ -3864,6 +4090,7 @@ score:
       leadingArea: 46997869.0000 km^2 s
       leadingCoef: 3.301272
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '40'
       - Hossain Tefaili
     - place: '41'
@@ -3881,6 +4108,7 @@ score:
       leadingArea: 60908735.0000 km^2 s
       leadingCoef: 4.27841321
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '1'
       - Mark Alton
     - place: '41'
@@ -3898,6 +4126,7 @@ score:
       leadingArea: 59977016.0000 km^2 s
       leadingCoef: 4.21296643
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '38'
       - Dave Stevens
     - place: '43'
@@ -3915,6 +4144,7 @@ score:
       leadingArea: 66499116.0000 km^2 s
       leadingCoef: 4.67109846
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '28'
       - John Harriot
     - place: '44'
@@ -3932,6 +4162,7 @@ score:
       leadingArea: 90544527.0000 km^2 s
       leadingCoef: 6.36012062
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '31'
       - Tomas Kellner
     - place: '45'
@@ -3949,6 +4180,7 @@ score:
       leadingArea: 107813458.0000 km^2 s
       leadingCoef: 7.57314237
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '49'
       - Damian Peauril
     - place: '45'
@@ -3966,3 +4198,4 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
