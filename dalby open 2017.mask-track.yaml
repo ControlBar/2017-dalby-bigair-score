@@ -1681,6 +1681,30 @@ arrivalRank:
       - Simon West
     - rank: '28'
       frac: 0.20151608
+flownMean:
+- 77.984381 km
+- 91.294957 km
+- 71.895954 km
+- 82.192290 km
+- 73.443530 km
+flownStdDev:
+- 30.863152 km
+- 32.730509 km
+- 27.690025 km
+- 35.615472 km
+- 23.148245 km
+reachMean:
+- 77.978602 km
+- 91.294957 km
+- 71.834212 km
+- 82.192290 km
+- 73.402300 km
+reachStdDev:
+- 30.877143 km
+- 32.730509 km
+- 27.845232 km
+- 35.615472 km
+- 23.274231 km
 reachRank:
 - - - - '5'
       - Jonny Durand
