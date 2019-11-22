@@ -1,0 +1,1246 @@
+ssBestTime:
+- 2.462841 h
+- 2.369436 h
+- 2.113332 h
+- 2.592431 h
+- 1.872247 h
+gsBestTime:
+- 2.469277 h
+- 2.391822 h
+- 2.124135 h
+- 2.607725 h
+- 1.876266 h
+taskDistance:
+- 99.561444 km
+- 111.259762 km
+- 96.889354 km
+- 114.373717 km
+- 88.969527 km
+taskSpeedDistance:
+- 99.561444 km
+- 111.259762 km
+- 96.889354 km
+- 114.373717 km
+- 88.969527 km
+ssSpeed:
+- - - - '5'
+      - Jonny Durand
+    - time: 2.462841 h
+      frac: 1
+  - - - '19'
+      - Scott Barrett
+    - time: 2.643180 h
+      frac: 0.76363636
+  - - - '20'
+      - Konrad Heilmann
+    - time: 2.648263 h
+      frac: 0.75921579
+  - - - '22'
+      - Steve Blenkinsop
+    - time: 2.651581 h
+      frac: 0.75635178
+  - - - '26'
+      - Jason Kath
+    - time: 2.651756 h
+      frac: 0.75620079
+  - - - '46'
+      - Harrison Rowntree
+    - time: 2.655834 h
+      frac: 0.75270492
+  - - - '44'
+      - Josh Woods
+    - time: 2.663428 h
+      frac: 0.74625987
+  - - - '13'
+      - Matthew Barlow
+    - time: 2.741250 h
+      frac: 0.68427441
+  - - - '6'
+      - Viv Clements
+    - time: 2.856634 h
+      frac: 0.60216772
+  - - - '16'
+      - Andrew Barnes
+    - time: 2.857896 h
+      frac: 0.60131826
+  - - - '17'
+      - Trevor Purcell
+    - time: 2.944951 h
+      frac: 0.5447128
+  - - - '51'
+      - Billy Miller-Macleod
+    - time: 2.994866 h
+      frac: 0.51380641
+  - - - '25'
+      - Hagen Bruggemann
+    - time: 3.075982 h
+      frac: 0.46556535
+  - - - '39'
+      - rob degroot
+    - time: 3.077848 h
+      frac: 0.46448151
+  - - - '36'
+      - Brad Porter
+    - time: 3.098749 h
+      frac: 0.4524161
+  - - - '45'
+      - steve crosby
+    - time: 3.099377 h
+      frac: 0.45205534
+  - - - '33'
+      - Niki Longshore
+    - time: 3.171269 h
+      frac: 0.41153818
+  - - - '27'
+      - Guy Williams
+    - time: 3.184405 h
+      frac: 0.40428612
+  - - - '24'
+      - Brodrick Osborne
+    - time: 3.385349 h
+      frac: 0.29827335
+  - - - '21'
+      - Frank Chetcuti
+    - time: 3.863285 h
+      frac: 7.310252e-2
+- - - - '22'
+      - Steve Blenkinsop
+    - time: 2.369436 h
+      frac: 1
+  - - - '4'
+      - Nick Purcell
+    - time: 2.376189 h
+      frac: 0.97320001
+  - - - '44'
+      - Josh Woods
+    - time: 2.378023 h
+      frac: 0.9685456
+  - - - '2'
+      - Tony Armstrong
+    - time: 2.379191 h
+      frac: 0.96575501
+  - - - '29'
+      - Guy Hubbard
+    - time: 2.385676 h
+      frac: 0.95189642
+  - - - '5'
+      - Jonny Durand
+    - time: 2.519460 h
+      frac: 0.78821615
+  - - - '33'
+      - Niki Longshore
+    - time: 2.576433 h
+      frac: 0.73752097
+  - - - '12'
+      - Rory Duncan
+    - time: 2.586898 h
+      frac: 0.72874747
+  - - - '39'
+      - rob degroot
+    - time: 2.687606 h
+      frac: 0.65041116
+  - - - '16'
+      - Andrew Barnes
+    - time: 2.723878 h
+      frac: 0.62432276
+  - - - '20'
+      - Konrad Heilmann
+    - time: 2.764378 h
+      frac: 0.59622405
+  - - - '46'
+      - Harrison Rowntree
+    - time: 2.779741 h
+      frac: 0.58581967
+  - - - '9'
+      - Rohan Taylor
+    - time: 2.854173 h
+      frac: 0.53713362
+  - - - '8'
+      - Rod Flockhart
+    - time: 2.878263 h
+      frac: 0.5219225
+  - - - '10'
+      - Craig Taylor
+    - time: 2.893819 h
+      frac: 0.51222762
+  - - - '42'
+      - Mikhail Karmazin
+    - time: 2.929112 h
+      frac: 0.49057983
+  - - - '6'
+      - Viv Clements
+    - time: 2.938312 h
+      frac: 0.48501233
+  - - - '45'
+      - steve crosby
+    - time: 2.947777 h
+      frac: 0.47931593
+  - - - '25'
+      - Hagen Bruggemann
+    - time: 2.965707 h
+      frac: 0.46860882
+  - - - '7'
+      - James Atkinson
+    - time: 2.981051 h
+      frac: 0.45953166
+  - - - '26'
+      - Jason Kath
+    - time: 2.982438 h
+      frac: 0.45871434
+  - - - '37'
+      - John Spencer
+    - time: 3.188235 h
+      frac: 0.34349723
+  - - - '38'
+      - Dave Stevens
+    - time: 3.215728 h
+      frac: 0.32888231
+  - - - '14'
+      - Tony Giammichele
+    - time: 3.335461 h
+      frac: 0.266989
+  - - - '21'
+      - Frank Chetcuti
+    - time: 3.593961 h
+      frac: 0.14145404
+  - - - '34'
+      - dave moore
+    - time: 4.206563 h
+      frac: 0
+- - - - '19'
+      - Scott Barrett
+    - time: 2.113332 h
+      frac: 1
+  - - - '2'
+      - Tony Armstrong
+    - time: 2.221546 h
+      frac: 0.82304428
+  - - - '12'
+      - Rory Duncan
+    - time: 2.228645 h
+      frac: 0.81538658
+  - - - '22'
+      - Steve Blenkinsop
+    - time: 2.230901 h
+      frac: 0.81298683
+  - - - '5'
+      - Jonny Durand
+    - time: 2.231889 h
+      frac: 0.81194063
+  - - - '29'
+      - Guy Hubbard
+    - time: 2.242416 h
+      frac: 0.80096687
+  - - - '44'
+      - Josh Woods
+    - time: 2.251338 h
+      frac: 0.79189825
+  - - - '10'
+      - Craig Taylor
+    - time: 2.465882 h
+      frac: 0.61111216
+  - - - '26'
+      - Jason Kath
+    - time: 2.466086 h
+      frac: 0.61096242
+  - - - '46'
+      - Harrison Rowntree
+    - time: 2.581485 h
+      frac: 0.53017548
+  - - - '4'
+      - Nick Purcell
+    - time: 2.631333 h
+      frac: 0.49739007
+  - - - '21'
+      - Frank Chetcuti
+    - time: 3.457206 h
+      frac: 5.103602e-2
+  - - - '6'
+      - Viv Clements
+    - time: 3.546132 h
+      frac: 9.62178e-3
+  - - - '35'
+      - Anatoly Reyter
+    - time: 3.779351 h
+      frac: 0
+  - - - '42'
+      - Mikhail Karmazin
+    - time: 3.784486 h
+      frac: 0
+  - - - '18'
+      - Peter Adriaans
+    - time: 3.805535 h
+      frac: 0
+  - - - '23'
+      - Noel Collins
+    - time: 3.945567 h
+      frac: 0
+  - - - '51'
+      - Billy Miller-Macleod
+    - time: 3.960608 h
+      frac: 0
+- - - - '5'
+      - Jonny Durand
+    - time: 2.592431 h
+      frac: 1
+  - - - '26'
+      - Jason Kath
+    - time: 2.675489 h
+      frac: 0.86142505
+  - - - '2'
+      - Tony Armstrong
+    - time: 2.826544 h
+      frac: 0.72348741
+  - - - '29'
+      - Guy Hubbard
+    - time: 2.832711 h
+      frac: 0.71865248
+  - - - '22'
+      - Steve Blenkinsop
+    - time: 2.838680 h
+      frac: 0.71401229
+  - - - '12'
+      - Rory Duncan
+    - time: 2.921306 h
+      frac: 0.65316868
+  - - - '46'
+      - Harrison Rowntree
+    - time: 2.962110 h
+      frac: 0.62504344
+  - - - '4'
+      - Nick Purcell
+    - time: 2.978162 h
+      frac: 0.61426694
+  - - - '20'
+      - Konrad Heilmann
+    - time: 2.992143 h
+      frac: 0.60500143
+  - - - '44'
+      - Josh Woods
+    - time: 3.013436 h
+      frac: 0.5910951
+  - - - '33'
+      - Niki Longshore
+    - time: 3.019136 h
+      frac: 0.5874129
+  - - - '19'
+      - Scott Barrett
+    - time: 3.160452 h
+      frac: 0.50072442
+  - - - '25'
+      - Hagen Bruggemann
+    - time: 3.478720 h
+      frac: 0.32834241
+  - - - '13'
+      - Matthew Barlow
+    - time: 3.509045 h
+      frac: 0.31310786
+  - - - '8'
+      - Rod Flockhart
+    - time: 3.592446 h
+      frac: 0.27204959
+- - - - '19'
+      - Scott Barrett
+    - time: 1.872247 h
+      frac: 1
+  - - - '46'
+      - Harrison Rowntree
+    - time: 1.940966 h
+      frac: 0.86387723
+  - - - '12'
+      - Rory Duncan
+    - time: 1.946051 h
+      frac: 0.85724265
+  - - - '20'
+      - Konrad Heilmann
+    - time: 1.988223 h
+      frac: 0.8070445
+  - - - '44'
+      - Josh Woods
+    - time: 1.997746 h
+      frac: 0.79662115
+  - - - '2'
+      - Tony Armstrong
+    - time: 2.008043 h
+      frac: 0.78564361
+  - - - '4'
+      - Nick Purcell
+    - time: 2.020511 h
+      frac: 0.77271621
+  - - - '29'
+      - Guy Hubbard
+    - time: 2.026706 h
+      frac: 0.7664276
+  - - - '45'
+      - steve crosby
+    - time: 2.079618 h
+      frac: 0.71574344
+  - - - '24'
+      - Brodrick Osborne
+    - time: 2.082211 h
+      frac: 0.71337872
+  - - - '33'
+      - Niki Longshore
+    - time: 2.084991 h
+      frac: 0.71085385
+  - - - '51'
+      - Billy Miller-Macleod
+    - time: 2.103770 h
+      frac: 0.69407928
+  - - - '17'
+      - Trevor Purcell
+    - time: 2.105989 h
+      frac: 0.69212779
+  - - - '8'
+      - Rod Flockhart
+    - time: 2.126029 h
+      frac: 0.67477335
+  - - - '39'
+      - rob degroot
+    - time: 2.127971 h
+      frac: 0.67311629
+  - - - '36'
+      - Brad Porter
+    - time: 2.129357 h
+      frac: 0.67193656
+  - - - '10'
+      - Craig Taylor
+    - time: 2.137703 h
+      frac: 0.66487437
+  - - - '16'
+      - Andrew Barnes
+    - time: 2.150877 h
+      frac: 0.65387643
+  - - - '25'
+      - Hagen Bruggemann
+    - time: 2.166372 h
+      frac: 0.64116079
+  - - - '23'
+      - Noel Collins
+    - time: 2.229376 h
+      frac: 0.59159045
+  - - - '42'
+      - Mikhail Karmazin
+    - time: 2.252209 h
+      frac: 0.57436344
+  - - - '37'
+      - John Spencer
+    - time: 2.279250 h
+      frac: 0.55440117
+  - - - '26'
+      - Jason Kath
+    - time: 2.296264 h
+      frac: 0.54206817
+  - - - '22'
+      - Steve Blenkinsop
+    - time: 2.340961 h
+      frac: 0.51042708
+  - - - '41'
+      - Peter Burkitt
+    - time: 2.345829 h
+      frac: 0.50704322
+  - - - '14'
+      - Tony Giammichele
+    - time: 2.603726 h
+      frac: 0.34131113
+  - - - '43'
+      - Simon West
+    - time: 2.619764 h
+      frac: 0.33171804
+  - - - '6'
+      - Viv Clements
+    - time: 2.840059 h
+      frac: 0.20614761
+gsSpeed:
+- - - - '5'
+      - Jonny Durand
+    - time: 2.469277 h
+      frac: 1
+  - - - '26'
+      - Jason Kath
+    - time: 2.662017 h
+      frac: 0.75313559
+  - - - '22'
+      - Steve Blenkinsop
+    - time: 2.666571 h
+      frac: 0.74926237
+  - - - '19'
+      - Scott Barrett
+    - time: 2.667177 h
+      frac: 0.74874969
+  - - - '44'
+      - Josh Woods
+    - time: 2.669674 h
+      frac: 0.74664019
+  - - - '46'
+      - Harrison Rowntree
+    - time: 2.678982 h
+      frac: 0.73885417
+  - - - '20'
+      - Konrad Heilmann
+    - time: 2.734305 h
+      frac: 0.69473884
+  - - - '13'
+      - Matthew Barlow
+    - time: 2.752241 h
+      frac: 0.68111767
+  - - - '16'
+      - Andrew Barnes
+    - time: 2.888503 h
+      frac: 0.58557867
+  - - - '6'
+      - Viv Clements
+    - time: 2.921399 h
+      frac: 0.56417311
+  - - - '51'
+      - Billy Miller-Macleod
+    - time: 3.008619 h
+      frac: 0.50978525
+  - - - '17'
+      - Trevor Purcell
+    - time: 3.043916 h
+      frac: 0.48862459
+  - - - '25'
+      - Hagen Bruggemann
+    - time: 3.082133 h
+      frac: 0.46619553
+  - - - '39'
+      - rob degroot
+    - time: 3.088686 h
+      frac: 0.46239726
+  - - - '45'
+      - steve crosby
+    - time: 3.119264 h
+      frac: 0.44484633
+  - - - '36'
+      - Brad Porter
+    - time: 3.139054 h
+      frac: 0.43363434
+  - - - '33'
+      - Niki Longshore
+    - time: 3.184427 h
+      frac: 0.40833647
+  - - - '27'
+      - Guy Williams
+    - time: 3.211745 h
+      frac: 0.39336355
+  - - - '24'
+      - Brodrick Osborne
+    - time: 3.307463 h
+      frac: 0.34228608
+  - - - '21'
+      - Frank Chetcuti
+    - time: 3.921297 h
+      frac: 5.130807e-2
+- - - - '22'
+      - Steve Blenkinsop
+    - time: 2.391822 h
+      frac: 1
+  - - - '2'
+      - Tony Armstrong
+    - time: 2.393494 h
+      frac: 0.98946342
+  - - - '29'
+      - Guy Hubbard
+    - time: 2.399764 h
+      frac: 0.97023392
+  - - - '44'
+      - Josh Woods
+    - time: 2.405068 h
+      frac: 0.95813714
+  - - - '4'
+      - Nick Purcell
+    - time: 2.405192 h
+      frac: 0.95787714
+  - - - '5'
+      - Jonny Durand
+    - time: 2.581083 h
+      frac: 0.75351027
+  - - - '33'
+      - Niki Longshore
+    - time: 2.607723 h
+      frac: 0.73089194
+  - - - '12'
+      - Rory Duncan
+    - time: 2.649966 h
+      frac: 0.69684476
+  - - - '39'
+      - rob degroot
+    - time: 2.726762 h
+      frac: 0.63936417
+  - - - '16'
+      - Andrew Barnes
+    - time: 2.790371 h
+      frac: 0.59504
+  - - - '46'
+      - Harrison Rowntree
+    - time: 2.796489 h
+      frac: 0.59090666
+  - - - '20'
+      - Konrad Heilmann
+    - time: 2.812562 h
+      frac: 0.58014447
+  - - - '9'
+      - Rohan Taylor
+    - time: 2.880803 h
+      frac: 0.53589266
+  - - - '10'
+      - Craig Taylor
+    - time: 2.909059 h
+      frac: 0.51818123
+  - - - '42'
+      - Mikhail Karmazin
+    - time: 2.944105 h
+      frac: 0.49665595
+  - - - '8'
+      - Rod Flockhart
+    - time: 2.971069 h
+      frac: 0.48040309
+  - - - '45'
+      - steve crosby
+    - time: 2.977899 h
+      frac: 0.47632671
+  - - - '6'
+      - Viv Clements
+    - time: 2.979175 h
+      frac: 0.47556704
+  - - - '25'
+      - Hagen Bruggemann
+    - time: 2.980844 h
+      frac: 0.4745741
+  - - - '26'
+      - Jason Kath
+    - time: 3.008464 h
+      frac: 0.45827424
+  - - - '7'
+      - James Atkinson
+    - time: 3.055846 h
+      frac: 0.43086778
+  - - - '37'
+      - John Spencer
+    - time: 3.232826 h
+      frac: 0.33377226
+  - - - '14'
+      - Tony Giammichele
+    - time: 3.384850 h
+      frac: 0.25572823
+  - - - '38'
+      - Dave Stevens
+    - time: 3.494890 h
+      frac: 0.20171362
+  - - - '21'
+      - Frank Chetcuti
+    - time: 3.659907 h
+      frac: 0.12396237
+  - - - '34'
+      - dave moore
+    - time: 4.385731 h
+      frac: 0
+- - - - '19'
+      - Scott Barrett
+    - time: 2.124135 h
+      frac: 1
+  - - - '2'
+      - Tony Armstrong
+    - time: 2.237713 h
+      frac: 0.81755334
+  - - - '22'
+      - Steve Blenkinsop
+    - time: 2.240222 h
+      frac: 0.81487713
+  - - - '5'
+      - Jonny Durand
+    - time: 2.245717 h
+      frac: 0.80907942
+  - - - '12'
+      - Rory Duncan
+    - time: 2.247368 h
+      frac: 0.80735497
+  - - - '29'
+      - Guy Hubbard
+    - time: 2.250254 h
+      frac: 0.80435951
+  - - - '44'
+      - Josh Woods
+    - time: 2.259823 h
+      frac: 0.79458438
+  - - - '26'
+      - Jason Kath
+    - time: 2.473077 h
+      frac: 0.61442574
+  - - - '10'
+      - Craig Taylor
+    - time: 2.474177 h
+      frac: 0.61361564
+  - - - '46'
+      - Harrison Rowntree
+    - time: 2.591584 h
+      frac: 0.5314437
+  - - - '4'
+      - Nick Purcell
+    - time: 2.642092 h
+      frac: 0.49827201
+  - - - '21'
+      - Frank Chetcuti
+    - time: 3.475681 h
+      frac: 4.904551e-2
+  - - - '6'
+      - Viv Clements
+    - time: 3.570051 h
+      frac: 5.27912e-3
+  - - - '42'
+      - Mikhail Karmazin
+    - time: 3.787377 h
+      frac: 0
+  - - - '35'
+      - Anatoly Reyter
+    - time: 3.788546 h
+      frac: 0
+  - - - '18'
+      - Peter Adriaans
+    - time: 3.824261 h
+      frac: 0
+  - - - '51'
+      - Billy Miller-Macleod
+    - time: 3.969381 h
+      frac: 0
+  - - - '23'
+      - Noel Collins
+    - time: 3.973065 h
+      frac: 0
+- - - - '5'
+      - Jonny Durand
+    - time: 2.607725 h
+      frac: 1
+  - - - '26'
+      - Jason Kath
+    - time: 2.688233 h
+      frac: 0.86454149
+  - - - '2'
+      - Tony Armstrong
+    - time: 2.835353 h
+      frac: 0.72914907
+  - - - '22'
+      - Steve Blenkinsop
+    - time: 2.853924 h
+      frac: 0.71461082
+  - - - '29'
+      - Guy Hubbard
+    - time: 2.889194 h
+      frac: 0.68796768
+  - - - '12'
+      - Rory Duncan
+    - time: 2.947470 h
+      frac: 0.64626213
+  - - - '46'
+      - Harrison Rowntree
+    - time: 2.993656 h
+      frac: 0.61488886
+  - - - '20'
+      - Konrad Heilmann
+    - time: 3.020078 h
+      frac: 0.59750652
+  - - - '44'
+      - Josh Woods
+    - time: 3.020543 h
+      frac: 0.59720423
+  - - - '4'
+      - Nick Purcell
+    - time: 3.040039 h
+      frac: 0.58462009
+  - - - '33'
+      - Niki Longshore
+    - time: 3.051492 h
+      frac: 0.5773156
+  - - - '19'
+      - Scott Barrett
+    - time: 3.233016 h
+      frac: 0.46874786
+  - - - '13'
+      - Matthew Barlow
+    - time: 3.540455 h
+      frac: 0.30644109
+  - - - '25'
+      - Hagen Bruggemann
+    - time: 3.573337 h
+      frac: 0.29023524
+  - - - '8'
+      - Rod Flockhart
+    - time: 3.636581 h
+      frac: 0.25957271
+- - - - '19'
+      - Scott Barrett
+    - time: 1.876266 h
+      frac: 1
+  - - - '12'
+      - Rory Duncan
+    - time: 1.958625 h
+      frac: 0.84652309
+  - - - '46'
+      - Harrison Rowntree
+    - time: 1.958945 h
+      frac: 0.84612652
+  - - - '44'
+      - Josh Woods
+    - time: 2.008858 h
+      frac: 0.78917935
+  - - - '2'
+      - Tony Armstrong
+    - time: 2.010142 h
+      frac: 0.7878202
+  - - - '29'
+      - Guy Hubbard
+    - time: 2.031867 h
+      frac: 0.7654457
+  - - - '20'
+      - Konrad Heilmann
+    - time: 2.056068 h
+      frac: 0.7417163
+  - - - '24'
+      - Brodrick Osborne
+    - time: 2.097952 h
+      frac: 0.70302053
+  - - - '45'
+      - steve crosby
+    - time: 2.102452 h
+      frac: 0.6990146
+  - - - '17'
+      - Trevor Purcell
+    - time: 2.115856 h
+      frac: 0.68723848
+  - - - '8'
+      - Rod Flockhart
+    - time: 2.127146 h
+      frac: 0.67748829
+  - - - '39'
+      - rob degroot
+    - time: 2.137618 h
+      frac: 0.668575
+  - - - '36'
+      - Brad Porter
+    - time: 2.140482 h
+      frac: 0.66615766
+  - - - '33'
+      - Niki Longshore
+    - time: 2.143137 h
+      frac: 0.66392574
+  - - - '10'
+      - Craig Taylor
+    - time: 2.149643 h
+      frac: 0.65848543
+  - - - '4'
+      - Nick Purcell
+    - time: 2.163464 h
+      frac: 0.64706949
+  - - - '16'
+      - Andrew Barnes
+    - time: 2.167426 h
+      frac: 0.64383108
+  - - - '25'
+      - Hagen Bruggemann
+    - time: 2.173652 h
+      frac: 0.63877136
+  - - - '51'
+      - Billy Miller-Macleod
+    - time: 2.185555 h
+      frac: 0.62919596
+  - - - '23'
+      - Noel Collins
+    - time: 2.243376 h
+      frac: 0.5843138
+  - - - '42'
+      - Mikhail Karmazin
+    - time: 2.270442 h
+      frac: 0.56412546
+  - - - '37'
+      - John Spencer
+    - time: 2.290574 h
+      frac: 0.54940753
+  - - - '26'
+      - Jason Kath
+    - time: 2.304534 h
+      frac: 0.53934165
+  - - - '41'
+      - Peter Burkitt
+    - time: 2.369593 h
+      frac: 0.49379688
+  - - - '22'
+      - Steve Blenkinsop
+    - time: 2.378317 h
+      frac: 0.48784669
+  - - - '14'
+      - Tony Giammichele
+    - time: 2.618205 h
+      frac: 0.33552203
+  - - - '43'
+      - Simon West
+    - time: 2.662042 h
+      frac: 0.30959971
+  - - - '6'
+      - Viv Clements
+    - time: 2.864607 h
+      frac: 0.19553637
+altStopped:
+- - - - '35'
+      - Anatoly Reyter
+    - 339.000 m
+  - - - '15'
+      - Andrew Sharpe
+    - 416.000 m
+  - - - '10'
+      - Craig Taylor
+    - 322.000 m
+  - - - '38'
+      - Dave Stevens
+    - 350.000 m
+  - - - '48'
+      - Derek Mckee
+    - 330.000 m
+  - - - '29'
+      - Guy Hubbard
+    - 350.000 m
+  - - - '40'
+      - Hossain Tefaili
+    - 344.000 m
+  - - - '7'
+      - James Atkinson
+    - 0.000 m
+  - - - '28'
+      - John Harriot
+    - 331.000 m
+  - - - '37'
+      - John Spencer
+    - 444.000 m
+  - - - '1'
+      - Mark Alton
+    - 352.000 m
+  - - - '42'
+      - Mikhail Karmazin
+    - 377.000 m
+  - - - '4'
+      - Nick Purcell
+    - 0.000 m
+  - - - '23'
+      - Noel Collins
+    - 352.000 m
+  - - - '3'
+      - Paul Allen
+    - 336.000 m
+  - - - '18'
+      - Peter Adriaans
+    - 321.000 m
+  - - - '41'
+      - Peter Burkitt
+    - 333.000 m
+  - - - '32'
+      - Rob Larkin
+    - 335.000 m
+  - - - '8'
+      - Rod Flockhart
+    - 0.000 m
+  - - - '9'
+      - Rohan Taylor
+    - 352.000 m
+  - - - '12'
+      - Rory Duncan
+    - 334.000 m
+  - - - '43'
+      - Simon West
+    - 0.000 m
+  - - - '31'
+      - Tomas Kellner
+    - 359.000 m
+  - - - '2'
+      - Tony Armstrong
+    - 346.000 m
+  - - - '14'
+      - Tony Giammichele
+    - 340.000 m
+  - - - '34'
+      - dave moore
+    - 1739.000 m
+- - - - '35'
+      - Anatoly Reyter
+    - 293.000 m
+  - - - '15'
+      - Andrew Sharpe
+    - 385.000 m
+  - - - '51'
+      - Billy Miller-Macleod
+    - 289.000 m
+  - - - '36'
+      - Brad Porter
+    - 360.000 m
+  - - - '24'
+      - Brodrick Osborne
+    - 288.000 m
+  - - - '48'
+      - Derek Mckee
+    - 296.000 m
+  - - - '27'
+      - Guy Williams
+    - 288.000 m
+  - - - '40'
+      - Hossain Tefaili
+    - 0.000 m
+  - - - '28'
+      - John Harriot
+    - 299.000 m
+  - - - '1'
+      - Mark Alton
+    - 303.000 m
+  - - - '13'
+      - Matthew Barlow
+    - 291.000 m
+  - - - '23'
+      - Noel Collins
+    - 385.000 m
+  - - - '3'
+      - Paul Allen
+    - 296.000 m
+  - - - '18'
+      - Peter Adriaans
+    - 281.000 m
+  - - - '41'
+      - Peter Burkitt
+    - 303.000 m
+  - - - '32'
+      - Rob Larkin
+    - 277.000 m
+  - - - '19'
+      - Scott Barrett
+    - 289.000 m
+  - - - '43'
+      - Simon West
+    - 288.000 m
+  - - - '31'
+      - Tomas Kellner
+    - 310.000 m
+  - - - '17'
+      - Trevor Purcell
+    - 262.000 m
+- - - - '16'
+      - Andrew Barnes
+    - 320.000 m
+  - - - '15'
+      - Andrew Sharpe
+    - 377.000 m
+  - - - '36'
+      - Brad Porter
+    - 410.000 m
+  - - - '24'
+      - Brodrick Osborne
+    - 288.000 m
+  - - - '38'
+      - Dave Stevens
+    - 339.000 m
+  - - - '48'
+      - Derek Mckee
+    - 312.000 m
+  - - - '27'
+      - Guy Williams
+    - 294.000 m
+  - - - '25'
+      - Hagen Bruggemann
+    - 309.000 m
+  - - - '40'
+      - Hossain Tefaili
+    - 0.000 m
+  - - - '7'
+      - James Atkinson
+    - 0.000 m
+  - - - '28'
+      - John Harriot
+    - 301.000 m
+  - - - '37'
+      - John Spencer
+    - 376.000 m
+  - - - '20'
+      - Konrad Heilmann
+    - 265.000 m
+  - - - '1'
+      - Mark Alton
+    - 328.000 m
+  - - - '13'
+      - Matthew Barlow
+    - 324.000 m
+  - - - '33'
+      - Niki Longshore
+    - 307.000 m
+  - - - '3'
+      - Paul Allen
+    - 282.000 m
+  - - - '41'
+      - Peter Burkitt
+    - 279.000 m
+  - - - '32'
+      - Rob Larkin
+    - 0.000 m
+  - - - '8'
+      - Rod Flockhart
+    - 0.000 m
+  - - - '9'
+      - Rohan Taylor
+    - 294.000 m
+  - - - '43'
+      - Simon West
+    - 311.000 m
+  - - - '31'
+      - Tomas Kellner
+    - 298.000 m
+  - - - '14'
+      - Tony Giammichele
+    - 272.000 m
+  - - - '17'
+      - Trevor Purcell
+    - 276.000 m
+  - - - '34'
+      - dave moore
+    - 322.000 m
+  - - - '39'
+      - rob degroot
+    - 334.000 m
+  - - - '45'
+      - steve crosby
+    - 282.000 m
+- - - - '35'
+      - Anatoly Reyter
+    - 390.000 m
+  - - - '16'
+      - Andrew Barnes
+    - 342.000 m
+  - - - '15'
+      - Andrew Sharpe
+    - 372.000 m
+  - - - '51'
+      - Billy Miller-Macleod
+    - 397.000 m
+  - - - '36'
+      - Brad Porter
+    - 372.000 m
+  - - - '24'
+      - Brodrick Osborne
+    - 339.000 m
+  - - - '10'
+      - Craig Taylor
+    - 336.000 m
+  - - - '38'
+      - Dave Stevens
+    - 381.000 m
+  - - - '48'
+      - Derek Mckee
+    - 305.000 m
+  - - - '21'
+      - Frank Chetcuti
+    - 0.000 m
+  - - - '27'
+      - Guy Williams
+    - 286.000 m
+  - - - '40'
+      - Hossain Tefaili
+    - 0.000 m
+  - - - '7'
+      - James Atkinson
+    - 0.000 m
+  - - - '28'
+      - John Harriot
+    - 297.000 m
+  - - - '37'
+      - John Spencer
+    - 445.000 m
+  - - - '1'
+      - Mark Alton
+    - 326.000 m
+  - - - '42'
+      - Mikhail Karmazin
+    - 371.000 m
+  - - - '23'
+      - Noel Collins
+    - 0.000 m
+  - - - '18'
+      - Peter Adriaans
+    - 378.000 m
+  - - - '41'
+      - Peter Burkitt
+    - 326.000 m
+  - - - '32'
+      - Rob Larkin
+    - 0.000 m
+  - - - '9'
+      - Rohan Taylor
+    - 322.000 m
+  - - - '43'
+      - Simon West
+    - 328.000 m
+  - - - '31'
+      - Tomas Kellner
+    - 297.000 m
+  - - - '14'
+      - Tony Giammichele
+    - 315.000 m
+  - - - '17'
+      - Trevor Purcell
+    - 346.000 m
+  - - - '6'
+      - Viv Clements
+    - 376.000 m
+  - - - '34'
+      - dave moore
+    - 280.000 m
+  - - - '39'
+      - rob degroot
+    - 365.000 m
+  - - - '45'
+      - steve crosby
+    - 352.000 m
+- - - - '35'
+      - Anatoly Reyter
+    - 317.000 m
+  - - - '15'
+      - Andrew Sharpe
+    - 404.000 m
+  - - - '38'
+      - Dave Stevens
+    - 301.000 m
+  - - - '48'
+      - Derek Mckee
+    - 319.000 m
+  - - - '21'
+      - Frank Chetcuti
+    - 0.000 m
+  - - - '27'
+      - Guy Williams
+    - 312.000 m
+  - - - '40'
+      - Hossain Tefaili
+    - 0.000 m
+  - - - '7'
+      - James Atkinson
+    - 0.000 m
+  - - - '28'
+      - John Harriot
+    - 311.000 m
+  - - - '5'
+      - Jonny Durand
+    - 314.000 m
+  - - - '1'
+      - Mark Alton
+    - 320.000 m
+  - - - '13'
+      - Matthew Barlow
+    - 330.000 m
+  - - - '18'
+      - Peter Adriaans
+    - 319.000 m
+  - - - '32'
+      - Rob Larkin
+    - 0.000 m
+  - - - '9'
+      - Rohan Taylor
+    - 328.000 m
+  - - - '31'
+      - Tomas Kellner
+    - 307.000 m
+  - - - '34'
+      - dave moore
+    - 339.000 m

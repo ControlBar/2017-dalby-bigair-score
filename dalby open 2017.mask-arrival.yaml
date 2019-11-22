@@ -1,0 +1,435 @@
+pilotsAtEss:
+- 20
+- 26
+- 18
+- 15
+- 28
+arrivalRank:
+- - - - '5'
+      - Jonny Durand
+    - rank: '1'
+      frac: 1
+  - - - '26'
+      - Jason Kath
+    - rank: '2'
+      frac: 0.89519338
+  - - - '22'
+      - Steve Blenkinsop
+    - rank: '3'
+      frac: 0.800057
+  - - - '19'
+      - Scott Barrett
+    - rank: '4'
+      frac: 0.71411612
+  - - - '44'
+      - Josh Woods
+    - rank: '5'
+      frac: 0.636896
+  - - - '51'
+      - Billy Miller-Macleod
+    - rank: '6'
+      frac: 0.56792188
+  - - - '46'
+      - Harrison Rowntree
+    - rank: '7'
+      frac: 0.506719
+  - - - '17'
+      - Trevor Purcell
+    - rank: '8'
+      frac: 0.45281262
+  - - - '20'
+      - Konrad Heilmann
+    - rank: '9'
+      frac: 0.405728
+  - - - '25'
+      - Hagen Bruggemann
+    - rank: '10'
+      frac: 0.36499038
+  - - - '13'
+      - Matthew Barlow
+    - rank: '11'
+      frac: 0.330125
+  - - - '45'
+      - steve crosby
+    - rank: '13'
+      frac: 0.276112
+  - - - '16'
+      - Andrew Barnes
+    - rank: '14'
+      frac: 0.25601488
+  - - - '6'
+      - Viv Clements
+    - rank: '15'
+      frac: 0.239891
+  - - - '24'
+      - Brodrick Osborne
+    - rank: '17'
+      frac: 0.217664
+  - - - '39'
+      - rob degroot
+    - rank: '18'
+      frac: 0.21061138
+  - - - '36'
+      - Brad Porter
+    - rank: '19'
+      frac: 0.205633
+  - - - '33'
+      - Niki Longshore
+    - rank: '20'
+      frac: 0.20225412
+  - - - '27'
+      - Guy Williams
+    - rank: '21'
+      frac: 0
+  - - - '21'
+      - Frank Chetcuti
+    - rank: '22'
+      frac: 0
+- - - - '22'
+      - Steve Blenkinsop
+    - rank: '1'
+      frac: 1
+  - - - '2'
+      - Tony Armstrong
+    - rank: '2'
+      frac: 0.91850393
+  - - - '29'
+      - Guy Hubbard
+    - rank: '3'
+      frac: 0.84279472
+  - - - '44'
+      - Josh Woods
+    - rank: '4'
+      frac: 0.77265629
+  - - - '4'
+      - Nick Purcell
+    - rank: '5'
+      frac: 0.70787255
+  - - - '20'
+      - Konrad Heilmann
+    - rank: '6'
+      frac: 0.64822741
+  - - - '10'
+      - Craig Taylor
+    - rank: '7'
+      frac: 0.59350478
+  - - - '33'
+      - Niki Longshore
+    - rank: '8'
+      frac: 0.54348856
+  - - - '42'
+      - Mikhail Karmazin
+    - rank: '9'
+      frac: 0.49796268
+  - - - '39'
+      - rob degroot
+    - rank: '10'
+      frac: 0.45671103
+  - - - '46'
+      - Harrison Rowntree
+    - rank: '11'
+      frac: 0.41951752
+  - - - '9'
+      - Rohan Taylor
+    - rank: '12'
+      frac: 0.38616608
+  - - - '5'
+      - Jonny Durand
+    - rank: '13'
+      frac: 0.3564406
+  - - - '45'
+      - steve crosby
+    - rank: '14'
+      frac: 0.330125
+  - - - '6'
+      - Viv Clements
+    - rank: '15'
+      frac: 0.30700319
+  - - - '25'
+      - Hagen Bruggemann
+    - rank: '16'
+      frac: 0.28685907
+  - - - '12'
+      - Rory Duncan
+    - rank: '17'
+      frac: 0.26947656
+  - - - '26'
+      - Jason Kath
+    - rank: '18'
+      frac: 0.25463957
+  - - - '16'
+      - Andrew Barnes
+    - rank: '19'
+      frac: 0.242132
+  - - - '38'
+      - Dave Stevens
+    - rank: '20'
+      frac: 0.23173777
+  - - - '37'
+      - John Spencer
+    - rank: '21'
+      frac: 0.22324078
+  - - - '8'
+      - Rod Flockhart
+    - rank: '22'
+      frac: 0.21642495
+  - - - '21'
+      - Frank Chetcuti
+    - rank: '23'
+      frac: 0.21107419
+  - - - '14'
+      - Tony Giammichele
+    - rank: '24'
+      frac: 0.20697241
+  - - - '7'
+      - James Atkinson
+    - rank: '25'
+      frac: 0.2039035
+  - - - '34'
+      - dave moore
+    - rank: '26'
+      frac: 0.2016514
+- - - - '19'
+      - Scott Barrett
+    - rank: '1'
+      frac: 1
+  - - - '2'
+      - Tony Armstrong
+    - rank: '2'
+      frac: 0.88415381
+  - - - '22'
+      - Steve Blenkinsop
+    - rank: '3'
+      frac: 0.78018107
+  - - - '12'
+      - Rory Duncan
+    - rank: '4'
+      frac: 0.68743056
+  - - - '29'
+      - Guy Hubbard
+    - rank: '5'
+      frac: 0.60525103
+  - - - '44'
+      - Josh Woods
+    - rank: '6'
+      frac: 0.53299126
+  - - - '26'
+      - Jason Kath
+    - rank: '7'
+      frac: 0.47
+  - - - '10'
+      - Craig Taylor
+    - rank: '8'
+      frac: 0.41562603
+  - - - '5'
+      - Jonny Durand
+    - rank: '9'
+      frac: 0.36921811
+  - - - '46'
+      - Harrison Rowntree
+    - rank: '10'
+      frac: 0.330125
+  - - - '4'
+      - Nick Purcell
+    - rank: '11'
+      frac: 0.29769547
+  - - - '21'
+      - Frank Chetcuti
+    - rank: '12'
+      frac: 0.27127829
+  - - - '6'
+      - Viv Clements
+    - rank: '13'
+      frac: 0.25022222
+  - - - '42'
+      - Mikhail Karmazin
+    - rank: '14'
+      frac: 0.23387603
+  - - - '18'
+      - Peter Adriaans
+    - rank: '15'
+      frac: 0.22158848
+  - - - '51'
+      - Billy Miller-Macleod
+    - rank: '16'
+      frac: 0.21270833
+  - - - '23'
+      - Noel Collins
+    - rank: '17'
+      frac: 0.20658436
+  - - - '35'
+      - Anatoly Reyter
+    - rank: '18'
+      frac: 0.20256533
+- - - - '2'
+      - Tony Armstrong
+    - rank: '1'
+      frac: 1
+  - - - '22'
+      - Steve Blenkinsop
+    - rank: '2'
+      frac: 0.86243022
+  - - - '29'
+      - Guy Hubbard
+    - rank: '3'
+      frac: 0.74177067
+  - - - '5'
+      - Jonny Durand
+    - rank: '4'
+      frac: 0.636896
+  - - - '12'
+      - Rory Duncan
+    - rank: '5'
+      frac: 0.54668089
+  - - - '46'
+      - Harrison Rowntree
+    - rank: '6'
+      frac: 0.47
+  - - - '20'
+      - Konrad Heilmann
+    - rank: '7'
+      frac: 0.405728
+  - - - '44'
+      - Josh Woods
+    - rank: '8'
+      frac: 0.35273956
+  - - - '26'
+      - Jason Kath
+    - rank: '9'
+      frac: 0.30990933
+  - - - '4'
+      - Nick Purcell
+    - rank: '10'
+      frac: 0.276112
+  - - - '33'
+      - Niki Longshore
+    - rank: '11'
+      frac: 0.25022222
+  - - - '19'
+      - Scott Barrett
+    - rank: '12'
+      frac: 0.23111467
+  - - - '13'
+      - Matthew Barlow
+    - rank: '13'
+      frac: 0.217664
+  - - - '25'
+      - Hagen Bruggemann
+    - rank: '14'
+      frac: 0.20874489
+  - - - '8'
+      - Rod Flockhart
+    - rank: '15'
+      frac: 0.203232
+- - - - '19'
+      - Scott Barrett
+    - rank: '1'
+      frac: 1
+  - - - '12'
+      - Rory Duncan
+    - rank: '2'
+      frac: 0.9241306
+  - - - '46'
+      - Harrison Rowntree
+    - rank: '3'
+      frac: 0.85326421
+  - - - '44'
+      - Josh Woods
+    - rank: '4'
+      frac: 0.78722782
+  - - - '2'
+      - Tony Armstrong
+    - rank: '5'
+      frac: 0.7258484
+  - - - '29'
+      - Guy Hubbard
+    - rank: '6'
+      frac: 0.66895294
+  - - - '20'
+      - Konrad Heilmann
+    - rank: '7'
+      frac: 0.61636844
+  - - - '24'
+      - Brodrick Osborne
+    - rank: '8'
+      frac: 0.56792188
+  - - - '45'
+      - steve crosby
+    - rank: '9'
+      frac: 0.52344023
+  - - - '17'
+      - Trevor Purcell
+    - rank: '10'
+      frac: 0.4827505
+  - - - '8'
+      - Rod Flockhart
+    - rank: '11'
+      frac: 0.44567966
+  - - - '39'
+      - rob degroot
+    - rank: '12'
+      frac: 0.41205471
+  - - - '36'
+      - Brad Porter
+    - rank: '13'
+      frac: 0.38170262
+  - - - '33'
+      - Niki Longshore
+    - rank: '14'
+      frac: 0.35445039
+  - - - '10'
+      - Craig Taylor
+    - rank: '15'
+      frac: 0.330125
+  - - - '4'
+      - Nick Purcell
+    - rank: '16'
+      frac: 0.30855343
+  - - - '16'
+      - Andrew Barnes
+    - rank: '17'
+      frac: 0.28956268
+  - - - '25'
+      - Hagen Bruggemann
+    - rank: '18'
+      frac: 0.27297973
+  - - - '51'
+      - Billy Miller-Macleod
+    - rank: '19'
+      frac: 0.25863156
+  - - - '23'
+      - Noel Collins
+    - rank: '20'
+      frac: 0.24634516
+  - - - '42'
+      - Mikhail Karmazin
+    - rank: '21'
+      frac: 0.23594752
+  - - - '37'
+      - John Spencer
+    - rank: '22'
+      frac: 0.22726562
+  - - - '26'
+      - Jason Kath
+    - rank: '23'
+      frac: 0.22012646
+  - - - '41'
+      - Peter Burkitt
+    - rank: '24'
+      frac: 0.21435701
+  - - - '14'
+      - Tony Giammichele
+    - rank: '25'
+      frac: 0.20978426
+  - - - '22'
+      - Steve Blenkinsop
+    - rank: '26'
+      frac: 0.20623519
+  - - - '6'
+      - Viv Clements
+    - rank: '27'
+      frac: 0.20353681
+  - - - '43'
+      - Simon West
+    - rank: '28'
+      frac: 0.20151608

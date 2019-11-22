@@ -11,7 +11,7 @@ comp:
   scoreBack: 900.000 s
   give:
     giveFraction: 5.0e-3
-    giveDistance: 5.0 m
+    giveDistance: null
   earth:
     sphere:
       radius: 6371000.0 m
@@ -19,7 +19,7 @@ nominal:
   launch: 0.96
   goal: 0.1
   distance: 50.0 km
-  free: 5.0 km
+  free: 5.000 km
   time: 1.500000 h
 compTweak:
   arrivalWeightScaling: null
@@ -32,25 +32,29 @@ tasks:
       lat: -27.15886
       lng: 151.26378
       radius: 5000.0 m
-      give: 4975.0 m
+      giveIn: 4975.0 m
+      giveOut: 5025.0 m
       alt: 351.000 m
     - zoneName: JANDOW
       lat: -26.7866
       lng: 151.11634
       radius: 4000.0 m
-      give: 4020.0 m
+      giveIn: 3980.0 m
+      giveOut: 4020.0 m
       alt: 365.000 m
     - zoneName: WARRA
       lat: -26.92781
       lng: 150.91386
       radius: 400.0 m
-      give: 405.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 335.000 m
     - zoneName: 1DALBY
       lat: -27.15886
       lng: 151.26378
       radius: 1000.0 m
-      give: 1005.0 m
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
       alt: 351.000 m
     raceKind:
       prolog: []
@@ -91,6 +95,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: 0
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 10 s
   penals: []
 - taskName: day four T2
   zones:
@@ -99,37 +106,43 @@ tasks:
       lat: -27.15886
       lng: 151.26378
       radius: 5000.0 m
-      give: 4975.0 m
+      giveIn: 4975.0 m
+      giveOut: 5025.0 m
       alt: 351.000 m
     - zoneName: MACALI
       lat: -27.04144
       lng: 151.07387
       radius: 400.0 m
-      give: 405.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 335.000 m
     - zoneName: JIMBOU
       lat: -26.96142
       lng: 151.21333
       radius: 400.0 m
-      give: 405.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 365.000 m
     - zoneName: WARRA
       lat: -26.92781
       lng: 150.91386
       radius: 400.0 m
-      give: 405.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 335.000 m
     - zoneName: JANDOW
       lat: -26.7866
       lng: 151.11634
       radius: 4000.0 m
-      give: 4020.0 m
+      giveIn: 3980.0 m
+      giveOut: 4020.0 m
       alt: 365.000 m
     - zoneName: BRIGAL
       lat: -26.84967
       lng: 150.79721
       radius: 1000.0 m
-      give: 1005.0 m
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
       alt: 335.000 m
     raceKind:
       prolog: []
@@ -180,6 +193,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 10 s
   penals: []
 - taskName: day five
   zones:
@@ -188,25 +204,29 @@ tasks:
       lat: -27.15886
       lng: 151.26378
       radius: 5000.0 m
-      give: 4975.0 m
+      giveIn: 4975.0 m
+      giveOut: 5025.0 m
       alt: 351.000 m
     - zoneName: BRIGAL
       lat: -26.84967
       lng: 150.79721
       radius: 15000.0 m
-      give: 15075.0 m
+      giveIn: 14925.0 m
+      giveOut: 15075.0 m
       alt: 335.000 m
     - zoneName: IRON
       lat: -26.60408
       lng: 151.43256
       radius: 37000.0 m
-      give: 37185.0 m
+      giveIn: 36815.0 m
+      giveOut: 37185.0 m
       alt: 426.000 m
     - zoneName: 1DALBY
       lat: -27.15886
       lng: 151.26378
       radius: 1000.0 m
-      give: 1005.0 m
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
       alt: 351.000 m
     raceKind:
       prolog: []
@@ -247,6 +267,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 10 s
   penals: []
 - taskName: day six
   zones:
@@ -255,25 +278,29 @@ tasks:
       lat: -27.15886
       lng: 151.26378
       radius: 5000.0 m
-      give: 4975.0 m
+      giveIn: 4975.0 m
+      giveOut: 5025.0 m
       alt: 351.000 m
     - zoneName: WARRA
       lat: -26.92781
       lng: 150.91386
       radius: 2000.0 m
-      give: 2010.0 m
+      giveIn: 1990.0 m
+      giveOut: 2010.0 m
       alt: 335.000 m
     - zoneName: BELL
       lat: -26.92697
       lng: 151.44817
       radius: 2000.0 m
-      give: 2010.0 m
+      giveIn: 1990.0 m
+      giveOut: 2010.0 m
       alt: 487.000 m
     - zoneName: 1DALBY
       lat: -27.15886
       lng: 151.26378
       radius: 1000.0 m
-      give: 1005.0 m
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
       alt: 351.000 m
     raceKind:
       prolog: []
@@ -314,6 +341,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 10 s
   penals: []
 - taskName: day seven
   zones:
@@ -322,31 +352,36 @@ tasks:
       lat: -27.15886
       lng: 151.26378
       radius: 5000.0 m
-      give: 4975.0 m
+      giveIn: 4975.0 m
+      giveOut: 5025.0 m
       alt: 351.000 m
     - zoneName: BROADW
       lat: -27.34386
       lng: 151.09409
       radius: 7000.0 m
-      give: 7035.0 m
+      giveIn: 6965.0 m
+      giveOut: 7035.0 m
       alt: 365.000 m
     - zoneName: JIMBOU
       lat: -26.96142
       lng: 151.21333
       radius: 400.0 m
-      give: 405.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 365.000 m
     - zoneName: MACALI
       lat: -27.04144
       lng: 151.07387
       radius: 400.0 m
-      give: 405.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
       alt: 335.000 m
     - zoneName: 1DALBY
       lat: -27.15886
       lng: 151.26378
       radius: 1000.0 m
-      give: 1005.0 m
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
       alt: 351.000 m
     raceKind:
       prolog: []
@@ -392,6 +427,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 10 s
   penals: []
 taskFolders:
 - - day one
@@ -1106,9 +1144,14 @@ pilotGroups:
     - '49'
     - Damian Peauril
     awardedReach:
-      awardedMade: 0.000000 km
-      awardedTask: 99.530000 km
-      awardedFrac: 0
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 99.530000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 99.530000 km
+        awardedFrac: 0
     awardedVelocity:
       ss: null
       es: null
@@ -1119,9 +1162,14 @@ pilotGroups:
     - '49'
     - Damian Peauril
     awardedReach:
-      awardedMade: 0.000000 km
-      awardedTask: 111.271000 km
-      awardedFrac: 0
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 111.271000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 111.271000 km
+        awardedFrac: 0
     awardedVelocity:
       ss: null
       es: null
@@ -1132,9 +1180,14 @@ pilotGroups:
     - '49'
     - Damian Peauril
     awardedReach:
-      awardedMade: 0.000000 km
-      awardedTask: 96.835000 km
-      awardedFrac: 0
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 96.835000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 96.835000 km
+        awardedFrac: 0
     awardedVelocity:
       ss: null
       es: null
@@ -1145,9 +1198,14 @@ pilotGroups:
     - '49'
     - Damian Peauril
     awardedReach:
-      awardedMade: 0.000000 km
-      awardedTask: 114.377000 km
-      awardedFrac: 0
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 114.377000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 114.377000 km
+        awardedFrac: 0
     awardedVelocity:
       ss: null
       es: null
@@ -1160,9 +1218,14 @@ pilotGroups:
     - '49'
     - Damian Peauril
     awardedReach:
-      awardedMade: 0.000000 km
-      awardedTask: 88.932000 km
-      awardedFrac: 0
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 88.932000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 88.932000 km
+        awardedFrac: 0
     awardedVelocity:
       ss: null
       es: null
