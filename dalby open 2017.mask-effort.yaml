@@ -1,511 +1,511 @@
 bestEffort:
-- 99.561444 km
-- 111.259762 km
-- 96.889354 km
-- 114.373717 km
-- 88.969527 km
+- 99.561362 km
+- 111.348408 km
+- 96.891210 km
+- 115.018993 km
+- 88.969020 km
 land:
 - - - - '23'
       - Noel Collins
     - togo: 7.130549 km
-      made: 92.430895 km
+      made: 92.430813 km
   - - - '1'
       - Mark Alton
     - togo: 9.512703 km
-      made: 90.048741 km
+      made: 90.048659 km
   - - - '7'
       - James Atkinson
     - togo: 11.873618 km
-      made: 87.687826 km
+      made: 87.687744 km
   - - - '4'
       - Nick Purcell
     - togo: 14.455829 km
-      made: 85.105615 km
+      made: 85.105533 km
   - - - '9'
       - Rohan Taylor
     - togo: 15.629664 km
-      made: 83.931780 km
+      made: 83.931698 km
   - - - '35'
       - Anatoly Reyter
     - togo: 15.994563 km
-      made: 83.566881 km
+      made: 83.566799 km
   - - - '32'
       - Rob Larkin
     - togo: 16.031389 km
-      made: 83.530055 km
+      made: 83.529973 km
   - - - '2'
       - Tony Armstrong
     - togo: 16.867195 km
-      made: 82.694249 km
+      made: 82.694167 km
   - - - '12'
       - Rory Duncan
     - togo: 20.134582 km
-      made: 79.426862 km
+      made: 79.426780 km
   - - - '41'
       - Peter Burkitt
     - togo: 25.150675 km
-      made: 74.410769 km
+      made: 74.410687 km
   - - - '48'
       - Derek Mckee
     - togo: 31.872491 km
-      made: 67.688953 km
+      made: 67.688871 km
   - - - '28'
       - John Harriot
     - togo: 35.792876 km
-      made: 63.768568 km
+      made: 63.768486 km
   - - - '18'
       - Peter Adriaans
     - togo: 44.580750 km
-      made: 54.980694 km
+      made: 54.980612 km
   - - - '34'
       - dave moore
     - togo: 44.646069 km
-      made: 54.915375 km
+      made: 54.915293 km
   - - - '10'
       - Craig Taylor
     - togo: 47.051413 km
-      made: 52.510031 km
+      made: 52.509949 km
   - - - '8'
       - Rod Flockhart
     - togo: 48.849584 km
-      made: 50.711860 km
+      made: 50.711778 km
   - - - '15'
       - Andrew Sharpe
     - togo: 71.016135 km
-      made: 28.545309 km
+      made: 28.545227 km
   - - - '43'
       - Simon West
     - togo: 78.051137 km
-      made: 21.510307 km
+      made: 21.510225 km
   - - - '31'
       - Tomas Kellner
     - togo: 80.643558 km
-      made: 18.917886 km
+      made: 18.917804 km
   - - - '42'
       - Mikhail Karmazin
     - togo: 94.050941 km
-      made: 5.510503 km
+      made: 5.510421 km
   - - - '40'
       - Hossain Tefaili
     - togo: 94.311243 km
-      made: 5.250201 km
+      made: 5.250119 km
   - - - '3'
       - Paul Allen
     - togo: 94.370651 km
-      made: 5.190793 km
+      made: 5.190711 km
   - - - '49'
       - Damian Peauril
-    - togo: 94.561444 km
+    - togo: 94.561362 km
       made: 5.000000 km
   - - - '29'
       - Guy Hubbard
     - togo: 94.939646 km
-      made: 4.621798 km
+      made: 4.621716 km
   - - - '38'
       - Dave Stevens
     - togo: 103.462613 km
-      made: -3.901169 km
+      made: -3.901251 km
   - - - '14'
       - Tony Giammichele
     - togo: 104.865196 km
-      made: -5.303752 km
+      made: -5.303834 km
   - - - '37'
       - John Spencer
     - togo: 104.941021 km
-      made: -5.379577 km
+      made: -5.379659 km
 - - - - '24'
       - Brodrick Osborne
     - togo: 0.445220 km
-      made: 110.814542 km
+      made: 110.903188 km
   - - - '13'
       - Matthew Barlow
     - togo: 0.521712 km
-      made: 110.738050 km
+      made: 110.826696 km
   - - - '35'
       - Anatoly Reyter
     - togo: 4.367552 km
-      made: 106.892210 km
+      made: 106.980856 km
   - - - '18'
       - Peter Adriaans
     - togo: 4.382333 km
-      made: 106.877429 km
+      made: 106.966075 km
   - - - '19'
       - Scott Barrett
     - togo: 4.475972 km
-      made: 106.783790 km
+      made: 106.872436 km
   - - - '17'
       - Trevor Purcell
     - togo: 16.272319 km
-      made: 94.987443 km
+      made: 95.076089 km
   - - - '36'
       - Brad Porter
     - togo: 21.317288 km
-      made: 89.942474 km
+      made: 90.031120 km
   - - - '41'
       - Peter Burkitt
     - togo: 35.352615 km
-      made: 75.907147 km
+      made: 75.995793 km
   - - - '40'
       - Hossain Tefaili
     - togo: 37.358490 km
-      made: 73.901272 km
+      made: 73.989918 km
   - - - '48'
       - Derek Mckee
     - togo: 41.662684 km
-      made: 69.597078 km
+      made: 69.685724 km
   - - - '1'
       - Mark Alton
     - togo: 45.067971 km
-      made: 66.191791 km
+      made: 66.280437 km
   - - - '51'
       - Billy Miller-Macleod
     - togo: 46.701436 km
-      made: 64.558326 km
+      made: 64.646972 km
   - - - '43'
       - Simon West
     - togo: 48.787933 km
-      made: 62.471829 km
+      made: 62.560475 km
   - - - '32'
       - Rob Larkin
     - togo: 62.293487 km
-      made: 48.966275 km
+      made: 49.054921 km
   - - - '3'
       - Paul Allen
     - togo: 89.123327 km
-      made: 22.136435 km
+      made: 22.225081 km
   - - - '15'
       - Andrew Sharpe
     - togo: 89.156996 km
-      made: 22.102766 km
+      made: 22.191412 km
   - - - '23'
       - Noel Collins
     - togo: 89.156996 km
-      made: 22.102766 km
+      made: 22.191412 km
   - - - '31'
       - Tomas Kellner
     - togo: 89.388357 km
-      made: 21.871405 km
+      made: 21.960051 km
   - - - '28'
       - John Harriot
     - togo: 94.045253 km
-      made: 17.214509 km
+      made: 17.303155 km
   - - - '27'
       - Guy Williams
     - togo: 104.381960 km
-      made: 6.877802 km
+      made: 6.966448 km
   - - - '49'
       - Damian Peauril
-    - togo: 106.259762 km
+    - togo: 106.348408 km
       made: 5.000000 km
 - - - - '25'
       - Hagen Bruggemann
     - togo: 1.301775 km
-      made: 95.587579 km
+      made: 95.589435 km
   - - - '39'
       - rob degroot
     - togo: 4.331330 km
-      made: 92.558024 km
+      made: 92.559880 km
   - - - '33'
       - Niki Longshore
     - togo: 8.663960 km
-      made: 88.225394 km
+      made: 88.227250 km
   - - - '13'
       - Matthew Barlow
     - togo: 15.457393 km
-      made: 81.431961 km
+      made: 81.433817 km
   - - - '36'
       - Brad Porter
     - togo: 16.461805 km
-      made: 80.427549 km
+      made: 80.429405 km
   - - - '37'
       - John Spencer
     - togo: 21.265558 km
-      made: 75.623796 km
+      made: 75.625652 km
   - - - '38'
       - Dave Stevens
     - togo: 29.579972 km
-      made: 67.309382 km
+      made: 67.311238 km
   - - - '17'
       - Trevor Purcell
     - togo: 29.727883 km
-      made: 67.161471 km
+      made: 67.163327 km
   - - - '43'
       - Simon West
     - togo: 32.042112 km
-      made: 64.847242 km
+      made: 64.849098 km
   - - - '1'
       - Mark Alton
     - togo: 32.192308 km
-      made: 64.697046 km
+      made: 64.698902 km
   - - - '48'
       - Derek Mckee
     - togo: 33.600337 km
-      made: 63.289017 km
+      made: 63.290873 km
   - - - '32'
       - Rob Larkin
     - togo: 34.345068 km
-      made: 62.544286 km
+      made: 62.546142 km
   - - - '9'
       - Rohan Taylor
     - togo: 34.961491 km
-      made: 61.927863 km
+      made: 61.929719 km
   - - - '27'
       - Guy Williams
     - togo: 35.876256 km
-      made: 61.013098 km
+      made: 61.014954 km
   - - - '40'
       - Hossain Tefaili
     - togo: 36.459507 km
-      made: 60.429847 km
+      made: 60.431703 km
   - - - '34'
       - dave moore
     - togo: 41.419548 km
-      made: 55.469806 km
+      made: 55.471662 km
   - - - '31'
       - Tomas Kellner
     - togo: 50.002661 km
-      made: 46.886693 km
+      made: 46.888549 km
   - - - '7'
       - James Atkinson
     - togo: 52.868412 km
-      made: 44.020942 km
+      made: 44.022798 km
   - - - '16'
       - Andrew Barnes
     - togo: 53.051051 km
-      made: 43.838303 km
+      made: 43.840159 km
   - - - '45'
       - steve crosby
     - togo: 56.564945 km
-      made: 40.324409 km
+      made: 40.326265 km
   - - - '41'
       - Peter Burkitt
     - togo: 56.819285 km
-      made: 40.070069 km
+      made: 40.071925 km
   - - - '14'
       - Tony Giammichele
     - togo: 57.963822 km
-      made: 38.925532 km
+      made: 38.927388 km
   - - - '8'
       - Rod Flockhart
     - togo: 58.418237 km
-      made: 38.471117 km
+      made: 38.472973 km
   - - - '20'
       - Konrad Heilmann
     - togo: 59.335142 km
-      made: 37.554212 km
+      made: 37.556068 km
   - - - '24'
       - Brodrick Osborne
     - togo: 79.579519 km
-      made: 17.309835 km
+      made: 17.311691 km
   - - - '3'
       - Paul Allen
     - togo: 84.388560 km
-      made: 12.500794 km
+      made: 12.502650 km
   - - - '15'
       - Andrew Sharpe
     - togo: 88.440845 km
-      made: 8.448509 km
+      made: 8.450365 km
   - - - '49'
       - Damian Peauril
-    - togo: 91.889354 km
+    - togo: 91.891210 km
       made: 5.000000 km
   - - - '28'
       - John Harriot
     - togo: 94.936154 km
-      made: 1.953200 km
+      made: 1.955056 km
 - - - - '36'
       - Brad Porter
     - togo: 6.353451 km
-      made: 108.020266 km
+      made: 108.665542 km
   - - - '39'
       - rob degroot
     - togo: 8.592905 km
-      made: 105.780812 km
+      made: 106.426088 km
   - - - '42'
       - Mikhail Karmazin
     - togo: 11.958470 km
-      made: 102.415247 km
+      made: 103.060523 km
   - - - '16'
       - Andrew Barnes
     - togo: 14.782575 km
-      made: 99.591142 km
+      made: 100.236418 km
   - - - '10'
       - Craig Taylor
     - togo: 14.782847 km
-      made: 99.590870 km
+      made: 100.236146 km
   - - - '24'
       - Brodrick Osborne
     - togo: 15.367126 km
-      made: 99.006591 km
+      made: 99.651867 km
   - - - '7'
       - James Atkinson
     - togo: 15.669190 km
-      made: 98.704527 km
+      made: 99.349803 km
   - - - '45'
       - steve crosby
     - togo: 20.685449 km
-      made: 93.688268 km
+      made: 94.333544 km
   - - - '6'
       - Viv Clements
     - togo: 22.849340 km
-      made: 91.524377 km
+      made: 92.169653 km
   - - - '38'
       - Dave Stevens
     - togo: 26.844043 km
-      made: 87.529674 km
+      made: 88.174950 km
   - - - '37'
       - John Spencer
     - togo: 26.863382 km
-      made: 87.510335 km
+      made: 88.155611 km
   - - - '18'
       - Peter Adriaans
     - togo: 27.079713 km
-      made: 87.294004 km
+      made: 87.939280 km
   - - - '51'
       - Billy Miller-Macleod
     - togo: 27.463594 km
-      made: 86.910123 km
+      made: 87.555399 km
   - - - '35'
       - Anatoly Reyter
     - togo: 31.630928 km
-      made: 82.742789 km
+      made: 83.388065 km
   - - - '23'
       - Noel Collins
     - togo: 34.154478 km
-      made: 80.219239 km
+      made: 80.864515 km
   - - - '17'
       - Trevor Purcell
     - togo: 35.434272 km
-      made: 78.939445 km
+      made: 79.584721 km
   - - - '41'
       - Peter Burkitt
     - togo: 50.447095 km
-      made: 63.926622 km
+      made: 64.571898 km
   - - - '43'
       - Simon West
     - togo: 50.868890 km
-      made: 63.504827 km
+      made: 64.150103 km
   - - - '14'
       - Tony Giammichele
     - togo: 51.658976 km
-      made: 62.714741 km
+      made: 63.360017 km
   - - - '21'
       - Frank Chetcuti
     - togo: 51.803568 km
-      made: 62.570149 km
+      made: 63.215425 km
   - - - '32'
       - Rob Larkin
     - togo: 74.704095 km
-      made: 39.669622 km
+      made: 40.314898 km
   - - - '1'
       - Mark Alton
     - togo: 75.126576 km
-      made: 39.247141 km
+      made: 39.892417 km
   - - - '40'
       - Hossain Tefaili
     - togo: 84.698729 km
-      made: 29.674988 km
+      made: 30.320264 km
   - - - '31'
       - Tomas Kellner
     - togo: 90.708222 km
-      made: 23.665495 km
+      made: 24.310771 km
   - - - '48'
       - Derek Mckee
     - togo: 93.840513 km
-      made: 20.533204 km
+      made: 21.178480 km
   - - - '27'
       - Guy Williams
     - togo: 98.273826 km
-      made: 16.099891 km
+      made: 16.745167 km
   - - - '15'
       - Andrew Sharpe
     - togo: 103.903107 km
-      made: 10.470610 km
+      made: 11.115886 km
   - - - '28'
       - John Harriot
     - togo: 104.136600 km
-      made: 10.237117 km
+      made: 10.882393 km
   - - - '34'
       - dave moore
     - togo: 108.156464 km
-      made: 6.217253 km
+      made: 6.862529 km
   - - - '49'
       - Damian Peauril
-    - togo: 109.373717 km
+    - togo: 110.018993 km
       made: 5.000000 km
   - - - '9'
       - Rohan Taylor
     - togo: 119.652157 km
-      made: -5.278440 km
+      made: -4.633164 km
 - - - - '21'
       - Frank Chetcuti
     - togo: 6.689245 km
-      made: 82.280282 km
+      made: 82.279775 km
   - - - '48'
       - Derek Mckee
     - togo: 29.793413 km
-      made: 59.176114 km
+      made: 59.175607 km
   - - - '5'
       - Jonny Durand
     - togo: 30.402045 km
-      made: 58.567482 km
+      made: 58.566975 km
   - - - '9'
       - Rohan Taylor
     - togo: 30.581477 km
-      made: 58.388050 km
+      made: 58.387543 km
   - - - '32'
       - Rob Larkin
     - togo: 31.702773 km
-      made: 57.266754 km
+      made: 57.266247 km
   - - - '18'
       - Peter Adriaans
     - togo: 33.241052 km
-      made: 55.728475 km
+      made: 55.727968 km
   - - - '35'
       - Anatoly Reyter
     - togo: 33.264588 km
-      made: 55.704939 km
+      made: 55.704432 km
   - - - '15'
       - Andrew Sharpe
     - togo: 33.584594 km
-      made: 55.384933 km
+      made: 55.384426 km
   - - - '7'
       - James Atkinson
     - togo: 33.960448 km
-      made: 55.009079 km
+      made: 55.008572 km
   - - - '34'
       - dave moore
     - togo: 36.048993 km
-      made: 52.920534 km
+      made: 52.920027 km
   - - - '13'
       - Matthew Barlow
     - togo: 38.145217 km
-      made: 50.824310 km
+      made: 50.823803 km
   - - - '27'
       - Guy Williams
     - togo: 44.556873 km
-      made: 44.412654 km
+      made: 44.412147 km
   - - - '1'
       - Mark Alton
     - togo: 48.111944 km
-      made: 40.857583 km
+      made: 40.857076 km
   - - - '40'
       - Hossain Tefaili
     - togo: 48.656126 km
-      made: 40.313401 km
+      made: 40.312894 km
   - - - '38'
       - Dave Stevens
     - togo: 66.513194 km
-      made: 22.456333 km
+      made: 22.455826 km
   - - - '28'
       - John Harriot
     - togo: 76.308623 km
-      made: 12.660904 km
+      made: 12.660397 km
   - - - '49'
       - Damian Peauril
-    - togo: 83.969527 km
+    - togo: 83.969020 km
       made: 5.000000 km
   - - - '31'
       - Tomas Kellner
     - togo: 87.524012 km
-      made: 1.445515 km
+      made: 1.445008 km
