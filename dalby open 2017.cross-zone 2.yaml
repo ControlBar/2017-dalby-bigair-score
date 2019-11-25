@@ -1,0 +1,295 @@
+suspectDnf:
+- []
+- []
+- []
+- []
+- []
+flying:
+- []
+- []
+- []
+- - - - '9'
+      - Rohan Taylor
+    - loggedFixes: 3143
+      flyingFixes:
+      - 0
+      - 3142
+      loggedSeconds: 13038
+      flyingSeconds:
+      - 0
+      - 13038
+      loggedTimes:
+      - 2017-04-14T02:33:21Z
+      - 2017-04-14T06:10:39Z
+      flyingTimes:
+      - 2017-04-14T02:33:21Z
+      - 2017-04-14T06:10:39Z
+- []
+crossing:
+- []
+- []
+- []
+- - - - '9'
+      - Rohan Taylor
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 410
+          time: 2017-04-14T03:01:29Z
+          lat: -27.16083333
+          lng: 151.21393333
+          alt: 1537
+        - fix: 411
+          time: 2017-04-14T03:01:33Z
+          lat: -27.16063333
+          lng: 151.21313333
+          alt: 1530
+        inZone:
+        - true
+        - false
+      - null
+      - null
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 410
+            time: 2017-04-14T03:01:29Z
+            lat: -27.16083333
+            lng: 151.21393333
+            alt: 1537
+          - fix: 411
+            time: 2017-04-14T03:01:33Z
+            lat: -27.16063333
+            lng: 151.21313333
+            alt: 1530
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 3041
+            time: 2017-04-14T06:03:38Z
+            lat: -27.1327
+            lng: 151.30516667
+            alt: 1044
+          - fix: 3042
+            time: 2017-04-14T06:03:42Z
+            lat: -27.13303333
+            lng: 151.30451667
+            alt: 1036
+          inZone:
+          - false
+          - true
+      - []
+      - - crossingPair:
+          - fix: 2369
+            time: 2017-04-14T05:17:23Z
+            lat: -26.94013333
+            lng: 151.4338
+            alt: 1561
+          - fix: 2370
+            time: 2017-04-14T05:17:26Z
+            lat: -26.93998333
+            lng: 151.43446667
+            alt: 1557
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 2374
+            time: 2017-04-14T05:17:42Z
+            lat: -26.9413
+            lng: 151.43658333
+            alt: 1512
+          - fix: 2375
+            time: 2017-04-14T05:17:46Z
+            lat: -26.94188333
+            lng: 151.4361
+            alt: 1510
+          inZone:
+          - true
+          - false
+      - - null
+        - null
+        - null
+        - null
+        - null
+        - null
+        - null
+        - null
+        - null
+        - crossingPair:
+          - fix: 3092
+            time: 2017-04-14T06:07:06Z
+            lat: -27.1547
+            lng: 151.2733
+            alt: 500
+          - fix: 3093
+            time: 2017-04-14T06:07:09Z
+            lat: -27.15501667
+            lng: 151.27276667
+            alt: 489
+          inZone:
+          - false
+          - true
+      zonesCrossExcluded:
+      - - crossingPair:
+          - fix: 15
+            time: 2017-04-14T02:34:18Z
+            lat: -27.16095
+            lng: 151.25395
+            alt: 416
+          - fix: 16
+            time: 2017-04-14T02:34:22Z
+            lat: -27.16076667
+            lng: 151.2533
+            alt: 423
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 36
+            time: 2017-04-14T02:35:44Z
+            lat: -27.15151667
+            lng: 151.25725
+            alt: 607
+          - fix: 37
+            time: 2017-04-14T02:35:48Z
+            lat: -27.1517
+            lng: 151.25801667
+            alt: 616
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 65
+            time: 2017-04-14T02:37:43Z
+            lat: -27.16478333
+            lng: 151.2562
+            alt: 827
+          - fix: 66
+            time: 2017-04-14T02:37:47Z
+            lat: -27.16481667
+            lng: 151.2556
+            alt: 831
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 240
+            time: 2017-04-14T02:49:46Z
+            lat: -27.1515
+            lng: 151.25765
+            alt: 1706
+          - fix: 241
+            time: 2017-04-14T02:49:50Z
+            lat: -27.15191667
+            lng: 151.25736667
+            alt: 1699
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 255
+            time: 2017-04-14T02:50:46Z
+            lat: -27.15906667
+            lng: 151.25388333
+            alt: 1629
+          - fix: 256
+            time: 2017-04-14T02:50:50Z
+            lat: -27.15966667
+            lng: 151.25363333
+            alt: 1626
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 300
+            time: 2017-04-14T02:53:52Z
+            lat: -27.16491667
+            lng: 151.2563
+            alt: 1740
+          - fix: 301
+            time: 2017-04-14T02:53:56Z
+            lat: -27.16511667
+            lng: 151.25685
+            alt: 1744
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 301
+            time: 2017-04-14T02:53:56Z
+            lat: -27.16511667
+            lng: 151.25685
+            alt: 1744
+          - fix: 302
+            time: 2017-04-14T02:54:00Z
+            lat: -27.16553333
+            lng: 151.25668333
+            alt: 1749
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 304
+            time: 2017-04-14T02:54:08Z
+            lat: -27.16478333
+            lng: 151.25605
+            alt: 1762
+          - fix: 305
+            time: 2017-04-14T02:54:12Z
+            lat: -27.16421667
+            lng: 151.25631667
+            alt: 1760
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 309
+            time: 2017-04-14T02:54:29Z
+            lat: -27.1645
+            lng: 151.25628333
+            alt: 1766
+          - fix: 310
+            time: 2017-04-14T02:54:34Z
+            lat: -27.16438333
+            lng: 151.25575
+            alt: 1760
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 3092
+            time: 2017-04-14T06:07:06Z
+            lat: -27.1547
+            lng: 151.2733
+            alt: 500
+          - fix: 3093
+            time: 2017-04-14T06:07:09Z
+            lat: -27.15501667
+            lng: 151.27276667
+            alt: 489
+          inZone:
+          - false
+          - true
+- []
+trackLogError:
+- fileUnset: []
+  dirMissing: []
+  fileMissing: []
+  fileUnread: []
+- fileUnset: []
+  dirMissing: []
+  fileMissing: []
+  fileUnread: []
+- fileUnset: []
+  dirMissing: []
+  fileMissing: []
+  fileUnread: []
+- fileUnset: []
+  dirMissing: []
+  fileMissing: []
+  fileUnread: []
+- fileUnset: []
+  dirMissing: []
+  fileMissing: []
+  fileUnread: []

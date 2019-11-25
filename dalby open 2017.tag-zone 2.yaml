@@ -1,0 +1,84 @@
+timing:
+- zonesSum: []
+  zonesFirst: []
+  zonesLast: []
+  zonesRankTime: []
+  zonesRankPilot: []
+  lastLanding: null
+- zonesSum: []
+  zonesFirst: []
+  zonesLast: []
+  zonesRankTime: []
+  zonesRankPilot: []
+  lastLanding: null
+- zonesSum: []
+  zonesFirst: []
+  zonesLast: []
+  zonesRankTime: []
+  zonesRankPilot: []
+  lastLanding: null
+- zonesSum:
+  - 1
+  - 0
+  - 0
+  - 0
+  zonesFirst:
+  - 2017-04-14T03:01:32.254816254048Z
+  - null
+  - null
+  - null
+  zonesLast:
+  - 2017-04-14T03:01:32.254816254048Z
+  - null
+  - null
+  - null
+  zonesRankTime:
+  - - 2017-04-14T03:01:32.254816254048Z
+  - []
+  - []
+  - []
+  zonesRankPilot:
+  - - - '9'
+      - Rohan Taylor
+  - []
+  - []
+  - []
+  lastLanding: 2017-04-14T06:10:39Z
+- zonesSum: []
+  zonesFirst: []
+  zonesLast: []
+  zonesRankTime: []
+  zonesRankPilot: []
+  lastLanding: null
+tagging:
+- []
+- []
+- []
+- - - - '9'
+      - Rohan Taylor
+    - zonesTag:
+      - inter:
+          fixFrac: 410.8137040635124
+          time: 2017-04-14T03:01:32.254816254048Z
+          lat: -27.16067057
+          lng: 151.21328237
+          alt: 1531.3
+        cross:
+          crossingPair:
+          - fix: 410
+            time: 2017-04-14T03:01:29Z
+            lat: -27.16083333
+            lng: 151.21393333
+            alt: 1537
+          - fix: 411
+            time: 2017-04-14T03:01:33Z
+            lat: -27.16063333
+            lng: 151.21313333
+            alt: 1530
+          inZone:
+          - true
+          - false
+      - null
+      - null
+      - null
+- []

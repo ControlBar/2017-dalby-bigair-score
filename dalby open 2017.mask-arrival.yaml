@@ -1,8 +1,8 @@
 pilotsAtEss:
 - 20
 - 26
-- 18
-- 15
+- 20
+- 16
 - 28
 arrivalRank:
 - - - - '5'
@@ -196,71 +196,79 @@ arrivalRank:
   - - - '2'
       - Tony Armstrong
     - rank: '2'
-      frac: 0.88415381
+      frac: 0.89519338
   - - - '22'
       - Steve Blenkinsop
     - rank: '3'
-      frac: 0.78018107
+      frac: 0.800057
   - - - '12'
       - Rory Duncan
     - rank: '4'
-      frac: 0.68743056
+      frac: 0.71411612
   - - - '29'
       - Guy Hubbard
     - rank: '5'
-      frac: 0.60525103
+      frac: 0.636896
   - - - '44'
       - Josh Woods
     - rank: '6'
-      frac: 0.53299126
+      frac: 0.56792188
   - - - '26'
       - Jason Kath
     - rank: '7'
-      frac: 0.47
+      frac: 0.506719
   - - - '10'
       - Craig Taylor
     - rank: '8'
-      frac: 0.41562603
+      frac: 0.45281262
   - - - '5'
       - Jonny Durand
     - rank: '9'
-      frac: 0.36921811
+      frac: 0.405728
   - - - '46'
       - Harrison Rowntree
     - rank: '10'
-      frac: 0.330125
+      frac: 0.36499038
   - - - '4'
       - Nick Purcell
     - rank: '11'
-      frac: 0.29769547
+      frac: 0.330125
+  - - - '16'
+      - Andrew Barnes
+    - rank: '12'
+      frac: 0.30065712
   - - - '21'
       - Frank Chetcuti
-    - rank: '12'
-      frac: 0.27127829
+    - rank: '13'
+      frac: 0.276112
+  - - - '7'
+      - James Atkinson
+    - rank: '14'
+      frac: 0.25601488
   - - - '6'
       - Viv Clements
-    - rank: '13'
-      frac: 0.25022222
+    - rank: '15'
+      frac: 0.239891
   - - - '42'
       - Mikhail Karmazin
-    - rank: '14'
-      frac: 0.23387603
+    - rank: '16'
+      frac: 0.22726562
   - - - '18'
       - Peter Adriaans
-    - rank: '15'
-      frac: 0.22158848
+    - rank: '17'
+      frac: 0.217664
   - - - '51'
       - Billy Miller-Macleod
-    - rank: '16'
-      frac: 0.21270833
+    - rank: '18'
+      frac: 0.21061138
   - - - '23'
       - Noel Collins
-    - rank: '17'
-      frac: 0.20658436
+    - rank: '19'
+      frac: 0.205633
   - - - '35'
       - Anatoly Reyter
-    - rank: '18'
-      frac: 0.20256533
+    - rank: '20'
+      frac: 0.20225412
 - - - - '2'
       - Tony Armstrong
     - rank: '1'
@@ -268,59 +276,63 @@ arrivalRank:
   - - - '22'
       - Steve Blenkinsop
     - rank: '2'
-      frac: 0.86243022
+      frac: 0.87052124
   - - - '29'
       - Guy Hubbard
     - rank: '3'
-      frac: 0.74177067
+      frac: 0.7559668
   - - - '5'
       - Jonny Durand
     - rank: '4'
-      frac: 0.636896
+      frac: 0.65540942
   - - - '12'
       - Rory Duncan
     - rank: '5'
-      frac: 0.54668089
+      frac: 0.56792188
   - - - '46'
       - Harrison Rowntree
     - rank: '6'
-      frac: 0.47
+      frac: 0.4925769
   - - - '20'
       - Konrad Heilmann
     - rank: '7'
-      frac: 0.405728
+      frac: 0.42844727
   - - - '44'
       - Josh Woods
     - rank: '8'
-      frac: 0.35273956
+      frac: 0.37460571
   - - - '26'
       - Jason Kath
     - rank: '9'
-      frac: 0.30990933
+      frac: 0.330125
   - - - '4'
       - Nick Purcell
     - rank: '10'
-      frac: 0.276112
+      frac: 0.29407788
   - - - '33'
       - Niki Longshore
     - rank: '11'
-      frac: 0.25022222
+      frac: 0.26553711
+  - - - '9'
+      - Rohan Taylor
+    - rank: '12'
+      frac: 0.24357544
   - - - '19'
       - Scott Barrett
-    - rank: '12'
-      frac: 0.23111467
+    - rank: '13'
+      frac: 0.22726562
   - - - '13'
       - Matthew Barlow
-    - rank: '13'
-      frac: 0.217664
+    - rank: '14'
+      frac: 0.21568042
   - - - '25'
       - Hagen Bruggemann
-    - rank: '14'
-      frac: 0.20874489
+    - rank: '15'
+      frac: 0.20789258
   - - - '8'
       - Rod Flockhart
-    - rank: '15'
-      frac: 0.203232
+    - rank: '16'
+      frac: 0.20297485
 - - - - '19'
       - Scott Barrett
     - rank: '1'
