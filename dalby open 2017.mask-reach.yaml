@@ -1,220 +1,220 @@
 bolster:
-- max: 99.497528 km
-  mean: 72.143442 km
-  stdDev: 32.993512 km
-- max: 111.180457 km
-  mean: 89.393575 km
-  stdDev: 34.340276 km
-- max: 96.471215 km
-  mean: 71.646397 km
-  stdDev: 29.042357 km
-- max: 114.307148 km
-  mean: 82.156210 km
-  stdDev: 36.311029 km
-- max: 88.864963 km
-  mean: 71.855791 km
-  stdDev: 24.726244 km
+- max: 99.561444 km
+  mean: 72.204638 km
+  stdDev: 32.999049 km
+- max: 111.259762 km
+  mean: 89.471193 km
+  stdDev: 34.344425 km
+- max: 96.889354 km
+  mean: 72.046743 km
+  stdDev: 29.083282 km
+- max: 114.373717 km
+  mean: 82.221332 km
+  stdDev: 36.314105 km
+- max: 88.969527 km
+  mean: 71.955808 km
+  stdDev: 24.738543 km
 reach:
-- max: 99.497528 km
-  mean: 72.030815 km
-  stdDev: 33.229764 km
-- max: 111.180457 km
-  mean: 89.287192 km
-  stdDev: 34.608254 km
-- max: 96.471215 km
-  mean: 71.478657 km
-  stdDev: 29.436334 km
-- max: 114.307148 km
-  mean: 82.047514 km
-  stdDev: 36.548537 km
-- max: 88.864963 km
-  mean: 71.705986 km
-  stdDev: 25.139941 km
+- max: 99.561444 km
+  mean: 72.093371 km
+  stdDev: 33.232713 km
+- max: 111.259762 km
+  mean: 89.364810 km
+  stdDev: 34.612609 km
+- max: 96.889354 km
+  mean: 71.887900 km
+  stdDev: 29.457991 km
+- max: 114.373717 km
+  mean: 82.112636 km
+  stdDev: 36.551787 km
+- max: 88.969527 km
+  mean: 71.808276 km
+  stdDev: 25.146428 km
 reachRank:
 - - - - '5'
       - Jonny Durand
     - frac: 1
-      reach: 99.497528 km
+      reach: 99.561444 km
   - - - '26'
       - Jason Kath
     - frac: 1
-      reach: 99.497528 km
+      reach: 99.561444 km
   - - - '22'
       - Steve Blenkinsop
     - frac: 1
-      reach: 99.497528 km
+      reach: 99.561444 km
   - - - '19'
       - Scott Barrett
     - frac: 1
-      reach: 99.497528 km
+      reach: 99.561444 km
   - - - '44'
       - Josh Woods
     - frac: 1
-      reach: 99.497528 km
+      reach: 99.561444 km
   - - - '51'
       - Billy Miller-Macleod
     - frac: 1
-      reach: 99.497528 km
+      reach: 99.561444 km
   - - - '46'
       - Harrison Rowntree
     - frac: 1
-      reach: 99.497528 km
+      reach: 99.561444 km
   - - - '17'
       - Trevor Purcell
     - frac: 1
-      reach: 99.497528 km
+      reach: 99.561444 km
   - - - '20'
       - Konrad Heilmann
     - frac: 1
-      reach: 99.497528 km
+      reach: 99.561444 km
   - - - '25'
       - Hagen Bruggemann
     - frac: 1
-      reach: 99.497528 km
+      reach: 99.561444 km
   - - - '13'
       - Matthew Barlow
     - frac: 1
-      reach: 99.497528 km
+      reach: 99.561444 km
   - - - '45'
       - steve crosby
     - frac: 1
-      reach: 99.497528 km
+      reach: 99.561444 km
   - - - '16'
       - Andrew Barnes
     - frac: 1
-      reach: 99.497528 km
+      reach: 99.561444 km
   - - - '6'
       - Viv Clements
     - frac: 1
-      reach: 99.497528 km
+      reach: 99.561444 km
   - - - '24'
       - Brodrick Osborne
     - frac: 1
-      reach: 99.497528 km
+      reach: 99.561444 km
   - - - '39'
       - rob degroot
     - frac: 1
-      reach: 99.497528 km
+      reach: 99.561444 km
   - - - '36'
       - Brad Porter
     - frac: 1
-      reach: 99.497528 km
+      reach: 99.561444 km
   - - - '33'
       - Niki Longshore
     - frac: 1
-      reach: 99.497528 km
+      reach: 99.561444 km
   - - - '27'
       - Guy Williams
     - frac: 1
-      reach: 99.497528 km
+      reach: 99.561444 km
   - - - '21'
       - Frank Chetcuti
     - frac: 1
-      reach: 99.497528 km
+      reach: 99.561444 km
   - - - '23'
       - Noel Collins
-    - frac: 0.93028973
-      reach: 92.561528 km
+    - frac: 0.93033448
+      reach: 92.625444 km
   - - - '1'
       - Mark Alton
-    - frac: 0.90706302
-      reach: 90.250528 km
+    - frac: 0.90712268
+      reach: 90.314444 km
   - - - '7'
       - James Atkinson
-    - frac: 0.8846504
-      reach: 88.020528 km
+    - frac: 0.88472445
+      reach: 88.084444 km
   - - - '4'
       - Nick Purcell
-    - frac: 0.85891107
-      reach: 85.459528 km
+    - frac: 0.85900164
+      reach: 85.523444 km
   - - - '35'
       - Anatoly Reyter
-    - frac: 0.84636804
-      reach: 84.211528 km
+    - frac: 0.84646667
+      reach: 84.275444 km
   - - - '9'
       - Rohan Taylor
-    - frac: 0.84298102
-      reach: 83.874528 km
+    - frac: 0.84308183
+      reach: 83.938444 km
   - - - '32'
       - Rob Larkin
-    - frac: 0.84290062
-      reach: 83.866528 km
+    - frac: 0.84300147
+      reach: 83.930444 km
   - - - '2'
       - Tony Armstrong
-    - frac: 0.83166416
-      reach: 82.748528 km
+    - frac: 0.83177223
+      reach: 82.812444 km
   - - - '12'
       - Rory Duncan
-    - frac: 0.8023368
-      reach: 79.830528 km
+    - frac: 0.80246369
+      reach: 79.894444 km
   - - - '41'
       - Peter Burkitt
-    - frac: 0.75202399
-      reach: 74.824528 km
+    - frac: 0.75218318
+      reach: 74.888444 km
   - - - '48'
       - Derek Mckee
-    - frac: 0.68119811
-      reach: 67.777528 km
+    - frac: 0.68140277
+      reach: 67.841444 km
   - - - '28'
       - John Harriot
-    - frac: 0.64031267
-      reach: 63.709528 km
+    - frac: 0.64054358
+      reach: 63.773444 km
   - - - '18'
       - Peter Adriaans
-    - frac: 0.55588846
-      reach: 55.309528 km
+    - frac: 0.55617357
+      reach: 55.373444 km
   - - - '34'
       - dave moore
-    - frac: 0.55136574
-      reach: 54.859528 km
+    - frac: 0.55165375
+      reach: 54.923444 km
   - - - '10'
       - Craig Taylor
-    - frac: 0.52801842
-      reach: 52.536528 km
+    - frac: 0.52832143
+      reach: 52.600444 km
   - - - '8'
       - Rod Flockhart
-    - frac: 0.50915363
-      reach: 50.659528 km
+    - frac: 0.50946875
+      reach: 50.723444 km
   - - - '14'
       - Tony Giammichele
-    - frac: 0.35948157
-      reach: 35.767528 km
+    - frac: 0.35989277
+      reach: 35.831444 km
   - - - '38'
       - Dave Stevens
-    - frac: 0.35838607
-      reach: 35.658528 km
+    - frac: 0.35879797
+      reach: 35.722444 km
   - - - '37'
       - John Spencer
-    - frac: 0.35006425
-      reach: 34.830528 km
+    - frac: 0.3504815
+      reach: 34.894444 km
   - - - '15'
       - Andrew Sharpe
-    - frac: 0.34871749
-      reach: 34.696528 km
+    - frac: 0.3491356
+      reach: 34.760444 km
   - - - '43'
       - Simon West
-    - frac: 0.21761875
-      reach: 21.652528 km
+    - frac: 0.21812102
+      reach: 21.716444 km
   - - - '31'
       - Tomas Kellner
-    - frac: 0.20285457
-      reach: 20.183528 km
+    - frac: 0.20336632
+      reach: 20.247444 km
   - - - '3'
       - Paul Allen
-    - frac: 6.386619e-2
-      reach: 6.354528 km
+    - frac: 6.446716e-2
+      reach: 6.418444 km
   - - - '42'
       - Mikhail Karmazin
-    - frac: 5.950427e-2
-      reach: 5.920528 km
+    - frac: 6.010805e-2
+      reach: 5.984444 km
   - - - '40'
       - Hossain Tefaili
-    - frac: 5.252922e-2
-      reach: 5.226528 km
+    - frac: 5.313748e-2
+      reach: 5.290444 km
   - - - '29'
       - Guy Hubbard
-    - frac: 4.730296e-2
-      reach: 4.706528 km
+    - frac: 4.791457e-2
+      reach: 4.770444 km
   - - - '49'
       - Damian Peauril
     - frac: 0
@@ -222,187 +222,187 @@ reachRank:
 - - - - '22'
       - Steve Blenkinsop
     - frac: 1
-      reach: 111.180457 km
+      reach: 111.259762 km
   - - - '2'
       - Tony Armstrong
     - frac: 1
-      reach: 111.180457 km
+      reach: 111.259762 km
   - - - '29'
       - Guy Hubbard
     - frac: 1
-      reach: 111.180457 km
+      reach: 111.259762 km
   - - - '44'
       - Josh Woods
     - frac: 1
-      reach: 111.180457 km
+      reach: 111.259762 km
   - - - '4'
       - Nick Purcell
     - frac: 1
-      reach: 111.180457 km
+      reach: 111.259762 km
   - - - '20'
       - Konrad Heilmann
     - frac: 1
-      reach: 111.180457 km
+      reach: 111.259762 km
   - - - '10'
       - Craig Taylor
     - frac: 1
-      reach: 111.180457 km
+      reach: 111.259762 km
   - - - '33'
       - Niki Longshore
     - frac: 1
-      reach: 111.180457 km
+      reach: 111.259762 km
   - - - '42'
       - Mikhail Karmazin
     - frac: 1
-      reach: 111.180457 km
+      reach: 111.259762 km
   - - - '39'
       - rob degroot
     - frac: 1
-      reach: 111.180457 km
+      reach: 111.259762 km
   - - - '46'
       - Harrison Rowntree
     - frac: 1
-      reach: 111.180457 km
+      reach: 111.259762 km
   - - - '9'
       - Rohan Taylor
     - frac: 1
-      reach: 111.180457 km
+      reach: 111.259762 km
   - - - '5'
       - Jonny Durand
     - frac: 1
-      reach: 111.180457 km
+      reach: 111.259762 km
   - - - '45'
       - steve crosby
     - frac: 1
-      reach: 111.180457 km
+      reach: 111.259762 km
   - - - '6'
       - Viv Clements
     - frac: 1
-      reach: 111.180457 km
+      reach: 111.259762 km
   - - - '25'
       - Hagen Bruggemann
     - frac: 1
-      reach: 111.180457 km
+      reach: 111.259762 km
   - - - '12'
       - Rory Duncan
     - frac: 1
-      reach: 111.180457 km
+      reach: 111.259762 km
   - - - '26'
       - Jason Kath
     - frac: 1
-      reach: 111.180457 km
+      reach: 111.259762 km
   - - - '16'
       - Andrew Barnes
     - frac: 1
-      reach: 111.180457 km
+      reach: 111.259762 km
   - - - '38'
       - Dave Stevens
     - frac: 1
-      reach: 111.180457 km
+      reach: 111.259762 km
   - - - '37'
       - John Spencer
     - frac: 1
-      reach: 111.180457 km
+      reach: 111.259762 km
   - - - '8'
       - Rod Flockhart
     - frac: 1
-      reach: 111.180457 km
+      reach: 111.259762 km
   - - - '21'
       - Frank Chetcuti
     - frac: 1
-      reach: 111.180457 km
+      reach: 111.259762 km
   - - - '14'
       - Tony Giammichele
     - frac: 1
-      reach: 111.180457 km
+      reach: 111.259762 km
   - - - '7'
       - James Atkinson
     - frac: 1
-      reach: 111.180457 km
+      reach: 111.259762 km
   - - - '34'
       - dave moore
     - frac: 1
-      reach: 111.180457 km
+      reach: 111.259762 km
   - - - '24'
       - Brodrick Osborne
-    - frac: 0.99604247
-      reach: 110.740457 km
+    - frac: 0.99604529
+      reach: 110.819762 km
   - - - '13'
       - Matthew Barlow
-    - frac: 0.9953589
-      reach: 110.664457 km
+    - frac: 0.9953622
+      reach: 110.743762 km
   - - - '19'
       - Scott Barrett
-    - frac: 0.96197173
-      reach: 106.952457 km
+    - frac: 0.96199884
+      reach: 107.031762 km
   - - - '35'
       - Anatoly Reyter
-    - frac: 0.96124319
-      reach: 106.871457 km
+    - frac: 0.96127081
+      reach: 106.950762 km
   - - - '18'
       - Peter Adriaans
-    - frac: 0.96062258
-      reach: 106.802457 km
+    - frac: 0.96065064
+      reach: 106.881762 km
   - - - '17'
       - Trevor Purcell
-    - frac: 0.85368832
-      reach: 94.913457 km
+    - frac: 0.8537926
+      reach: 94.992762 km
   - - - '36'
       - Brad Porter
-    - frac: 0.81128878
-      reach: 90.199457 km
+    - frac: 0.81142329
+      reach: 90.278762 km
   - - - '41'
       - Peter Burkitt
-    - frac: 0.68271402
-      reach: 75.904457 km
+    - frac: 0.68294018
+      reach: 75.983762 km
   - - - '40'
       - Hossain Tefaili
-    - frac: 0.66826904
-      reach: 74.298457 km
+    - frac: 0.66850549
+      reach: 74.377762 km
   - - - '48'
       - Derek Mckee
-    - frac: 0.62658905
-      reach: 69.664457 km
+    - frac: 0.62685521
+      reach: 69.743762 km
   - - - '51'
       - Billy Miller-Macleod
-    - frac: 0.59801388
-      reach: 66.487457 km
+    - frac: 0.59830042
+      reach: 66.566762 km
   - - - '1'
       - Mark Alton
-    - frac: 0.59562138
-      reach: 66.221457 km
+    - frac: 0.59590962
+      reach: 66.300762 km
   - - - '43'
       - Simon West
-    - frac: 0.56494153
-      reach: 62.810457 km
+    - frac: 0.56525163
+      reach: 62.889762 km
   - - - '32'
       - Rob Larkin
-    - frac: 0.4460897
-      reach: 49.596457 km
+    - frac: 0.44648453
+      reach: 49.675762 km
   - - - '31'
       - Tomas Kellner
-    - frac: 0.20088474
-      reach: 22.334457 km
+    - frac: 0.20145434
+      reach: 22.413762 km
   - - - '3'
       - Paul Allen
-    - frac: 0.20034508
-      reach: 22.274457 km
+    - frac: 0.20091506
+      reach: 22.353762 km
   - - - '15'
       - Andrew Sharpe
-    - frac: 0.1995086
-      reach: 22.181457 km
+    - frac: 0.20007918
+      reach: 22.260762 km
   - - - '23'
       - Noel Collins
-    - frac: 0.1995086
-      reach: 22.181457 km
+    - frac: 0.20007918
+      reach: 22.260762 km
   - - - '28'
       - John Harriot
-    - frac: 0.1546356
-      reach: 17.192457 km
+    - frac: 0.15523817
+      reach: 17.271762 km
   - - - '27'
       - Guy Williams
-    - frac: 6.758793e-2
-      reach: 7.514457 km
+    - frac: 6.825255e-2
+      reach: 7.593762 km
   - - - '49'
       - Damian Peauril
     - frac: 0
@@ -410,187 +410,187 @@ reachRank:
 - - - - '19'
       - Scott Barrett
     - frac: 1
-      reach: 96.471215 km
+      reach: 96.889354 km
   - - - '2'
       - Tony Armstrong
     - frac: 1
-      reach: 96.471215 km
+      reach: 96.889354 km
   - - - '22'
       - Steve Blenkinsop
     - frac: 1
-      reach: 96.471215 km
+      reach: 96.889354 km
   - - - '12'
       - Rory Duncan
     - frac: 1
-      reach: 96.471215 km
+      reach: 96.889354 km
   - - - '29'
       - Guy Hubbard
     - frac: 1
-      reach: 96.471215 km
+      reach: 96.889354 km
   - - - '44'
       - Josh Woods
     - frac: 1
-      reach: 96.471215 km
+      reach: 96.889354 km
   - - - '26'
       - Jason Kath
     - frac: 1
-      reach: 96.471215 km
+      reach: 96.889354 km
   - - - '10'
       - Craig Taylor
     - frac: 1
-      reach: 96.471215 km
+      reach: 96.889354 km
   - - - '5'
       - Jonny Durand
     - frac: 1
-      reach: 96.471215 km
+      reach: 96.889354 km
   - - - '46'
       - Harrison Rowntree
     - frac: 1
-      reach: 96.471215 km
+      reach: 96.889354 km
   - - - '4'
       - Nick Purcell
     - frac: 1
-      reach: 96.471215 km
+      reach: 96.889354 km
   - - - '16'
       - Andrew Barnes
     - frac: 1
-      reach: 96.471215 km
+      reach: 96.889354 km
   - - - '21'
       - Frank Chetcuti
     - frac: 1
-      reach: 96.471215 km
+      reach: 96.889354 km
   - - - '7'
       - James Atkinson
     - frac: 1
-      reach: 96.471215 km
+      reach: 96.889354 km
   - - - '6'
       - Viv Clements
     - frac: 1
-      reach: 96.471215 km
+      reach: 96.889354 km
   - - - '42'
       - Mikhail Karmazin
     - frac: 1
-      reach: 96.471215 km
+      reach: 96.889354 km
   - - - '18'
       - Peter Adriaans
     - frac: 1
-      reach: 96.471215 km
+      reach: 96.889354 km
   - - - '51'
       - Billy Miller-Macleod
     - frac: 1
-      reach: 96.471215 km
+      reach: 96.889354 km
   - - - '23'
       - Noel Collins
     - frac: 1
-      reach: 96.471215 km
+      reach: 96.889354 km
   - - - '35'
       - Anatoly Reyter
     - frac: 1
-      reach: 96.471215 km
+      reach: 96.889354 km
   - - - '25'
       - Hagen Bruggemann
-    - frac: 0.98655558
-      reach: 95.174215 km
+    - frac: 0.9866136
+      reach: 95.592354 km
   - - - '39'
       - rob degroot
-    - frac: 0.95515761
-      reach: 92.145215 km
+    - frac: 0.95535113
+      reach: 92.563354 km
   - - - '33'
       - Niki Longshore
-    - frac: 0.92938826
-      reach: 89.659215 km
+    - frac: 0.929693
+      reach: 90.077354 km
   - - - '13'
       - Matthew Barlow
-    - frac: 0.8398175
-      reach: 81.018215 km
+    - frac: 0.84050879
+      reach: 81.436354 km
   - - - '36'
       - Brad Porter
-    - frac: 0.82941025
-      reach: 80.014215 km
+    - frac: 0.83014646
+      reach: 80.432354 km
   - - - '37'
       - John Spencer
-    - frac: 0.79288122
-      reach: 76.490215 km
+    - frac: 0.79377507
+      reach: 76.908354 km
   - - - '38'
       - Dave Stevens
-    - frac: 0.69849037
-      reach: 67.384215 km
+    - frac: 0.69979158
+      reach: 67.802354 km
   - - - '17'
       - Trevor Purcell
-    - frac: 0.69189773
-      reach: 66.748215 km
+    - frac: 0.69322739
+      reach: 67.166354 km
   - - - '1'
       - Mark Alton
-    - frac: 0.66792167
-      reach: 64.435215 km
+    - frac: 0.6693548
+      reach: 64.853354 km
   - - - '43'
       - Simon West
-    - frac: 0.6679113
-      reach: 64.434215 km
+    - frac: 0.66934448
+      reach: 64.852354 km
   - - - '32'
       - Rob Larkin
-    - frac: 0.6617333
-      reach: 63.838215 km
+    - frac: 0.66319313
+      reach: 64.256354 km
   - - - '9'
       - Rohan Taylor
-    - frac: 0.65178214
-      reach: 62.878215 km
+    - frac: 0.65328492
+      reach: 63.296354 km
   - - - '48'
       - Derek Mckee
-    - frac: 0.65176141
-      reach: 62.876215 km
+    - frac: 0.65326428
+      reach: 63.294354 km
   - - - '27'
       - Guy Williams
-    - frac: 0.64099136
-      reach: 61.837215 km
+    - frac: 0.64254071
+      reach: 62.255354 km
   - - - '40'
       - Hossain Tefaili
-    - frac: 0.62343171
-      reach: 60.143215 km
+    - frac: 0.62505685
+      reach: 60.561354 km
   - - - '34'
       - dave moore
-    - frac: 0.57445337
-      reach: 55.418215 km
+    - frac: 0.57628988
+      reach: 55.836354 km
   - - - '31'
       - Tomas Kellner
-    - frac: 0.48427103
-      reach: 46.718215 km
+    - frac: 0.48649673
+      reach: 47.136354 km
   - - - '45'
       - steve crosby
-    - frac: 0.42039706
-      reach: 40.556215 km
+    - frac: 0.42289841
+      reach: 40.974354 km
   - - - '14'
       - Tony Giammichele
-    - frac: 0.41899768
-      reach: 40.421215 km
+    - frac: 0.42150507
+      reach: 40.839354 km
   - - - '41'
       - Peter Burkitt
-    - frac: 0.41366966
-      reach: 39.907215 km
+    - frac: 0.41620005
+      reach: 40.325354 km
   - - - '8'
       - Rod Flockhart
-    - frac: 0.39879476
-      reach: 38.472215 km
+    - frac: 0.40138934
+      reach: 38.890354 km
   - - - '20'
       - Konrad Heilmann
-    - frac: 0.39125883
-      reach: 37.745215 km
+    - frac: 0.39388594
+      reach: 38.163354 km
   - - - '24'
       - Brodrick Osborne
-    - frac: 0.18483456
-      reach: 17.831215 km
+    - frac: 0.18835252
+      reach: 18.249354 km
   - - - '3'
       - Paul Allen
-    - frac: 0.13097394
-      reach: 12.635215 km
+    - frac: 0.13472434
+      reach: 13.053354 km
   - - - '15'
       - Andrew Sharpe
-    - frac: 9.510832e-2
-      reach: 9.175215 km
+    - frac: 9.90135e-2
+      reach: 9.593354 km
   - - - '28'
       - John Harriot
-    - frac: 2.193623e-2
-      reach: 2.116215 km
+    - frac: 2.61572e-2
+      reach: 2.534354 km
   - - - '49'
       - Damian Peauril
     - frac: 0
@@ -598,183 +598,183 @@ reachRank:
 - - - - '2'
       - Tony Armstrong
     - frac: 1
-      reach: 114.307148 km
+      reach: 114.373717 km
   - - - '22'
       - Steve Blenkinsop
     - frac: 1
-      reach: 114.307148 km
+      reach: 114.373717 km
   - - - '29'
       - Guy Hubbard
     - frac: 1
-      reach: 114.307148 km
+      reach: 114.373717 km
   - - - '5'
       - Jonny Durand
     - frac: 1
-      reach: 114.307148 km
+      reach: 114.373717 km
   - - - '12'
       - Rory Duncan
     - frac: 1
-      reach: 114.307148 km
+      reach: 114.373717 km
   - - - '46'
       - Harrison Rowntree
     - frac: 1
-      reach: 114.307148 km
+      reach: 114.373717 km
   - - - '20'
       - Konrad Heilmann
     - frac: 1
-      reach: 114.307148 km
+      reach: 114.373717 km
   - - - '44'
       - Josh Woods
     - frac: 1
-      reach: 114.307148 km
+      reach: 114.373717 km
   - - - '26'
       - Jason Kath
     - frac: 1
-      reach: 114.307148 km
+      reach: 114.373717 km
   - - - '4'
       - Nick Purcell
     - frac: 1
-      reach: 114.307148 km
+      reach: 114.373717 km
   - - - '33'
       - Niki Longshore
     - frac: 1
-      reach: 114.307148 km
+      reach: 114.373717 km
   - - - '9'
       - Rohan Taylor
     - frac: 1
-      reach: 114.307148 km
+      reach: 114.373717 km
   - - - '19'
       - Scott Barrett
     - frac: 1
-      reach: 114.307148 km
+      reach: 114.373717 km
   - - - '13'
       - Matthew Barlow
     - frac: 1
-      reach: 114.307148 km
+      reach: 114.373717 km
   - - - '25'
       - Hagen Bruggemann
     - frac: 1
-      reach: 114.307148 km
+      reach: 114.373717 km
   - - - '8'
       - Rod Flockhart
     - frac: 1
-      reach: 114.307148 km
+      reach: 114.373717 km
   - - - '36'
       - Brad Porter
-    - frac: 0.94448291
-      reach: 107.961148 km
+    - frac: 0.94451522
+      reach: 108.027717 km
   - - - '39'
       - rob degroot
-    - frac: 0.92486909
-      reach: 105.719148 km
+    - frac: 0.92491282
+      reach: 105.785717 km
   - - - '42'
       - Mikhail Karmazin
-    - frac: 0.89542211
-      reach: 102.353148 km
+    - frac: 0.89548298
+      reach: 102.419717 km
   - - - '16'
       - Andrew Barnes
-    - frac: 0.87561583
-      reach: 100.089148 km
+    - frac: 0.87568822
+      reach: 100.155717 km
   - - - '10'
       - Craig Taylor
-    - frac: 0.8720115
-      reach: 99.677148 km
+    - frac: 0.872086
+      reach: 99.743717 km
   - - - '24'
       - Brodrick Osborne
-    - frac: 0.8656252
-      reach: 98.947148 km
+    - frac: 0.86570341
+      reach: 99.013717 km
   - - - '7'
       - James Atkinson
-    - frac: 0.8629657
-      reach: 98.643148 km
+    - frac: 0.86304546
+      reach: 98.709717 km
   - - - '45'
       - steve crosby
-    - frac: 0.82375555
-      reach: 94.161148 km
+    - frac: 0.82385813
+      reach: 94.227717 km
   - - - '6'
       - Viv Clements
-    - frac: 0.80016998
-      reach: 91.465148 km
+    - frac: 0.80028628
+      reach: 91.531717 km
   - - - '38'
       - Dave Stevens
-    - frac: 0.76520279
-      reach: 87.468148 km
+    - frac: 0.76533944
+      reach: 87.534717 km
   - - - '37'
       - John Spencer
-    - frac: 0.76503657
-      reach: 87.449148 km
+    - frac: 0.76517332
+      reach: 87.515717 km
   - - - '18'
       - Peter Adriaans
-    - frac: 0.76313817
-      reach: 87.232148 km
+    - frac: 0.76327603
+      reach: 87.298717 km
   - - - '51'
       - Billy Miller-Macleod
-    - frac: 0.76273575
-      reach: 87.186148 km
+    - frac: 0.76287384
+      reach: 87.252717 km
   - - - '35'
       - Anatoly Reyter
-    - frac: 0.72552898
-      reach: 82.933148 km
+    - frac: 0.72568873
+      reach: 82.999717 km
   - - - '23'
       - Noel Collins
-    - frac: 0.70632633
-      reach: 80.738148 km
+    - frac: 0.70649725
+      reach: 80.804717 km
   - - - '17'
       - Trevor Purcell
-    - frac: 0.69019435
-      reach: 78.894148 km
+    - frac: 0.69037467
+      reach: 78.960717 km
   - - - '43'
       - Simon West
-    - frac: 0.5694495
-      reach: 65.092148 km
+    - frac: 0.56970009
+      reach: 65.158717 km
   - - - '41'
       - Peter Burkitt
-    - frac: 0.55885523
-      reach: 63.881148 km
+    - frac: 0.55911199
+      reach: 63.947717 km
   - - - '14'
       - Tony Giammichele
-    - frac: 0.55084174
-      reach: 62.965148 km
+    - frac: 0.55110316
+      reach: 63.031717 km
   - - - '21'
       - Frank Chetcuti
-    - frac: 0.54867214
-      reach: 62.717148 km
+    - frac: 0.54893483
+      reach: 62.783717 km
   - - - '1'
       - Mark Alton
-    - frac: 0.35551712
-      reach: 40.638148 km
+    - frac: 0.35589223
+      reach: 40.704717 km
   - - - '32'
       - Rob Larkin
-    - frac: 0.34666378
-      reach: 39.626148 km
+    - frac: 0.34704404
+      reach: 39.692717 km
   - - - '40'
       - Hossain Tefaili
-    - frac: 0.26050119
-      reach: 29.777148 km
+    - frac: 0.2609316
+      reach: 29.843717 km
   - - - '31'
       - Tomas Kellner
-    - frac: 0.21318131
-      reach: 24.368148 km
+    - frac: 0.21363927
+      reach: 24.434717 km
   - - - '48'
       - Derek Mckee
-    - frac: 0.1794039
-      reach: 20.507148 km
+    - frac: 0.17988151
+      reach: 20.573717 km
   - - - '27'
       - Guy Williams
-    - frac: 0.15366623
-      reach: 17.565148 km
+    - frac: 0.15415882
+      reach: 17.631717 km
   - - - '15'
       - Andrew Sharpe
-    - frac: 9.440484e-2
-      reach: 10.791148 km
+    - frac: 9.493192e-2
+      reach: 10.857717 km
   - - - '28'
       - John Harriot
-    - frac: 8.944452e-2
-      reach: 10.224148 km
+    - frac: 8.997449e-2
+      reach: 10.290717 km
   - - - '34'
       - dave moore
-    - frac: 5.424987e-2
-      reach: 6.201148 km
+    - frac: 5.480033e-2
+      reach: 6.267717 km
   - - - '49'
       - Damian Peauril
     - frac: 0
@@ -782,183 +782,183 @@ reachRank:
 - - - - '19'
       - Scott Barrett
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '12'
       - Rory Duncan
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '46'
       - Harrison Rowntree
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '44'
       - Josh Woods
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '2'
       - Tony Armstrong
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '29'
       - Guy Hubbard
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '20'
       - Konrad Heilmann
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '24'
       - Brodrick Osborne
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '45'
       - steve crosby
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '17'
       - Trevor Purcell
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '8'
       - Rod Flockhart
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '39'
       - rob degroot
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '36'
       - Brad Porter
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '33'
       - Niki Longshore
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '10'
       - Craig Taylor
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '4'
       - Nick Purcell
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '16'
       - Andrew Barnes
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '25'
       - Hagen Bruggemann
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '51'
       - Billy Miller-Macleod
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '23'
       - Noel Collins
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '42'
       - Mikhail Karmazin
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '37'
       - John Spencer
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '26'
       - Jason Kath
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '41'
       - Peter Burkitt
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '14'
       - Tony Giammichele
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '22'
       - Steve Blenkinsop
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '6'
       - Viv Clements
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '43'
       - Simon West
     - frac: 1
-      reach: 88.864963 km
+      reach: 88.969527 km
   - - - '21'
       - Frank Chetcuti
-    - frac: 0.92694534
-      reach: 82.372963 km
+    - frac: 0.9270312
+      reach: 82.477527 km
   - - - '9'
       - Rohan Taylor
-    - frac: 0.67344835
-      reach: 59.845963 km
+    - frac: 0.67383214
+      reach: 59.950527 km
   - - - '48'
       - Derek Mckee
-    - frac: 0.66569502
-      reach: 59.156963 km
+    - frac: 0.66608792
+      reach: 59.261527 km
   - - - '5'
       - Jonny Durand
-    - frac: 0.66015853
-      reach: 58.664963 km
+    - frac: 0.66055793
+      reach: 58.769527 km
   - - - '32'
       - Rob Larkin
-    - frac: 0.64333525
-      reach: 57.169963 km
+    - frac: 0.64375443
+      reach: 57.274527 km
   - - - '35'
       - Anatoly Reyter
-    - frac: 0.62865005
-      reach: 55.864963 km
+    - frac: 0.62908648
+      reach: 55.969527 km
   - - - '18'
       - Peter Adriaans
-    - frac: 0.62785108
-      reach: 55.793963 km
+    - frac: 0.62828846
+      reach: 55.898527 km
   - - - '15'
       - Andrew Sharpe
-    - frac: 0.62265218
-      reach: 55.331963 km
+    - frac: 0.62309567
+      reach: 55.436527 km
   - - - '7'
       - James Atkinson
-    - frac: 0.61876989
-      reach: 54.986963 km
+    - frac: 0.61921794
+      reach: 55.091527 km
   - - - '34'
       - dave moore
-    - frac: 0.59729911
-      reach: 53.078963 km
+    - frac: 0.59777239
+      reach: 53.183527 km
   - - - '13'
       - Matthew Barlow
-    - frac: 0.57087699
-      reach: 50.730963 km
+    - frac: 0.57138133
+      reach: 50.835527 km
   - - - '27'
       - Guy Williams
-    - frac: 0.52071099
-      reach: 46.272963 km
+    - frac: 0.52127429
+      reach: 46.377527 km
   - - - '1'
       - Mark Alton
-    - frac: 0.45933697
-      reach: 40.818963 km
+    - frac: 0.4599724
+      reach: 40.923527 km
   - - - '40'
       - Hossain Tefaili
-    - frac: 0.45913442
-      reach: 40.800963 km
+    - frac: 0.45977009
+      reach: 40.905527 km
   - - - '38'
       - Dave Stevens
-    - frac: 0.26151998
-      reach: 23.239963 km
+    - frac: 0.2623879
+      reach: 23.344527 km
   - - - '28'
       - John Harriot
-    - frac: 0.14646901
-      reach: 13.015963 km
+    - frac: 0.14747215
+      reach: 13.120527 km
   - - - '31'
       - Tomas Kellner
-    - frac: 3.498525e-2
-      reach: 3.108963 km
+    - frac: 3.611941e-2
+      reach: 3.213527 km
   - - - '49'
       - Damian Peauril
     - frac: 0
@@ -979,7 +979,7 @@ nigh:
           lng: 151.1916
         - lat: -27.15495896
           lng: 151.25461691
-      made: 92.561528 km
+      made: 92.625444 km
   - - - '1'
       - Mark Alton
     - togo:
@@ -995,7 +995,7 @@ nigh:
           lng: 151.17276667
         - lat: -27.15452818
           lng: 151.25486473
-      made: 90.250528 km
+      made: 90.314444 km
   - - - '7'
       - James Atkinson
     - togo:
@@ -1011,7 +1011,7 @@ nigh:
           lng: 151.1539
         - lat: -27.15438728
           lng: 151.25495305
-      made: 88.020528 km
+      made: 88.084444 km
   - - - '4'
       - Nick Purcell
     - togo:
@@ -1027,7 +1027,7 @@ nigh:
           lng: 151.13348333
         - lat: -27.15424782
           lng: 151.25504418
-      made: 85.459528 km
+      made: 85.523444 km
   - - - '9'
       - Rohan Taylor
     - togo:
@@ -1043,7 +1043,7 @@ nigh:
           lng: 151.12193333
         - lat: -27.15397333
           lng: 151.25523477
-      made: 83.874528 km
+      made: 83.938444 km
   - - - '35'
       - Anatoly Reyter
     - togo:
@@ -1059,7 +1059,7 @@ nigh:
           lng: 151.12588333
         - lat: -27.15397333
           lng: 151.25523477
-      made: 84.211528 km
+      made: 84.275444 km
   - - - '32'
       - Rob Larkin
     - togo:
@@ -1075,7 +1075,7 @@ nigh:
           lng: 151.12333333
         - lat: -27.1538384
           lng: 151.25533416
-      made: 83.866528 km
+      made: 83.930444 km
   - - - '2'
       - Tony Armstrong
     - togo:
@@ -1091,7 +1091,7 @@ nigh:
           lng: 151.11333333
         - lat: -27.15397333
           lng: 151.25523477
-      made: 82.748528 km
+      made: 82.812444 km
   - - - '12'
       - Rory Duncan
     - togo:
@@ -1107,7 +1107,7 @@ nigh:
           lng: 151.10003333
         - lat: -27.15331511
           lng: 151.25575831
-      made: 79.830528 km
+      made: 79.894444 km
   - - - '41'
       - Peter Burkitt
     - togo:
@@ -1123,7 +1123,7 @@ nigh:
           lng: 151.05356667
         - lat: -27.15357339
           lng: 151.25554099
-      made: 74.824528 km
+      made: 74.888444 km
   - - - '48'
       - Derek Mckee
     - togo:
@@ -1139,7 +1139,7 @@ nigh:
           lng: 151.00308333
         - lat: -27.15331511
           lng: 151.25575831
-      made: 67.777528 km
+      made: 67.841444 km
   - - - '28'
       - John Harriot
     - togo:
@@ -1155,7 +1155,7 @@ nigh:
           lng: 150.96901667
         - lat: -27.15331511
           lng: 151.25575831
-      made: 63.709528 km
+      made: 63.773444 km
   - - - '18'
       - Peter Adriaans
     - togo:
@@ -1176,7 +1176,7 @@ nigh:
           lng: 150.91789879
         - lat: -27.15344338
           lng: 151.25564835
-      made: 55.309528 km
+      made: 55.373444 km
   - - - '34'
       - dave moore
     - togo:
@@ -1197,7 +1197,7 @@ nigh:
           lng: 150.91791427
         - lat: -27.15344338
           lng: 151.25564835
-      made: 54.859528 km
+      made: 54.923444 km
   - - - '10'
       - Craig Taylor
     - togo:
@@ -1218,7 +1218,7 @@ nigh:
           lng: 150.91791233
         - lat: -27.15344338
           lng: 151.25564835
-      made: 52.536528 km
+      made: 52.600444 km
   - - - '8'
       - Rod Flockhart
     - togo:
@@ -1239,7 +1239,7 @@ nigh:
           lng: 150.91789167
         - lat: -27.15344338
           lng: 151.25564835
-      made: 50.659528 km
+      made: 50.723444 km
   - - - '15'
       - Andrew Sharpe
     - togo:
@@ -1260,7 +1260,7 @@ nigh:
           lng: 150.91790911
         - lat: -27.15344338
           lng: 151.25564835
-      made: 34.696528 km
+      made: 34.760444 km
   - - - '43'
       - Simon West
     - togo:
@@ -1286,7 +1286,7 @@ nigh:
           lng: 150.91791234
         - lat: -27.15344338
           lng: 151.25564835
-      made: 21.652528 km
+      made: 21.716444 km
   - - - '31'
       - Tomas Kellner
     - togo:
@@ -1312,7 +1312,7 @@ nigh:
           lng: 150.91791234
         - lat: -27.15344338
           lng: 151.25564835
-      made: 20.183528 km
+      made: 20.247444 km
   - - - '42'
       - Mikhail Karmazin
     - togo:
@@ -1338,7 +1338,7 @@ nigh:
           lng: 150.91791234
         - lat: -27.15344338
           lng: 151.25564835
-      made: 5.920528 km
+      made: 5.984444 km
   - - - '40'
       - Hossain Tefaili
     - togo:
@@ -1364,7 +1364,7 @@ nigh:
           lng: 150.91791234
         - lat: -27.15344338
           lng: 151.25564835
-      made: 5.226528 km
+      made: 5.290444 km
   - - - '3'
       - Paul Allen
     - togo:
@@ -1390,7 +1390,7 @@ nigh:
           lng: 150.91791234
         - lat: -27.15344338
           lng: 151.25564835
-      made: 6.354528 km
+      made: 6.418444 km
   - - - '29'
       - Guy Hubbard
     - togo:
@@ -1416,7 +1416,7 @@ nigh:
           lng: 150.91791234
         - lat: -27.15344338
           lng: 151.25564835
-      made: 4.706528 km
+      made: 4.770444 km
   - - - '38'
       - Dave Stevens
     - togo:
@@ -1442,7 +1442,7 @@ nigh:
           lng: 150.91791234
         - lat: -27.15344338
           lng: 151.25564835
-      made: 35.658528 km
+      made: 35.722444 km
   - - - '14'
       - Tony Giammichele
     - togo:
@@ -1468,7 +1468,7 @@ nigh:
           lng: 150.91791234
         - lat: -27.15344338
           lng: 151.25564835
-      made: 35.767528 km
+      made: 35.831444 km
   - - - '37'
       - John Spencer
     - togo:
@@ -1494,7 +1494,7 @@ nigh:
           lng: 150.91791234
         - lat: -27.15344338
           lng: 151.25564835
-      made: 34.830528 km
+      made: 34.894444 km
 - - - - '24'
       - Brodrick Osborne
     - togo:
@@ -1510,7 +1510,7 @@ nigh:
           lng: 150.80443333
         - lat: -26.84181587
           lng: 150.8022225
-      made: 110.740457 km
+      made: 110.819762 km
   - - - '13'
       - Matthew Barlow
     - togo:
@@ -1526,7 +1526,7 @@ nigh:
           lng: 150.8001
         - lat: -26.84080547
           lng: 150.79918617
-      made: 110.664457 km
+      made: 110.743762 km
   - - - '35'
       - Anatoly Reyter
     - togo:
@@ -1542,7 +1542,7 @@ nigh:
           lng: 150.83796667
         - lat: -26.84375104
           lng: 150.80486556
-      made: 106.871457 km
+      made: 106.950762 km
   - - - '18'
       - Peter Adriaans
     - togo:
@@ -1558,7 +1558,7 @@ nigh:
           lng: 150.82933333
         - lat: -26.84243443
           lng: 150.80328046
-      made: 106.802457 km
+      made: 106.881762 km
   - - - '19'
       - Scott Barrett
     - togo:
@@ -1574,7 +1574,7 @@ nigh:
           lng: 150.84311667
         - lat: -26.84519729
           lng: 150.80601271
-      made: 106.952457 km
+      made: 107.031762 km
   - - - '17'
       - Trevor Purcell
     - togo:
@@ -1590,7 +1590,7 @@ nigh:
           lng: 150.94671667
         - lat: -26.84505782
           lng: 150.80592183
-      made: 94.913457 km
+      made: 94.992762 km
   - - - '36'
       - Brad Porter
     - togo:
@@ -1606,7 +1606,7 @@ nigh:
           lng: 151.00493333
         - lat: -26.84651116
           lng: 150.8067013
-      made: 90.199457 km
+      made: 90.278762 km
   - - - '41'
       - Peter Burkitt
     - togo:
@@ -1627,7 +1627,7 @@ nigh:
           lng: 151.07791003
         - lat: -26.84790639
           lng: 150.80714548
-      made: 75.904457 km
+      made: 75.983762 km
   - - - '40'
       - Hossain Tefaili
     - togo:
@@ -1648,7 +1648,7 @@ nigh:
           lng: 151.07920206
         - lat: -26.84790639
           lng: 150.80714548
-      made: 74.298457 km
+      made: 74.377762 km
   - - - '48'
       - Derek Mckee
     - togo:
@@ -1669,7 +1669,7 @@ nigh:
           lng: 151.07949632
         - lat: -26.84806489
           lng: 150.80717918
-      made: 69.664457 km
+      made: 69.743762 km
   - - - '1'
       - Mark Alton
     - togo:
@@ -1690,7 +1690,7 @@ nigh:
           lng: 151.07661712
         - lat: -26.84774845
           lng: 150.8071086
-      made: 66.221457 km
+      made: 66.300762 km
   - - - '51'
       - Billy Miller-Macleod
     - togo:
@@ -1711,7 +1711,7 @@ nigh:
           lng: 151.07980233
         - lat: -26.84806489
           lng: 150.80717918
-      made: 66.487457 km
+      made: 66.566762 km
   - - - '43'
       - Simon West
     - togo:
@@ -1732,7 +1732,7 @@ nigh:
           lng: 151.07920206
         - lat: -26.84790639
           lng: 150.80714548
-      made: 62.810457 km
+      made: 62.889762 km
   - - - '32'
       - Rob Larkin
     - togo:
@@ -1758,7 +1758,7 @@ nigh:
           lng: 151.07980233
         - lat: -26.84806489
           lng: 150.80717918
-      made: 49.596457 km
+      made: 49.675762 km
   - - - '3'
       - Paul Allen
     - togo:
@@ -1789,7 +1789,7 @@ nigh:
           lng: 151.07980233
         - lat: -26.84806489
           lng: 150.80717918
-      made: 22.274457 km
+      made: 22.353762 km
   - - - '15'
       - Andrew Sharpe
     - togo:
@@ -1820,7 +1820,7 @@ nigh:
           lng: 151.07980233
         - lat: -26.84806489
           lng: 150.80717918
-      made: 22.181457 km
+      made: 22.260762 km
   - - - '23'
       - Noel Collins
     - togo:
@@ -1851,7 +1851,7 @@ nigh:
           lng: 151.07980233
         - lat: -26.84806489
           lng: 150.80717918
-      made: 22.181457 km
+      made: 22.260762 km
   - - - '31'
       - Tomas Kellner
     - togo:
@@ -1882,7 +1882,7 @@ nigh:
           lng: 151.07980233
         - lat: -26.84806489
           lng: 150.80717918
-      made: 22.334457 km
+      made: 22.413762 km
   - - - '28'
       - John Harriot
     - togo:
@@ -1918,7 +1918,7 @@ nigh:
           lng: 151.07980233
         - lat: -26.84806489
           lng: 150.80717918
-      made: 17.192457 km
+      made: 17.271762 km
   - - - '27'
       - Guy Williams
     - togo:
@@ -1954,7 +1954,7 @@ nigh:
           lng: 151.07980233
         - lat: -26.84806489
           lng: 150.80717918
-      made: 7.514457 km
+      made: 7.593762 km
 - - - - '25'
       - Hagen Bruggemann
     - togo:
@@ -1970,7 +1970,7 @@ nigh:
           lng: 151.25128333
         - lat: -27.15125649
           lng: 151.25828845
-      made: 95.174215 km
+      made: 95.592354 km
   - - - '39'
       - rob degroot
     - togo:
@@ -1986,7 +1986,7 @@ nigh:
           lng: 151.2432
         - lat: -27.15050975
           lng: 151.25989292
-      made: 92.145215 km
+      made: 92.563354 km
   - - - '33'
       - Niki Longshore
     - togo:
@@ -2002,7 +2002,7 @@ nigh:
           lng: 151.24181667
         - lat: -27.1501879
           lng: 151.26091833
-      made: 89.659215 km
+      made: 90.077354 km
   - - - '13'
       - Matthew Barlow
     - togo:
@@ -2018,7 +2018,7 @@ nigh:
           lng: 151.23558333
         - lat: -27.14996541
           lng: 151.26197653
-      made: 81.018215 km
+      made: 81.436354 km
   - - - '36'
       - Brad Porter
     - togo:
@@ -2034,7 +2034,7 @@ nigh:
           lng: 151.23363333
         - lat: -27.14996541
           lng: 151.26197653
-      made: 80.014215 km
+      made: 80.432354 km
   - - - '37'
       - John Spencer
     - togo:
@@ -2050,7 +2050,7 @@ nigh:
           lng: 151.19908333
         - lat: -27.15023473
           lng: 151.26074483
-      made: 76.490215 km
+      made: 76.908354 km
   - - - '38'
       - Dave Stevens
     - togo:
@@ -2066,7 +2066,7 @@ nigh:
           lng: 151.23925
         - lat: -27.14985779
           lng: 151.26287466
-      made: 67.384215 km
+      made: 67.802354 km
   - - - '17'
       - Trevor Purcell
     - togo:
@@ -2082,7 +2082,7 @@ nigh:
           lng: 151.18855
         - lat: -27.15010255
           lng: 151.26126801
-      made: 66.748215 km
+      made: 67.166354 km
   - - - '43'
       - Simon West
     - togo:
@@ -2098,7 +2098,7 @@ nigh:
           lng: 151.17963333
         - lat: -27.15010255
           lng: 151.26126801
-      made: 64.434215 km
+      made: 64.852354 km
   - - - '1'
       - Mark Alton
     - togo:
@@ -2114,7 +2114,7 @@ nigh:
           lng: 151.20325
         - lat: -27.14996541
           lng: 151.26197653
-      made: 64.435215 km
+      made: 64.853354 km
   - - - '9'
       - Rohan Taylor
     - togo:
@@ -2130,7 +2130,7 @@ nigh:
           lng: 151.17406667
         - lat: -27.15014383
           lng: 151.26109274
-      made: 62.878215 km
+      made: 63.296354 km
   - - - '48'
       - Derek Mckee
     - togo:
@@ -2146,7 +2146,7 @@ nigh:
           lng: 151.17075
         - lat: -27.15014383
           lng: 151.26109274
-      made: 62.876215 km
+      made: 63.294354 km
   - - - '32'
       - Rob Larkin
     - togo:
@@ -2167,7 +2167,7 @@ nigh:
           lng: 151.22985374
         - lat: -27.1498736
           lng: 151.26269423
-      made: 63.838215 km
+      made: 64.256354 km
   - - - '27'
       - Guy Williams
     - togo:
@@ -2183,7 +2183,7 @@ nigh:
           lng: 151.14391667
         - lat: -27.15033661
           lng: 151.26040079
-      made: 61.837215 km
+      made: 62.255354 km
   - - - '40'
       - Hossain Tefaili
     - togo:
@@ -2204,7 +2204,7 @@ nigh:
           lng: 151.17230733
         - lat: -27.15010255
           lng: 151.26126801
-      made: 60.143215 km
+      made: 60.561354 km
   - - - '34'
       - dave moore
     - togo:
@@ -2225,7 +2225,7 @@ nigh:
           lng: 151.14503387
         - lat: -27.15023473
           lng: 151.26074483
-      made: 55.418215 km
+      made: 55.836354 km
   - - - '31'
       - Tomas Kellner
     - togo:
@@ -2246,7 +2246,7 @@ nigh:
           lng: 151.19217774
         - lat: -27.15002835
           lng: 151.26162089
-      made: 46.718215 km
+      made: 47.136354 km
   - - - '45'
       - steve crosby
     - togo:
@@ -2267,7 +2267,7 @@ nigh:
           lng: 151.20258199
         - lat: -27.14996541
           lng: 151.26197653
-      made: 40.556215 km
+      made: 40.974354 km
   - - - '41'
       - Peter Burkitt
     - togo:
@@ -2288,7 +2288,7 @@ nigh:
           lng: 151.20258199
         - lat: -27.14996541
           lng: 151.26197653
-      made: 39.907215 km
+      made: 40.325354 km
   - - - '14'
       - Tony Giammichele
     - togo:
@@ -2309,7 +2309,7 @@ nigh:
           lng: 151.17230733
         - lat: -27.15010255
           lng: 151.26126801
-      made: 40.421215 km
+      made: 40.839354 km
   - - - '8'
       - Rod Flockhart
     - togo:
@@ -2330,7 +2330,7 @@ nigh:
           lng: 151.20789563
         - lat: -27.14996541
           lng: 151.26197653
-      made: 38.472215 km
+      made: 38.890354 km
   - - - '20'
       - Konrad Heilmann
     - togo:
@@ -2356,7 +2356,7 @@ nigh:
           lng: 151.20258199
         - lat: -27.14996541
           lng: 151.26197653
-      made: 37.745215 km
+      made: 38.163354 km
   - - - '24'
       - Brodrick Osborne
     - togo:
@@ -2382,7 +2382,7 @@ nigh:
           lng: 151.20789563
         - lat: -27.14996541
           lng: 151.26197653
-      made: 17.831215 km
+      made: 18.249354 km
   - - - '3'
       - Paul Allen
     - togo:
@@ -2408,7 +2408,7 @@ nigh:
           lng: 151.20789563
         - lat: -27.14996541
           lng: 151.26197653
-      made: 12.635215 km
+      made: 13.053354 km
   - - - '15'
       - Andrew Sharpe
     - togo:
@@ -2434,7 +2434,7 @@ nigh:
           lng: 151.20258199
         - lat: -27.14996541
           lng: 151.26197653
-      made: 9.175215 km
+      made: 9.593354 km
   - - - '28'
       - John Harriot
     - togo:
@@ -2460,7 +2460,7 @@ nigh:
           lng: 151.20258199
         - lat: -27.14996541
           lng: 151.26197653
-      made: 2.116215 km
+      made: 2.534354 km
 - - - - '36'
       - Brad Porter
     - togo:
@@ -2476,7 +2476,7 @@ nigh:
           lng: 151.30481667
         - lat: -27.15134491
           lng: 151.2694232
-      made: 107.961148 km
+      made: 108.027717 km
   - - - '39'
       - rob degroot
     - togo:
@@ -2492,7 +2492,7 @@ nigh:
           lng: 151.27648333
         - lat: -27.14989227
           lng: 151.26504586
-      made: 105.719148 km
+      made: 105.785717 km
   - - - '42'
       - Mikhail Karmazin
     - togo:
@@ -2508,7 +2508,7 @@ nigh:
           lng: 151.37595
         - lat: -27.15424782
           lng: 151.27251582
-      made: 102.353148 km
+      made: 102.419717 km
   - - - '16'
       - Andrew Barnes
     - togo:
@@ -2524,7 +2524,7 @@ nigh:
           lng: 151.30363333
         - lat: -27.15014383
           lng: 151.26646726
-      made: 100.089148 km
+      made: 100.155717 km
   - - - '10'
       - Craig Taylor
     - togo:
@@ -2540,7 +2540,7 @@ nigh:
           lng: 151.30246667
         - lat: -27.15010255
           lng: 151.26629199
-      made: 99.677148 km
+      made: 99.743717 km
   - - - '24'
       - Brodrick Osborne
     - togo:
@@ -2556,7 +2556,7 @@ nigh:
           lng: 151.30828333
         - lat: -27.15014383
           lng: 151.26646726
-      made: 98.947148 km
+      made: 99.013717 km
   - - - '7'
       - James Atkinson
     - togo:
@@ -2572,7 +2572,7 @@ nigh:
           lng: 151.35913333
         - lat: -27.15143573
           lng: 151.26957305
-      made: 98.643148 km
+      made: 98.709717 km
   - - - '45'
       - steve crosby
     - togo:
@@ -2588,7 +2588,7 @@ nigh:
           lng: 151.3477
         - lat: -27.15057282
           lng: 151.26783396
-      made: 94.161148 km
+      made: 94.227717 km
   - - - '6'
       - Viv Clements
     - togo:
@@ -2604,7 +2604,7 @@ nigh:
           lng: 151.37266667
         - lat: -27.15077776
           lng: 151.26832665
-      made: 91.465148 km
+      made: 91.531717 km
   - - - '38'
       - Dave Stevens
     - togo:
@@ -2620,7 +2620,7 @@ nigh:
           lng: 151.40341667
         - lat: -27.15100587
           lng: 151.2688063
-      made: 87.468148 km
+      made: 87.534717 km
   - - - '37'
       - John Spencer
     - togo:
@@ -2636,7 +2636,7 @@ nigh:
           lng: 151.40345
         - lat: -27.15100587
           lng: 151.2688063
-      made: 87.449148 km
+      made: 87.515717 km
   - - - '18'
       - Peter Adriaans
     - togo:
@@ -2652,7 +2652,7 @@ nigh:
           lng: 151.40745
         - lat: -27.15108694
           lng: 151.26896305
-      made: 87.232148 km
+      made: 87.298717 km
   - - - '51'
       - Billy Miller-Macleod
     - togo:
@@ -2668,7 +2668,7 @@ nigh:
           lng: 151.37948333
         - lat: -27.15063852
           lng: 151.26799955
-      made: 87.186148 km
+      made: 87.252717 km
   - - - '35'
       - Anatoly Reyter
     - togo:
@@ -2689,7 +2689,7 @@ nigh:
           lng: 151.42904942
         - lat: -27.15125649
           lng: 151.26927155
-      made: 82.933148 km
+      made: 82.999717 km
   - - - '23'
       - Noel Collins
     - togo:
@@ -2710,7 +2710,7 @@ nigh:
           lng: 151.42957915
         - lat: -27.15134491
           lng: 151.2694232
-      made: 80.738148 km
+      made: 80.804717 km
   - - - '17'
       - Trevor Purcell
     - togo:
@@ -2731,7 +2731,7 @@ nigh:
           lng: 151.42871595
         - lat: -27.15125649
           lng: 151.26927155
-      made: 78.894148 km
+      made: 78.960717 km
   - - - '41'
       - Peter Burkitt
     - togo:
@@ -2752,7 +2752,7 @@ nigh:
           lng: 151.43091968
         - lat: -27.15134491
           lng: 151.2694232
-      made: 63.881148 km
+      made: 63.947717 km
   - - - '43'
       - Simon West
     - togo:
@@ -2773,7 +2773,7 @@ nigh:
           lng: 151.42987974
         - lat: -27.15134491
           lng: 151.2694232
-      made: 65.092148 km
+      made: 65.158717 km
   - - - '14'
       - Tony Giammichele
     - togo:
@@ -2794,7 +2794,7 @@ nigh:
           lng: 151.43003879
         - lat: -27.15134491
           lng: 151.2694232
-      made: 62.965148 km
+      made: 63.031717 km
   - - - '21'
       - Frank Chetcuti
     - togo:
@@ -2815,7 +2815,7 @@ nigh:
           lng: 151.43003879
         - lat: -27.15134491
           lng: 151.2694232
-      made: 62.717148 km
+      made: 62.783717 km
   - - - '32'
       - Rob Larkin
     - togo:
@@ -2836,7 +2836,7 @@ nigh:
           lng: 151.43055043
         - lat: -27.15134491
           lng: 151.2694232
-      made: 39.626148 km
+      made: 39.692717 km
   - - - '1'
       - Mark Alton
     - togo:
@@ -2857,7 +2857,7 @@ nigh:
           lng: 151.43020363
         - lat: -27.15134491
           lng: 151.2694232
-      made: 40.638148 km
+      made: 40.704717 km
   - - - '40'
       - Hossain Tefaili
     - togo:
@@ -2883,7 +2883,7 @@ nigh:
           lng: 151.43037419
         - lat: -27.15134491
           lng: 151.2694232
-      made: 29.777148 km
+      made: 29.843717 km
   - - - '31'
       - Tomas Kellner
     - togo:
@@ -2909,7 +2909,7 @@ nigh:
           lng: 151.43037419
         - lat: -27.15134491
           lng: 151.2694232
-      made: 24.368148 km
+      made: 24.434717 km
   - - - '48'
       - Derek Mckee
     - togo:
@@ -2935,7 +2935,7 @@ nigh:
           lng: 151.43020363
         - lat: -27.15134491
           lng: 151.2694232
-      made: 20.507148 km
+      made: 20.573717 km
   - - - '27'
       - Guy Williams
     - togo:
@@ -2961,7 +2961,7 @@ nigh:
           lng: 151.43020363
         - lat: -27.15134491
           lng: 151.2694232
-      made: 17.565148 km
+      made: 17.631717 km
   - - - '15'
       - Andrew Sharpe
     - togo:
@@ -2987,7 +2987,7 @@ nigh:
           lng: 151.43037419
         - lat: -27.15134491
           lng: 151.2694232
-      made: 10.791148 km
+      made: 10.857717 km
   - - - '28'
       - John Harriot
     - togo:
@@ -3013,7 +3013,7 @@ nigh:
           lng: 151.43037419
         - lat: -27.15134491
           lng: 151.2694232
-      made: 10.224148 km
+      made: 10.290717 km
   - - - '34'
       - dave moore
     - togo:
@@ -3039,7 +3039,7 @@ nigh:
           lng: 151.43037419
         - lat: -27.15134491
           lng: 151.2694232
-      made: 6.201148 km
+      made: 6.267717 km
 - - - - '21'
       - Frank Chetcuti
     - togo:
@@ -3055,7 +3055,7 @@ nigh:
           lng: 151.19541667
         - lat: -27.15495896
           lng: 151.25461691
-      made: 82.372963 km
+      made: 82.477527 km
   - - - '48'
       - Derek Mckee
     - togo:
@@ -3076,7 +3076,7 @@ nigh:
           lng: 151.07792836
         - lat: -27.15357339
           lng: 151.25554099
-      made: 59.156963 km
+      made: 59.261527 km
   - - - '5'
       - Jonny Durand
     - togo:
@@ -3097,7 +3097,7 @@ nigh:
           lng: 151.07788768
         - lat: -27.15357339
           lng: 151.25554099
-      made: 58.664963 km
+      made: 58.769527 km
   - - - '9'
       - Rohan Taylor
     - togo:
@@ -3118,7 +3118,7 @@ nigh:
           lng: 151.07792836
         - lat: -27.15357339
           lng: 151.25554099
-      made: 59.845963 km
+      made: 59.950527 km
   - - - '32'
       - Rob Larkin
     - togo:
@@ -3139,7 +3139,7 @@ nigh:
           lng: 151.07792901
         - lat: -27.15357339
           lng: 151.25554099
-      made: 57.169963 km
+      made: 57.274527 km
   - - - '18'
       - Peter Adriaans
     - togo:
@@ -3160,7 +3160,7 @@ nigh:
           lng: 151.07792901
         - lat: -27.15357339
           lng: 151.25554099
-      made: 55.793963 km
+      made: 55.898527 km
   - - - '35'
       - Anatoly Reyter
     - togo:
@@ -3181,7 +3181,7 @@ nigh:
           lng: 151.07792837
         - lat: -27.15357339
           lng: 151.25554099
-      made: 55.864963 km
+      made: 55.969527 km
   - - - '15'
       - Andrew Sharpe
     - togo:
@@ -3202,7 +3202,7 @@ nigh:
           lng: 151.07792901
         - lat: -27.15357339
           lng: 151.25554099
-      made: 55.331963 km
+      made: 55.436527 km
   - - - '7'
       - James Atkinson
     - togo:
@@ -3223,7 +3223,7 @@ nigh:
           lng: 151.07792901
         - lat: -27.15357339
           lng: 151.25554099
-      made: 54.986963 km
+      made: 55.091527 km
   - - - '34'
       - dave moore
     - togo:
@@ -3244,7 +3244,7 @@ nigh:
           lng: 151.07792837
         - lat: -27.15357339
           lng: 151.25554099
-      made: 53.078963 km
+      made: 53.183527 km
   - - - '13'
       - Matthew Barlow
     - togo:
@@ -3270,7 +3270,7 @@ nigh:
           lng: 151.07792837
         - lat: -27.15357339
           lng: 151.25554099
-      made: 50.730963 km
+      made: 50.835527 km
   - - - '27'
       - Guy Williams
     - togo:
@@ -3296,7 +3296,7 @@ nigh:
           lng: 151.07792837
         - lat: -27.15357339
           lng: 151.25554099
-      made: 46.272963 km
+      made: 46.377527 km
   - - - '1'
       - Mark Alton
     - togo:
@@ -3322,7 +3322,7 @@ nigh:
           lng: 151.07792837
         - lat: -27.15357339
           lng: 151.25554099
-      made: 40.818963 km
+      made: 40.923527 km
   - - - '40'
       - Hossain Tefaili
     - togo:
@@ -3348,7 +3348,7 @@ nigh:
           lng: 151.07792837
         - lat: -27.15357339
           lng: 151.25554099
-      made: 40.800963 km
+      made: 40.905527 km
   - - - '38'
       - Dave Stevens
     - togo:
@@ -3374,7 +3374,7 @@ nigh:
           lng: 151.07792837
         - lat: -27.15357339
           lng: 151.25554099
-      made: 23.239963 km
+      made: 23.344527 km
   - - - '28'
       - John Harriot
     - togo:
@@ -3400,7 +3400,7 @@ nigh:
           lng: 151.07792837
         - lat: -27.15357339
           lng: 151.25554099
-      made: 13.015963 km
+      made: 13.120527 km
   - - - '31'
       - Tomas Kellner
     - togo:
@@ -3431,4 +3431,4 @@ nigh:
           lng: 151.07792837
         - lat: -27.15357339
           lng: 151.25554099
-      made: 3.108963 km
+      made: 3.213527 km
