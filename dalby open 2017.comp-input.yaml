@@ -22,7 +22,8 @@ nominal:
   free: 5.000 km
   time: 1.500000 h
 compTweak:
-  arrivalWeightScaling: null
+  arrivalRank: true
+  arrivalTime: false
   leadingWeightScaling: 0
 tasks:
 - taskName: day one
@@ -93,11 +94,33 @@ tasks:
   - 2017-04-09T04:00:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: true
+    arrivalTime: false
     leadingWeightScaling: 0
   earlyStart:
     earliest: 300 s
     earlyPenalty: 10 s
+  penalsAuto:
+  - - - '24'
+      - Brodrick Osborne
+    - - penalty-points: 5.7
+    - Jumped the gun by 0:57
+  - - - '38'
+      - Dave Stevens
+    - - penalty-points: 4.9
+    - Jumped the gun by 0:49
+  - - - '37'
+      - John Spencer
+    - - penalty-points: 5.1
+    - Jumped the gun by 0:51
+  - - - '14'
+      - Tony Giammichele
+    - - penalty-points: 5.5
+    - Jumped the gun by 0:55
+  - - - '15'
+      - Andrew Sharpe
+    - - penalty-points: 5.9
+    - Jumped the gun by 0:59
   penals: []
 - taskName: day four T2
   zones:
@@ -191,11 +214,17 @@ tasks:
   - 2017-04-12T03:40:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: true
+    arrivalTime: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
     earlyPenalty: 10 s
+  penalsAuto:
+  - - - '41'
+      - Peter Burkitt
+    - - penalty-points: 5.1
+    - Jumped the gun by 0:51
   penals: []
 - taskName: day five
   zones:
@@ -265,11 +294,13 @@ tasks:
   - 2017-04-13T03:40:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: true
+    arrivalTime: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
     earlyPenalty: 10 s
+  penalsAuto: []
   penals: []
 - taskName: day six
   zones:
@@ -339,11 +370,13 @@ tasks:
   - 2017-04-14T03:40:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: true
+    arrivalTime: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
     earlyPenalty: 10 s
+  penalsAuto: []
   penals: []
 - taskName: day seven
   zones:
@@ -425,11 +458,17 @@ tasks:
   - 2017-04-15T03:40:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: true
+    arrivalTime: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
     earlyPenalty: 10 s
+  penalsAuto:
+  - - - '35'
+      - Anatoly Reyter
+    - - penalty-points: 3.7
+    - Jumped the gun by 0:37
   penals: []
 taskFolders:
 - - day one

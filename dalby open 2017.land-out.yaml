@@ -417,10 +417,10 @@ difficulty:
     - 22.154 km
     - 22.188 km
     downers:
-    - - '23'
-      - Noel Collins
     - - '15'
       - Andrew Sharpe
+    - - '23'
+      - Noel Collins
     - - '3'
       - Paul Allen
     downward: 3
