@@ -1,5 +1,5 @@
 pilotsAtEss:
-- 20
+- 22
 - 26
 - 20
 - 16
@@ -14,97 +14,107 @@ arrivalRank:
       - Jason Kath
     - lag: 0.192727 h
       rank: '2'
-      frac: 0.89519338
+      frac: 0.90431452
   - - - '22'
       - Steve Blenkinsop
     - lag: 0.197289 h
       rank: '3'
-      frac: 0.800057
+      frac: 0.81665665
   - - - '19'
       - Scott Barrett
     - lag: 0.197885 h
       rank: '4'
-      frac: 0.71411612
+      frac: 0.7366697
   - - - '44'
       - Josh Woods
     - lag: 0.200367 h
       rank: '5'
-      frac: 0.636896
+      frac: 0.66399699
   - - - '51'
       - Billy Miller-Macleod
     - lag: 0.205991 h
       rank: '6'
-      frac: 0.56792188
+      frac: 0.59828184
   - - - '46'
       - Harrison Rowntree
     - lag: 0.209676 h
       rank: '7'
-      frac: 0.506719
+      frac: 0.53916754
   - - - '17'
       - Trevor Purcell
     - lag: 0.241266 h
       rank: '8'
-      frac: 0.45281262
+      frac: 0.48629743
   - - - '20'
       - Konrad Heilmann
     - lag: 0.264979 h
       rank: '9'
-      frac: 0.405728
+      frac: 0.4393148
   - - - '25'
       - Hagen Bruggemann
     - lag: 0.279517 h
       rank: '10'
-      frac: 0.36499038
+      frac: 0.39786298
   - - - '13'
       - Matthew Barlow
     - lag: 0.282941 h
       rank: '11'
+      frac: 0.36158527
+  - - - '14'
+      - Tony Giammichele
+    - lag: 0.284411 h
+      rank: '12'
       frac: 0.330125
   - - - '45'
       - steve crosby
     - lag: 0.316625 h
-      rank: '12'
-      frac: 0.30065712
+      rank: '13'
+      frac: 0.30312547
   - - - '16'
       - Andrew Barnes
     - lag: 0.419210 h
-      rank: '13'
-      frac: 0.276112
+      rank: '14'
+      frac: 0.28023
   - - - '6'
       - Viv Clements
     - lag: 0.452111 h
-      rank: '14'
-      frac: 0.25601488
+      rank: '15'
+      frac: 0.26108189
+  - - - '37'
+      - John Spencer
+    - lag: 0.488912 h
+      rank: '16'
+      frac: 0.24532447
   - - - '24'
       - Brodrick Osborne
     - lag: 0.504813 h
-      rank: '15'
-      frac: 0.239891
+      rank: '17'
+      frac: 0.23260105
   - - - '39'
       - rob degroot
     - lag: 0.619387 h
-      rank: '16'
-      frac: 0.22726562
+      rank: '18'
+      frac: 0.22255494
   - - - '36'
       - Brad Porter
     - lag: 0.669769 h
-      rank: '17'
-      frac: 0.217664
+      rank: '19'
+      frac: 0.21482945
   - - - '33'
       - Niki Longshore
     - lag: 0.715145 h
-      rank: '18'
-      frac: 0.21061138
+      rank: '20'
+      frac: 0.2090679
   - - - '27'
       - Guy Williams
     - lag: 0.742437 h
-      rank: '19'
-      frac: 0.205633
+      rank: '21'
+      frac: 0.2049136
   - - - '21'
       - Frank Chetcuti
     - lag: 1.451992 h
-      rank: '20'
-      frac: 0.20225412
+      rank: '22'
+      frac: 0.20200986
 - - - - '22'
       - Steve Blenkinsop
     - lag: 0.000000 h

@@ -5,7 +5,11 @@ bestEffort:
 - 114.373717 km
 - 88.969527 km
 land:
-- - - - '23'
+- - - - '38'
+      - Dave Stevens
+    - togo: 0.254341 km
+      made: 99.307103 km
+  - - - '23'
       - Noel Collins
     - togo: 7.125549 km
       made: 92.435895 km
@@ -71,8 +75,8 @@ land:
       made: 50.719783 km
   - - - '15'
       - Andrew Sharpe
-    - togo: 70.970964 km
-      made: 28.590480 km
+    - togo: 58.669174 km
+      made: 40.892270 km
   - - - '43'
       - Simon West
     - togo: 78.010734 km
@@ -101,18 +105,6 @@ land:
       - Guy Hubbard
     - togo: 94.901340 km
       made: 4.660104 km
-  - - - '38'
-      - Dave Stevens
-    - togo: 103.423490 km
-      made: -3.862046 km
-  - - - '14'
-      - Tony Giammichele
-    - togo: 104.826238 km
-      made: -5.264794 km
-  - - - '37'
-      - John Spencer
-    - togo: 104.902058 km
-      made: -5.340614 km
 - - - - '24'
       - Brodrick Osborne
     - togo: 0.440220 km

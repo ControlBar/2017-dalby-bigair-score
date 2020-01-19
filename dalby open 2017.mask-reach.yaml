@@ -1,7 +1,7 @@
 bolster:
 - max: 99.561444 km
-  mean: 72.204638 km
-  stdDev: 32.999049 km
+  mean: 74.936489 km
+  stdDev: 32.489284 km
 - max: 111.259762 km
   mean: 89.471193 km
   stdDev: 34.344425 km
@@ -16,8 +16,8 @@ bolster:
   stdDev: 24.738543 km
 reach:
 - max: 99.561444 km
-  mean: 72.093371 km
-  stdDev: 33.232713 km
+  mean: 74.825222 km
+  stdDev: 32.735875 km
 - max: 111.259762 km
   mean: 89.364810 km
   stdDev: 34.612609 km
@@ -75,6 +75,10 @@ reachRank:
       - Matthew Barlow
     - frac: 1
       reach: 99.561444 km
+  - - - '14'
+      - Tony Giammichele
+    - frac: 1
+      reach: 99.561444 km
   - - - '45'
       - steve crosby
     - frac: 1
@@ -85,6 +89,10 @@ reachRank:
       reach: 99.561444 km
   - - - '6'
       - Viv Clements
+    - frac: 1
+      reach: 99.561444 km
+  - - - '37'
+      - John Spencer
     - frac: 1
       reach: 99.561444 km
   - - - '24'
@@ -175,18 +183,10 @@ reachRank:
       - Rod Flockhart
     - frac: 0.50946875
       reach: 50.723444 km
-  - - - '14'
-      - Tony Giammichele
-    - frac: 0.35989277
-      reach: 35.831444 km
   - - - '38'
       - Dave Stevens
     - frac: 0.35879797
       reach: 35.722444 km
-  - - - '37'
-      - John Spencer
-    - frac: 0.3504815
-      reach: 34.894444 km
   - - - '15'
       - Andrew Sharpe
     - frac: 0.3491356
@@ -964,7 +964,23 @@ reachRank:
     - frac: 0
       reach: 0.000000 km
 nigh:
-- - - - '23'
+- - - - '38'
+      - Dave Stevens
+    - togo:
+        distance: 39.726887 km
+        flipSum:
+        - 39.726887 km
+        legs:
+        - 39.726887 km
+        legsSum:
+        - 39.726887 km
+        waypoints:
+        - lat: -26.82251667
+          lng: 151.10093333
+        - lat: -27.15057282
+          lng: 151.25972604
+      made: 35.722444 km
+  - - - '23'
       - Noel Collins
     - togo:
         distance: 6.936464 km
@@ -1417,84 +1433,6 @@ nigh:
         - lat: -27.15344338
           lng: 151.25564835
       made: 4.770444 km
-  - - - '38'
-      - Dave Stevens
-    - togo:
-        distance: 63.836087 km
-        flipSum:
-        - 63.836087 km
-        - 63.519041 km
-        - 41.804302 km
-        legs:
-        - 0.317046 km
-        - 21.714738 km
-        - 41.804302 km
-        legsSum:
-        - 0.317046 km
-        - 22.031785 km
-        - 63.836087 km
-        waypoints:
-        - lat: -26.82251667
-          lng: 151.10093333
-        - lat: -26.81974759
-          lng: 151.10017177
-        - lat: -26.92793898
-          lng: 150.91791234
-        - lat: -27.15344338
-          lng: 151.25564835
-      made: 35.722444 km
-  - - - '14'
-      - Tony Giammichele
-    - togo:
-        distance: 63.729703 km
-        flipSum:
-        - 63.729703 km
-        - 63.558516 km
-        - 41.804302 km
-        legs:
-        - 0.171187 km
-        - 21.754214 km
-        - 41.804302 km
-        legsSum:
-        - 0.171187 km
-        - 21.925401 km
-        - 63.729703 km
-        waypoints:
-        - lat: -26.82143333
-          lng: 151.10146667
-        - lat: -26.81999992
-          lng: 151.1008373
-        - lat: -26.92793898
-          lng: 150.91791234
-        - lat: -27.15344338
-          lng: 151.25564835
-      made: 35.831444 km
-  - - - '37'
-      - John Spencer
-    - togo:
-        distance: 64.660835 km
-        flipSum:
-        - 64.660835 km
-        - 63.641122 km
-        - 41.804302 km
-        legs:
-        - 1.019712 km
-        - 21.836820 km
-        - 41.804302 km
-        legsSum:
-        - 1.019712 km
-        - 22.856532 km
-        - 64.660835 km
-        waypoints:
-        - lat: -26.8294
-          lng: 151.10453333
-        - lat: -26.82047259
-          lng: 151.10218297
-        - lat: -26.92793898
-          lng: 150.91791234
-        - lat: -27.15344338
-          lng: 151.25564835
-      made: 34.894444 km
 - - - - '24'
       - Brodrick Osborne
     - togo:

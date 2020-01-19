@@ -1,7 +1,7 @@
 bolster:
 - max: 99.561444 km
-  mean: 72.204638 km
-  stdDev: 32.999049 km
+  mean: 74.936489 km
+  stdDev: 32.489284 km
 - max: 111.259762 km
   mean: 89.471193 km
   stdDev: 34.344425 km
@@ -16,8 +16,8 @@ bolster:
   stdDev: 24.738543 km
 reach:
 - max: 99.561444 km
-  mean: 72.093371 km
-  stdDev: 33.232713 km
+  mean: 74.825222 km
+  stdDev: 32.735875 km
 - max: 111.259762 km
   mean: 89.364810 km
   stdDev: 34.612609 km
@@ -75,6 +75,10 @@ reachRank:
       - Matthew Barlow
     - frac: 1
       reach: 99.561444 km
+  - - - '14'
+      - Tony Giammichele
+    - frac: 1
+      reach: 99.561444 km
   - - - '45'
       - steve crosby
     - frac: 1
@@ -85,6 +89,10 @@ reachRank:
       reach: 99.561444 km
   - - - '6'
       - Viv Clements
+    - frac: 1
+      reach: 99.561444 km
+  - - - '37'
+      - John Spencer
     - frac: 1
       reach: 99.561444 km
   - - - '24'
@@ -175,18 +183,10 @@ reachRank:
       - Rod Flockhart
     - frac: 0.50946875
       reach: 50.723444 km
-  - - - '14'
-      - Tony Giammichele
-    - frac: 0.35989277
-      reach: 35.831444 km
   - - - '38'
       - Dave Stevens
     - frac: 0.35879797
       reach: 35.722444 km
-  - - - '37'
-      - John Spencer
-    - frac: 0.3504815
-      reach: 34.894444 km
   - - - '15'
       - Andrew Sharpe
     - frac: 0.3491356
@@ -964,7 +964,16 @@ reachRank:
     - frac: 0
       reach: 0.000000 km
 nigh:
-- - - - '23'
+- - - - '38'
+      - Dave Stevens
+    - togo:
+        distance: 63.839000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 35.722444 km
+  - - - '23'
       - Noel Collins
     - togo:
         distance: 6.936000 km
@@ -1171,33 +1180,6 @@ nigh:
         legsSum: []
         waypoints: []
       made: 4.770444 km
-  - - - '38'
-      - Dave Stevens
-    - togo:
-        distance: 63.839000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 35.722444 km
-  - - - '14'
-      - Tony Giammichele
-    - togo:
-        distance: 63.730000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 35.831444 km
-  - - - '37'
-      - John Spencer
-    - togo:
-        distance: 64.667000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 34.894444 km
 - - - - '24'
       - Brodrick Osborne
     - togo:

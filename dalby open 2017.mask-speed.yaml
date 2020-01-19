@@ -95,10 +95,18 @@ ssSpeed:
       - Guy Williams
     - time: 3.183752 h
       frac: 0.40425669
+  - - - '14'
+      - Tony Giammichele
+    - time: 3.206010 h
+      frac: 0.39206661
   - - - '24'
       - Brodrick Osborne
     - time: 3.376409 h
       frac: 0.30244283
+  - - - '37'
+      - John Spencer
+    - time: 3.433256 h
+      frac: 0.27381692
   - - - '21'
       - Frank Chetcuti
     - time: 3.862655 h
@@ -516,6 +524,10 @@ gsSpeed:
       - Hagen Bruggemann
     - time: 3.082079 h
       frac: 0.46619489
+  - - - '14'
+      - Tony Giammichele
+    - time: 3.086972 h
+      frac: 0.46335733
   - - - '39'
       - rob degroot
     - time: 3.088616 h
@@ -536,6 +548,10 @@ gsSpeed:
       - Guy Williams
     - time: 3.211665 h
       frac: 0.39337655
+  - - - '37'
+      - John Spencer
+    - time: 3.291474 h
+      frac: 0.35064746
   - - - '24'
       - Brodrick Osborne
     - time: 3.307375 h
@@ -932,9 +948,6 @@ altStopped:
   - - - '28'
       - John Harriot
     - 331.000 m
-  - - - '37'
-      - John Spencer
-    - 444.000 m
   - - - '1'
       - Mark Alton
     - 352.000 m
@@ -977,9 +990,6 @@ altStopped:
   - - - '2'
       - Tony Armstrong
     - 346.000 m
-  - - - '14'
-      - Tony Giammichele
-    - 340.000 m
   - - - '34'
       - dave moore
     - 1739.000 m

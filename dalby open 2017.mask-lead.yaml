@@ -1,14 +1,14 @@
 raceTime:
 - openTask: 2017-04-09T03:20:00Z
   closeTask: 2017-04-09T10:00:00Z
-  firstStart: 2017-04-09T03:15:51.477436219522Z
-  firstLead: 2017-04-09T03:15:51.477436219522Z
+  firstStart: 2017-04-09T03:11:29.58613294832Z
+  firstLead: 2017-04-09T03:11:29.58613294832Z
   lastArrival: 2017-04-09T07:35:16.394764144228Z
-  leadAllDown: 16310.523
-  leadArrival: 15564.917
-  leadClose: 24248.523
+  leadAllDown: 16572.414
+  leadArrival: 15826.809
+  leadClose: 24510.414
   openClose: 24000
-  tickClose: 24248.523
+  tickClose: 24510.414
 - openTask: 2017-04-12T03:00:00Z
   closeTask: 2017-04-12T10:00:00Z
   firstStart: 2017-04-12T02:57:17.052469853965Z
@@ -50,7 +50,7 @@ raceTime:
   openClose: 25200
   tickClose: 25235.259
 sumDistance:
-- 3158.617980 km
+- 3287.014980 km
 - 3970.146052 km
 - 3151.196930 km
 - 3552.181265 km
