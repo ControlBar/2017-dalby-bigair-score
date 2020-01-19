@@ -1,7 +1,7 @@
 bolster:
 - max: 99.561444 km
-  mean: 74.936489 km
-  stdDev: 32.489284 km
+  mean: 76.437021 km
+  stdDev: 31.974657 km
 - max: 111.259762 km
   mean: 89.471193 km
   stdDev: 34.344425 km
@@ -16,8 +16,8 @@ bolster:
   stdDev: 24.738543 km
 reach:
 - max: 99.561444 km
-  mean: 74.825222 km
-  stdDev: 32.735875 km
+  mean: 76.325754 km
+  stdDev: 32.230367 km
 - max: 111.259762 km
   mean: 89.364810 km
   stdDev: 34.612609 km
@@ -119,6 +119,10 @@ reachRank:
       - Frank Chetcuti
     - frac: 1
       reach: 99.561444 km
+  - - - '38'
+      - Dave Stevens
+    - frac: 0.99743877
+      reach: 99.306444 km
   - - - '23'
       - Noel Collins
     - frac: 0.93033448
@@ -183,14 +187,10 @@ reachRank:
       - Rod Flockhart
     - frac: 0.50946875
       reach: 50.723444 km
-  - - - '38'
-      - Dave Stevens
-    - frac: 0.35879797
-      reach: 35.722444 km
   - - - '15'
       - Andrew Sharpe
-    - frac: 0.3491356
-      reach: 34.760444 km
+    - frac: 0.41885134
+      reach: 41.701444 km
   - - - '43'
       - Simon West
     - frac: 0.21812102
@@ -967,19 +967,19 @@ nigh:
 - - - - '38'
       - Dave Stevens
     - togo:
-        distance: 39.726887 km
+        distance: 0.254341 km
         flipSum:
-        - 39.726887 km
+        - 0.254341 km
         legs:
-        - 39.726887 km
+        - 0.254341 km
         legsSum:
-        - 39.726887 km
+        - 0.254341 km
         waypoints:
-        - lat: -26.82251667
-          lng: 151.10093333
-        - lat: -27.15057282
-          lng: 151.25972604
-      made: 35.722444 km
+        - lat: -27.15183333
+          lng: 151.2538
+        - lat: -27.15331511
+          lng: 151.25575831
+      made: 99.306444 km
   - - - '23'
       - Noel Collins
     - togo:
@@ -1259,24 +1259,24 @@ nigh:
   - - - '15'
       - Andrew Sharpe
     - togo:
-        distance: 64.800904 km
+        distance: 57.860070 km
         flipSum:
-        - 64.800904 km
-        - 41.800251 km
+        - 57.860070 km
+        - 41.774963 km
         legs:
-        - 23.000653 km
-        - 41.800251 km
+        - 16.085107 km
+        - 41.774963 km
         legsSum:
-        - 23.000653 km
-        - 64.800904 km
+        - 16.085107 km
+        - 57.860070 km
         waypoints:
-        - lat: -26.82176667
-          lng: 151.11688333
-        - lat: -26.92800345
-          lng: 150.91790911
+        - lat: -26.88851667
+          lng: 151.07376667
+        - lat: -26.92845185
+          lng: 150.91785051
         - lat: -27.15344338
           lng: 151.25564835
-      made: 34.760444 km
+      made: 41.701444 km
   - - - '43'
       - Simon West
     - togo:

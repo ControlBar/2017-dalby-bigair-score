@@ -1,7 +1,7 @@
 bolster:
 - max: 99.561444 km
-  mean: 74.936489 km
-  stdDev: 32.489284 km
+  mean: 76.437021 km
+  stdDev: 31.974657 km
 - max: 111.259762 km
   mean: 89.471193 km
   stdDev: 34.344425 km
@@ -16,8 +16,8 @@ bolster:
   stdDev: 24.738543 km
 reach:
 - max: 99.561444 km
-  mean: 74.825222 km
-  stdDev: 32.735875 km
+  mean: 76.325754 km
+  stdDev: 32.230367 km
 - max: 111.259762 km
   mean: 89.364810 km
   stdDev: 34.612609 km
@@ -119,6 +119,10 @@ reachRank:
       - Frank Chetcuti
     - frac: 1
       reach: 99.561444 km
+  - - - '38'
+      - Dave Stevens
+    - frac: 0.99743877
+      reach: 99.306444 km
   - - - '23'
       - Noel Collins
     - frac: 0.93033448
@@ -183,14 +187,10 @@ reachRank:
       - Rod Flockhart
     - frac: 0.50946875
       reach: 50.723444 km
-  - - - '38'
-      - Dave Stevens
-    - frac: 0.35879797
-      reach: 35.722444 km
   - - - '15'
       - Andrew Sharpe
-    - frac: 0.3491356
-      reach: 34.760444 km
+    - frac: 0.41885134
+      reach: 41.701444 km
   - - - '43'
       - Simon West
     - frac: 0.21812102
@@ -967,12 +967,12 @@ nigh:
 - - - - '38'
       - Dave Stevens
     - togo:
-        distance: 63.839000 km
+        distance: 0.255000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 35.722444 km
+      made: 99.306444 km
   - - - '23'
       - Noel Collins
     - togo:
@@ -1120,12 +1120,12 @@ nigh:
   - - - '15'
       - Andrew Sharpe
     - togo:
-        distance: 64.801000 km
+        distance: 57.860000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 34.760444 km
+      made: 41.701444 km
   - - - '43'
       - Simon West
     - togo:

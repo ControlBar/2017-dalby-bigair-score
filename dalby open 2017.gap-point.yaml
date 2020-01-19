@@ -12,7 +12,7 @@ validityWorking:
     flying: 47
     present: 47
   distance:
-    sum: 3287.0 km
+    sum: 3357.5 km
     flying: 47
     area: 27.2280722
     nominalGoal: 0.1
@@ -993,9 +993,42 @@ score:
       subtotal: 405.868
       landedMade: 90.054 km
       stoppedAlt: 352.000 m
+  - - - '38'
+      - Dave Stevens
+    - place: '25'
+      total: 396.395
+      jump: 388.073 s
+      penalties: []
+      breakdown:
+        effort: 217.88
+        arrival: 0
+        time: 0
+        reach: 217.322
+        distance: 435.203
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 38.807
+      penaltiesJump:
+      - penalty-points: 38.807262054008
+      penaltyReason: ''
+      velocity:
+        ss: 2017-04-09T03:13:31.92737945992Z
+        gs: 2017-04-09T03:20:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 99.306 km
+        flown: 99.306 km
+      subtotal: 435.203
+      landedMade: 99.307 km
+      stoppedAlt: 350.000 m
   - - - '7'
       - James Atkinson
-    - place: '25'
+    - place: '26'
       total: 395.046
       jump: null
       penalties: []
@@ -1027,7 +1060,7 @@ score:
       stoppedAlt: 0.000 m
   - - - '4'
       - Nick Purcell
-    - place: '26'
+    - place: '27'
       total: 383.087
       jump: null
       penalties: []
@@ -1059,7 +1092,7 @@ score:
       stoppedAlt: 0.000 m
   - - - '9'
       - Rohan Taylor
-    - place: '27'
+    - place: '28'
       total: 375.657
       jump: null
       penalties: []
@@ -1091,7 +1124,7 @@ score:
       stoppedAlt: 352.000 m
   - - - '35'
       - Anatoly Reyter
-    - place: '28'
+    - place: '29'
       total: 374.744
       jump: null
       penalties: []
@@ -1123,7 +1156,7 @@ score:
       stoppedAlt: 339.000 m
   - - - '32'
       - Rob Larkin
-    - place: '29'
+    - place: '30'
       total: 373.989
       jump: null
       penalties: []
@@ -1155,7 +1188,7 @@ score:
       stoppedAlt: 335.000 m
   - - - '2'
       - Tony Armstrong
-    - place: '30'
+    - place: '31'
       total: 366.343
       jump: null
       penalties: []
@@ -1187,7 +1220,7 @@ score:
       stoppedAlt: 346.000 m
   - - - '12'
       - Rory Duncan
-    - place: '31'
+    - place: '32'
       total: 339.737
       jump: null
       penalties: []
@@ -1219,7 +1252,7 @@ score:
       stoppedAlt: 334.000 m
   - - - '41'
       - Peter Burkitt
-    - place: '32'
+    - place: '33'
       total: 299.713
       jump: 1.829 s
       penalties: []
@@ -1252,7 +1285,7 @@ score:
       stoppedAlt: 333.000 m
   - - - '48'
       - Derek Mckee
-    - place: '33'
+    - place: '34'
       total: 262.604
       jump: null
       penalties: []
@@ -1282,39 +1315,6 @@ score:
       subtotal: 262.604
       landedMade: 67.694 km
       stoppedAlt: 330.000 m
-  - - - '38'
-      - Dave Stevens
-    - place: '34'
-      total: 257.248
-      jump: 388.073 s
-      penalties: []
-      breakdown:
-        effort: 217.88
-        arrival: 0
-        time: 0
-        reach: 78.175
-        distance: 296.055
-        leading: 0
-      demeritFrac: 0
-      demeritPoint: 38.807
-      penaltiesJump:
-      - penalty-points: 38.807262054008
-      penaltyReason: ''
-      velocity:
-        ss: 2017-04-09T03:13:31.92737945992Z
-        gs: 2017-04-09T03:20:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 35.722 km
-        flown: 35.722 km
-      subtotal: 296.055
-      landedMade: 99.307 km
-      stoppedAlt: 350.000 m
   - - - '28'
       - John Harriot
     - place: '35'
@@ -1478,15 +1478,15 @@ score:
   - - - '15'
       - Andrew Sharpe
     - place: '40'
-      total: 96.36
+      total: 111.549
       jump: 324.469 s
       penalties: []
       breakdown:
         effort: 52.737
         arrival: 0
         time: 0
-        reach: 76.07
-        distance: 128.807
+        reach: 91.259
+        distance: 143.996
         leading: 0
       demeritFrac: 0
       demeritPoint: 32.447
@@ -1503,9 +1503,9 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 34.760 km
-        flown: 34.760 km
-      subtotal: 128.807
+        extra: 41.701 km
+        flown: 41.701 km
+      subtotal: 143.996
       landedMade: 40.892 km
       stoppedAlt: 416.000 m
   - - - '43'
@@ -8419,9 +8419,42 @@ scoreDf:
       subtotal: 405.868
       landedMade: 90.054 km
       stoppedAlt: 352.000 m
+  - - - '38'
+      - Dave Stevens
+    - place: '25'
+      total: 396.395
+      jump: 388.073 s
+      penalties: []
+      breakdown:
+        effort: 217.88
+        arrival: 0
+        time: 0
+        reach: 217.322
+        distance: 435.203
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 38.807
+      penaltiesJump:
+      - penalty-points: 38.807262054008
+      penaltyReason: ''
+      velocity:
+        ss: 2017-04-09T03:13:31.92737945992Z
+        gs: 2017-04-09T03:20:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 99.306 km
+        flown: 99.306 km
+      subtotal: 435.203
+      landedMade: 99.307 km
+      stoppedAlt: 350.000 m
   - - - '7'
       - James Atkinson
-    - place: '25'
+    - place: '26'
       total: 395.046
       jump: null
       penalties: []
@@ -8453,7 +8486,7 @@ scoreDf:
       stoppedAlt: 0.000 m
   - - - '4'
       - Nick Purcell
-    - place: '26'
+    - place: '27'
       total: 383.087
       jump: null
       penalties: []
@@ -8485,7 +8518,7 @@ scoreDf:
       stoppedAlt: 0.000 m
   - - - '9'
       - Rohan Taylor
-    - place: '27'
+    - place: '28'
       total: 375.657
       jump: null
       penalties: []
@@ -8517,7 +8550,7 @@ scoreDf:
       stoppedAlt: 352.000 m
   - - - '35'
       - Anatoly Reyter
-    - place: '28'
+    - place: '29'
       total: 374.744
       jump: null
       penalties: []
@@ -8549,7 +8582,7 @@ scoreDf:
       stoppedAlt: 339.000 m
   - - - '32'
       - Rob Larkin
-    - place: '29'
+    - place: '30'
       total: 373.989
       jump: null
       penalties: []
@@ -8581,7 +8614,7 @@ scoreDf:
       stoppedAlt: 335.000 m
   - - - '2'
       - Tony Armstrong
-    - place: '30'
+    - place: '31'
       total: 366.343
       jump: null
       penalties: []
@@ -8613,7 +8646,7 @@ scoreDf:
       stoppedAlt: 346.000 m
   - - - '12'
       - Rory Duncan
-    - place: '31'
+    - place: '32'
       total: 339.737
       jump: null
       penalties: []
@@ -8645,7 +8678,7 @@ scoreDf:
       stoppedAlt: 334.000 m
   - - - '41'
       - Peter Burkitt
-    - place: '32'
+    - place: '33'
       total: 299.713
       jump: 1.829 s
       penalties: []
@@ -8678,7 +8711,7 @@ scoreDf:
       stoppedAlt: 333.000 m
   - - - '48'
       - Derek Mckee
-    - place: '33'
+    - place: '34'
       total: 262.604
       jump: null
       penalties: []
@@ -8708,39 +8741,6 @@ scoreDf:
       subtotal: 262.604
       landedMade: 67.694 km
       stoppedAlt: 330.000 m
-  - - - '38'
-      - Dave Stevens
-    - place: '34'
-      total: 257.248
-      jump: 388.073 s
-      penalties: []
-      breakdown:
-        effort: 217.88
-        arrival: 0
-        time: 0
-        reach: 78.175
-        distance: 296.055
-        leading: 0
-      demeritFrac: 0
-      demeritPoint: 38.807
-      penaltiesJump:
-      - penalty-points: 38.807262054008
-      penaltyReason: ''
-      velocity:
-        ss: 2017-04-09T03:13:31.92737945992Z
-        gs: 2017-04-09T03:20:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 35.722 km
-        flown: 35.722 km
-      subtotal: 296.055
-      landedMade: 99.307 km
-      stoppedAlt: 350.000 m
   - - - '28'
       - John Harriot
     - place: '35'
@@ -8904,15 +8904,15 @@ scoreDf:
   - - - '15'
       - Andrew Sharpe
     - place: '40'
-      total: 96.36
+      total: 111.549
       jump: 324.469 s
       penalties: []
       breakdown:
         effort: 52.737
         arrival: 0
         time: 0
-        reach: 76.07
-        distance: 128.807
+        reach: 91.259
+        distance: 143.996
         leading: 0
       demeritFrac: 0
       demeritPoint: 32.447
@@ -8929,9 +8929,9 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 34.760 km
-        flown: 34.760 km
-      subtotal: 128.807
+        extra: 41.701 km
+        flown: 41.701 km
+      subtotal: 143.996
       landedMade: 40.892 km
       stoppedAlt: 416.000 m
   - - - '43'
