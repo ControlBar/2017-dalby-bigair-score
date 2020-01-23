@@ -100,6 +100,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 10 s
+    tooEarlyReset: 0
   penalsAuto:
   - - - '24'
       - Brodrick Osborne
@@ -220,6 +221,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 10 s
+    tooEarlyReset: 0
   penalsAuto:
   - - - '41'
       - Peter Burkitt
@@ -300,6 +302,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 10 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 - taskName: day six
@@ -376,6 +379,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 10 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 - taskName: day seven
@@ -464,6 +468,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 10 s
+    tooEarlyReset: 0
   penalsAuto:
   - - - '35'
       - Anatoly Reyter
