@@ -1,6 +1,6 @@
 <Fs version="3.4">
   <FsCompetition id="1" name="Dalby Big Air HG 2017 open class" location="Dalby Australia" from="2017-04-09" to="2017-04-15" utc_offset="+10" discipline="hg">
-    <FsScoreFormula id="GAP2016" use_leading_points="0" use_arrival_position_points="1" use_arrival_time_points="0" min_dist="5" nom_dist="50" nom_time="1.5" nom_goal="0.1" jump_the_gun_factor="10" jump_the_gun_max="300" nom_launch="0.96" score_back_time="15"/>
+    <FsScoreFormula id="GAP2016" use_leading_points="0" use_arrival_position_points="1" use_arrival_time_points="0" min_dist="5" nom_dist="50" nom_time="1.5" nom_goal="0.1" jump_the_gun_factor="10" jump_the_gun_max="300" nom_launch="0.96" use_distance_squared_for_LC="1" score_back_time="15"/>
     <FsParticipants>
       <FsParticipant id="4" name="Nick Purcell"/>
       <FsParticipant id="7" name="James Atkinson"/>
@@ -52,7 +52,7 @@
     </FsParticipants>
     <FsTasks>
       <FsTask id="1" name="day one" tracklog_folder="day one">
-        <FsScoreFormula id="GAP2016" use_leading_points="0" use_arrival_position_points="1" use_arrival_time_points="0" min_dist="5" nom_dist="50" nom_time="1.5" nom_goal="0.1" jump_the_gun_factor="10" jump_the_gun_max="300" nom_launch="0.96" score_back_time="15" double_leading_weight="0"/>
+        <FsScoreFormula id="GAP2016" use_leading_points="0" use_arrival_position_points="1" use_arrival_time_points="0" min_dist="5" nom_dist="50" nom_time="1.5" nom_goal="0.1" jump_the_gun_factor="10" jump_the_gun_max="300" nom_launch="0.96" use_distance_squared_for_LC="1" score_back_time="15" double_leading_weight="0"/>
         <FsTaskDefinition ss="1" es="4" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="1DALBY" lat="-27.15886" lon="151.26378" altitude="351" radius="5000" open="2017-04-09T13:20:00+10:00" close="2017-04-09T20:00:00+10:00"/>
           <FsTurnpoint id="JANDOW" lat="-26.7866" lon="151.11634" altitude="365" radius="4000" open="2017-04-09T13:20:00+10:00" close="2017-04-09T20:00:00+10:00"/>
@@ -338,7 +338,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="2" name="day four T2" tracklog_folder="day four">
-        <FsScoreFormula id="GAP2016" use_leading_points="1" use_arrival_position_points="1" use_arrival_time_points="0" min_dist="5" nom_dist="50" nom_time="1.5" nom_goal="0.1" jump_the_gun_factor="10" jump_the_gun_max="300" nom_launch="0.96" score_back_time="15" double_leading_weight="0"/>
+        <FsScoreFormula id="GAP2016" use_leading_points="1" use_arrival_position_points="1" use_arrival_time_points="0" min_dist="5" nom_dist="50" nom_time="1.5" nom_goal="0.1" jump_the_gun_factor="10" jump_the_gun_max="300" nom_launch="0.96" use_distance_squared_for_LC="1" score_back_time="15" double_leading_weight="0"/>
         <FsTaskDefinition ss="1" es="6" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="1DALBY" lat="-27.15886" lon="151.26378" altitude="351" radius="5000" open="2017-04-12T13:00:00+10:00" close="2017-04-12T20:00:00+10:00"/>
           <FsTurnpoint id="MACALI" lat="-27.04144" lon="151.07387" altitude="335" radius="400" open="2017-04-12T13:00:00+10:00" close="2017-04-12T20:00:00+10:00"/>
@@ -618,7 +618,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="3" name="day five" tracklog_folder="day five">
-        <FsScoreFormula id="GAP2016" use_leading_points="1" use_arrival_position_points="1" use_arrival_time_points="0" min_dist="5" nom_dist="50" nom_time="1.5" nom_goal="0.1" jump_the_gun_factor="10" jump_the_gun_max="300" nom_launch="0.96" score_back_time="15" double_leading_weight="0"/>
+        <FsScoreFormula id="GAP2016" use_leading_points="1" use_arrival_position_points="1" use_arrival_time_points="0" min_dist="5" nom_dist="50" nom_time="1.5" nom_goal="0.1" jump_the_gun_factor="10" jump_the_gun_max="300" nom_launch="0.96" use_distance_squared_for_LC="1" score_back_time="15" double_leading_weight="0"/>
         <FsTaskDefinition ss="1" es="4" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="1DALBY" lat="-27.15886" lon="151.26378" altitude="351" radius="5000" open="2017-04-13T13:00:00+10:00" close="2017-04-13T20:00:00+10:00"/>
           <FsTurnpoint id="BRIGAL" lat="-26.84967" lon="150.79721" altitude="335" radius="15000" open="2017-04-13T13:00:00+10:00" close="2017-04-13T20:00:00+10:00"/>
@@ -912,7 +912,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="4" name="day six" tracklog_folder="day six">
-        <FsScoreFormula id="GAP2016" use_leading_points="1" use_arrival_position_points="1" use_arrival_time_points="0" min_dist="5" nom_dist="50" nom_time="1.5" nom_goal="0.1" jump_the_gun_factor="10" jump_the_gun_max="300" nom_launch="0.96" score_back_time="15" double_leading_weight="0"/>
+        <FsScoreFormula id="GAP2016" use_leading_points="1" use_arrival_position_points="1" use_arrival_time_points="0" min_dist="5" nom_dist="50" nom_time="1.5" nom_goal="0.1" jump_the_gun_factor="10" jump_the_gun_max="300" nom_launch="0.96" use_distance_squared_for_LC="1" score_back_time="15" double_leading_weight="0"/>
         <FsTaskDefinition ss="1" es="4" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="1DALBY" lat="-27.15886" lon="151.26378" altitude="351" radius="5000" open="2017-04-14T13:00:00+10:00" close="2017-04-14T20:00:00+10:00"/>
           <FsTurnpoint id="WARRA" lat="-26.92781" lon="150.91386" altitude="335" radius="2000" open="2017-04-14T13:00:00+10:00" close="2017-04-14T20:00:00+10:00"/>
@@ -1213,7 +1213,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="5" name="day seven" tracklog_folder="day seven">
-        <FsScoreFormula id="GAP2016" use_leading_points="1" use_arrival_position_points="1" use_arrival_time_points="0" min_dist="5" nom_dist="50" nom_time="1.5" nom_goal="0.1" jump_the_gun_factor="10" jump_the_gun_max="300" nom_launch="0.96" score_back_time="15" double_leading_weight="0"/>
+        <FsScoreFormula id="GAP2016" use_leading_points="1" use_arrival_position_points="1" use_arrival_time_points="0" min_dist="5" nom_dist="50" nom_time="1.5" nom_goal="0.1" jump_the_gun_factor="10" jump_the_gun_max="300" nom_launch="0.96" use_distance_squared_for_LC="1" score_back_time="15" double_leading_weight="0"/>
         <FsTaskDefinition ss="1" es="5" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="1DALBY" lat="-27.15886" lon="151.26378" altitude="351" radius="5000" open="2017-04-15T13:00:00+10:00" close="2017-04-15T20:00:00+10:00"/>
           <FsTurnpoint id="BROADW" lat="-27.34386" lon="151.09409" altitude="365" radius="7000" open="2017-04-15T13:00:00+10:00" close="2017-04-15T20:00:00+10:00"/>
