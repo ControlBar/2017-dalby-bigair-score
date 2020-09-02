@@ -1,1 +1,1 @@
-fixIdx,legIdx,zoneIdx,tickLead,tickRace,time,lat,lng,alt,togo
+fixIdx,time,lat,lng,alt,tickLead,tickRace,zoneIdx,legIdx,togo,area
