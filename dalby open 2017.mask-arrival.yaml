@@ -1,9 +1,9 @@
 pilotsAtEss:
 - 22
 - 26
-- 20
+- 19
 - 16
-- 28
+- 25
 arrivalRank:
 - - - - '5'
       - Jonny Durand
@@ -254,97 +254,92 @@ arrivalRank:
       - Tony Armstrong
     - lag: 0.113578 h
       rank: '2'
-      frac: 0.89519338
+      frac: 0.88994926
   - - - '22'
       - Steve Blenkinsop
     - lag: 0.116066 h
       rank: '3'
-      frac: 0.800057
+      frac: 0.7905858
   - - - '12'
       - Rory Duncan
     - lag: 0.123237 h
       rank: '4'
-      frac: 0.71411612
+      frac: 0.70135588
   - - - '29'
       - Guy Hubbard
     - lag: 0.126113 h
       rank: '5'
-      frac: 0.636896
+      frac: 0.62170579
   - - - '44'
       - Josh Woods
     - lag: 0.135689 h
       rank: '6'
-      frac: 0.56792188
+      frac: 0.55108179
   - - - '26'
       - Jason Kath
     - lag: 0.348956 h
       rank: '7'
-      frac: 0.506719
+      frac: 0.48893016
   - - - '10'
       - Craig Taylor
     - lag: 0.350055 h
       rank: '8'
-      frac: 0.45281262
+      frac: 0.43469719
   - - - '5'
       - Jonny Durand
     - lag: 0.454928 h
       rank: '9'
-      frac: 0.405728
+      frac: 0.38782913
   - - - '46'
       - Harrison Rowntree
     - lag: 0.467449 h
       rank: '10'
-      frac: 0.36499038
+      frac: 0.34777227
   - - - '4'
       - Nick Purcell
     - lag: 0.517940 h
       rank: '11'
-      frac: 0.330125
+      frac: 0.31397288
   - - - '16'
       - Andrew Barnes
     - lag: 1.307277 h
       rank: '12'
-      frac: 0.30065712
-  - - - '21'
-      - Frank Chetcuti
-    - lag: 1.351487 h
-      rank: '13'
-      frac: 0.276112
+      frac: 0.28587724
   - - - '7'
       - James Atkinson
     - lag: 1.391600 h
-      rank: '14'
-      frac: 0.25601488
+      rank: '13'
+      frac: 0.26293162
   - - - '6'
       - Viv Clements
     - lag: 1.445904 h
-      rank: '15'
-      frac: 0.239891
+      rank: '14'
+      frac: 0.2445823
   - - - '42'
       - Mikhail Karmazin
     - lag: 1.663244 h
-      rank: '16'
-      frac: 0.22726562
+      rank: '15'
+      frac: 0.23027555
   - - - '18'
       - Peter Adriaans
     - lag: 1.700090 h
-      rank: '17'
-      frac: 0.217664
+      rank: '16'
+      frac: 0.21945765
   - - - '51'
       - Billy Miller-Macleod
     - lag: 1.845260 h
-      rank: '18'
-      frac: 0.21061138
+      rank: '17'
+      frac: 0.21157487
   - - - '23'
       - Noel Collins
     - lag: 1.848917 h
-      rank: '19'
-      frac: 0.205633
+      rank: '18'
+      frac: 0.20607348
   - - - '35'
       - Anatoly Reyter
     - lag: 1.997709 h
-      rank: '20'
-      frac: 0.20225412
+      rank: '19'
+      frac: 0.20239977
 - - - - '2'
       - Tony Armstrong
     - lag: 0.000000 h
@@ -434,134 +429,119 @@ arrivalRank:
       - Rory Duncan
     - lag: 0.082410 h
       rank: '2'
-      frac: 0.9241306
+      frac: 0.91536589
   - - - '46'
       - Harrison Rowntree
     - lag: 0.082725 h
       rank: '3'
-      frac: 0.85326421
+      frac: 0.8369815
   - - - '44'
       - Josh Woods
     - lag: 0.132647 h
       rank: '4'
-      frac: 0.78722782
+      frac: 0.76460378
   - - - '2'
       - Tony Armstrong
     - lag: 0.133929 h
       rank: '5'
-      frac: 0.7258484
+      frac: 0.69798963
   - - - '29'
       - Guy Hubbard
     - lag: 0.155634 h
       rank: '6'
-      frac: 0.66895294
+      frac: 0.636896
   - - - '20'
       - Konrad Heilmann
     - lag: 0.179817 h
       rank: '7'
-      frac: 0.61636844
+      frac: 0.58107981
   - - - '24'
       - Brodrick Osborne
     - lag: 0.221721 h
       rank: '8'
-      frac: 0.56792188
+      frac: 0.53029798
   - - - '45'
       - steve crosby
     - lag: 0.226234 h
       rank: '9'
-      frac: 0.52344023
+      frac: 0.48430746
   - - - '17'
       - Trevor Purcell
     - lag: 0.239604 h
       rank: '10'
-      frac: 0.4827505
+      frac: 0.44286515
   - - - '8'
       - Rod Flockhart
     - lag: 0.250926 h
       rank: '11'
-      frac: 0.44567966
+      frac: 0.405728
   - - - '39'
       - rob degroot
     - lag: 0.261400 h
       rank: '12'
-      frac: 0.41205471
+      frac: 0.37265293
   - - - '36'
       - Brad Porter
     - lag: 0.264255 h
       rank: '13'
-      frac: 0.38170262
+      frac: 0.34339686
   - - - '33'
       - Niki Longshore
     - lag: 0.266911 h
       rank: '14'
-      frac: 0.35445039
+      frac: 0.31771674
   - - - '10'
       - Craig Taylor
     - lag: 0.273419 h
       rank: '15'
-      frac: 0.330125
+      frac: 0.29536947
   - - - '4'
       - Nick Purcell
     - lag: 0.287242 h
       rank: '16'
-      frac: 0.30855343
+      frac: 0.276112
   - - - '16'
       - Andrew Barnes
     - lag: 0.291209 h
       rank: '17'
-      frac: 0.28956268
+      frac: 0.25970125
   - - - '25'
       - Hagen Bruggemann
     - lag: 0.297429 h
       rank: '18'
-      frac: 0.27297973
+      frac: 0.24589414
   - - - '51'
       - Billy Miller-Macleod
     - lag: 0.309296 h
       rank: '19'
-      frac: 0.25863156
+      frac: 0.23444762
   - - - '23'
       - Noel Collins
     - lag: 0.367140 h
       rank: '20'
-      frac: 0.24634516
-  - - - '42'
-      - Mikhail Karmazin
-    - lag: 0.394221 h
-      rank: '21'
-      frac: 0.23594752
+      frac: 0.22511859
   - - - '37'
       - John Spencer
     - lag: 0.414355 h
-      rank: '22'
-      frac: 0.22726562
+      rank: '21'
+      frac: 0.217664
   - - - '26'
       - Jason Kath
     - lag: 0.428303 h
-      rank: '23'
-      frac: 0.22012646
+      rank: '22'
+      frac: 0.21184077
   - - - '41'
       - Peter Burkitt
     - lag: 0.493351 h
-      rank: '24'
-      frac: 0.21435701
-  - - - '14'
-      - Tony Giammichele
-    - lag: 0.741981 h
-      rank: '25'
-      frac: 0.20978426
+      rank: '23'
+      frac: 0.20740582
   - - - '22'
       - Steve Blenkinsop
     - lag: 0.835437 h
-      rank: '26'
-      frac: 0.20623519
+      rank: '24'
+      frac: 0.2041161
   - - - '6'
       - Viv Clements
     - lag: 0.988393 h
-      rank: '27'
-      frac: 0.20353681
-  - - - '43'
-      - Simon West
-    - lag: 1.119149 h
-      rank: '28'
-      frac: 0.20151608
+      rank: '25'
+      frac: 0.20172851

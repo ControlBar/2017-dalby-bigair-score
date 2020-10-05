@@ -31,10 +31,6 @@ ssSpeed:
       - Scott Barrett
     - time: 2.642614 h
       frac: 0.76357256
-  - - - '20'
-      - Konrad Heilmann
-    - time: 2.647496 h
-      frac: 0.75932573
   - - - '22'
       - Steve Blenkinsop
     - time: 2.650938 h
@@ -51,6 +47,10 @@ ssSpeed:
       - Josh Woods
     - time: 2.662205 h
       frac: 0.74675015
+  - - - '20'
+      - Konrad Heilmann
+    - time: 2.735614 h
+      frac: 0.68805461
   - - - '13'
       - Matthew Barlow
     - time: 2.740387 h
@@ -177,8 +177,8 @@ ssSpeed:
       frac: 0.49044437
   - - - '6'
       - Viv Clements
-    - time: 2.933241 h
-      frac: 0.48771916
+    - time: 2.937881 h
+      frac: 0.48491476
   - - - '45'
       - steve crosby
     - time: 2.947308 h
@@ -201,8 +201,8 @@ ssSpeed:
       frac: 0.34346408
   - - - '38'
       - Dave Stevens
-    - time: 3.215312 h
-      frac: 0.32877275
+    - time: 3.320126 h
+      frac: 0.27444374
   - - - '14'
       - Tony Giammichele
     - time: 3.334953 h
@@ -213,7 +213,7 @@ ssSpeed:
       frac: 0.14136996
   - - - '34'
       - dave moore
-    - time: 4.206059 h
+    - time: 4.212847 h
       frac: 0
 - - - - '19'
       - Scott Barrett
@@ -263,10 +263,6 @@ ssSpeed:
       - Andrew Barnes
     - time: 3.415766 h
       frac: 7.027661e-2
-  - - - '21'
-      - Frank Chetcuti
-    - time: 3.456396 h
-      frac: 5.104934e-2
   - - - '7'
       - James Atkinson
     - time: 3.499987 h
@@ -439,10 +435,6 @@ ssSpeed:
       - Noel Collins
     - time: 2.228907 h
       frac: 0.59148195
-  - - - '42'
-      - Mikhail Karmazin
-    - time: 2.251752 h
-      frac: 0.57424564
   - - - '37'
       - John Spencer
     - time: 2.278764 h
@@ -459,14 +451,6 @@ ssSpeed:
       - Peter Burkitt
     - time: 2.345180 h
       frac: 0.50705734
-  - - - '14'
-      - Tony Giammichele
-    - time: 2.603217 h
-      frac: 0.34121643
-  - - - '43'
-      - Simon West
-    - time: 2.618979 h
-      frac: 0.33178685
   - - - '6'
       - Viv Clements
     - time: 2.839567 h
@@ -496,10 +480,6 @@ gsSpeed:
       - Harrison Rowntree
     - time: 2.678904 h
       frac: 0.73887723
-  - - - '20'
-      - Konrad Heilmann
-    - time: 2.734208 h
-      frac: 0.69477446
   - - - '13'
       - Matthew Barlow
     - time: 2.752169 h
@@ -520,6 +500,10 @@ gsSpeed:
       - Trevor Purcell
     - time: 3.043828 h
       frac: 0.48864454
+  - - - '20'
+      - Konrad Heilmann
+    - time: 3.067541 h
+      frac: 0.47467063
   - - - '25'
       - Hagen Bruggemann
     - time: 3.082079 h
@@ -712,10 +696,6 @@ gsSpeed:
       - Andrew Barnes
     - time: 3.431344 h
       frac: 6.991552e-2
-  - - - '21'
-      - Frank Chetcuti
-    - time: 3.475554 h
-      frac: 4.906271e-2
   - - - '7'
       - James Atkinson
     - time: 3.515667 h
@@ -888,10 +868,6 @@ gsSpeed:
       - Noel Collins
     - time: 2.243305 h
       frac: 0.58428362
-  - - - '42'
-      - Mikhail Karmazin
-    - time: 2.270386 h
-      frac: 0.56408405
   - - - '37'
       - John Spencer
     - time: 2.290520 h
@@ -908,14 +884,6 @@ gsSpeed:
       - Steve Blenkinsop
     - time: 2.378269 h
       frac: 0.48780112
-  - - - '14'
-      - Tony Giammichele
-    - time: 2.618147 h
-      frac: 0.33548475
-  - - - '43'
-      - Simon West
-    - time: 2.661981 h
-      frac: 0.309564
   - - - '6'
       - Viv Clements
     - time: 2.864558 h
@@ -1068,6 +1036,9 @@ altStopped:
   - - - '48'
       - Derek Mckee
     - 312.000 m
+  - - - '21'
+      - Frank Chetcuti
+    - 0.000 m
   - - - '27'
       - Guy Williams
     - 294.000 m
@@ -1254,6 +1225,9 @@ altStopped:
   - - - '13'
       - Matthew Barlow
     - 330.000 m
+  - - - '42'
+      - Mikhail Karmazin
+    - 354.000 m
   - - - '18'
       - Peter Adriaans
     - 319.000 m
@@ -1263,9 +1237,15 @@ altStopped:
   - - - '9'
       - Rohan Taylor
     - 328.000 m
+  - - - '43'
+      - Simon West
+    - 322.000 m
   - - - '31'
       - Tomas Kellner
     - 307.000 m
+  - - - '14'
+      - Tony Giammichele
+    - 308.000 m
   - - - '34'
       - dave moore
     - 339.000 m

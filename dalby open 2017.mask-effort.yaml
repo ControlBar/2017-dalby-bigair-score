@@ -297,6 +297,10 @@ land:
       - John Harriot
     - togo: 94.542577 km
       made: 2.346777 km
+  - - - '21'
+      - Frank Chetcuti
+    - togo: 101.814565 km
+      made: -4.925211 km
 - - - - '36'
       - Brad Porter
     - togo: 6.348451 km
@@ -421,10 +425,6 @@ land:
       - Frank Chetcuti
     - togo: 6.684245 km
       made: 82.285282 km
-  - - - '48'
-      - Derek Mckee
-    - togo: 29.785203 km
-      made: 59.184324 km
   - - - '5'
       - Jonny Durand
     - togo: 30.394199 km
@@ -489,3 +489,19 @@ land:
       - Tomas Kellner
     - togo: 87.443722 km
       made: 1.525805 km
+  - - - '43'
+      - Simon West
+    - togo: 93.611873 km
+      made: -4.642346 km
+  - - - '14'
+      - Tony Giammichele
+    - togo: 93.613018 km
+      made: -4.643491 km
+  - - - '42'
+      - Mikhail Karmazin
+    - togo: 93.794179 km
+      made: -4.824652 km
+  - - - '48'
+      - Derek Mckee
+    - togo: 105.998187 km
+      made: -17.028660 km
