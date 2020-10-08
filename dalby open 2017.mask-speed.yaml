@@ -31,6 +31,10 @@ ssSpeed:
       - Scott Barrett
     - time: 2.642614 h
       frac: 0.76357256
+  - - - '20'
+      - Konrad Heilmann
+    - time: 2.647496 h
+      frac: 0.75932573
   - - - '22'
       - Steve Blenkinsop
     - time: 2.650938 h
@@ -47,10 +51,6 @@ ssSpeed:
       - Josh Woods
     - time: 2.662205 h
       frac: 0.74675015
-  - - - '20'
-      - Konrad Heilmann
-    - time: 2.735614 h
-      frac: 0.68805461
   - - - '13'
       - Matthew Barlow
     - time: 2.740387 h
@@ -177,8 +177,8 @@ ssSpeed:
       frac: 0.49044437
   - - - '6'
       - Viv Clements
-    - time: 2.937881 h
-      frac: 0.48491476
+    - time: 2.933241 h
+      frac: 0.48771916
   - - - '45'
       - steve crosby
     - time: 2.947308 h
@@ -201,8 +201,8 @@ ssSpeed:
       frac: 0.34346408
   - - - '38'
       - Dave Stevens
-    - time: 3.320126 h
-      frac: 0.27444374
+    - time: 3.215312 h
+      frac: 0.32877275
   - - - '14'
       - Tony Giammichele
     - time: 3.334953 h
@@ -213,7 +213,7 @@ ssSpeed:
       frac: 0.14136996
   - - - '34'
       - dave moore
-    - time: 4.212847 h
+    - time: 4.206059 h
       frac: 0
 - - - - '19'
       - Scott Barrett
@@ -480,6 +480,10 @@ gsSpeed:
       - Harrison Rowntree
     - time: 2.678904 h
       frac: 0.73887723
+  - - - '20'
+      - Konrad Heilmann
+    - time: 2.734208 h
+      frac: 0.69477446
   - - - '13'
       - Matthew Barlow
     - time: 2.752169 h
@@ -500,10 +504,6 @@ gsSpeed:
       - Trevor Purcell
     - time: 3.043828 h
       frac: 0.48864454
-  - - - '20'
-      - Konrad Heilmann
-    - time: 3.067541 h
-      frac: 0.47467063
   - - - '25'
       - Hagen Bruggemann
     - time: 3.082079 h

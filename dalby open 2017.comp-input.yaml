@@ -107,35 +107,35 @@ tasks:
   - - - '24'
       - Brodrick Osborne
     - adds:
-      - penalty-points: 5.7
+      - penalty-points: -5.7
       muls: []
       resets: []
     - Jumped the gun by 0:57
   - - - '38'
       - Dave Stevens
     - adds:
-      - penalty-points: 4.9
+      - penalty-points: -4.9
       muls: []
       resets: []
     - Jumped the gun by 0:49
   - - - '37'
       - John Spencer
     - adds:
-      - penalty-points: 5.1
+      - penalty-points: -5.1
       muls: []
       resets: []
     - Jumped the gun by 0:51
   - - - '14'
       - Tony Giammichele
     - adds:
-      - penalty-points: 5.5
+      - penalty-points: -5.5
       muls: []
       resets: []
     - Jumped the gun by 0:55
   - - - '15'
       - Andrew Sharpe
     - adds:
-      - penalty-points: 5.9
+      - penalty-points: -5.9
       muls: []
       resets: []
     - Jumped the gun by 0:59
@@ -244,7 +244,7 @@ tasks:
   - - - '41'
       - Peter Burkitt
     - adds:
-      - penalty-points: 5.1
+      - penalty-points: -5.1
       muls: []
       resets: []
     - Jumped the gun by 0:51
@@ -497,7 +497,7 @@ tasks:
   - - - '35'
       - Anatoly Reyter
     - adds:
-      - penalty-points: 3.7
+      - penalty-points: -3.7
       muls: []
       resets: []
     - Jumped the gun by 0:37

@@ -251,9 +251,9 @@ leadRank:
       frac: 4.969912e-2
   - - - '28'
       - John Harriot
-    - area: 70990957.9601 km^2 s
-      coef: 3.9787638
-      frac: 1.147295e-2
+    - area: 70962078.7955 km^2 s
+      coef: 3.97714524
+      frac: 1.216747e-2
   - - - '8'
       - Rod Flockhart
     - area: 71157401.1303 km^2 s
@@ -401,9 +401,9 @@ leadRank:
       frac: 0.28047815
   - - - '38'
       - Dave Stevens
-    - area: 69413773.2428 km^2 s
-      coef: 3.11527862
-      frac: 0.19626024
+    - area: 69274175.5501 km^2 s
+      coef: 3.1090135
+      frac: 0.19949629
   - - - '5'
       - Jonny Durand
     - area: 69458499.1266 km^2 s
@@ -481,13 +481,13 @@ leadRank:
       frac: 0
   - - - '34'
       - dave moore
-    - area: 82665975.2903 km^2 s
-      coef: 3.71003525
+    - area: 82661814.1661 km^2 s
+      coef: 3.7098485
       frac: 0
   - - - '40'
       - Hossain Tefaili
-    - area: 91802120.2783 km^2 s
-      coef: 4.12006392
+    - area: 91757617.8314 km^2 s
+      coef: 4.11806665
       frac: 0
   - - - '43'
       - Simon West
@@ -496,8 +496,8 @@ leadRank:
       frac: 0
   - - - '31'
       - Tomas Kellner
-    - area: 148493766.1675 km^2 s
-      coef: 6.66437557
+    - area: 148476425.8687 km^2 s
+      coef: 6.66359734
       frac: 0
   - - - '15'
       - Andrew Sharpe
@@ -511,8 +511,8 @@ leadRank:
       frac: 0
   - - - '3'
       - Paul Allen
-    - area: 154737037.5502 km^2 s
-      coef: 6.94457256
+    - area: 154717618.3858 km^2 s
+      coef: 6.94370103
       frac: 0
   - - - '32'
       - Rob Larkin
@@ -521,8 +521,8 @@ leadRank:
       frac: 0
   - - - '28'
       - John Harriot
-    - area: 168606573.5346 km^2 s
-      coef: 7.56703503
+    - area: 168602054.9126 km^2 s
+      coef: 7.56683223
       frac: 0
   - - - '27'
       - Guy Williams
@@ -696,8 +696,8 @@ leadRank:
       frac: 0
   - - - '43'
       - Simon West
-    - area: 58684388.7589 km^2 s
-      coef: 3.47294543
+    - area: 58619428.2699 km^2 s
+      coef: 3.46910107
       frac: 0
   - - - '41'
       - Peter Burkitt
