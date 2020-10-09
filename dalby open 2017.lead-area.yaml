@@ -501,9 +501,9 @@ areas:
       areaBeforeStart: 1054486.9029 km^2 s
   - - - '21'
       - Frank Chetcuti
-    - areaFlown: 10721914.9461 km^2 s
-      areaAfterLanding: 49055630.7862 km^2 s
-      areaBeforeStart: 0.0000 km^2 s
+    - areaFlown: 34127041.4009 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 554002.9118 km^2 s
   - - - '29'
       - Guy Hubbard
     - areaFlown: 24979523.1960 km^2 s
@@ -951,9 +951,9 @@ areas:
       areaBeforeStart: 689036.4675 km^2 s
   - - - '48'
       - Derek Mckee
-    - areaFlown: 6527185.2374 km^2 s
-      areaAfterLanding: 81569186.0343 km^2 s
-      areaBeforeStart: 0.0000 km^2 s
+    - areaFlown: 34680943.4324 km^2 s
+      areaAfterLanding: 12781538.7038 km^2 s
+      areaBeforeStart: 11475386.1034 km^2 s
   - - - '21'
       - Frank Chetcuti
     - areaFlown: 40242229.0524 km^2 s
@@ -1031,9 +1031,9 @@ areas:
       areaBeforeStart: 26216864.3106 km^2 s
   - - - '42'
       - Mikhail Karmazin
-    - areaFlown: 1593651.0435 km^2 s
-      areaAfterLanding: 80732273.2042 km^2 s
-      areaBeforeStart: 0.0000 km^2 s
+    - areaFlown: 24867174.8411 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 817326.1775 km^2 s
   - - - '4'
       - Nick Purcell
     - areaFlown: 25034360.3776 km^2 s
@@ -1086,9 +1086,9 @@ areas:
       areaBeforeStart: 869056.8146 km^2 s
   - - - '43'
       - Simon West
-    - areaFlown: 6329537.5430 km^2 s
-      areaAfterLanding: 81506159.2288 km^2 s
-      areaBeforeStart: 0.0000 km^2 s
+    - areaFlown: 39146190.3380 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 11422832.9983 km^2 s
   - - - '22'
       - Steve Blenkinsop
     - areaFlown: 33235307.7157 km^2 s
@@ -1106,9 +1106,9 @@ areas:
       areaBeforeStart: 503633.5249 km^2 s
   - - - '14'
       - Tony Giammichele
-    - areaFlown: 1407563.5224 km^2 s
-      areaAfterLanding: 80539918.4938 km^2 s
-      areaBeforeStart: 0.0000 km^2 s
+    - areaFlown: 23908314.4943 km^2 s
+      areaAfterLanding: 0.0000 km^2 s
+      areaBeforeStart: 721644.4410 km^2 s
   - - - '17'
       - Trevor Purcell
     - areaFlown: 22494775.7556 km^2 s

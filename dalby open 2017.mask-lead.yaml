@@ -58,9 +58,9 @@ raceDistance:
 sumDistance:
 - 3357.539980 km
 - 3970.146052 km
-- 3094.078930 km
+- 3151.196930 km
 - 3552.181265 km
-- 2810.369188 km
+- 3079.967188 km
 leadAreaToCoef:
 - 0.00000005604606 km^-2 s^-1
 - 0.00000004487983 km^-2 s^-1
@@ -589,6 +589,11 @@ leadRank:
     - area: 33648702.1375 km^2 s
       coef: 1.99133209
       frac: 0.34742496
+  - - - '21'
+      - Frank Chetcuti
+    - area: 34127041.4009 km^2 s
+      coef: 2.01964023
+      frac: 0.32764043
   - - - '51'
       - Billy Miller-Macleod
     - area: 34157518.5057 km^2 s
@@ -708,11 +713,6 @@ leadRank:
       - Tony Giammichele
     - area: 59095339.5582 km^2 s
       coef: 3.49726552
-      frac: 0
-  - - - '21'
-      - Frank Chetcuti
-    - area: 59777545.7323 km^2 s
-      coef: 3.53763852
       frac: 0
   - - - '8'
       - Rod Flockhart
@@ -1079,6 +1079,11 @@ leadRank:
     - area: 23839351.1684 km^2 s
       coef: 1.67316728
       frac: 0.47345174
+  - - - '14'
+      - Tony Giammichele
+    - area: 23908314.4943 km^2 s
+      coef: 1.67800748
+      frac: 0.46947638
   - - - '5'
       - Jonny Durand
     - area: 24748264.0121 km^2 s
@@ -1099,6 +1104,11 @@ leadRank:
     - area: 24849709.4198 km^2 s
       coef: 1.74407937
       frac: 0.41660795
+  - - - '42'
+      - Mikhail Karmazin
+    - area: 24867174.8411 km^2 s
+      coef: 1.74530519
+      frac: 0.41565006
   - - - '4'
       - Nick Purcell
     - area: 25034360.3776 km^2 s
@@ -1124,6 +1134,11 @@ leadRank:
     - area: 35948522.9242 km^2 s
       coef: 2.52305073
       frac: 0
+  - - - '43'
+      - Simon West
+    - area: 39146190.3380 km^2 s
+      coef: 2.74747934
+      frac: 0
   - - - '21'
       - Frank Chetcuti
     - area: 40852599.2655 km^2 s
@@ -1138,6 +1153,11 @@ leadRank:
       - Guy Williams
     - area: 46443254.3753 km^2 s
       coef: 3.25962452
+      frac: 0
+  - - - '48'
+      - Derek Mckee
+    - area: 47462482.1362 km^2 s
+      coef: 3.33115912
       frac: 0
   - - - '32'
       - Rob Larkin
@@ -1178,26 +1198,6 @@ leadRank:
       - Dave Stevens
     - area: 66455416.5336 km^2 s
       coef: 4.66418015
-      frac: 0
-  - - - '14'
-      - Tony Giammichele
-    - area: 81947482.0162 km^2 s
-      coef: 5.75149233
-      frac: 0
-  - - - '42'
-      - Mikhail Karmazin
-    - area: 82325924.2477 km^2 s
-      coef: 5.77805334
-      frac: 0
-  - - - '43'
-      - Simon West
-    - area: 87835696.7718 km^2 s
-      coef: 6.16475728
-      frac: 0
-  - - - '48'
-      - Derek Mckee
-    - area: 88096371.2717 km^2 s
-      coef: 6.18305275
       frac: 0
   - - - '28'
       - John Harriot
