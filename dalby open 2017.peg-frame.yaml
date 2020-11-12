@@ -7,2527 +7,3449 @@ stopWindow:
 stopFlying:
 - - - - '35'
       - Anatoly Reyter
-    - scoredFixes:
-      - 0
-      - 6637
-      scoredSeconds:
-      - 0
-      - 13574
-      scoredTimes:
-      - 2017-04-09T02:58:20Z
-      - 2017-04-09T06:44:34Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 6637
+        scoredSeconds:
+        - 0
+        - 13574
+        scoredTimes:
+        - 2017-04-09T02:58:20Z
+        - 2017-04-09T06:44:34Z
+        scoredWindowSeconds: 13574
   - - - '16'
       - Andrew Barnes
-    - scoredFixes:
-      - 27
-      - 3017
-      scoredSeconds:
-      - 135
-      - 14517
-      scoredTimes:
-      - 2017-04-09T02:36:03Z
-      - 2017-04-09T06:35:45Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 27
+        - 3017
+        scoredSeconds:
+        - 135
+        - 14517
+        scoredTimes:
+        - 2017-04-09T02:36:03Z
+        - 2017-04-09T06:35:45Z
+        scoredWindowSeconds: 14382
   - - - '15'
       - Andrew Sharpe
-    - scoredFixes:
-      - 0
-      - 11218
-      scoredSeconds:
-      - 0
-      - 11218
-      scoredTimes:
-      - 2017-04-09T02:27:10Z
-      - 2017-04-09T05:34:08Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 11218
+        scoredSeconds:
+        - 0
+        - 11218
+        scoredTimes:
+        - 2017-04-09T02:27:10Z
+        - 2017-04-09T05:34:08Z
+        scoredWindowSeconds: 11218
   - - - '51'
       - Billy Miller-Macleod
-    - scoredFixes:
-      - 0
-      - 1461
-      scoredSeconds:
-      - 0
-      - 14030
-      scoredTimes:
-      - 2017-04-09T02:28:03Z
-      - 2017-04-09T06:21:53Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1461
+        scoredSeconds:
+        - 0
+        - 14030
+        scoredTimes:
+        - 2017-04-09T02:28:03Z
+        - 2017-04-09T06:21:53Z
+        scoredWindowSeconds: 14030
   - - - '36'
       - Brad Porter
-    - scoredFixes:
-      - 0
-      - 7123
-      scoredSeconds:
-      - 0
-      - 16557
-      scoredTimes:
-      - 2017-04-09T02:15:54Z
-      - 2017-04-09T06:51:51Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 7123
+        scoredSeconds:
+        - 0
+        - 16557
+        scoredTimes:
+        - 2017-04-09T02:15:54Z
+        - 2017-04-09T06:51:51Z
+        scoredWindowSeconds: 16557
   - - - '24'
       - Brodrick Osborne
-    - scoredFixes:
-      - 22
-      - 7917
-      scoredSeconds:
-      - 45
-      - 15872
-      scoredTimes:
-      - 2017-04-09T02:22:32Z
-      - 2017-04-09T06:46:19Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 22
+        - 7917
+        scoredSeconds:
+        - 45
+        - 15872
+        scoredTimes:
+        - 2017-04-09T02:22:32Z
+        - 2017-04-09T06:46:19Z
+        scoredWindowSeconds: 15827
   - - - '10'
       - Craig Taylor
-    - scoredFixes:
-      - 2
-      - 1033
-      scoredSeconds:
-      - 60
-      - 10527
-      scoredTimes:
-      - 2017-04-09T02:22:46Z
-      - 2017-04-09T05:17:13Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 1033
+        scoredSeconds:
+        - 60
+        - 10527
+        scoredTimes:
+        - 2017-04-09T02:22:46Z
+        - 2017-04-09T05:17:13Z
+        scoredWindowSeconds: 10467
   - - - '49'
       - Damian Peauril
-    - null
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
   - - - '38'
       - Dave Stevens
-    - scoredFixes:
-      - 9
-      - 1669
-      scoredSeconds:
-      - 270
-      - 16865
-      scoredTimes:
-      - 2017-04-09T02:03:53Z
-      - 2017-04-09T06:40:28Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 1669
+        scoredSeconds:
+        - 270
+        - 16865
+        scoredTimes:
+        - 2017-04-09T02:03:53Z
+        - 2017-04-09T06:40:28Z
+        scoredWindowSeconds: 16595
   - - - '48'
       - Derek Mckee
-    - scoredFixes:
-      - 0
-      - 5895
-      scoredSeconds:
-      - 0
-      - 11812
-      scoredTimes:
-      - 2017-04-09T03:03:13Z
-      - 2017-04-09T06:20:05Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 5895
+        scoredSeconds:
+        - 0
+        - 11812
+        scoredTimes:
+        - 2017-04-09T03:03:13Z
+        - 2017-04-09T06:20:05Z
+        scoredWindowSeconds: 11812
   - - - '21'
       - Frank Chetcuti
-    - scoredFixes:
-      - 0
-      - 3274
-      scoredSeconds:
-      - 0
-      - 18531
-      scoredTimes:
-      - 2017-04-09T02:38:51Z
-      - 2017-04-09T07:47:42Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3274
+        scoredSeconds:
+        - 0
+        - 18531
+        scoredTimes:
+        - 2017-04-09T02:38:51Z
+        - 2017-04-09T07:47:42Z
+        scoredWindowSeconds: 18531
   - - - '29'
       - Guy Hubbard
-    - scoredFixes:
-      - 0
-      - 133
-      scoredSeconds:
-      - 0
-      - 1321
-      scoredTimes:
-      - 2017-04-09T04:07:58Z
-      - 2017-04-09T04:29:59Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 133
+        scoredSeconds:
+        - 0
+        - 1321
+        scoredTimes:
+        - 2017-04-09T04:07:58Z
+        - 2017-04-09T04:29:59Z
+        scoredWindowSeconds: 1321
   - - - '27'
       - Guy Williams
-    - scoredFixes:
-      - 10
-      - 3219
-      scoredSeconds:
-      - 300
-      - 15542
-      scoredTimes:
-      - 2017-04-09T02:42:00Z
-      - 2017-04-09T06:56:02Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 10
+        - 3219
+        scoredSeconds:
+        - 300
+        - 15542
+        scoredTimes:
+        - 2017-04-09T02:42:00Z
+        - 2017-04-09T06:56:02Z
+        scoredWindowSeconds: 15242
   - - - '25'
       - Hagen Bruggemann
-    - scoredFixes:
-      - 24
-      - 4819
-      scoredSeconds:
-      - 73
-      - 14155
-      scoredTimes:
-      - 2017-04-09T02:33:53Z
-      - 2017-04-09T06:28:35Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 24
+        - 4819
+        scoredSeconds:
+        - 73
+        - 14155
+        scoredTimes:
+        - 2017-04-09T02:33:53Z
+        - 2017-04-09T06:28:35Z
+        scoredWindowSeconds: 14082
   - - - '46'
       - Harrison Rowntree
-    - scoredFixes:
-      - 0
-      - 5150
-      scoredSeconds:
-      - 0
-      - 15803
-      scoredTimes:
-      - 2017-04-09T01:57:37Z
-      - 2017-04-09T06:21:00Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 5150
+        scoredSeconds:
+        - 0
+        - 15803
+        scoredTimes:
+        - 2017-04-09T01:57:37Z
+        - 2017-04-09T06:21:00Z
+        scoredWindowSeconds: 15803
   - - - '40'
       - Hossain Tefaili
-    - scoredFixes:
-      - 0
-      - 1228
-      scoredSeconds:
-      - 0
-      - 5248
-      scoredTimes:
-      - 2017-04-09T02:15:02Z
-      - 2017-04-09T03:42:30Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1228
+        scoredSeconds:
+        - 0
+        - 5248
+        scoredTimes:
+        - 2017-04-09T02:15:02Z
+        - 2017-04-09T03:42:30Z
+        scoredWindowSeconds: 5248
   - - - '7'
       - James Atkinson
-    - scoredFixes:
-      - 536
-      - 7466
-      scoredSeconds:
-      - 8572
-      - 22437
-      scoredTimes:
-      - 2017-04-09T02:48:30Z
-      - 2017-04-09T06:39:35Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 536
+        - 7466
+        scoredSeconds:
+        - 8572
+        - 22437
+        scoredTimes:
+        - 2017-04-09T02:48:30Z
+        - 2017-04-09T06:39:35Z
+        scoredWindowSeconds: 13865
   - - - '26'
       - Jason Kath
-    - scoredFixes:
-      - 2
-      - 12745
-      scoredSeconds:
-      - 415
-      - 14462
-      scoredTimes:
-      - 2017-04-09T02:32:50Z
-      - 2017-04-09T06:26:57Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 12745
+        scoredSeconds:
+        - 415
+        - 14462
+        scoredTimes:
+        - 2017-04-09T02:32:50Z
+        - 2017-04-09T06:26:57Z
+        scoredWindowSeconds: 14047
   - - - '28'
       - John Harriot
-    - scoredFixes:
-      - 2
-      - 2972
-      scoredSeconds:
-      - 60
-      - 15003
-      scoredTimes:
-      - 2017-04-09T02:15:08Z
-      - 2017-04-09T06:24:11Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 2972
+        scoredSeconds:
+        - 60
+        - 15003
+        scoredTimes:
+        - 2017-04-09T02:15:08Z
+        - 2017-04-09T06:24:11Z
+        scoredWindowSeconds: 14943
   - - - '37'
       - John Spencer
-    - scoredFixes:
-      - 29
-      - 3056
-      scoredSeconds:
-      - 145
-      - 15342
-      scoredTimes:
-      - 2017-04-09T02:27:35Z
-      - 2017-04-09T06:40:52Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 29
+        - 3056
+        scoredSeconds:
+        - 145
+        - 15342
+        scoredTimes:
+        - 2017-04-09T02:27:35Z
+        - 2017-04-09T06:40:52Z
+        scoredWindowSeconds: 15197
   - - - '5'
       - Jonny Durand
-    - scoredFixes:
-      - 0
-      - 3783
-      scoredSeconds:
-      - 0
-      - 11492
-      scoredTimes:
-      - 2017-04-09T02:58:12Z
-      - 2017-04-09T06:09:44Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3783
+        scoredSeconds:
+        - 0
+        - 11492
+        scoredTimes:
+        - 2017-04-09T02:58:12Z
+        - 2017-04-09T06:09:44Z
+        scoredWindowSeconds: 11492
   - - - '44'
       - Josh Woods
-    - scoredFixes:
-      - 3
-      - 3116
-      scoredSeconds:
-      - 91
-      - 15686
-      scoredTimes:
-      - 2017-04-09T02:00:55Z
-      - 2017-04-09T06:20:50Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3
+        - 3116
+        scoredSeconds:
+        - 91
+        - 15686
+        scoredTimes:
+        - 2017-04-09T02:00:55Z
+        - 2017-04-09T06:20:50Z
+        scoredWindowSeconds: 15595
   - - - '20'
       - Konrad Heilmann
-    - scoredFixes:
-      - 6
-      - 1690
-      scoredSeconds:
-      - 60
-      - 14800
-      scoredTimes:
-      - 2017-04-09T02:22:12Z
-      - 2017-04-09T06:27:52Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 6
+        - 1690
+        scoredSeconds:
+        - 60
+        - 14800
+        scoredTimes:
+        - 2017-04-09T02:22:12Z
+        - 2017-04-09T06:27:52Z
+        scoredWindowSeconds: 14740
   - - - '1'
       - Mark Alton
-    - scoredFixes:
-      - 0
-      - 2869
-      scoredSeconds:
-      - 0
-      - 14594
-      scoredTimes:
-      - 2017-04-09T02:44:58Z
-      - 2017-04-09T06:48:12Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2869
+        scoredSeconds:
+        - 0
+        - 14594
+        scoredTimes:
+        - 2017-04-09T02:44:58Z
+        - 2017-04-09T06:48:12Z
+        scoredWindowSeconds: 14594
   - - - '13'
       - Matthew Barlow
-    - scoredFixes:
-      - 28
-      - 2791
-      scoredSeconds:
-      - 140
-      - 13500
-      scoredTimes:
-      - 2017-04-09T02:44:22Z
-      - 2017-04-09T06:27:02Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 28
+        - 2791
+        scoredSeconds:
+        - 140
+        - 13500
+        scoredTimes:
+        - 2017-04-09T02:44:22Z
+        - 2017-04-09T06:27:02Z
+        scoredWindowSeconds: 13360
   - - - '42'
       - Mikhail Karmazin
-    - scoredFixes:
-      - 2
-      - 693
-      scoredSeconds:
-      - 60
-      - 1665
-      scoredTimes:
-      - 2017-04-09T04:16:52Z
-      - 2017-04-09T04:43:37Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 693
+        scoredSeconds:
+        - 60
+        - 1665
+        scoredTimes:
+        - 2017-04-09T04:16:52Z
+        - 2017-04-09T04:43:37Z
+        scoredWindowSeconds: 1605
   - - - '4'
       - Nick Purcell
-    - scoredFixes:
-      - 12
-      - 4920
-      scoredSeconds:
-      - 8457
-      - 25212
-      scoredTimes:
-      - 2017-04-09T02:43:04Z
-      - 2017-04-09T07:22:19Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 12
+        - 4920
+        scoredSeconds:
+        - 8457
+        - 25212
+        scoredTimes:
+        - 2017-04-09T02:43:04Z
+        - 2017-04-09T07:22:19Z
+        scoredWindowSeconds: 16755
   - - - '33'
       - Niki Longshore
-    - scoredFixes:
-      - 7
-      - 1873
-      scoredSeconds:
-      - 212
-      - 17257
-      scoredTimes:
-      - 2017-04-09T02:10:14Z
-      - 2017-04-09T06:54:19Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 7
+        - 1873
+        scoredSeconds:
+        - 212
+        - 17257
+        scoredTimes:
+        - 2017-04-09T02:10:14Z
+        - 2017-04-09T06:54:19Z
+        scoredWindowSeconds: 17045
   - - - '23'
       - Noel Collins
-    - scoredFixes:
-      - 0
-      - 15375
-      scoredSeconds:
-      - 0
-      - 15375
-      scoredTimes:
-      - 2017-04-09T02:40:41Z
-      - 2017-04-09T06:56:56Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 15375
+        scoredSeconds:
+        - 0
+        - 15375
+        scoredTimes:
+        - 2017-04-09T02:40:41Z
+        - 2017-04-09T06:56:56Z
+        scoredWindowSeconds: 15375
   - - - '3'
       - Paul Allen
-    - scoredFixes:
-      - 3
-      - 502
-      scoredSeconds:
-      - 90
-      - 5208
-      scoredTimes:
-      - 2017-04-09T02:07:13Z
-      - 2017-04-09T03:32:31Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3
+        - 502
+        scoredSeconds:
+        - 90
+        - 5208
+        scoredTimes:
+        - 2017-04-09T02:07:13Z
+        - 2017-04-09T03:32:31Z
+        scoredWindowSeconds: 5118
   - - - '18'
       - Peter Adriaans
-    - scoredFixes:
-      - 44
-      - 11998
-      scoredSeconds:
-      - 44
-      - 11998
-      scoredTimes:
-      - 2017-04-09T02:42:10Z
-      - 2017-04-09T06:01:24Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 44
+        - 11998
+        scoredSeconds:
+        - 44
+        - 11998
+        scoredTimes:
+        - 2017-04-09T02:42:10Z
+        - 2017-04-09T06:01:24Z
+        scoredWindowSeconds: 11954
   - - - '41'
       - Peter Burkitt
-    - scoredFixes:
-      - 9
-      - 3351
-      scoredSeconds:
-      - 249
-      - 16586
-      scoredTimes:
-      - 2017-04-09T02:12:35Z
-      - 2017-04-09T06:44:52Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 3351
+        scoredSeconds:
+        - 249
+        - 16586
+        scoredTimes:
+        - 2017-04-09T02:12:35Z
+        - 2017-04-09T06:44:52Z
+        scoredWindowSeconds: 16337
   - - - '32'
       - Rob Larkin
-    - scoredFixes:
-      - 10
-      - 1611
-      scoredSeconds:
-      - 298
-      - 16279
-      scoredTimes:
-      - 2017-04-09T02:17:43Z
-      - 2017-04-09T06:44:04Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 10
+        - 1611
+        scoredSeconds:
+        - 298
+        - 16279
+        scoredTimes:
+        - 2017-04-09T02:17:43Z
+        - 2017-04-09T06:44:04Z
+        scoredWindowSeconds: 15981
   - - - '8'
       - Rod Flockhart
-    - scoredFixes:
-      - 731
-      - 4381
-      scoredSeconds:
-      - 58550
-      - 69508
-      scoredTimes:
-      - 2017-04-09T02:20:37Z
-      - 2017-04-09T05:23:15Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 731
+        - 4381
+        scoredSeconds:
+        - 58550
+        - 69508
+        scoredTimes:
+        - 2017-04-09T02:20:37Z
+        - 2017-04-09T05:23:15Z
+        scoredWindowSeconds: 10958
   - - - '9'
       - Rohan Taylor
-    - scoredFixes:
-      - 0
-      - 2729
-      scoredSeconds:
-      - 0
-      - 11300
-      scoredTimes:
-      - 2017-04-09T02:46:38Z
-      - 2017-04-09T05:54:58Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2729
+        scoredSeconds:
+        - 0
+        - 11300
+        scoredTimes:
+        - 2017-04-09T02:46:38Z
+        - 2017-04-09T05:54:58Z
+        scoredWindowSeconds: 11300
   - - - '12'
       - Rory Duncan
-    - scoredFixes:
-      - 0
-      - 1187
-      scoredSeconds:
-      - 0
-      - 12074
-      scoredTimes:
-      - 2017-04-09T02:27:08Z
-      - 2017-04-09T05:48:22Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1187
+        scoredSeconds:
+        - 0
+        - 12074
+        scoredTimes:
+        - 2017-04-09T02:27:08Z
+        - 2017-04-09T05:48:22Z
+        scoredWindowSeconds: 12074
   - - - '19'
       - Scott Barrett
-    - scoredFixes:
-      - 0
-      - 9721
-      scoredSeconds:
-      - 0
-      - 101521
-      scoredTimes:
-      - 2017-04-08T02:37:56Z
-      - 2017-04-09T06:49:57Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 9721
+        scoredSeconds:
+        - 0
+        - 101521
+        scoredTimes:
+        - 2017-04-08T02:37:56Z
+        - 2017-04-09T06:49:57Z
+        scoredWindowSeconds: 101521
   - - - '43'
       - Simon West
-    - scoredFixes:
-      - 9
-      - 1176
-      scoredSeconds:
-      - 255
-      - 6089
-      scoredTimes:
-      - 2017-04-09T02:54:03Z
-      - 2017-04-09T04:31:17Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 1176
+        scoredSeconds:
+        - 255
+        - 6089
+        scoredTimes:
+        - 2017-04-09T02:54:03Z
+        - 2017-04-09T04:31:17Z
+        scoredWindowSeconds: 5834
   - - - '22'
       - Steve Blenkinsop
-    - scoredFixes:
-      - 10
-      - 5133
-      scoredSeconds:
-      - 302
-      - 15458
-      scoredTimes:
-      - 2017-04-09T02:09:53Z
-      - 2017-04-09T06:22:29Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 10
+        - 5133
+        scoredSeconds:
+        - 302
+        - 15458
+        scoredTimes:
+        - 2017-04-09T02:09:53Z
+        - 2017-04-09T06:22:29Z
+        scoredWindowSeconds: 15156
   - - - '31'
       - Tomas Kellner
-    - scoredFixes:
-      - 9
-      - 1138
-      scoredSeconds:
-      - 255
-      - 5900
-      scoredTimes:
-      - 2017-04-09T02:54:03Z
-      - 2017-04-09T04:28:08Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 1138
+        scoredSeconds:
+        - 255
+        - 5900
+        scoredTimes:
+        - 2017-04-09T02:54:03Z
+        - 2017-04-09T04:28:08Z
+        scoredWindowSeconds: 5645
   - - - '2'
       - Tony Armstrong
-    - scoredFixes:
-      - 6
-      - 3870
-      scoredSeconds:
-      - 180
-      - 11875
-      scoredTimes:
-      - 2017-04-09T02:33:29Z
-      - 2017-04-09T05:48:24Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 6
+        - 3870
+        scoredSeconds:
+        - 180
+        - 11875
+        scoredTimes:
+        - 2017-04-09T02:33:29Z
+        - 2017-04-09T05:48:24Z
+        scoredWindowSeconds: 11695
   - - - '14'
       - Tony Giammichele
-    - scoredFixes:
-      - 0
-      - 4250
-      scoredSeconds:
-      - 0
-      - 12792
-      scoredTimes:
-      - 2017-04-09T02:54:39Z
-      - 2017-04-09T06:27:51Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 4250
+        scoredSeconds:
+        - 0
+        - 12792
+        scoredTimes:
+        - 2017-04-09T02:54:39Z
+        - 2017-04-09T06:27:51Z
+        scoredWindowSeconds: 12792
   - - - '17'
       - Trevor Purcell
-    - scoredFixes:
-      - 0
-      - 5177
-      scoredSeconds:
-      - 0
-      - 15528
-      scoredTimes:
-      - 2017-04-09T02:11:43Z
-      - 2017-04-09T06:30:31Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 5177
+        scoredSeconds:
+        - 0
+        - 15528
+        scoredTimes:
+        - 2017-04-09T02:11:43Z
+        - 2017-04-09T06:30:31Z
+        scoredWindowSeconds: 15528
   - - - '6'
       - Viv Clements
-    - scoredFixes:
-      - 0
-      - 13895
-      scoredSeconds:
-      - 0
-      - 13895
-      scoredTimes:
-      - 2017-04-09T02:45:45Z
-      - 2017-04-09T06:37:20Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 13895
+        scoredSeconds:
+        - 0
+        - 13895
+        scoredTimes:
+        - 2017-04-09T02:45:45Z
+        - 2017-04-09T06:37:20Z
+        scoredWindowSeconds: 13895
   - - - '34'
       - dave moore
-    - scoredFixes:
-      - 2
-      - 3795
-      scoredSeconds:
-      - 60
-      - 11799
-      scoredTimes:
-      - 2017-04-09T02:43:50Z
-      - 2017-04-09T05:59:29Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 3795
+        scoredSeconds:
+        - 60
+        - 11799
+        scoredTimes:
+        - 2017-04-09T02:43:50Z
+        - 2017-04-09T05:59:29Z
+        scoredWindowSeconds: 11739
   - - - '39'
       - rob degroot
-    - scoredFixes:
-      - 0
-      - 3764
-      scoredSeconds:
-      - 0
-      - 15050
-      scoredTimes:
-      - 2017-04-09T02:37:15Z
-      - 2017-04-09T06:48:05Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3764
+        scoredSeconds:
+        - 0
+        - 15050
+        scoredTimes:
+        - 2017-04-09T02:37:15Z
+        - 2017-04-09T06:48:05Z
+        scoredWindowSeconds: 15050
   - - - '45'
       - steve crosby
-    - scoredFixes:
-      - 28
-      - 1844
-      scoredSeconds:
-      - 280
-      - 14954
-      scoredTimes:
-      - 2017-04-09T02:29:02Z
-      - 2017-04-09T06:33:36Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 28
+        - 1844
+        scoredSeconds:
+        - 280
+        - 14954
+        scoredTimes:
+        - 2017-04-09T02:29:02Z
+        - 2017-04-09T06:33:36Z
+        scoredWindowSeconds: 14674
 - - - - '35'
       - Anatoly Reyter
-    - scoredFixes:
-      - 0
-      - 8488
-      scoredSeconds:
-      - 0
-      - 17285
-      scoredTimes:
-      - 2017-04-12T02:18:11Z
-      - 2017-04-12T07:06:16Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 8488
+        scoredSeconds:
+        - 0
+        - 17285
+        scoredTimes:
+        - 2017-04-12T02:18:11Z
+        - 2017-04-12T07:06:16Z
+        scoredWindowSeconds: 17285
   - - - '16'
       - Andrew Barnes
-    - scoredFixes:
-      - 27
-      - 2826
-      scoredSeconds:
-      - 135
-      - 12835
-      scoredTimes:
-      - 2017-04-12T03:01:12Z
-      - 2017-04-12T06:32:52Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 27
+        - 2826
+        scoredSeconds:
+        - 135
+        - 12835
+        scoredTimes:
+        - 2017-04-12T03:01:12Z
+        - 2017-04-12T06:32:52Z
+        scoredWindowSeconds: 12700
   - - - '15'
       - Andrew Sharpe
-    - scoredFixes:
-      - 0
-      - 5682
-      scoredSeconds:
-      - 0
-      - 5682
-      scoredTimes:
-      - 2017-04-12T02:35:05Z
-      - 2017-04-12T04:09:47Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 5682
+        scoredSeconds:
+        - 0
+        - 5682
+        scoredTimes:
+        - 2017-04-12T02:35:05Z
+        - 2017-04-12T04:09:47Z
+        scoredWindowSeconds: 5682
   - - - '51'
       - Billy Miller-Macleod
-    - scoredFixes:
-      - 8
-      - 1139
-      scoredSeconds:
-      - 240
-      - 11561
-      scoredTimes:
-      - 2017-04-12T02:02:48Z
-      - 2017-04-12T05:11:29Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 8
+        - 1139
+        scoredSeconds:
+        - 240
+        - 11561
+        scoredTimes:
+        - 2017-04-12T02:02:48Z
+        - 2017-04-12T05:11:29Z
+        scoredWindowSeconds: 11321
   - - - '36'
       - Brad Porter
-    - scoredFixes:
-      - 0
-      - 7672
-      scoredSeconds:
-      - 0
-      - 14257
-      scoredTimes:
-      - 2017-04-12T01:55:24Z
-      - 2017-04-12T05:53:01Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 7672
+        scoredSeconds:
+        - 0
+        - 14257
+        scoredTimes:
+        - 2017-04-12T01:55:24Z
+        - 2017-04-12T05:53:01Z
+        scoredWindowSeconds: 14257
   - - - '24'
       - Brodrick Osborne
-    - scoredFixes:
-      - 0
-      - 8601
-      scoredSeconds:
-      - 0
-      - 17262
-      scoredTimes:
-      - 2017-04-12T02:14:40Z
-      - 2017-04-12T07:02:22Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 8601
+        scoredSeconds:
+        - 0
+        - 17262
+        scoredTimes:
+        - 2017-04-12T02:14:40Z
+        - 2017-04-12T07:02:22Z
+        scoredWindowSeconds: 17262
   - - - '10'
       - Craig Taylor
-    - scoredFixes:
-      - 5
-      - 1665
-      scoredSeconds:
-      - 150
-      - 12864
-      scoredTimes:
-      - 2017-04-12T02:29:59Z
-      - 2017-04-12T06:01:53Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 5
+        - 1665
+        scoredSeconds:
+        - 150
+        - 12864
+        scoredTimes:
+        - 2017-04-12T02:29:59Z
+        - 2017-04-12T06:01:53Z
+        scoredWindowSeconds: 12714
   - - - '49'
       - Damian Peauril
-    - null
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
   - - - '38'
       - Dave Stevens
-    - scoredFixes:
-      - 0
-      - 1855
-      scoredSeconds:
-      - 0
-      - 15621
-      scoredTimes:
-      - 2017-04-12T02:15:02Z
-      - 2017-04-12T06:35:23Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1855
+        scoredSeconds:
+        - 0
+        - 15621
+        scoredTimes:
+        - 2017-04-12T02:15:02Z
+        - 2017-04-12T06:35:23Z
+        scoredWindowSeconds: 15621
   - - - '48'
       - Derek Mckee
-    - scoredFixes:
-      - 9
-      - 6709
-      scoredSeconds:
-      - 270
-      - 13723
-      scoredTimes:
-      - 2017-04-12T01:45:56Z
-      - 2017-04-12T05:30:09Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 6709
+        scoredSeconds:
+        - 270
+        - 13723
+        scoredTimes:
+        - 2017-04-12T01:45:56Z
+        - 2017-04-12T05:30:09Z
+        scoredWindowSeconds: 13453
   - - - '21'
       - Frank Chetcuti
-    - scoredFixes:
-      - 0
-      - 718
-      scoredSeconds:
-      - 0
-      - 25349
-      scoredTimes:
-      - 2017-04-12T00:06:02Z
-      - 2017-04-12T07:08:31Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 718
+        scoredSeconds:
+        - 0
+        - 25349
+        scoredTimes:
+        - 2017-04-12T00:06:02Z
+        - 2017-04-12T07:08:31Z
+        scoredWindowSeconds: 25349
   - - - '29'
       - Guy Hubbard
-    - scoredFixes:
-      - 9
-      - 1560
-      scoredSeconds:
-      - 270
-      - 14443
-      scoredTimes:
-      - 2017-04-12T01:50:09Z
-      - 2017-04-12T05:46:22Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 1560
+        scoredSeconds:
+        - 270
+        - 14443
+        scoredTimes:
+        - 2017-04-12T01:50:09Z
+        - 2017-04-12T05:46:22Z
+        scoredWindowSeconds: 14173
   - - - '27'
       - Guy Williams
-    - scoredFixes:
-      - 10
-      - 938
-      scoredSeconds:
-      - 300
-      - 4934
-      scoredTimes:
-      - 2017-04-12T02:14:29Z
-      - 2017-04-12T03:31:43Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 10
+        - 938
+        scoredSeconds:
+        - 300
+        - 4934
+        scoredTimes:
+        - 2017-04-12T02:14:29Z
+        - 2017-04-12T03:31:43Z
+        scoredWindowSeconds: 4634
   - - - '25'
       - Hagen Bruggemann
-    - scoredFixes:
-      - 25
-      - 4826
-      scoredSeconds:
-      - 75
-      - 14243
-      scoredTimes:
-      - 2017-04-12T02:25:39Z
-      - 2017-04-12T06:21:47Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 25
+        - 4826
+        scoredSeconds:
+        - 75
+        - 14243
+        scoredTimes:
+        - 2017-04-12T02:25:39Z
+        - 2017-04-12T06:21:47Z
+        scoredWindowSeconds: 14168
   - - - '46'
       - Harrison Rowntree
-    - scoredFixes:
-      - 9
-      - 4317
-      scoredSeconds:
-      - 271
-      - 12853
-      scoredTimes:
-      - 2017-04-12T02:41:40Z
-      - 2017-04-12T06:11:22Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 4317
+        scoredSeconds:
+        - 271
+        - 12853
+        scoredTimes:
+        - 2017-04-12T02:41:40Z
+        - 2017-04-12T06:11:22Z
+        scoredWindowSeconds: 12582
   - - - '40'
       - Hossain Tefaili
-    - scoredFixes:
-      - 15
-      - 6612
-      scoredSeconds:
-      - 30
-      - 13442
-      scoredTimes:
-      - 2017-04-12T02:36:55Z
-      - 2017-04-12T06:20:27Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 15
+        - 6612
+        scoredSeconds:
+        - 30
+        - 13442
+        scoredTimes:
+        - 2017-04-12T02:36:55Z
+        - 2017-04-12T06:20:27Z
+        scoredWindowSeconds: 13412
   - - - '7'
       - James Atkinson
-    - scoredFixes:
-      - 212
-      - 8653
-      scoredSeconds:
-      - 425
-      - 17315
-      scoredTimes:
-      - 2017-04-12T02:15:11Z
-      - 2017-04-12T06:56:41Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 212
+        - 8653
+        scoredSeconds:
+        - 425
+        - 17315
+        scoredTimes:
+        - 2017-04-12T02:15:11Z
+        - 2017-04-12T06:56:41Z
+        scoredWindowSeconds: 16890
   - - - '26'
       - Jason Kath
-    - scoredFixes:
-      - 2
-      - 14473
-      scoredSeconds:
-      - 967
-      - 16445
-      scoredTimes:
-      - 2017-04-12T02:05:16Z
-      - 2017-04-12T06:23:14Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 14473
+        scoredSeconds:
+        - 967
+        - 16445
+        scoredTimes:
+        - 2017-04-12T02:05:16Z
+        - 2017-04-12T06:23:14Z
+        scoredWindowSeconds: 15478
   - - - '28'
       - John Harriot
-    - scoredFixes:
-      - 7
-      - 1614
-      scoredSeconds:
-      - 210
-      - 8279
-      scoredTimes:
-      - 2017-04-12T02:29:38Z
-      - 2017-04-12T04:44:07Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 7
+        - 1614
+        scoredSeconds:
+        - 210
+        - 8279
+        scoredTimes:
+        - 2017-04-12T02:29:38Z
+        - 2017-04-12T04:44:07Z
+        scoredWindowSeconds: 8069
   - - - '37'
       - John Spencer
-    - scoredFixes:
-      - 8
-      - 3172
-      scoredSeconds:
-      - 40
-      - 15904
-      scoredTimes:
-      - 2017-04-12T02:19:44Z
-      - 2017-04-12T06:44:08Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 8
+        - 3172
+        scoredSeconds:
+        - 40
+        - 15904
+        scoredTimes:
+        - 2017-04-12T02:19:44Z
+        - 2017-04-12T06:44:08Z
+        scoredWindowSeconds: 15864
   - - - '5'
       - Jonny Durand
-    - scoredFixes:
-      - 0
-      - 4188
-      scoredSeconds:
-      - 0
-      - 12571
-      scoredTimes:
-      - 2017-04-12T02:47:46Z
-      - 2017-04-12T06:17:17Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 4188
+        scoredSeconds:
+        - 0
+        - 12571
+        scoredTimes:
+        - 2017-04-12T02:47:46Z
+        - 2017-04-12T06:17:17Z
+        scoredWindowSeconds: 12571
   - - - '44'
       - Josh Woods
-    - scoredFixes:
-      - 4
-      - 2697
-      scoredSeconds:
-      - 120
-      - 13306
-      scoredTimes:
-      - 2017-04-12T02:06:17Z
-      - 2017-04-12T05:46:03Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 4
+        - 2697
+        scoredSeconds:
+        - 120
+        - 13306
+        scoredTimes:
+        - 2017-04-12T02:06:17Z
+        - 2017-04-12T05:46:03Z
+        scoredWindowSeconds: 13186
   - - - '20'
       - Konrad Heilmann
-    - scoredFixes:
-      - 27
-      - 1894
-      scoredSeconds:
-      - 270
-      - 14182
-      scoredTimes:
-      - 2017-04-12T02:06:15Z
-      - 2017-04-12T05:58:07Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 27
+        - 1894
+        scoredSeconds:
+        - 270
+        - 14182
+        scoredTimes:
+        - 2017-04-12T02:06:15Z
+        - 2017-04-12T05:58:07Z
+        scoredWindowSeconds: 13912
   - - - '1'
       - Mark Alton
-    - scoredFixes:
-      - 0
-      - 2400
-      scoredSeconds:
-      - 0
-      - 12239
-      scoredTimes:
-      - 2017-04-12T02:16:21Z
-      - 2017-04-12T05:40:20Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2400
+        scoredSeconds:
+        - 0
+        - 12239
+        scoredTimes:
+        - 2017-04-12T02:16:21Z
+        - 2017-04-12T05:40:20Z
+        scoredWindowSeconds: 12239
   - - - '13'
       - Matthew Barlow
-    - scoredFixes:
-      - 26
-      - 2863
-      scoredSeconds:
-      - 130
-      - 14327
-      scoredTimes:
-      - 2017-04-12T02:00:25Z
-      - 2017-04-12T05:57:02Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 26
+        - 2863
+        scoredSeconds:
+        - 130
+        - 14327
+        scoredTimes:
+        - 2017-04-12T02:00:25Z
+        - 2017-04-12T05:57:02Z
+        scoredWindowSeconds: 14197
   - - - '42'
       - Mikhail Karmazin
-    - scoredFixes:
-      - 7
-      - 7826
-      scoredSeconds:
-      - 240
-      - 15476
-      scoredTimes:
-      - 2017-04-12T01:50:48Z
-      - 2017-04-12T06:04:44Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 7
+        - 7826
+        scoredSeconds:
+        - 240
+        - 15476
+        scoredTimes:
+        - 2017-04-12T01:50:48Z
+        - 2017-04-12T06:04:44Z
+        scoredWindowSeconds: 15236
   - - - '4'
       - Nick Purcell
-    - scoredFixes:
-      - 3
-      - 6013
-      scoredSeconds:
-      - 18
-      - 13090
-      scoredTimes:
-      - 2017-04-12T02:15:15Z
-      - 2017-04-12T05:53:07Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3
+        - 6013
+        scoredSeconds:
+        - 18
+        - 13090
+        scoredTimes:
+        - 2017-04-12T02:15:15Z
+        - 2017-04-12T05:53:07Z
+        scoredWindowSeconds: 13072
   - - - '33'
       - Niki Longshore
-    - scoredFixes:
-      - 2
-      - 1696
-      scoredSeconds:
-      - 61
-      - 14221
-      scoredTimes:
-      - 2017-04-12T02:05:53Z
-      - 2017-04-12T06:01:53Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 1696
+        scoredSeconds:
+        - 61
+        - 14221
+        scoredTimes:
+        - 2017-04-12T02:05:53Z
+        - 2017-04-12T06:01:53Z
+        scoredWindowSeconds: 14160
   - - - '23'
       - Noel Collins
-    - scoredFixes:
-      - 0
-      - 5682
-      scoredSeconds:
-      - 0
-      - 5682
-      scoredTimes:
-      - 2017-04-12T02:35:05Z
-      - 2017-04-12T04:09:47Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 5682
+        scoredSeconds:
+        - 0
+        - 5682
+        scoredTimes:
+        - 2017-04-12T02:35:05Z
+        - 2017-04-12T04:09:47Z
+        scoredWindowSeconds: 5682
   - - - '3'
       - Paul Allen
-    - scoredFixes:
-      - 0
-      - 632
-      scoredSeconds:
-      - 0
-      - 6523
-      scoredTimes:
-      - 2017-04-12T02:39:05Z
-      - 2017-04-12T04:27:48Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 632
+        scoredSeconds:
+        - 0
+        - 6523
+        scoredTimes:
+        - 2017-04-12T02:39:05Z
+        - 2017-04-12T04:27:48Z
+        scoredWindowSeconds: 6523
   - - - '18'
       - Peter Adriaans
-    - scoredFixes:
-      - 45
-      - 16366
-      scoredSeconds:
-      - 45
-      - 16427
-      scoredTimes:
-      - 2017-04-12T02:33:47Z
-      - 2017-04-12T07:06:49Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 45
+        - 16366
+        scoredSeconds:
+        - 45
+        - 16427
+        scoredTimes:
+        - 2017-04-12T02:33:47Z
+        - 2017-04-12T07:06:49Z
+        scoredWindowSeconds: 16382
   - - - '41'
       - Peter Burkitt
-    - scoredFixes:
-      - 0
-      - 2122
-      scoredSeconds:
-      - 0
-      - 10666
-      scoredTimes:
-      - 2017-04-12T02:24:03Z
-      - 2017-04-12T05:21:49Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2122
+        scoredSeconds:
+        - 0
+        - 10666
+        scoredTimes:
+        - 2017-04-12T02:24:03Z
+        - 2017-04-12T05:21:49Z
+        scoredWindowSeconds: 10666
   - - - '32'
       - Rob Larkin
-    - scoredFixes:
-      - 10
-      - 1167
-      scoredSeconds:
-      - 300
-      - 9460
-      scoredTimes:
-      - 2017-04-12T05:12:55Z
-      - 2017-04-12T07:45:35Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 10
+        - 1167
+        scoredSeconds:
+        - 300
+        - 9460
+        scoredTimes:
+        - 2017-04-12T05:12:55Z
+        - 2017-04-12T07:45:35Z
+        scoredWindowSeconds: 9160
   - - - '8'
       - Rod Flockhart
-    - scoredFixes:
-      - 734
-      - 5156
-      scoredSeconds:
-      - 2202
-      - 15476
-      scoredTimes:
-      - 2017-04-12T03:01:12Z
-      - 2017-04-12T06:42:26Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 734
+        - 5156
+        scoredSeconds:
+        - 2202
+        - 15476
+        scoredTimes:
+        - 2017-04-12T03:01:12Z
+        - 2017-04-12T06:42:26Z
+        scoredWindowSeconds: 13274
   - - - '9'
       - Rohan Taylor
-    - scoredFixes:
-      - 47
-      - 12616
-      scoredSeconds:
-      - 48
-      - 13835
-      scoredTimes:
-      - 2017-04-12T02:26:21Z
-      - 2017-04-12T06:16:08Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 47
+        - 12616
+        scoredSeconds:
+        - 48
+        - 13835
+        scoredTimes:
+        - 2017-04-12T02:26:21Z
+        - 2017-04-12T06:16:08Z
+        scoredWindowSeconds: 13787
   - - - '12'
       - Rory Duncan
-    - scoredFixes:
-      - 65
-      - 2939
-      scoredSeconds:
-      - 325
-      - 14696
-      scoredTimes:
-      - 2017-04-12T02:28:27Z
-      - 2017-04-12T06:27:58Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 65
+        - 2939
+        scoredSeconds:
+        - 325
+        - 14696
+        scoredTimes:
+        - 2017-04-12T02:28:27Z
+        - 2017-04-12T06:27:58Z
+        scoredWindowSeconds: 14371
   - - - '19'
       - Scott Barrett
-    - scoredFixes:
-      - 0
-      - 3030
-      scoredSeconds:
-      - 0
-      - 15348
-      scoredTimes:
-      - 2017-04-12T02:02:37Z
-      - 2017-04-12T06:18:25Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3030
+        scoredSeconds:
+        - 0
+        - 15348
+        scoredTimes:
+        - 2017-04-12T02:02:37Z
+        - 2017-04-12T06:18:25Z
+        scoredWindowSeconds: 15348
   - - - '43'
       - Simon West
-    - scoredFixes:
-      - 0
-      - 1832
-      scoredSeconds:
-      - 0
-      - 9395
-      scoredTimes:
-      - 2017-04-12T03:21:27Z
-      - 2017-04-12T05:58:02Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1832
+        scoredSeconds:
+        - 0
+        - 9395
+        scoredTimes:
+        - 2017-04-12T03:21:27Z
+        - 2017-04-12T05:58:02Z
+        scoredWindowSeconds: 9395
   - - - '22'
       - Steve Blenkinsop
-    - scoredFixes:
-      - 0
-      - 12745
-      scoredSeconds:
-      - 0
-      - 12745
-      scoredTimes:
-      - 2017-04-12T02:13:05Z
-      - 2017-04-12T05:45:30Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 12745
+        scoredSeconds:
+        - 0
+        - 12745
+        scoredTimes:
+        - 2017-04-12T02:13:05Z
+        - 2017-04-12T05:45:30Z
+        scoredWindowSeconds: 12745
   - - - '31'
       - Tomas Kellner
-    - scoredFixes:
-      - 0
-      - 1255
-      scoredSeconds:
-      - 0
-      - 6500
-      scoredTimes:
-      - 2017-04-12T02:35:37Z
-      - 2017-04-12T04:23:57Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1255
+        scoredSeconds:
+        - 0
+        - 6500
+        scoredTimes:
+        - 2017-04-12T02:35:37Z
+        - 2017-04-12T04:23:57Z
+        scoredWindowSeconds: 6500
   - - - '2'
       - Tony Armstrong
-    - scoredFixes:
-      - 3
-      - 4796
-      scoredSeconds:
-      - 90
-      - 14375
-      scoredTimes:
-      - 2017-04-12T01:47:49Z
-      - 2017-04-12T05:45:54Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3
+        - 4796
+        scoredSeconds:
+        - 90
+        - 14375
+        scoredTimes:
+        - 2017-04-12T01:47:49Z
+        - 2017-04-12T05:45:54Z
+        scoredWindowSeconds: 14285
   - - - '14'
       - Tony Giammichele
-    - scoredFixes:
-      - 0
-      - 6131
-      scoredSeconds:
-      - 0
-      - 17620
-      scoredTimes:
-      - 2017-04-12T01:57:58Z
-      - 2017-04-12T06:51:38Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 6131
+        scoredSeconds:
+        - 0
+        - 17620
+        scoredTimes:
+        - 2017-04-12T01:57:58Z
+        - 2017-04-12T06:51:38Z
+        scoredWindowSeconds: 17620
   - - - '17'
       - Trevor Purcell
-    - scoredFixes:
-      - 0
-      - 4828
-      scoredSeconds:
-      - 0
-      - 14479
-      scoredTimes:
-      - 2017-04-12T01:57:09Z
-      - 2017-04-12T05:58:28Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 4828
+        scoredSeconds:
+        - 0
+        - 14479
+        scoredTimes:
+        - 2017-04-12T01:57:09Z
+        - 2017-04-12T05:58:28Z
+        scoredWindowSeconds: 14479
   - - - '6'
       - Viv Clements
-    - scoredFixes:
-      - 0
-      - 15638
-      scoredSeconds:
-      - 0
-      - 15638
-      scoredTimes:
-      - 2017-04-12T01:59:35Z
-      - 2017-04-12T06:20:13Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 15638
+        scoredSeconds:
+        - 0
+        - 15638
+        scoredTimes:
+        - 2017-04-12T01:59:35Z
+        - 2017-04-12T06:20:13Z
+        scoredWindowSeconds: 15638
   - - - '34'
       - dave moore
-    - scoredFixes:
-      - 4
-      - 6097
-      scoredSeconds:
-      - 122
-      - 18127
-      scoredTimes:
-      - 2017-04-12T02:28:42Z
-      - 2017-04-12T07:28:47Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 4
+        - 6097
+        scoredSeconds:
+        - 122
+        - 18127
+        scoredTimes:
+        - 2017-04-12T02:28:42Z
+        - 2017-04-12T07:28:47Z
+        scoredWindowSeconds: 18005
   - - - '39'
       - rob degroot
-    - scoredFixes:
-      - 0
-      - 3765
-      scoredSeconds:
-      - 0
-      - 15054
-      scoredTimes:
-      - 2017-04-12T01:56:08Z
-      - 2017-04-12T06:07:02Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3765
+        scoredSeconds:
+        - 0
+        - 15054
+        scoredTimes:
+        - 2017-04-12T01:56:08Z
+        - 2017-04-12T06:07:02Z
+        scoredWindowSeconds: 15054
   - - - '45'
       - steve crosby
-    - scoredFixes:
-      - 29
-      - 1899
-      scoredSeconds:
-      - 290
-      - 16484
-      scoredTimes:
-      - 2017-04-12T01:53:21Z
-      - 2017-04-12T06:23:15Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 29
+        - 1899
+        scoredSeconds:
+        - 290
+        - 16484
+        scoredTimes:
+        - 2017-04-12T01:53:21Z
+        - 2017-04-12T06:23:15Z
+        scoredWindowSeconds: 16194
 - - - - '35'
       - Anatoly Reyter
-    - scoredFixes:
-      - 0
-      - 8088
-      scoredSeconds:
-      - 0
-      - 16266
-      scoredTimes:
-      - 2017-04-13T02:39:42Z
-      - 2017-04-13T07:10:48Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 8088
+        scoredSeconds:
+        - 0
+        - 16266
+        scoredTimes:
+        - 2017-04-13T02:39:42Z
+        - 2017-04-13T07:10:48Z
+        scoredWindowSeconds: 16266
   - - - '16'
       - Andrew Barnes
-    - scoredFixes:
-      - 25
-      - 3257
-      scoredSeconds:
-      - 126
-      - 15413
-      scoredTimes:
-      - 2017-04-13T02:14:51Z
-      - 2017-04-13T06:29:38Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 25
+        - 3257
+        scoredSeconds:
+        - 126
+        - 15413
+        scoredTimes:
+        - 2017-04-13T02:14:51Z
+        - 2017-04-13T06:29:38Z
+        scoredWindowSeconds: 15287
   - - - '15'
       - Andrew Sharpe
-    - scoredFixes:
-      - 0
-      - 2392
-      scoredSeconds:
-      - 0
-      - 2392
-      scoredTimes:
-      - 2017-04-13T03:00:52Z
-      - 2017-04-13T03:40:44Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2392
+        scoredSeconds:
+        - 0
+        - 2392
+        scoredTimes:
+        - 2017-04-13T03:00:52Z
+        - 2017-04-13T03:40:44Z
+        scoredWindowSeconds: 2392
   - - - '51'
       - Billy Miller-Macleod
-    - scoredFixes:
-      - 9
-      - 1802
-      scoredSeconds:
-      - 270
-      - 16536
-      scoredTimes:
-      - 2017-04-13T02:30:06Z
-      - 2017-04-13T07:01:12Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 1802
+        scoredSeconds:
+        - 270
+        - 16536
+        scoredTimes:
+        - 2017-04-13T02:30:06Z
+        - 2017-04-13T07:01:12Z
+        scoredWindowSeconds: 16266
   - - - '36'
       - Brad Porter
-    - scoredFixes:
-      - 0
-      - 4893
-      scoredSeconds:
-      - 0
-      - 11633
-      scoredTimes:
-      - 2017-04-13T02:30:38Z
-      - 2017-04-13T05:44:31Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 4893
+        scoredSeconds:
+        - 0
+        - 11633
+        scoredTimes:
+        - 2017-04-13T02:30:38Z
+        - 2017-04-13T05:44:31Z
+        scoredWindowSeconds: 11633
   - - - '24'
       - Brodrick Osborne
-    - scoredFixes:
-      - 23
-      - 1917
-      scoredSeconds:
-      - 46
-      - 3855
-      scoredTimes:
-      - 2017-04-13T02:29:34Z
-      - 2017-04-13T03:33:03Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 23
+        - 1917
+        scoredSeconds:
+        - 46
+        - 3855
+        scoredTimes:
+        - 2017-04-13T02:29:34Z
+        - 2017-04-13T03:33:03Z
+        scoredWindowSeconds: 3809
   - - - '10'
       - Craig Taylor
-    - scoredFixes:
-      - 4
-      - 1164
-      scoredSeconds:
-      - 121
-      - 10682
-      scoredTimes:
-      - 2017-04-13T02:34:32Z
-      - 2017-04-13T05:30:33Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 4
+        - 1164
+        scoredSeconds:
+        - 121
+        - 10682
+        scoredTimes:
+        - 2017-04-13T02:34:32Z
+        - 2017-04-13T05:30:33Z
+        scoredWindowSeconds: 10561
   - - - '49'
       - Damian Peauril
-    - null
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
   - - - '38'
       - Dave Stevens
-    - scoredFixes:
-      - 2
-      - 941
-      scoredSeconds:
-      - 60
-      - 9489
-      scoredTimes:
-      - 2017-04-13T02:34:31Z
-      - 2017-04-13T05:11:40Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 941
+        scoredSeconds:
+        - 60
+        - 9489
+        scoredTimes:
+        - 2017-04-13T02:34:31Z
+        - 2017-04-13T05:11:40Z
+        scoredWindowSeconds: 9429
   - - - '48'
       - Derek Mckee
-    - scoredFixes:
-      - 5
-      - 6214
-      scoredSeconds:
-      - 150
-      - 12620
-      scoredTimes:
-      - 2017-04-13T01:54:09Z
-      - 2017-04-13T05:21:59Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 5
+        - 6214
+        scoredSeconds:
+        - 150
+        - 12620
+        scoredTimes:
+        - 2017-04-13T01:54:09Z
+        - 2017-04-13T05:21:59Z
+        scoredWindowSeconds: 12470
   - - - '21'
       - Frank Chetcuti
-    - scoredFixes:
-      - 0
-      - 2505
-      scoredSeconds:
-      - 0
-      - 15390
-      scoredTimes:
-      - 2017-04-13T02:23:03Z
-      - 2017-04-13T06:39:33Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2505
+        scoredSeconds:
+        - 0
+        - 15390
+        scoredTimes:
+        - 2017-04-13T02:23:03Z
+        - 2017-04-13T06:39:33Z
+        scoredWindowSeconds: 15390
   - - - '29'
       - Guy Hubbard
-    - scoredFixes:
-      - 0
-      - 1143
-      scoredSeconds:
-      - 0
-      - 10232
-      scoredTimes:
-      - 2017-04-13T02:26:59Z
-      - 2017-04-13T05:17:31Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1143
+        scoredSeconds:
+        - 0
+        - 10232
+        scoredTimes:
+        - 2017-04-13T02:26:59Z
+        - 2017-04-13T05:17:31Z
+        scoredWindowSeconds: 10232
   - - - '27'
       - Guy Williams
-    - scoredFixes:
-      - 9
-      - 2444
-      scoredSeconds:
-      - 270
-      - 12463
-      scoredTimes:
-      - 2017-04-13T02:39:01Z
-      - 2017-04-13T06:02:14Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 2444
+        scoredSeconds:
+        - 270
+        - 12463
+        scoredTimes:
+        - 2017-04-13T02:39:01Z
+        - 2017-04-13T06:02:14Z
+        scoredWindowSeconds: 12193
   - - - '25'
       - Hagen Bruggemann
-    - scoredFixes:
-      - 25
-      - 5818
-      scoredSeconds:
-      - 75
-      - 17572
-      scoredTimes:
-      - 2017-04-13T02:13:08Z
-      - 2017-04-13T07:04:45Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 25
+        - 5818
+        scoredSeconds:
+        - 75
+        - 17572
+        scoredTimes:
+        - 2017-04-13T02:13:08Z
+        - 2017-04-13T07:04:45Z
+        scoredWindowSeconds: 17497
   - - - '46'
       - Harrison Rowntree
-    - scoredFixes:
-      - 9
-      - 3938
-      scoredSeconds:
-      - 272
-      - 12039
-      scoredTimes:
-      - 2017-04-13T02:20:22Z
-      - 2017-04-13T05:36:29Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 3938
+        scoredSeconds:
+        - 272
+        - 12039
+        scoredTimes:
+        - 2017-04-13T02:20:22Z
+        - 2017-04-13T05:36:29Z
+        scoredWindowSeconds: 11767
   - - - '40'
       - Hossain Tefaili
-    - scoredFixes:
-      - 6
-      - 5051
-      scoredSeconds:
-      - 12
-      - 10218
-      scoredTimes:
-      - 2017-04-13T02:52:37Z
-      - 2017-04-13T05:42:43Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 6
+        - 5051
+        scoredSeconds:
+        - 12
+        - 10218
+        scoredTimes:
+        - 2017-04-13T02:52:37Z
+        - 2017-04-13T05:42:43Z
+        scoredWindowSeconds: 10206
   - - - '7'
       - James Atkinson
-    - scoredFixes:
-      - 620
-      - 7925
-      scoredSeconds:
-      - 1241
-      - 15852
-      scoredTimes:
-      - 2017-04-13T02:28:53Z
-      - 2017-04-13T06:32:24Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 620
+        - 7925
+        scoredSeconds:
+        - 1241
+        - 15852
+        scoredTimes:
+        - 2017-04-13T02:28:53Z
+        - 2017-04-13T06:32:24Z
+        scoredWindowSeconds: 14611
   - - - '26'
       - Jason Kath
-    - scoredFixes:
-      - 2
-      - 10250
-      scoredSeconds:
-      - 693
-      - 13517
-      scoredTimes:
-      - 2017-04-13T02:01:36Z
-      - 2017-04-13T05:35:20Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 10250
+        scoredSeconds:
+        - 693
+        - 13517
+        scoredTimes:
+        - 2017-04-13T02:01:36Z
+        - 2017-04-13T05:35:20Z
+        scoredWindowSeconds: 12824
   - - - '28'
       - John Harriot
-    - scoredFixes:
-      - 9
-      - 341
-      scoredSeconds:
-      - 250
-      - 1875
-      scoredTimes:
-      - 2017-04-13T02:51:11Z
-      - 2017-04-13T03:18:16Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 341
+        scoredSeconds:
+        - 250
+        - 1875
+        scoredTimes:
+        - 2017-04-13T02:51:11Z
+        - 2017-04-13T03:18:16Z
+        scoredWindowSeconds: 1625
   - - - '37'
       - John Spencer
-    - scoredFixes:
-      - 6
-      - 2271
-      scoredSeconds:
-      - 30
-      - 11397
-      scoredTimes:
-      - 2017-04-13T02:23:49Z
-      - 2017-04-13T05:33:16Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 6
+        - 2271
+        scoredSeconds:
+        - 30
+        - 11397
+        scoredTimes:
+        - 2017-04-13T02:23:49Z
+        - 2017-04-13T05:33:16Z
+        scoredWindowSeconds: 11367
   - - - '5'
       - Jonny Durand
-    - scoredFixes:
-      - 0
-      - 3116
-      scoredSeconds:
-      - 0
-      - 9516
-      scoredTimes:
-      - 2017-04-13T02:57:28Z
-      - 2017-04-13T05:36:04Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3116
+        scoredSeconds:
+        - 0
+        - 9516
+        scoredTimes:
+        - 2017-04-13T02:57:28Z
+        - 2017-04-13T05:36:04Z
+        scoredWindowSeconds: 9516
   - - - '44'
       - Josh Woods
-    - scoredFixes:
-      - 10
-      - 2175
-      scoredSeconds:
-      - 301
-      - 10714
-      scoredTimes:
-      - 2017-04-13T02:23:47Z
-      - 2017-04-13T05:17:20Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 10
+        - 2175
+        scoredSeconds:
+        - 301
+        - 10714
+        scoredTimes:
+        - 2017-04-13T02:23:47Z
+        - 2017-04-13T05:17:20Z
+        scoredWindowSeconds: 10413
   - - - '20'
       - Konrad Heilmann
-    - scoredFixes:
-      - 25
-      - 590
-      scoredSeconds:
-      - 250
-      - 5890
-      scoredTimes:
-      - 2017-04-13T02:20:26Z
-      - 2017-04-13T03:54:26Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 25
+        - 590
+        scoredSeconds:
+        - 250
+        - 5890
+        scoredTimes:
+        - 2017-04-13T02:20:26Z
+        - 2017-04-13T03:54:26Z
+        scoredWindowSeconds: 5640
   - - - '1'
       - Mark Alton
-    - scoredFixes:
-      - 7
-      - 1884
-      scoredSeconds:
-      - 210
-      - 9672
-      scoredTimes:
-      - 2017-04-13T04:05:35Z
-      - 2017-04-13T06:43:17Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 7
+        - 1884
+        scoredSeconds:
+        - 210
+        - 9672
+        scoredTimes:
+        - 2017-04-13T04:05:35Z
+        - 2017-04-13T06:43:17Z
+        scoredWindowSeconds: 9462
   - - - '13'
       - Matthew Barlow
-    - scoredFixes:
-      - 27
-      - 2978
-      scoredSeconds:
-      - 135
-      - 14899
-      scoredTimes:
-      - 2017-04-13T02:00:17Z
-      - 2017-04-13T06:06:21Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 27
+        - 2978
+        scoredSeconds:
+        - 135
+        - 14899
+        scoredTimes:
+        - 2017-04-13T02:00:17Z
+        - 2017-04-13T06:06:21Z
+        scoredWindowSeconds: 14764
   - - - '42'
       - Mikhail Karmazin
-    - scoredFixes:
-      - 0
-      - 7823
-      scoredSeconds:
-      - 0
-      - 15587
-      scoredTimes:
-      - 2017-04-13T02:33:18Z
-      - 2017-04-13T06:53:05Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 7823
+        scoredSeconds:
+        - 0
+        - 15587
+        scoredTimes:
+        - 2017-04-13T02:33:18Z
+        - 2017-04-13T06:53:05Z
+        scoredWindowSeconds: 15587
   - - - '4'
       - Nick Purcell
-    - scoredFixes:
-      - 2
-      - 6169
-      scoredSeconds:
-      - 20
-      - 13538
-      scoredTimes:
-      - 2017-04-13T02:00:51Z
-      - 2017-04-13T05:46:09Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 6169
+        scoredSeconds:
+        - 20
+        - 13538
+        scoredTimes:
+        - 2017-04-13T02:00:51Z
+        - 2017-04-13T05:46:09Z
+        scoredWindowSeconds: 13518
   - - - '33'
       - Niki Longshore
-    - scoredFixes:
-      - 3
-      - 1331
-      scoredSeconds:
-      - 91
-      - 13544
-      scoredTimes:
-      - 2017-04-13T02:12:50Z
-      - 2017-04-13T05:57:03Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3
+        - 1331
+        scoredSeconds:
+        - 91
+        - 13544
+        scoredTimes:
+        - 2017-04-13T02:12:50Z
+        - 2017-04-13T05:57:03Z
+        scoredWindowSeconds: 13453
   - - - '23'
       - Noel Collins
-    - scoredFixes:
-      - 0
-      - 15222
-      scoredSeconds:
-      - 0
-      - 15222
-      scoredTimes:
-      - 2017-04-13T02:48:15Z
-      - 2017-04-13T07:01:57Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 15222
+        scoredSeconds:
+        - 0
+        - 15222
+        scoredTimes:
+        - 2017-04-13T02:48:15Z
+        - 2017-04-13T07:01:57Z
+        scoredWindowSeconds: 15222
   - - - '3'
       - Paul Allen
-    - scoredFixes:
-      - 4
-      - 321
-      scoredSeconds:
-      - 120
-      - 3397
-      scoredTimes:
-      - 2017-04-13T03:23:56Z
-      - 2017-04-13T04:18:33Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 4
+        - 321
+        scoredSeconds:
+        - 120
+        - 3397
+        scoredTimes:
+        - 2017-04-13T03:23:56Z
+        - 2017-04-13T04:18:33Z
+        scoredWindowSeconds: 3277
   - - - '18'
       - Peter Adriaans
-    - scoredFixes:
-      - 44
-      - 14943
-      scoredSeconds:
-      - 44
-      - 14943
-      scoredTimes:
-      - 2017-04-13T02:45:38Z
-      - 2017-04-13T06:53:57Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 44
+        - 14943
+        scoredSeconds:
+        - 44
+        - 14943
+        scoredTimes:
+        - 2017-04-13T02:45:38Z
+        - 2017-04-13T06:53:57Z
+        scoredWindowSeconds: 14899
   - - - '41'
       - Peter Burkitt
-    - scoredFixes:
-      - 2
-      - 1054
-      scoredSeconds:
-      - 60
-      - 5275
-      scoredTimes:
-      - 2017-04-13T02:46:56Z
-      - 2017-04-13T04:13:51Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 1054
+        scoredSeconds:
+        - 60
+        - 5275
+        scoredTimes:
+        - 2017-04-13T02:46:56Z
+        - 2017-04-13T04:13:51Z
+        scoredWindowSeconds: 5215
   - - - '32'
       - Rob Larkin
-    - scoredFixes:
-      - 4
-      - 4263
-      scoredSeconds:
-      - 8
-      - 8528
-      scoredTimes:
-      - 2017-04-13T02:51:20Z
-      - 2017-04-13T05:13:20Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 4
+        - 4263
+        scoredSeconds:
+        - 8
+        - 8528
+        scoredTimes:
+        - 2017-04-13T02:51:20Z
+        - 2017-04-13T05:13:20Z
+        scoredWindowSeconds: 8520
   - - - '8'
       - Rod Flockhart
-    - scoredFixes:
-      - 444
-      - 2088
-      scoredSeconds:
-      - 1332
-      - 6266
-      scoredTimes:
-      - 2017-04-13T02:38:42Z
-      - 2017-04-13T04:00:56Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 444
+        - 2088
+        scoredSeconds:
+        - 1332
+        - 6266
+        scoredTimes:
+        - 2017-04-13T02:38:42Z
+        - 2017-04-13T04:00:56Z
+        scoredWindowSeconds: 4934
   - - - '9'
       - Rohan Taylor
-    - scoredFixes:
-      - 46
-      - 7744
-      scoredSeconds:
-      - 47
-      - 8485
-      scoredTimes:
-      - 2017-04-13T02:24:10Z
-      - 2017-04-13T04:44:48Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 46
+        - 7744
+        scoredSeconds:
+        - 47
+        - 8485
+        scoredTimes:
+        - 2017-04-13T02:24:10Z
+        - 2017-04-13T04:44:48Z
+        scoredWindowSeconds: 8438
   - - - '12'
       - Rory Duncan
-    - scoredFixes:
-      - 0
-      - 1081
-      scoredSeconds:
-      - 0
-      - 10018
-      scoredTimes:
-      - 2017-04-13T02:29:40Z
-      - 2017-04-13T05:16:38Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1081
+        scoredSeconds:
+        - 0
+        - 10018
+        scoredTimes:
+        - 2017-04-13T02:29:40Z
+        - 2017-04-13T05:16:38Z
+        scoredWindowSeconds: 10018
   - - - '19'
       - Scott Barrett
-    - scoredFixes:
-      - 8
-      - 2292
-      scoredSeconds:
-      - 234
-      - 11269
-      scoredTimes:
-      - 2017-04-13T02:05:03Z
-      - 2017-04-13T05:08:58Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 8
+        - 2292
+        scoredSeconds:
+        - 234
+        - 11269
+        scoredTimes:
+        - 2017-04-13T02:05:03Z
+        - 2017-04-13T05:08:58Z
+        scoredWindowSeconds: 11035
   - - - '43'
       - Simon West
-    - scoredFixes:
-      - 5
-      - 2020
-      scoredSeconds:
-      - 150
-      - 10343
-      scoredTimes:
-      - 2017-04-13T02:55:01Z
-      - 2017-04-13T05:44:54Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 5
+        - 2020
+        scoredSeconds:
+        - 150
+        - 10343
+        scoredTimes:
+        - 2017-04-13T02:55:01Z
+        - 2017-04-13T05:44:54Z
+        scoredWindowSeconds: 10193
   - - - '22'
       - Steve Blenkinsop
-    - scoredFixes:
-      - 0
-      - 10371
-      scoredSeconds:
-      - 0
-      - 10371
-      scoredTimes:
-      - 2017-04-13T02:23:09Z
-      - 2017-04-13T05:16:00Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 10371
+        scoredSeconds:
+        - 0
+        - 10371
+        scoredTimes:
+        - 2017-04-13T02:23:09Z
+        - 2017-04-13T05:16:00Z
+        scoredWindowSeconds: 10371
   - - - '31'
       - Tomas Kellner
-    - scoredFixes:
-      - 0
-      - 1540
-      scoredSeconds:
-      - 0
-      - 7831
-      scoredTimes:
-      - 2017-04-13T03:24:39Z
-      - 2017-04-13T05:35:10Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1540
+        scoredSeconds:
+        - 0
+        - 7831
+        scoredTimes:
+        - 2017-04-13T03:24:39Z
+        - 2017-04-13T05:35:10Z
+        scoredWindowSeconds: 7831
   - - - '2'
       - Tony Armstrong
-    - scoredFixes:
-      - 0
-      - 3855
-      scoredSeconds:
-      - 0
-      - 11555
-      scoredTimes:
-      - 2017-04-13T02:04:01Z
-      - 2017-04-13T05:16:36Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3855
+        scoredSeconds:
+        - 0
+        - 11555
+        scoredTimes:
+        - 2017-04-13T02:04:01Z
+        - 2017-04-13T05:16:36Z
+        scoredWindowSeconds: 11555
   - - - '14'
       - Tony Giammichele
-    - scoredFixes:
-      - 0
-      - 2696
-      scoredSeconds:
-      - 0
-      - 8415
-      scoredTimes:
-      - 2017-04-13T01:59:03Z
-      - 2017-04-13T04:19:18Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2696
+        scoredSeconds:
+        - 0
+        - 8415
+        scoredTimes:
+        - 2017-04-13T01:59:03Z
+        - 2017-04-13T04:19:18Z
+        scoredWindowSeconds: 8415
   - - - '17'
       - Trevor Purcell
-    - scoredFixes:
-      - 0
-      - 3069
-      scoredSeconds:
-      - 0
-      - 9204
-      scoredTimes:
-      - 2017-04-13T02:26:21Z
-      - 2017-04-13T04:59:45Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3069
+        scoredSeconds:
+        - 0
+        - 9204
+        scoredTimes:
+        - 2017-04-13T02:26:21Z
+        - 2017-04-13T04:59:45Z
+        scoredWindowSeconds: 9204
   - - - '6'
       - Viv Clements
-    - scoredFixes:
-      - 0
-      - 15866
-      scoredSeconds:
-      - 0
-      - 15866
-      scoredTimes:
-      - 2017-04-13T02:14:15Z
-      - 2017-04-13T06:38:41Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 15866
+        scoredSeconds:
+        - 0
+        - 15866
+        scoredTimes:
+        - 2017-04-13T02:14:15Z
+        - 2017-04-13T06:38:41Z
+        scoredWindowSeconds: 15866
   - - - '34'
       - dave moore
-    - scoredFixes:
-      - 0
-      - 3667
-      scoredSeconds:
-      - 0
-      - 11407
-      scoredTimes:
-      - 2017-04-13T02:38:44Z
-      - 2017-04-13T05:48:51Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3667
+        scoredSeconds:
+        - 0
+        - 11407
+        scoredTimes:
+        - 2017-04-13T02:38:44Z
+        - 2017-04-13T05:48:51Z
+        scoredWindowSeconds: 11407
   - - - '39'
       - rob degroot
-    - scoredFixes:
-      - 0
-      - 3900
-      scoredSeconds:
-      - 0
-      - 15594
-      scoredTimes:
-      - 2017-04-13T02:15:22Z
-      - 2017-04-13T06:35:16Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3900
+        scoredSeconds:
+        - 0
+        - 15594
+        scoredTimes:
+        - 2017-04-13T02:15:22Z
+        - 2017-04-13T06:35:16Z
+        scoredWindowSeconds: 15594
   - - - '45'
       - steve crosby
-    - scoredFixes:
-      - 29
-      - 774
-      scoredSeconds:
-      - 290
-      - 7721
-      scoredTimes:
-      - 2017-04-13T02:08:07Z
-      - 2017-04-13T04:11:58Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 29
+        - 774
+        scoredSeconds:
+        - 290
+        - 7721
+        scoredTimes:
+        - 2017-04-13T02:08:07Z
+        - 2017-04-13T04:11:58Z
+        scoredWindowSeconds: 7431
 - - - - '35'
       - Anatoly Reyter
-    - scoredFixes:
-      - 0
-      - 5891
-      scoredSeconds:
-      - 0
-      - 12077
-      scoredTimes:
-      - 2017-04-14T02:35:00Z
-      - 2017-04-14T05:56:17Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 5891
+        scoredSeconds:
+        - 0
+        - 12077
+        scoredTimes:
+        - 2017-04-14T02:35:00Z
+        - 2017-04-14T05:56:17Z
+        scoredWindowSeconds: 12077
   - - - '16'
       - Andrew Barnes
-    - scoredFixes:
-      - 17
-      - 2819
-      scoredSeconds:
-      - 86
-      - 14142
-      scoredTimes:
-      - 2017-04-14T02:08:29Z
-      - 2017-04-14T06:02:45Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 17
+        - 2819
+        scoredSeconds:
+        - 86
+        - 14142
+        scoredTimes:
+        - 2017-04-14T02:08:29Z
+        - 2017-04-14T06:02:45Z
+        scoredWindowSeconds: 14056
   - - - '15'
       - Andrew Sharpe
-    - scoredFixes:
-      - 0
-      - 2802
-      scoredSeconds:
-      - 0
-      - 2802
-      scoredTimes:
-      - 2017-04-14T02:46:08Z
-      - 2017-04-14T03:32:50Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2802
+        scoredSeconds:
+        - 0
+        - 2802
+        scoredTimes:
+        - 2017-04-14T02:46:08Z
+        - 2017-04-14T03:32:50Z
+        scoredWindowSeconds: 2802
   - - - '51'
       - Billy Miller-Macleod
-    - scoredFixes:
-      - 5
-      - 1132
-      scoredSeconds:
-      - 150
-      - 11497
-      scoredTimes:
-      - 2017-04-14T02:22:13Z
-      - 2017-04-14T05:31:20Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 5
+        - 1132
+        scoredSeconds:
+        - 150
+        - 11497
+        scoredTimes:
+        - 2017-04-14T02:22:13Z
+        - 2017-04-14T05:31:20Z
+        scoredWindowSeconds: 11347
   - - - '36'
       - Brad Porter
-    - scoredFixes:
-      - 0
-      - 7667
-      scoredSeconds:
-      - 0
-      - 17091
-      scoredTimes:
-      - 2017-04-14T02:27:19Z
-      - 2017-04-14T07:12:10Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 7667
+        scoredSeconds:
+        - 0
+        - 17091
+        scoredTimes:
+        - 2017-04-14T02:27:19Z
+        - 2017-04-14T07:12:10Z
+        scoredWindowSeconds: 17091
   - - - '24'
       - Brodrick Osborne
-    - scoredFixes:
-      - 22
-      - 6928
-      scoredSeconds:
-      - 45
-      - 13915
-      scoredTimes:
-      - 2017-04-14T02:40:41Z
-      - 2017-04-14T06:31:51Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 22
+        - 6928
+        scoredSeconds:
+        - 45
+        - 13915
+        scoredTimes:
+        - 2017-04-14T02:40:41Z
+        - 2017-04-14T06:31:51Z
+        scoredWindowSeconds: 13870
   - - - '10'
       - Craig Taylor
-    - scoredFixes:
-      - 10
-      - 1494
-      scoredSeconds:
-      - 301
-      - 15132
-      scoredTimes:
-      - 2017-04-14T02:00:08Z
-      - 2017-04-14T06:07:19Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 10
+        - 1494
+        scoredSeconds:
+        - 301
+        - 15132
+        scoredTimes:
+        - 2017-04-14T02:00:08Z
+        - 2017-04-14T06:07:19Z
+        scoredWindowSeconds: 14831
   - - - '49'
       - Damian Peauril
-    - null
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
   - - - '38'
       - Dave Stevens
-    - scoredFixes:
-      - 2
-      - 1172
-      scoredSeconds:
-      - 60
-      - 11885
-      scoredTimes:
-      - 2017-04-14T02:31:13Z
-      - 2017-04-14T05:48:18Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 1172
+        scoredSeconds:
+        - 60
+        - 11885
+        scoredTimes:
+        - 2017-04-14T02:31:13Z
+        - 2017-04-14T05:48:18Z
+        scoredWindowSeconds: 11825
   - - - '48'
       - Derek Mckee
-    - scoredFixes:
-      - 0
-      - 6058
-      scoredSeconds:
-      - 0
-      - 12423
-      scoredTimes:
-      - 2017-04-14T01:42:56Z
-      - 2017-04-14T05:09:59Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 6058
+        scoredSeconds:
+        - 0
+        - 12423
+        scoredTimes:
+        - 2017-04-14T01:42:56Z
+        - 2017-04-14T05:09:59Z
+        scoredWindowSeconds: 12423
   - - - '21'
       - Frank Chetcuti
-    - scoredFixes:
-      - 0
-      - 1696
-      scoredSeconds:
-      - 0
-      - 11181
-      scoredTimes:
-      - 2017-04-14T02:17:49Z
-      - 2017-04-14T05:24:10Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1696
+        scoredSeconds:
+        - 0
+        - 11181
+        scoredTimes:
+        - 2017-04-14T02:17:49Z
+        - 2017-04-14T05:24:10Z
+        scoredWindowSeconds: 11181
   - - - '29'
       - Guy Hubbard
-    - scoredFixes:
-      - 0
-      - 1545
-      scoredSeconds:
-      - 0
-      - 14331
-      scoredTimes:
-      - 2017-04-14T01:56:52Z
-      - 2017-04-14T05:55:43Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1545
+        scoredSeconds:
+        - 0
+        - 14331
+        scoredTimes:
+        - 2017-04-14T01:56:52Z
+        - 2017-04-14T05:55:43Z
+        scoredWindowSeconds: 14331
   - - - '27'
       - Guy Williams
-    - scoredFixes:
-      - 4
-      - 1699
-      scoredSeconds:
-      - 120
-      - 8754
-      scoredTimes:
-      - 2017-04-14T01:40:23Z
-      - 2017-04-14T04:04:17Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 4
+        - 1699
+        scoredSeconds:
+        - 120
+        - 8754
+        scoredTimes:
+        - 2017-04-14T01:40:23Z
+        - 2017-04-14T04:04:17Z
+        scoredWindowSeconds: 8634
   - - - '25'
       - Hagen Bruggemann
-    - scoredFixes:
-      - 24
-      - 5850
-      scoredSeconds:
-      - 73
-      - 16888
-      scoredTimes:
-      - 2017-04-14T02:00:59Z
-      - 2017-04-14T06:41:14Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 24
+        - 5850
+        scoredSeconds:
+        - 73
+        - 16888
+        scoredTimes:
+        - 2017-04-14T02:00:59Z
+        - 2017-04-14T06:41:14Z
+        scoredWindowSeconds: 16815
   - - - '46'
       - Harrison Rowntree
-    - scoredFixes:
-      - 7
-      - 4775
-      scoredSeconds:
-      - 211
-      - 14092
-      scoredTimes:
-      - 2017-04-14T02:13:28Z
-      - 2017-04-14T06:04:49Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 7
+        - 4775
+        scoredSeconds:
+        - 211
+        - 14092
+        scoredTimes:
+        - 2017-04-14T02:13:28Z
+        - 2017-04-14T06:04:49Z
+        scoredWindowSeconds: 13881
   - - - '40'
       - Hossain Tefaili
-    - scoredFixes:
-      - 8
-      - 3576
-      scoredSeconds:
-      - 16
-      - 7227
-      scoredTimes:
-      - 2017-04-14T02:52:06Z
-      - 2017-04-14T04:52:17Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 8
+        - 3576
+        scoredSeconds:
+        - 16
+        - 7227
+        scoredTimes:
+        - 2017-04-14T02:52:06Z
+        - 2017-04-14T04:52:17Z
+        scoredWindowSeconds: 7211
   - - - '7'
       - James Atkinson
-    - scoredFixes:
-      - 607
-      - 8047
-      scoredSeconds:
-      - 1214
-      - 16102
-      scoredTimes:
-      - 2017-04-14T02:23:00Z
-      - 2017-04-14T06:31:08Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 607
+        - 8047
+        scoredSeconds:
+        - 1214
+        - 16102
+        scoredTimes:
+        - 2017-04-14T02:23:00Z
+        - 2017-04-14T06:31:08Z
+        scoredWindowSeconds: 14888
   - - - '26'
       - Jason Kath
-    - scoredFixes:
-      - 2
-      - 12050
-      scoredSeconds:
-      - 571
-      - 14983
-      scoredTimes:
-      - 2017-04-14T02:07:12Z
-      - 2017-04-14T06:07:24Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 12050
+        scoredSeconds:
+        - 571
+        - 14983
+        scoredTimes:
+        - 2017-04-14T02:07:12Z
+        - 2017-04-14T06:07:24Z
+        scoredWindowSeconds: 14412
   - - - '28'
       - John Harriot
-    - scoredFixes:
-      - 9
-      - 868
-      scoredSeconds:
-      - 251
-      - 4516
-      scoredTimes:
-      - 2017-04-14T02:53:49Z
-      - 2017-04-14T04:04:54Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 868
+        scoredSeconds:
+        - 251
+        - 4516
+        scoredTimes:
+        - 2017-04-14T02:53:49Z
+        - 2017-04-14T04:04:54Z
+        scoredWindowSeconds: 4265
   - - - '37'
       - John Spencer
-    - scoredFixes:
-      - 28
-      - 2519
-      scoredSeconds:
-      - 140
-      - 12647
-      scoredTimes:
-      - 2017-04-14T02:19:53Z
-      - 2017-04-14T05:48:20Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 28
+        - 2519
+        scoredSeconds:
+        - 140
+        - 12647
+        scoredTimes:
+        - 2017-04-14T02:19:53Z
+        - 2017-04-14T05:48:20Z
+        scoredWindowSeconds: 12507
   - - - '5'
       - Jonny Durand
-    - scoredFixes:
-      - 5
-      - 3865
-      scoredSeconds:
-      - 152
-      - 11713
-      scoredTimes:
-      - 2017-04-14T02:45:49Z
-      - 2017-04-14T05:58:30Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 5
+        - 3865
+        scoredSeconds:
+        - 152
+        - 11713
+        scoredTimes:
+        - 2017-04-14T02:45:49Z
+        - 2017-04-14T05:58:30Z
+        scoredWindowSeconds: 11561
   - - - '44'
       - Josh Woods
-    - scoredFixes:
-      - 9
-      - 2750
-      scoredSeconds:
-      - 270
-      - 13590
-      scoredTimes:
-      - 2017-04-14T02:20:57Z
-      - 2017-04-14T06:02:57Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 2750
+        scoredSeconds:
+        - 270
+        - 13590
+        scoredTimes:
+        - 2017-04-14T02:20:57Z
+        - 2017-04-14T06:02:57Z
+        scoredWindowSeconds: 13320
   - - - '20'
       - Konrad Heilmann
-    - scoredFixes:
-      - 0
-      - 1845
-      scoredSeconds:
-      - 0
-      - 15098
-      scoredTimes:
-      - 2017-04-14T01:55:45Z
-      - 2017-04-14T06:07:23Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1845
+        scoredSeconds:
+        - 0
+        - 15098
+        scoredTimes:
+        - 2017-04-14T01:55:45Z
+        - 2017-04-14T06:07:23Z
+        scoredWindowSeconds: 15098
   - - - '1'
       - Mark Alton
-    - scoredFixes:
-      - 24
-      - 756
-      scoredSeconds:
-      - 240
-      - 7544
-      scoredTimes:
-      - 2017-04-14T02:34:19Z
-      - 2017-04-14T04:36:03Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 24
+        - 756
+        scoredSeconds:
+        - 240
+        - 7544
+        scoredTimes:
+        - 2017-04-14T02:34:19Z
+        - 2017-04-14T04:36:03Z
+        scoredWindowSeconds: 7304
   - - - '13'
       - Matthew Barlow
-    - scoredFixes:
-      - 9
-      - 3725
-      scoredSeconds:
-      - 45
-      - 15830
-      scoredTimes:
-      - 2017-04-14T02:21:03Z
-      - 2017-04-14T06:44:08Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 3725
+        scoredSeconds:
+        - 45
+        - 15830
+        scoredTimes:
+        - 2017-04-14T02:21:03Z
+        - 2017-04-14T06:44:08Z
+        scoredWindowSeconds: 15785
   - - - '42'
       - Mikhail Karmazin
-    - scoredFixes:
-      - 0
-      - 7024
-      scoredSeconds:
-      - 0
-      - 14078
-      scoredTimes:
-      - 2017-04-14T02:32:29Z
-      - 2017-04-14T06:27:07Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 7024
+        scoredSeconds:
+        - 0
+        - 14078
+        scoredTimes:
+        - 2017-04-14T02:32:29Z
+        - 2017-04-14T06:27:07Z
+        scoredWindowSeconds: 14078
   - - - '4'
       - Nick Purcell
-    - scoredFixes:
-      - 0
-      - 6880
-      scoredSeconds:
-      - 0
-      - 14919
-      scoredTimes:
-      - 2017-04-14T01:59:33Z
-      - 2017-04-14T06:08:12Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 6880
+        scoredSeconds:
+        - 0
+        - 14919
+        scoredTimes:
+        - 2017-04-14T01:59:33Z
+        - 2017-04-14T06:08:12Z
+        scoredWindowSeconds: 14919
   - - - '33'
       - Niki Longshore
-    - scoredFixes:
-      - 9
-      - 1651
-      scoredSeconds:
-      - 273
-      - 14686
-      scoredTimes:
-      - 2017-04-14T02:06:47Z
-      - 2017-04-14T06:07:00Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 1651
+        scoredSeconds:
+        - 273
+        - 14686
+        scoredTimes:
+        - 2017-04-14T02:06:47Z
+        - 2017-04-14T06:07:00Z
+        scoredWindowSeconds: 14413
   - - - '23'
       - Noel Collins
-    - scoredFixes:
-      - 0
-      - 10391
-      scoredSeconds:
-      - 0
-      - 10391
-      scoredTimes:
-      - 2017-04-14T02:49:47Z
-      - 2017-04-14T05:42:58Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 10391
+        scoredSeconds:
+        - 0
+        - 10391
+        scoredTimes:
+        - 2017-04-14T02:49:47Z
+        - 2017-04-14T05:42:58Z
+        scoredWindowSeconds: 10391
   - - - '18'
       - Peter Adriaans
-    - scoredFixes:
-      - 45
-      - 13406
-      scoredSeconds:
-      - 45
-      - 13406
-      scoredTimes:
-      - 2017-04-14T02:34:14Z
-      - 2017-04-14T06:16:55Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 45
+        - 13406
+        scoredSeconds:
+        - 45
+        - 13406
+        scoredTimes:
+        - 2017-04-14T02:34:14Z
+        - 2017-04-14T06:16:55Z
+        scoredWindowSeconds: 13361
   - - - '41'
       - Peter Burkitt
-    - scoredFixes:
-      - 3
-      - 2109
-      scoredSeconds:
-      - 66
-      - 10528
-      scoredTimes:
-      - 2017-04-14T02:53:15Z
-      - 2017-04-14T05:47:37Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3
+        - 2109
+        scoredSeconds:
+        - 66
+        - 10528
+        scoredTimes:
+        - 2017-04-14T02:53:15Z
+        - 2017-04-14T05:47:37Z
+        scoredWindowSeconds: 10462
   - - - '32'
       - Rob Larkin
-    - scoredFixes:
-      - 15
-      - 3182
-      scoredSeconds:
-      - 36
-      - 7076
-      scoredTimes:
-      - 2017-04-14T02:39:57Z
-      - 2017-04-14T04:37:17Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 15
+        - 3182
+        scoredSeconds:
+        - 36
+        - 7076
+        scoredTimes:
+        - 2017-04-14T02:39:57Z
+        - 2017-04-14T04:37:17Z
+        scoredWindowSeconds: 7040
   - - - '8'
       - Rod Flockhart
-    - scoredFixes:
-      - 550
-      - 5249
-      scoredSeconds:
-      - 1650
-      - 15757
-      scoredTimes:
-      - 2017-04-14T02:45:31Z
-      - 2017-04-14T06:40:38Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 550
+        - 5249
+        scoredSeconds:
+        - 1650
+        - 15757
+        scoredTimes:
+        - 2017-04-14T02:45:31Z
+        - 2017-04-14T06:40:38Z
+        scoredWindowSeconds: 14107
   - - - '9'
       - Rohan Taylor
-    - scoredFixes:
-      - 0
-      - 3142
-      scoredSeconds:
-      - 0
-      - 13038
-      scoredTimes:
-      - 2017-04-14T02:33:21Z
-      - 2017-04-14T06:10:39Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3142
+        scoredSeconds:
+        - 0
+        - 13038
+        scoredTimes:
+        - 2017-04-14T02:33:21Z
+        - 2017-04-14T06:10:39Z
+        scoredWindowSeconds: 13038
   - - - '12'
       - Rory Duncan
-    - scoredFixes:
-      - 0
-      - 1720
-      scoredSeconds:
-      - 0
-      - 14250
-      scoredTimes:
-      - 2017-04-14T02:05:07Z
-      - 2017-04-14T06:02:37Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1720
+        scoredSeconds:
+        - 0
+        - 14250
+        scoredTimes:
+        - 2017-04-14T02:05:07Z
+        - 2017-04-14T06:02:37Z
+        scoredWindowSeconds: 14250
   - - - '19'
       - Scott Barrett
-    - scoredFixes:
-      - 6
-      - 3099
-      scoredSeconds:
-      - 180
-      - 14811
-      scoredTimes:
-      - 2017-04-14T02:13:56Z
-      - 2017-04-14T06:17:47Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 6
+        - 3099
+        scoredSeconds:
+        - 180
+        - 14811
+        scoredTimes:
+        - 2017-04-14T02:13:56Z
+        - 2017-04-14T06:17:47Z
+        scoredWindowSeconds: 14631
   - - - '43'
       - Simon West
-    - scoredFixes:
-      - 6
-      - 1706
-      scoredSeconds:
-      - 180
-      - 8787
-      scoredTimes:
-      - 2017-04-14T02:40:13Z
-      - 2017-04-14T05:03:40Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 6
+        - 1706
+        scoredSeconds:
+        - 180
+        - 8787
+        scoredTimes:
+        - 2017-04-14T02:40:13Z
+        - 2017-04-14T05:03:40Z
+        scoredWindowSeconds: 8607
   - - - '22'
       - Steve Blenkinsop
-    - scoredFixes:
-      - 0
-      - 13231
-      scoredSeconds:
-      - 0
-      - 13231
-      scoredTimes:
-      - 2017-04-14T02:15:35Z
-      - 2017-04-14T05:56:06Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 13231
+        scoredSeconds:
+        - 0
+        - 13231
+        scoredTimes:
+        - 2017-04-14T02:15:35Z
+        - 2017-04-14T05:56:06Z
+        scoredWindowSeconds: 13231
   - - - '31'
       - Tomas Kellner
-    - scoredFixes:
-      - 2
-      - 1208
-      scoredSeconds:
-      - 60
-      - 6247
-      scoredTimes:
-      - 2017-04-14T02:48:23Z
-      - 2017-04-14T04:31:30Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 1208
+        scoredSeconds:
+        - 60
+        - 6247
+        scoredTimes:
+        - 2017-04-14T02:48:23Z
+        - 2017-04-14T04:31:30Z
+        scoredWindowSeconds: 6187
   - - - '2'
       - Tony Armstrong
-    - scoredFixes:
-      - 8
-      - 4644
-      scoredSeconds:
-      - 240
-      - 13682
-      scoredTimes:
-      - 2017-04-14T02:10:28Z
-      - 2017-04-14T05:54:30Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 8
+        - 4644
+        scoredSeconds:
+        - 240
+        - 13682
+        scoredTimes:
+        - 2017-04-14T02:10:28Z
+        - 2017-04-14T05:54:30Z
+        scoredWindowSeconds: 13442
   - - - '14'
       - Tony Giammichele
-    - scoredFixes:
-      - 3
-      - 3170
-      scoredSeconds:
-      - 91
-      - 9842
-      scoredTimes:
-      - 2017-04-14T02:26:09Z
-      - 2017-04-14T05:08:40Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3
+        - 3170
+        scoredSeconds:
+        - 91
+        - 9842
+        scoredTimes:
+        - 2017-04-14T02:26:09Z
+        - 2017-04-14T05:08:40Z
+        scoredWindowSeconds: 9751
   - - - '17'
       - Trevor Purcell
-    - scoredFixes:
-      - 0
-      - 3790
-      scoredSeconds:
-      - 0
-      - 11367
-      scoredTimes:
-      - 2017-04-14T02:29:07Z
-      - 2017-04-14T05:38:34Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3790
+        scoredSeconds:
+        - 0
+        - 11367
+        scoredTimes:
+        - 2017-04-14T02:29:07Z
+        - 2017-04-14T05:38:34Z
+        scoredWindowSeconds: 11367
   - - - '6'
       - Viv Clements
-    - scoredFixes:
-      - 0
-      - 14675
-      scoredSeconds:
-      - 0
-      - 14675
-      scoredTimes:
-      - 2017-04-14T02:03:14Z
-      - 2017-04-14T06:07:49Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 14675
+        scoredSeconds:
+        - 0
+        - 14675
+        scoredTimes:
+        - 2017-04-14T02:03:14Z
+        - 2017-04-14T06:07:49Z
+        scoredWindowSeconds: 14675
   - - - '34'
       - dave moore
-    - scoredFixes:
-      - 55
-      - 1786
-      scoredSeconds:
-      - 275
-      - 3205
-      scoredTimes:
-      - 2017-04-14T02:47:11Z
-      - 2017-04-14T03:36:01Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 55
+        - 1786
+        scoredSeconds:
+        - 275
+        - 3205
+        scoredTimes:
+        - 2017-04-14T02:47:11Z
+        - 2017-04-14T03:36:01Z
+        scoredWindowSeconds: 2930
   - - - '39'
       - rob degroot
-    - scoredFixes:
-      - 0
-      - 3411
-      scoredSeconds:
-      - 0
-      - 13641
-      scoredTimes:
-      - 2017-04-14T02:02:25Z
-      - 2017-04-14T05:49:46Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3411
+        scoredSeconds:
+        - 0
+        - 13641
+        scoredTimes:
+        - 2017-04-14T02:02:25Z
+        - 2017-04-14T05:49:46Z
+        scoredWindowSeconds: 13641
   - - - '45'
       - steve crosby
-    - scoredFixes:
-      - 11
-      - 1413
-      scoredSeconds:
-      - 110
-      - 14096
-      scoredTimes:
-      - 2017-04-14T02:19:05Z
-      - 2017-04-14T06:12:11Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 11
+        - 1413
+        scoredSeconds:
+        - 110
+        - 14096
+        scoredTimes:
+        - 2017-04-14T02:19:05Z
+        - 2017-04-14T06:12:11Z
+        scoredWindowSeconds: 13986
 - - - - '35'
       - Anatoly Reyter
-    - scoredFixes:
-      - 0
-      - 4262
-      scoredSeconds:
-      - 0
-      - 8817
-      scoredTimes:
-      - 2017-04-15T02:33:30Z
-      - 2017-04-15T05:00:27Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 4262
+        scoredSeconds:
+        - 0
+        - 8817
+        scoredTimes:
+        - 2017-04-15T02:33:30Z
+        - 2017-04-15T05:00:27Z
+        scoredWindowSeconds: 8817
   - - - '16'
       - Andrew Barnes
-    - scoredFixes:
-      - 26
-      - 2532
-      scoredSeconds:
-      - 131
-      - 11879
-      scoredTimes:
-      - 2017-04-15T01:57:31Z
-      - 2017-04-15T05:13:19Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 26
+        - 2532
+        scoredSeconds:
+        - 131
+        - 11879
+        scoredTimes:
+        - 2017-04-15T01:57:31Z
+        - 2017-04-15T05:13:19Z
+        scoredWindowSeconds: 11748
   - - - '15'
       - Andrew Sharpe
-    - scoredFixes:
-      - 0
-      - 11255
-      scoredSeconds:
-      - 0
-      - 11255
-      scoredTimes:
-      - 2017-04-15T02:49:18Z
-      - 2017-04-15T05:56:53Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 11255
+        scoredSeconds:
+        - 0
+        - 11255
+        scoredTimes:
+        - 2017-04-15T02:49:18Z
+        - 2017-04-15T05:56:53Z
+        scoredWindowSeconds: 11255
   - - - '51'
       - Billy Miller-Macleod
-    - scoredFixes:
-      - 0
-      - 1130
-      scoredSeconds:
-      - 0
-      - 10693
-      scoredTimes:
-      - 2017-04-15T02:14:18Z
-      - 2017-04-15T05:12:31Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1130
+        scoredSeconds:
+        - 0
+        - 10693
+        scoredTimes:
+        - 2017-04-15T02:14:18Z
+        - 2017-04-15T05:12:31Z
+        scoredWindowSeconds: 10693
   - - - '36'
       - Brad Porter
-    - scoredFixes:
-      - 0
-      - 4616
-      scoredSeconds:
-      - 0
-      - 9908
-      scoredTimes:
-      - 2017-04-15T02:25:05Z
-      - 2017-04-15T05:10:13Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 4616
+        scoredSeconds:
+        - 0
+        - 9908
+        scoredTimes:
+        - 2017-04-15T02:25:05Z
+        - 2017-04-15T05:10:13Z
+        scoredWindowSeconds: 9908
   - - - '24'
       - Brodrick Osborne
-    - scoredFixes:
-      - 21
-      - 4765
-      scoredSeconds:
-      - 42
-      - 9327
-      scoredTimes:
-      - 2017-04-15T02:35:04Z
-      - 2017-04-15T05:09:49Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 21
+        - 4765
+        scoredSeconds:
+        - 42
+        - 9327
+        scoredTimes:
+        - 2017-04-15T02:35:04Z
+        - 2017-04-15T05:09:49Z
+        scoredWindowSeconds: 9285
   - - - '10'
       - Craig Taylor
-    - scoredFixes:
-      - 0
-      - 1202
-      scoredSeconds:
-      - 0
-      - 11076
-      scoredTimes:
-      - 2017-04-15T02:06:25Z
-      - 2017-04-15T05:11:01Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1202
+        scoredSeconds:
+        - 0
+        - 11076
+        scoredTimes:
+        - 2017-04-15T02:06:25Z
+        - 2017-04-15T05:11:01Z
+        scoredWindowSeconds: 11076
   - - - '49'
       - Damian Peauril
-    - null
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
   - - - '38'
       - Dave Stevens
-    - scoredFixes:
-      - 9
-      - 465
-      scoredSeconds:
-      - 270
-      - 4825
-      scoredTimes:
-      - 2017-04-15T02:26:46Z
-      - 2017-04-15T03:42:41Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 465
+        scoredSeconds:
+        - 270
+        - 4825
+        scoredTimes:
+        - 2017-04-15T02:26:46Z
+        - 2017-04-15T03:42:41Z
+        scoredWindowSeconds: 4555
   - - - '48'
       - Derek Mckee
-    - scoredFixes:
-      - 0
-      - 6470
-      scoredSeconds:
-      - 0
-      - 13248
-      scoredTimes:
-      - 2017-04-15T01:46:02Z
-      - 2017-04-15T05:26:50Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 6470
+        scoredSeconds:
+        - 0
+        - 13248
+        scoredTimes:
+        - 2017-04-15T01:46:02Z
+        - 2017-04-15T05:26:50Z
+        scoredWindowSeconds: 13248
   - - - '21'
       - Frank Chetcuti
-    - scoredFixes:
-      - 3
-      - 2909
-      scoredSeconds:
-      - 243
-      - 16994
-      scoredTimes:
-      - 2017-04-15T02:21:36Z
-      - 2017-04-15T07:00:47Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3
+        - 2909
+        scoredSeconds:
+        - 243
+        - 16994
+        scoredTimes:
+        - 2017-04-15T02:21:36Z
+        - 2017-04-15T07:00:47Z
+        scoredWindowSeconds: 16751
   - - - '29'
       - Guy Hubbard
-    - scoredFixes:
-      - 0
-      - 1199
-      scoredSeconds:
-      - 0
-      - 10912
-      scoredTimes:
-      - 2017-04-15T02:02:19Z
-      - 2017-04-15T05:04:11Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1199
+        scoredSeconds:
+        - 0
+        - 10912
+        scoredTimes:
+        - 2017-04-15T02:02:19Z
+        - 2017-04-15T05:04:11Z
+        scoredWindowSeconds: 10912
   - - - '27'
       - Guy Williams
-    - scoredFixes:
-      - 8
-      - 2168
-      scoredSeconds:
-      - 240
-      - 11081
-      scoredTimes:
-      - 2017-04-15T01:47:28Z
-      - 2017-04-15T04:48:09Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 8
+        - 2168
+        scoredSeconds:
+        - 240
+        - 11081
+        scoredTimes:
+        - 2017-04-15T01:47:28Z
+        - 2017-04-15T04:48:09Z
+        scoredWindowSeconds: 10841
   - - - '25'
       - Hagen Bruggemann
-    - scoredFixes:
-      - 25
-      - 3966
-      scoredSeconds:
-      - 75
-      - 11494
-      scoredTimes:
-      - 2017-04-15T02:04:03Z
-      - 2017-04-15T05:14:22Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 25
+        - 3966
+        scoredSeconds:
+        - 75
+        - 11494
+        scoredTimes:
+        - 2017-04-15T02:04:03Z
+        - 2017-04-15T05:14:22Z
+        scoredWindowSeconds: 11419
   - - - '46'
       - Harrison Rowntree
-    - scoredFixes:
-      - 6
-      - 3409
-      scoredSeconds:
-      - 181
-      - 10267
-      scoredTimes:
-      - 2017-04-15T02:12:03Z
-      - 2017-04-15T05:00:09Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 6
+        - 3409
+        scoredSeconds:
+        - 181
+        - 10267
+        scoredTimes:
+        - 2017-04-15T02:12:03Z
+        - 2017-04-15T05:00:09Z
+        scoredWindowSeconds: 10086
   - - - '40'
       - Hossain Tefaili
-    - scoredFixes:
-      - 0
-      - 4513
-      scoredSeconds:
-      - 0
-      - 9300
-      scoredTimes:
-      - 2017-04-15T02:47:31Z
-      - 2017-04-15T05:22:31Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 4513
+        scoredSeconds:
+        - 0
+        - 9300
+        scoredTimes:
+        - 2017-04-15T02:47:31Z
+        - 2017-04-15T05:22:31Z
+        scoredWindowSeconds: 9300
   - - - '7'
       - James Atkinson
-    - scoredFixes:
-      - 1838
-      - 6846
-      scoredSeconds:
-      - 3782
-      - 13800
-      scoredTimes:
-      - 2017-04-15T02:59:48Z
-      - 2017-04-15T05:46:46Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 1838
+        - 6846
+        scoredSeconds:
+        - 3782
+        - 13800
+        scoredTimes:
+        - 2017-04-15T02:59:48Z
+        - 2017-04-15T05:46:46Z
+        scoredWindowSeconds: 10018
   - - - '26'
       - Jason Kath
-    - scoredFixes:
-      - 2
-      - 10941
-      scoredSeconds:
-      - 768
-      - 12645
-      scoredTimes:
-      - 2017-04-15T02:04:29Z
-      - 2017-04-15T05:22:26Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 10941
+        scoredSeconds:
+        - 768
+        - 12645
+        scoredTimes:
+        - 2017-04-15T02:04:29Z
+        - 2017-04-15T05:22:26Z
+        scoredWindowSeconds: 11877
   - - - '28'
       - John Harriot
-    - scoredFixes:
-      - 0
-      - 1157
-      scoredSeconds:
-      - 0
-      - 5945
-      scoredTimes:
-      - 2017-04-15T02:45:08Z
-      - 2017-04-15T04:24:13Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1157
+        scoredSeconds:
+        - 0
+        - 5945
+        scoredTimes:
+        - 2017-04-15T02:45:08Z
+        - 2017-04-15T04:24:13Z
+        scoredWindowSeconds: 5945
   - - - '37'
       - John Spencer
-    - scoredFixes:
-      - 28
-      - 2289
-      scoredSeconds:
-      - 140
-      - 11476
-      scoredTimes:
-      - 2017-04-15T02:13:02Z
-      - 2017-04-15T05:21:58Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 28
+        - 2289
+        scoredSeconds:
+        - 140
+        - 11476
+        scoredTimes:
+        - 2017-04-15T02:13:02Z
+        - 2017-04-15T05:21:58Z
+        scoredWindowSeconds: 11336
   - - - '5'
       - Jonny Durand
-    - scoredFixes:
-      - 10
-      - 1867
-      scoredSeconds:
-      - 304
-      - 5933
-      scoredTimes:
-      - 2017-04-15T02:35:54Z
-      - 2017-04-15T04:09:43Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 10
+        - 1867
+        scoredSeconds:
+        - 304
+        - 5933
+        scoredTimes:
+        - 2017-04-15T02:35:54Z
+        - 2017-04-15T04:09:43Z
+        scoredWindowSeconds: 5629
   - - - '44'
       - Josh Woods
-    - scoredFixes:
-      - 2
-      - 2067
-      scoredSeconds:
-      - 60
-      - 10244
-      scoredTimes:
-      - 2017-04-15T02:12:11Z
-      - 2017-04-15T05:01:55Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 2067
+        scoredSeconds:
+        - 60
+        - 10244
+        scoredTimes:
+        - 2017-04-15T02:12:11Z
+        - 2017-04-15T05:01:55Z
+        scoredWindowSeconds: 10184
   - - - '20'
       - Konrad Heilmann
-    - scoredFixes:
-      - 25
-      - 1041
-      scoredSeconds:
-      - 250
-      - 8954
-      scoredTimes:
-      - 2017-04-15T02:40:54Z
-      - 2017-04-15T05:05:58Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 25
+        - 1041
+        scoredSeconds:
+        - 250
+        - 8954
+        scoredTimes:
+        - 2017-04-15T02:40:54Z
+        - 2017-04-15T05:05:58Z
+        scoredWindowSeconds: 8704
   - - - '1'
       - Mark Alton
-    - scoredFixes:
-      - 0
-      - 2069
-      scoredSeconds:
-      - 0
-      - 10597
-      scoredTimes:
-      - 2017-04-15T02:37:48Z
-      - 2017-04-15T05:34:25Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2069
+        scoredSeconds:
+        - 0
+        - 10597
+        scoredTimes:
+        - 2017-04-15T02:37:48Z
+        - 2017-04-15T05:34:25Z
+        scoredWindowSeconds: 10597
   - - - '13'
       - Matthew Barlow
-    - scoredFixes:
-      - 27
-      - 2385
-      scoredSeconds:
-      - 135
-      - 11943
-      scoredTimes:
-      - 2017-04-15T01:55:59Z
-      - 2017-04-15T05:12:47Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 27
+        - 2385
+        scoredSeconds:
+        - 135
+        - 11943
+        scoredTimes:
+        - 2017-04-15T01:55:59Z
+        - 2017-04-15T05:12:47Z
+        scoredWindowSeconds: 11808
   - - - '42'
       - Mikhail Karmazin
-    - scoredFixes:
-      - 9
-      - 5261
-      scoredSeconds:
-      - 270
-      - 10604
-      scoredTimes:
-      - 2017-04-15T02:27:24Z
-      - 2017-04-15T05:19:38Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 5261
+        scoredSeconds:
+        - 270
+        - 10604
+        scoredTimes:
+        - 2017-04-15T02:27:24Z
+        - 2017-04-15T05:19:38Z
+        scoredWindowSeconds: 10334
   - - - '4'
       - Nick Purcell
-    - scoredFixes:
-      - 0
-      - 5342
-      scoredSeconds:
-      - 0
-      - 11710
-      scoredTimes:
-      - 2017-04-15T02:01:02Z
-      - 2017-04-15T05:16:12Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 5342
+        scoredSeconds:
+        - 0
+        - 11710
+        scoredTimes:
+        - 2017-04-15T02:01:02Z
+        - 2017-04-15T05:16:12Z
+        scoredWindowSeconds: 11710
   - - - '33'
       - Niki Longshore
-    - scoredFixes:
-      - 7
-      - 1476
-      scoredSeconds:
-      - 212
-      - 11960
-      scoredTimes:
-      - 2017-04-15T01:58:30Z
-      - 2017-04-15T05:14:18Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 7
+        - 1476
+        scoredSeconds:
+        - 212
+        - 11960
+        scoredTimes:
+        - 2017-04-15T01:58:30Z
+        - 2017-04-15T05:14:18Z
+        scoredWindowSeconds: 11748
   - - - '23'
       - Noel Collins
-    - scoredFixes:
-      - 0
-      - 9642
-      scoredSeconds:
-      - 0
-      - 9642
-      scoredTimes:
-      - 2017-04-15T02:37:09Z
-      - 2017-04-15T05:17:51Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 9642
+        scoredSeconds:
+        - 0
+        - 9642
+        scoredTimes:
+        - 2017-04-15T02:37:09Z
+        - 2017-04-15T05:17:51Z
+        scoredWindowSeconds: 9642
   - - - '18'
       - Peter Adriaans
-    - scoredFixes:
-      - 45
-      - 8834
-      scoredSeconds:
-      - 45
-      - 8834
-      scoredTimes:
-      - 2017-04-15T02:41:11Z
-      - 2017-04-15T05:07:40Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 45
+        - 8834
+        scoredSeconds:
+        - 45
+        - 8834
+        scoredTimes:
+        - 2017-04-15T02:41:11Z
+        - 2017-04-15T05:07:40Z
+        scoredWindowSeconds: 8789
   - - - '41'
       - Peter Burkitt
-    - scoredFixes:
-      - 0
-      - 2287
-      scoredSeconds:
-      - 0
-      - 11435
-      scoredTimes:
-      - 2017-04-15T02:41:32Z
-      - 2017-04-15T05:52:07Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2287
+        scoredSeconds:
+        - 0
+        - 11435
+        scoredTimes:
+        - 2017-04-15T02:41:32Z
+        - 2017-04-15T05:52:07Z
+        scoredWindowSeconds: 11435
   - - - '32'
       - Rob Larkin
-    - scoredFixes:
-      - 17
-      - 5035
-      scoredSeconds:
-      - 34
-      - 10078
-      scoredTimes:
-      - 2017-04-15T02:43:25Z
-      - 2017-04-15T05:30:49Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 17
+        - 5035
+        scoredSeconds:
+        - 34
+        - 10078
+        scoredTimes:
+        - 2017-04-15T02:43:25Z
+        - 2017-04-15T05:30:49Z
+        scoredWindowSeconds: 10044
   - - - '8'
       - Rod Flockhart
-    - scoredFixes:
-      - 446
-      - 3603
-      scoredSeconds:
-      - 1337
-      - 10815
-      scoredTimes:
-      - 2017-04-15T02:32:13Z
-      - 2017-04-15T05:10:11Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 446
+        - 3603
+        scoredSeconds:
+        - 1337
+        - 10815
+        scoredTimes:
+        - 2017-04-15T02:32:13Z
+        - 2017-04-15T05:10:11Z
+        scoredWindowSeconds: 9478
   - - - '9'
       - Rohan Taylor
-    - scoredFixes:
-      - 0
-      - 2071
-      scoredSeconds:
-      - 0
-      - 8588
-      scoredTimes:
-      - 2017-04-15T02:19:57Z
-      - 2017-04-15T04:43:05Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2071
+        scoredSeconds:
+        - 0
+        - 8588
+        scoredTimes:
+        - 2017-04-15T02:19:57Z
+        - 2017-04-15T04:43:05Z
+        scoredWindowSeconds: 8588
   - - - '12'
       - Rory Duncan
-    - scoredFixes:
-      - 47
-      - 2129
-      scoredSeconds:
-      - 234
-      - 10644
-      scoredTimes:
-      - 2017-04-15T02:07:55Z
-      - 2017-04-15T05:01:25Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 47
+        - 2129
+        scoredSeconds:
+        - 234
+        - 10644
+        scoredTimes:
+        - 2017-04-15T02:07:55Z
+        - 2017-04-15T05:01:25Z
+        scoredWindowSeconds: 10410
   - - - '19'
       - Scott Barrett
-    - scoredFixes:
-      - 0
-      - 1951
-      scoredSeconds:
-      - 0
-      - 9887
-      scoredTimes:
-      - 2017-04-15T02:09:51Z
-      - 2017-04-15T04:54:38Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1951
+        scoredSeconds:
+        - 0
+        - 9887
+        scoredTimes:
+        - 2017-04-15T02:09:51Z
+        - 2017-04-15T04:54:38Z
+        scoredWindowSeconds: 9887
   - - - '43'
       - Simon West
-    - scoredFixes:
-      - 0
-      - 2634
-      scoredSeconds:
-      - 0
-      - 12109
-      scoredTimes:
-      - 2017-04-15T02:43:24Z
-      - 2017-04-15T06:05:13Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2634
+        scoredSeconds:
+        - 0
+        - 12109
+        scoredTimes:
+        - 2017-04-15T02:43:24Z
+        - 2017-04-15T06:05:13Z
+        scoredWindowSeconds: 12109
   - - - '22'
       - Steve Blenkinsop
-    - scoredFixes:
-      - 0
-      - 12516
-      scoredSeconds:
-      - 0
-      - 12516
-      scoredTimes:
-      - 2017-04-15T02:17:46Z
-      - 2017-04-15T05:46:22Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 12516
+        scoredSeconds:
+        - 0
+        - 12516
+        scoredTimes:
+        - 2017-04-15T02:17:46Z
+        - 2017-04-15T05:46:22Z
+        scoredWindowSeconds: 12516
   - - - '31'
       - Tomas Kellner
-    - scoredFixes:
-      - 0
-      - 644
-      scoredSeconds:
-      - 0
-      - 3412
-      scoredTimes:
-      - 2017-04-15T02:52:32Z
-      - 2017-04-15T03:49:24Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 644
+        scoredSeconds:
+        - 0
+        - 3412
+        scoredTimes:
+        - 2017-04-15T02:52:32Z
+        - 2017-04-15T03:49:24Z
+        scoredWindowSeconds: 3412
   - - - '2'
       - Tony Armstrong
-    - scoredFixes:
-      - 0
-      - 3575
-      scoredSeconds:
-      - 0
-      - 10822
-      scoredTimes:
-      - 2017-04-15T02:01:40Z
-      - 2017-04-15T05:02:02Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3575
+        scoredSeconds:
+        - 0
+        - 10822
+        scoredTimes:
+        - 2017-04-15T02:01:40Z
+        - 2017-04-15T05:02:02Z
+        scoredWindowSeconds: 10822
   - - - '14'
       - Tony Giammichele
-    - scoredFixes:
-      - 6
-      - 4136
-      scoredSeconds:
-      - 181
-      - 12016
-      scoredTimes:
-      - 2017-04-15T02:26:16Z
-      - 2017-04-15T05:43:31Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 6
+        - 4136
+        scoredSeconds:
+        - 181
+        - 12016
+        scoredTimes:
+        - 2017-04-15T02:26:16Z
+        - 2017-04-15T05:43:31Z
+        scoredWindowSeconds: 11835
   - - - '17'
       - Trevor Purcell
-    - scoredFixes:
-      - 281
-      - 3472
-      scoredSeconds:
-      - 843
-      - 10409
-      scoredTimes:
-      - 2017-04-15T02:34:36Z
-      - 2017-04-15T05:14:02Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 281
+        - 3472
+        scoredSeconds:
+        - 843
+        - 10409
+        scoredTimes:
+        - 2017-04-15T02:34:36Z
+        - 2017-04-15T05:14:02Z
+        scoredWindowSeconds: 9566
   - - - '6'
       - Viv Clements
-    - scoredFixes:
-      - 0
-      - 14071
-      scoredSeconds:
-      - 0
-      - 14071
-      scoredTimes:
-      - 2017-04-15T01:59:12Z
-      - 2017-04-15T05:53:43Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 14071
+        scoredSeconds:
+        - 0
+        - 14071
+        scoredTimes:
+        - 2017-04-15T01:59:12Z
+        - 2017-04-15T05:53:43Z
+        scoredWindowSeconds: 14071
   - - - '34'
       - dave moore
-    - scoredFixes:
-      - 2
-      - 3612
-      scoredSeconds:
-      - 60
-      - 11342
-      scoredTimes:
-      - 2017-04-15T02:42:00Z
-      - 2017-04-15T05:50:02Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 3612
+        scoredSeconds:
+        - 60
+        - 11342
+        scoredTimes:
+        - 2017-04-15T02:42:00Z
+        - 2017-04-15T05:50:02Z
+        scoredWindowSeconds: 11282
   - - - '39'
       - rob degroot
-    - scoredFixes:
-      - 0
-      - 2867
-      scoredSeconds:
-      - 0
-      - 11462
-      scoredTimes:
-      - 2017-04-15T02:01:23Z
-      - 2017-04-15T05:12:25Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2867
+        scoredSeconds:
+        - 0
+        - 11462
+        scoredTimes:
+        - 2017-04-15T02:01:23Z
+        - 2017-04-15T05:12:25Z
+        scoredWindowSeconds: 11462
   - - - '45'
       - steve crosby
-    - scoredFixes:
-      - 28
-      - 1263
-      scoredSeconds:
-      - 280
-      - 10766
-      scoredTimes:
-      - 2017-04-15T02:14:45Z
-      - 2017-04-15T05:09:31Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 28
+        - 1263
+        scoredSeconds:
+        - 280
+        - 10766
+        scoredTimes:
+        - 2017-04-15T02:14:45Z
+        - 2017-04-15T05:09:31Z
+        scoredWindowSeconds: 10486
 timing:
 - zonesSum:
   - 46
