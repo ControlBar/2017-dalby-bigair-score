@@ -1,0 +1,1259 @@
+minDistance: 5.000 km
+bestDistance:
+- 104.538000 km
+- 116.149000 km
+- 101.933000 km
+- 119.337000 km
+- 93.932900 km
+chunking:
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 979
+  - 9.8 km
+  sumOf: 2607
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 1159
+  - 11.6 km
+  sumOf: 3185
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 1009
+  - 10.1 km
+  sumOf: 3016
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 1129
+  - 11.3 km
+  sumOf: 3485
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 879
+  - 8.8 km
+  sumOf: 2434
+landout:
+- 30
+- 23
+- 30
+- 32
+- 21
+lookahead:
+- 121
+- 174
+- 109
+- 123
+- 157
+difficulty:
+- - chunk: 50
+    startChunk: 5.0 km
+    endChunk: 5.1 km
+    endAhead: 17.1 km
+    down: 7
+    downs:
+    - 5.021 km
+    - 5.021 km
+    - 5.021 km
+    - 5.021 km
+    - 5.021 km
+    - 5.021 km
+    - 5.021 km
+    downers:
+    - - '24'
+      - Brodrick Osborne
+    - - '3'
+      - Paul Allen
+    - - '14'
+      - Tony Giammichele
+    - - '15'
+      - Andrew Sharpe
+    - - '37'
+      - John Spencer
+    - - '38'
+      - Dave Stevens
+    - - '41'
+      - Peter Burkitt
+    downward: 23
+  - chunk: 98
+    startChunk: 9.8 km
+    endChunk: 9.9 km
+    endAhead: 21.9 km
+    down: 1
+    downs:
+    - 9.822 km
+    downers:
+    - - '29'
+      - Guy Hubbard
+    downward: 22
+  - chunk: 103
+    startChunk: 10.3 km
+    endChunk: 10.4 km
+    endAhead: 22.4 km
+    down: 1
+    downs:
+    - 10.327 km
+    downers:
+    - - '40'
+      - Hossain Tefaili
+    downward: 21
+  - chunk: 110
+    startChunk: 11.0 km
+    endChunk: 11.1 km
+    endAhead: 23.1 km
+    down: 1
+    downs:
+    - 11.029 km
+    downers:
+    - - '42'
+      - Mikhail Karmazin
+    downward: 20
+  - chunk: 252
+    startChunk: 25.2 km
+    endChunk: 25.3 km
+    endAhead: 37.3 km
+    down: 2
+    downs:
+    - 25.254 km
+    - 25.254 km
+    downers:
+    - - '31'
+      - Tomas Kellner
+    - - '43'
+      - Simon West
+    downward: 18
+  - chunk: 575
+    startChunk: 57.5 km
+    endChunk: 57.6 km
+    endAhead: 69.6 km
+    down: 1
+    downs:
+    - 57.576 km
+    downers:
+    - - '10'
+      - Craig Taylor
+    downward: 17
+  - chunk: 603
+    startChunk: 60.3 km
+    endChunk: 60.4 km
+    endAhead: 72.4 km
+    down: 1
+    downs:
+    - 60.346 km
+    downers:
+    - - '18'
+      - Peter Adriaans
+    downward: 16
+  - chunk: 612
+    startChunk: 61.2 km
+    endChunk: 61.3 km
+    endAhead: 73.3 km
+    down: 1
+    downs:
+    - 61.239 km
+    downers:
+    - - '34'
+      - Dave Moore
+    downward: 15
+  - chunk: 686
+    startChunk: 68.6 km
+    endChunk: 68.7 km
+    endAhead: 80.7 km
+    down: 1
+    downs:
+    - 68.614 km
+    downers:
+    - - '28'
+      - John Harriot
+    downward: 14
+  - chunk: 727
+    startChunk: 72.7 km
+    endChunk: 72.8 km
+    endAhead: 84.8 km
+    down: 1
+    downs:
+    - 72.800 km
+    downers:
+    - - '48'
+      - Derek Mckee
+    downward: 13
+  - chunk: 848
+    startChunk: 84.8 km
+    endChunk: 84.9 km
+    endAhead: 96.9 km
+    down: 1
+    downs:
+    - 84.851 km
+    downers:
+    - - '12'
+      - Rory Duncan
+    downward: 12
+  - chunk: 877
+    startChunk: 87.7 km
+    endChunk: 87.8 km
+    endAhead: 99.8 km
+    down: 1
+    downs:
+    - 87.759 km
+    downers:
+    - - '2'
+      - Tony Armstrong
+    downward: 11
+  - chunk: 887
+    startChunk: 88.7 km
+    endChunk: 88.8 km
+    endAhead: 100.8 km
+    down: 1
+    downs:
+    - 88.752 km
+    downers:
+    - - '9'
+      - Rohan Taylor
+    downward: 10
+  - chunk: 888
+    startChunk: 88.8 km
+    endChunk: 88.9 km
+    endAhead: 100.9 km
+    down: 1
+    downs:
+    - 88.878 km
+    downers:
+    - - '32'
+      - Rob Larkin
+    downward: 9
+  - chunk: 892
+    startChunk: 89.2 km
+    endChunk: 89.3 km
+    endAhead: 101.3 km
+    down: 1
+    downs:
+    - 89.223 km
+    downers:
+    - - '35'
+      - Anatoly Reyter
+    downward: 8
+  - chunk: 904
+    startChunk: 90.4 km
+    endChunk: 90.5 km
+    endAhead: 102.5 km
+    down: 1
+    downs:
+    - 90.468 km
+    downers:
+    - - '4'
+      - Nick Purcell
+    downward: 7
+  - chunk: 930
+    startChunk: 93.0 km
+    endChunk: 93.1 km
+    endAhead: 105.1 km
+    down: 1
+    downs:
+    - 93.028 km
+    downers:
+    - - '7'
+      - James Atkinson
+    downward: 6
+  - chunk: 952
+    startChunk: 95.2 km
+    endChunk: 95.3 km
+    endAhead: 107.3 km
+    down: 1
+    downs:
+    - 95.259 km
+    downers:
+    - - '1'
+      - Mark Alton
+    downward: 5
+  - chunk: 975
+    startChunk: 97.5 km
+    endChunk: 97.6 km
+    endAhead: 109.6 km
+    down: 1
+    downs:
+    - 97.569 km
+    downers:
+    - - '23'
+      - Noel Collins
+    downward: 4
+- - chunk: 50
+    startChunk: 5.0 km
+    endChunk: 5.1 km
+    endAhead: 22.4 km
+    down: 2
+    downs:
+    - null
+    - 4.982 km
+    downers:
+    - - '8'
+      - Rod Flockhart
+    - - '41'
+      - Peter Burkitt
+    downward: 21
+  - chunk: 124
+    startChunk: 12.4 km
+    endChunk: 12.5 km
+    endAhead: 29.8 km
+    down: 1
+    downs:
+    - 12.461 km
+    downers:
+    - - '27'
+      - Guy Williams
+    downward: 20
+  - chunk: 221
+    startChunk: 22.1 km
+    endChunk: 22.2 km
+    endAhead: 39.5 km
+    down: 1
+    downs:
+    - 22.152 km
+    downers:
+    - - '28'
+      - John Harriot
+    downward: 19
+  - chunk: 271
+    startChunk: 27.1 km
+    endChunk: 27.2 km
+    endAhead: 44.5 km
+    down: 2
+    downs:
+    - 27.120 km
+    - 27.120 km
+    downers:
+    - - '15'
+      - Andrew Sharpe
+    - - '23'
+      - Noel Collins
+    downward: 17
+  - chunk: 272
+    startChunk: 27.2 km
+    endChunk: 27.3 km
+    endAhead: 44.6 km
+    down: 2
+    downs:
+    - 27.268 km
+    - 27.214 km
+    downers:
+    - - '31'
+      - Tomas Kellner
+    - - '3'
+      - Paul Allen
+    downward: 15
+  - chunk: 545
+    startChunk: 54.5 km
+    endChunk: 54.6 km
+    endAhead: 71.9 km
+    down: 1
+    downs:
+    - 54.564 km
+    downers:
+    - - '32'
+      - Rob Larkin
+    downward: 14
+  - chunk: 677
+    startChunk: 67.7 km
+    endChunk: 67.8 km
+    endAhead: 85.1 km
+    down: 1
+    downs:
+    - 67.726 km
+    downers:
+    - - '43'
+      - Simon West
+    downward: 13
+  - chunk: 711
+    startChunk: 71.1 km
+    endChunk: 71.2 km
+    endAhead: 88.5 km
+    down: 1
+    downs:
+    - 71.105 km
+    downers:
+    - - '1'
+      - Mark Alton
+    downward: 12
+  - chunk: 745
+    startChunk: 74.5 km
+    endChunk: 74.6 km
+    endAhead: 91.9 km
+    down: 1
+    downs:
+    - 74.581 km
+    downers:
+    - - '48'
+      - Derek Mckee
+    downward: 11
+  - chunk: 792
+    startChunk: 79.2 km
+    endChunk: 79.3 km
+    endAhead: 96.6 km
+    down: 1
+    downs:
+    - 79.209 km
+    downers:
+    - - '40'
+      - Hossain Tefaili
+    downward: 10
+  - chunk: 951
+    startChunk: 95.1 km
+    endChunk: 95.2 km
+    endAhead: 112.5 km
+    down: 1
+    downs:
+    - 95.117 km
+    downers:
+    - - '36'
+      - Brad Porter
+    downward: 9
+  - chunk: 998
+    startChunk: 99.8 km
+    endChunk: 99.9 km
+    endAhead: 117.2 km
+    down: 1
+    downs:
+    - 99.850 km
+    downers:
+    - - '17'
+      - Trevor Purcell
+    downward: 8
+  - chunk: 1117
+    startChunk: 111.7 km
+    endChunk: 111.8 km
+    endAhead: 129.1 km
+    down: 1
+    downs:
+    - 111.751 km
+    downers:
+    - - '18'
+      - Peter Adriaans
+    downward: 7
+  - chunk: 1118
+    startChunk: 111.8 km
+    endChunk: 111.9 km
+    endAhead: 129.2 km
+    down: 2
+    downs:
+    - 111.894 km
+    - 111.819 km
+    downers:
+    - - '19'
+      - Scott Barrett
+    - - '35'
+      - Anatoly Reyter
+    downward: 5
+  - chunk: 1156
+    startChunk: 115.6 km
+    endChunk: 115.7 km
+    endAhead: 133.0 km
+    down: 2
+    downs:
+    - 115.625 km
+    - 115.692 km
+    downers:
+    - - '13'
+      - Matthew Barlow
+    - - '24'
+      - Brodrick Osborne
+    downward: 3
+- - chunk: 72
+    startChunk: 7.2 km
+    endChunk: 7.3 km
+    endAhead: 18.1 km
+    down: 1
+    downs:
+    - 7.229 km
+    downers:
+    - - '28'
+      - John Harriot
+    downward: 29
+  - chunk: 142
+    startChunk: 14.2 km
+    endChunk: 14.3 km
+    endAhead: 25.1 km
+    down: 1
+    downs:
+    - 14.296 km
+    downers:
+    - - '15'
+      - Andrew Sharpe
+    downward: 28
+  - chunk: 177
+    startChunk: 17.7 km
+    endChunk: 17.8 km
+    endAhead: 28.6 km
+    down: 1
+    downs:
+    - 17.796 km
+    downers:
+    - - '3'
+      - Paul Allen
+    downward: 27
+  - chunk: 229
+    startChunk: 22.9 km
+    endChunk: 23.0 km
+    endAhead: 33.8 km
+    down: 1
+    downs:
+    - 22.945 km
+    downers:
+    - - '24'
+      - Brodrick Osborne
+    downward: 26
+  - chunk: 429
+    startChunk: 42.9 km
+    endChunk: 43.0 km
+    endAhead: 53.8 km
+    down: 1
+    downs:
+    - 42.934 km
+    downers:
+    - - '20'
+      - Konrad Heilmann
+    downward: 25
+  - chunk: 437
+    startChunk: 43.7 km
+    endChunk: 43.8 km
+    endAhead: 54.6 km
+    down: 1
+    downs:
+    - 43.769 km
+    downers:
+    - - '8'
+      - Rod Flockhart
+    downward: 24
+  - chunk: 451
+    startChunk: 45.1 km
+    endChunk: 45.2 km
+    endAhead: 56.0 km
+    down: 1
+    downs:
+    - 45.178 km
+    downers:
+    - - '41'
+      - Peter Burkitt
+    downward: 23
+  - chunk: 457
+    startChunk: 45.7 km
+    endChunk: 45.8 km
+    endAhead: 56.6 km
+    down: 1
+    downs:
+    - 45.781 km
+    downers:
+    - - '14'
+      - Tony Giammichele
+    downward: 22
+  - chunk: 458
+    startChunk: 45.8 km
+    endChunk: 45.9 km
+    endAhead: 56.7 km
+    down: 1
+    downs:
+    - 45.871 km
+    downers:
+    - - '45'
+      - Steve Crosby
+    downward: 21
+  - chunk: 520
+    startChunk: 52.0 km
+    endChunk: 52.1 km
+    endAhead: 62.9 km
+    down: 1
+    downs:
+    - 52.093 km
+    downers:
+    - - '31'
+      - Tomas Kellner
+    downward: 20
+  - chunk: 608
+    startChunk: 60.8 km
+    endChunk: 60.9 km
+    endAhead: 71.7 km
+    down: 1
+    downs:
+    - 60.864 km
+    downers:
+    - - '34'
+      - Dave Moore
+    downward: 19
+  - chunk: 656
+    startChunk: 65.6 km
+    endChunk: 65.7 km
+    endAhead: 76.5 km
+    down: 1
+    downs:
+    - 65.690 km
+    downers:
+    - - '40'
+      - Hossain Tefaili
+    downward: 18
+  - chunk: 668
+    startChunk: 66.8 km
+    endChunk: 66.9 km
+    endAhead: 77.7 km
+    down: 1
+    downs:
+    - 66.848 km
+    downers:
+    - - '7'
+      - James Atkinson
+    downward: 17
+  - chunk: 670
+    startChunk: 67.0 km
+    endChunk: 67.1 km
+    endAhead: 77.9 km
+    down: 1
+    downs:
+    - 67.097 km
+    downers:
+    - - '9'
+      - Rohan Taylor
+    downward: 16
+  - chunk: 671
+    startChunk: 67.1 km
+    endChunk: 67.2 km
+    endAhead: 78.0 km
+    down: 1
+    downs:
+    - 67.194 km
+    downers:
+    - - '16'
+      - Andrew Barnes
+    downward: 15
+  - chunk: 673
+    startChunk: 67.3 km
+    endChunk: 67.4 km
+    endAhead: 78.2 km
+    down: 1
+    downs:
+    - 67.387 km
+    downers:
+    - - '27'
+      - Guy Williams
+    downward: 14
+  - chunk: 683
+    startChunk: 68.3 km
+    endChunk: 68.4 km
+    endAhead: 79.2 km
+    down: 1
+    downs:
+    - 68.353 km
+    downers:
+    - - '48'
+      - Derek Mckee
+    downward: 13
+  - chunk: 693
+    startChunk: 69.3 km
+    endChunk: 69.4 km
+    endAhead: 80.2 km
+    down: 1
+    downs:
+    - 69.322 km
+    downers:
+    - - '32'
+      - Rob Larkin
+    downward: 12
+  - chunk: 698
+    startChunk: 69.8 km
+    endChunk: 69.9 km
+    endAhead: 80.7 km
+    down: 1
+    downs:
+    - 69.873 km
+    downers:
+    - - '43'
+      - Simon West
+    downward: 11
+  - chunk: 699
+    startChunk: 69.9 km
+    endChunk: 70.0 km
+    endAhead: 80.8 km
+    down: 1
+    downs:
+    - 69.994 km
+    downers:
+    - - '1'
+      - Mark Alton
+    downward: 10
+  - chunk: 722
+    startChunk: 72.2 km
+    endChunk: 72.3 km
+    endAhead: 83.1 km
+    down: 1
+    downs:
+    - 72.294 km
+    downers:
+    - - '17'
+      - Trevor Purcell
+    downward: 9
+  - chunk: 729
+    startChunk: 72.9 km
+    endChunk: 73.0 km
+    endAhead: 83.8 km
+    down: 1
+    downs:
+    - 72.939 km
+    downers:
+    - - '38'
+      - Dave Stevens
+    downward: 8
+  - chunk: 819
+    startChunk: 81.9 km
+    endChunk: 82.0 km
+    endAhead: 92.8 km
+    down: 1
+    downs:
+    - 81.999 km
+    downers:
+    - - '37'
+      - John Spencer
+    downward: 7
+  - chunk: 854
+    startChunk: 85.4 km
+    endChunk: 85.5 km
+    endAhead: 96.3 km
+    down: 1
+    downs:
+    - 85.498 km
+    downers:
+    - - '36'
+      - Brad Porter
+    downward: 6
+  - chunk: 865
+    startChunk: 86.5 km
+    endChunk: 86.6 km
+    endAhead: 97.4 km
+    down: 1
+    downs:
+    - 86.517 km
+    downers:
+    - - '13'
+      - Matthew Barlow
+    downward: 5
+  - chunk: 951
+    startChunk: 95.1 km
+    endChunk: 95.2 km
+    endAhead: 106.0 km
+    down: 1
+    downs:
+    - 95.130 km
+    downers:
+    - - '33'
+      - Niki Longshore
+    downward: 4
+  - chunk: 975
+    startChunk: 97.5 km
+    endChunk: 97.6 km
+    endAhead: 108.4 km
+    down: 1
+    downs:
+    - 97.542 km
+    downers:
+    - - '39'
+      - Rob Degroot
+    downward: 3
+  - chunk: 1006
+    startChunk: 100.6 km
+    endChunk: 100.7 km
+    endAhead: 111.5 km
+    down: 1
+    downs:
+    - 100.620 km
+    downers:
+    - - '25'
+      - Hagen Bruggemann
+    downward: 2
+- - chunk: 50
+    startChunk: 5.0 km
+    endChunk: 5.1 km
+    endAhead: 17.3 km
+    down: 1
+    downs:
+    - null
+    downers:
+    - - '26'
+      - Jason Kath
+    downward: 31
+  - chunk: 112
+    startChunk: 11.2 km
+    endChunk: 11.3 km
+    endAhead: 23.5 km
+    down: 1
+    downs:
+    - 11.249 km
+    downers:
+    - - '34'
+      - Dave Moore
+    downward: 30
+  - chunk: 152
+    startChunk: 15.2 km
+    endChunk: 15.3 km
+    endAhead: 27.5 km
+    down: 1
+    downs:
+    - 15.247 km
+    downers:
+    - - '28'
+      - John Harriot
+    downward: 29
+  - chunk: 158
+    startChunk: 15.8 km
+    endChunk: 15.9 km
+    endAhead: 28.1 km
+    down: 1
+    downs:
+    - 15.812 km
+    downers:
+    - - '15'
+      - Andrew Sharpe
+    downward: 28
+  - chunk: 225
+    startChunk: 22.5 km
+    endChunk: 22.6 km
+    endAhead: 34.8 km
+    down: 1
+    downs:
+    - 22.554 km
+    downers:
+    - - '27'
+      - Guy Williams
+    downward: 27
+  - chunk: 254
+    startChunk: 25.4 km
+    endChunk: 25.5 km
+    endAhead: 37.7 km
+    down: 1
+    downs:
+    - 25.489 km
+    downers:
+    - - '48'
+      - Derek Mckee
+    downward: 26
+  - chunk: 293
+    startChunk: 29.3 km
+    endChunk: 29.4 km
+    endAhead: 41.6 km
+    down: 1
+    downs:
+    - 29.385 km
+    downers:
+    - - '31'
+      - Tomas Kellner
+    downward: 25
+  - chunk: 347
+    startChunk: 34.7 km
+    endChunk: 34.8 km
+    endAhead: 47.0 km
+    down: 1
+    downs:
+    - 34.791 km
+    downers:
+    - - '40'
+      - Hossain Tefaili
+    downward: 24
+  - chunk: 446
+    startChunk: 44.6 km
+    endChunk: 44.7 km
+    endAhead: 56.9 km
+    down: 1
+    downs:
+    - 44.642 km
+    downers:
+    - - '32'
+      - Rob Larkin
+    downward: 23
+  - chunk: 456
+    startChunk: 45.6 km
+    endChunk: 45.7 km
+    endAhead: 57.9 km
+    down: 1
+    downs:
+    - 45.657 km
+    downers:
+    - - '1'
+      - Mark Alton
+    downward: 22
+  - chunk: 677
+    startChunk: 67.7 km
+    endChunk: 67.8 km
+    endAhead: 80.0 km
+    down: 1
+    downs:
+    - 67.775 km
+    downers:
+    - - '21'
+      - Frank Chetcuti
+    downward: 21
+  - chunk: 680
+    startChunk: 68.0 km
+    endChunk: 68.1 km
+    endAhead: 80.3 km
+    down: 1
+    downs:
+    - 68.024 km
+    downers:
+    - - '14'
+      - Tony Giammichele
+    downward: 20
+  - chunk: 689
+    startChunk: 68.9 km
+    endChunk: 69.0 km
+    endAhead: 81.2 km
+    down: 1
+    downs:
+    - 68.939 km
+    downers:
+    - - '41'
+      - Peter Burkitt
+    downward: 19
+  - chunk: 701
+    startChunk: 70.1 km
+    endChunk: 70.2 km
+    endAhead: 82.4 km
+    down: 1
+    downs:
+    - 70.155 km
+    downers:
+    - - '43'
+      - Simon West
+    downward: 18
+  - chunk: 839
+    startChunk: 83.9 km
+    endChunk: 84.0 km
+    endAhead: 96.2 km
+    down: 1
+    downs:
+    - 83.983 km
+    downers:
+    - - '17'
+      - Trevor Purcell
+    downward: 17
+  - chunk: 858
+    startChunk: 85.8 km
+    endChunk: 85.9 km
+    endAhead: 98.1 km
+    down: 1
+    downs:
+    - 85.829 km
+    downers:
+    - - '23'
+      - Noel Collins
+    downward: 16
+  - chunk: 880
+    startChunk: 88.0 km
+    endChunk: 88.1 km
+    endAhead: 100.3 km
+    down: 1
+    downs:
+    - 88.028 km
+    downers:
+    - - '35'
+      - Anatoly Reyter
+    downward: 15
+  - chunk: 923
+    startChunk: 92.3 km
+    endChunk: 92.4 km
+    endAhead: 104.6 km
+    down: 1
+    downs:
+    - 92.321 km
+    downers:
+    - - '18'
+      - Peter Adriaans
+    downward: 14
+  - chunk: 925
+    startChunk: 92.5 km
+    endChunk: 92.6 km
+    endAhead: 104.8 km
+    down: 2
+    downs:
+    - 92.502 km
+    - 92.523 km
+    downers:
+    - - '37'
+      - John Spencer
+    - - '38'
+      - Dave Stevens
+    downward: 12
+  - chunk: 965
+    startChunk: 96.5 km
+    endChunk: 96.6 km
+    endAhead: 108.8 km
+    down: 1
+    downs:
+    - 96.552 km
+    downers:
+    - - '6'
+      - Viv Clements
+    downward: 11
+  - chunk: 992
+    startChunk: 99.2 km
+    endChunk: 99.3 km
+    endAhead: 111.5 km
+    down: 1
+    downs:
+    - 99.247 km
+    downers:
+    - - '45'
+      - Steve Crosby
+    downward: 10
+  - chunk: 1036
+    startChunk: 103.6 km
+    endChunk: 103.7 km
+    endAhead: 115.9 km
+    down: 1
+    downs:
+    - 103.697 km
+    downers:
+    - - '7'
+      - James Atkinson
+    downward: 9
+  - chunk: 1040
+    startChunk: 104.0 km
+    endChunk: 104.1 km
+    endAhead: 116.3 km
+    down: 1
+    downs:
+    - 104.024 km
+    downers:
+    - - '24'
+      - Brodrick Osborne
+    downward: 8
+  - chunk: 1047
+    startChunk: 104.7 km
+    endChunk: 104.8 km
+    endAhead: 117.0 km
+    down: 1
+    downs:
+    - 104.753 km
+    downers:
+    - - '10'
+      - Craig Taylor
+    downward: 7
+  - chunk: 1051
+    startChunk: 105.1 km
+    endChunk: 105.2 km
+    endAhead: 117.4 km
+    down: 1
+    downs:
+    - 105.163 km
+    downers:
+    - - '16'
+      - Andrew Barnes
+    downward: 6
+  - chunk: 1073
+    startChunk: 107.3 km
+    endChunk: 107.4 km
+    endAhead: 119.6 km
+    down: 1
+    downs:
+    - 107.326 km
+    downers:
+    - - '42'
+      - Mikhail Karmazin
+    downward: 5
+  - chunk: 1107
+    startChunk: 110.7 km
+    endChunk: 110.8 km
+    endAhead: 123.0 km
+    down: 1
+    downs:
+    - 110.731 km
+    downers:
+    - - '39'
+      - Rob Degroot
+    downward: 4
+  - chunk: 1129
+    startChunk: 112.9 km
+    endChunk: 113.0 km
+    endAhead: 125.2 km
+    down: 1
+    downs:
+    - 112.995 km
+    downers:
+    - - '36'
+      - Brad Porter
+    downward: 3
+- - chunk: 50
+    startChunk: 5.0 km
+    endChunk: 5.1 km
+    endAhead: 20.7 km
+    down: 3
+    downs:
+    - null
+    - null
+    - 5.029 km
+    downers:
+    - - '7'
+      - James Atkinson
+    - - '17'
+      - Trevor Purcell
+    - - '35'
+      - Anatoly Reyter
+    downward: 18
+  - chunk: 82
+    startChunk: 8.2 km
+    endChunk: 8.3 km
+    endAhead: 23.9 km
+    down: 1
+    downs:
+    - 8.268 km
+    downers:
+    - - '31'
+      - Tomas Kellner
+    downward: 17
+  - chunk: 182
+    startChunk: 18.2 km
+    endChunk: 18.3 km
+    endAhead: 33.9 km
+    down: 1
+    downs:
+    - 18.229 km
+    downers:
+    - - '28'
+      - John Harriot
+    downward: 16
+  - chunk: 284
+    startChunk: 28.4 km
+    endChunk: 28.5 km
+    endAhead: 44.1 km
+    down: 1
+    downs:
+    - 28.418 km
+    downers:
+    - - '38'
+      - Dave Stevens
+    downward: 15
+  - chunk: 459
+    startChunk: 45.9 km
+    endChunk: 46.0 km
+    endAhead: 61.6 km
+    down: 2
+    downs:
+    - 45.920 km
+    - 45.921 km
+    downers:
+    - - '1'
+      - Mark Alton
+    - - '40'
+      - Hossain Tefaili
+    downward: 13
+  - chunk: 513
+    startChunk: 51.3 km
+    endChunk: 51.4 km
+    endAhead: 67.0 km
+    down: 1
+    downs:
+    - 51.353 km
+    downers:
+    - - '27'
+      - Guy Williams
+    downward: 12
+  - chunk: 558
+    startChunk: 55.8 km
+    endChunk: 55.9 km
+    endAhead: 71.5 km
+    down: 1
+    downs:
+    - 55.836 km
+    downers:
+    - - '13'
+      - Matthew Barlow
+    downward: 11
+  - chunk: 581
+    startChunk: 58.1 km
+    endChunk: 58.2 km
+    endAhead: 73.8 km
+    down: 1
+    downs:
+    - 58.135 km
+    downers:
+    - - '34'
+      - Dave Moore
+    downward: 10
+  - chunk: 603
+    startChunk: 60.3 km
+    endChunk: 60.4 km
+    endAhead: 76.0 km
+    down: 1
+    downs:
+    - 60.391 km
+    downers:
+    - - '15'
+      - Andrew Sharpe
+    downward: 9
+  - chunk: 608
+    startChunk: 60.8 km
+    endChunk: 60.9 km
+    endAhead: 76.5 km
+    down: 1
+    downs:
+    - 60.852 km
+    downers:
+    - - '18'
+      - Peter Adriaans
+    downward: 8
+  - chunk: 622
+    startChunk: 62.2 km
+    endChunk: 62.3 km
+    endAhead: 77.9 km
+    down: 1
+    downs:
+    - 62.228 km
+    downers:
+    - - '32'
+      - Rob Larkin
+    downward: 7
+  - chunk: 637
+    startChunk: 63.7 km
+    endChunk: 63.8 km
+    endAhead: 79.4 km
+    down: 1
+    downs:
+    - 63.736 km
+    downers:
+    - - '5'
+      - Jonny Durand
+    downward: 6
+  - chunk: 642
+    startChunk: 64.2 km
+    endChunk: 64.3 km
+    endAhead: 79.9 km
+    down: 1
+    downs:
+    - 64.216 km
+    downers:
+    - - '48'
+      - Derek Mckee
+    downward: 5
+  - chunk: 649
+    startChunk: 64.9 km
+    endChunk: 65.0 km
+    endAhead: 80.6 km
+    down: 1
+    downs:
+    - 64.906 km
+    downers:
+    - - '9'
+      - Rohan Taylor
+    downward: 4
+  - chunk: 874
+    startChunk: 87.4 km
+    endChunk: 87.5 km
+    endAhead: 103.1 km
+    down: 1
+    downs:
+    - 87.408 km
+    downers:
+    - - '21'
+      - Frank Chetcuti
+    downward: 3

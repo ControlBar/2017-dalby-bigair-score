@@ -1127,7 +1127,7 @@ score:
   - - - '23'
       - Noel Collins
     - place: '21'
-      total: 414.837
+      total: 415.05
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -1144,11 +1144,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 212.135
+        effort: 212.348
         arrival: 0
         time: 0
         reach: 202.702
-        distance: 414.837
+        distance: 415.05
         leading: 0
       velocity:
         ss: 2017-04-09T03:43:44.404673626039Z
@@ -1166,13 +1166,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 414.837
-      landedMade: 92.436 km
+      subtotal: 415.05
+      landedMade: 92.625 km
       stoppedAlt: 352.000 m
   - - - '1'
       - Mark Alton
     - place: '22'
-      total: 405.843
+      total: 406.269
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -1189,11 +1189,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 208.199
+        effort: 208.625
         arrival: 0
         time: 0
         reach: 197.644
-        distance: 405.843
+        distance: 406.269
         leading: 0
       velocity:
         ss: 2017-04-09T03:21:04.657384050835Z
@@ -1211,13 +1211,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 405.843
-      landedMade: 90.054 km
+      subtotal: 406.269
+      landedMade: 90.314 km
       stoppedAlt: 352.000 m
   - - - '7'
       - James Atkinson
     - place: '23'
-      total: 395.006
+      total: 395.75
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -1234,11 +1234,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 202.241
+        effort: 202.986
         arrival: 0
         time: 0
         reach: 192.764
-        distance: 395.006
+        distance: 395.75
         leading: 0
       velocity:
         ss: 2017-04-09T03:42:18.790249779956Z
@@ -1256,13 +1256,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 395.006
-      landedMade: 87.693 km
+      subtotal: 395.75
+      landedMade: 88.084 km
       stoppedAlt: 0.000 m
   - - - '4'
       - Nick Purcell
     - place: '24'
-      total: 383.124
+      total: 383.443
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -1279,11 +1279,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 195.965
+        effort: 196.284
         arrival: 0
         time: 0
         reach: 187.16
-        distance: 383.124
+        distance: 383.443
         leading: 0
       velocity:
         ss: 2017-04-09T03:20:32.670287449434Z
@@ -1301,58 +1301,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 383.124
-      landedMade: 85.111 km
+      subtotal: 383.443
+      landedMade: 85.523 km
       stoppedAlt: 0.000 m
-  - - - '9'
-      - Rohan Taylor
-    - place: '25'
-      total: 375.613
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 191.922
-        arrival: 0
-        time: 0
-        reach: 183.691
-        distance: 375.613
-        leading: 0
-      velocity:
-        ss: 2017-04-09T03:40:35.045001744228Z
-        gs: 2017-04-09T03:40:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 83.938 km
-        flown: 83.938 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 375.613
-      landedMade: 83.937 km
-      stoppedAlt: 352.000 m
   - - - '35'
       - Anatoly Reyter
-    - place: '26'
-      total: 374.755
+    - place: '25'
+      total: 376.457
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -1369,11 +1324,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 190.326
+        effort: 192.028
         arrival: 0
         time: 0
         reach: 184.428
-        distance: 374.755
+        distance: 376.457
         leading: 0
       velocity:
         ss: 2017-04-09T03:43:50.386820095704Z
@@ -1391,13 +1346,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 374.755
-      landedMade: 83.572 km
+      subtotal: 376.457
+      landedMade: 84.275 km
       stoppedAlt: 339.000 m
-  - - - '32'
-      - Rob Larkin
-    - place: '27'
-      total: 374
+  - - - '9'
+      - Rohan Taylor
+    - place: 26=
+      total: 374.549
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -1414,11 +1369,56 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 190.326
+        effort: 190.858
+        arrival: 0
+        time: 0
+        reach: 183.691
+        distance: 374.549
+        leading: 0
+      velocity:
+        ss: 2017-04-09T03:40:35.045001744228Z
+        gs: 2017-04-09T03:40:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 83.938 km
+        flown: 83.938 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 374.549
+      landedMade: 83.938 km
+      stoppedAlt: 352.000 m
+  - - - '32'
+      - Rob Larkin
+    - place: 26=
+      total: 374.531
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 190.858
         arrival: 0
         time: 0
         reach: 183.673
-        distance: 374
+        distance: 374.531
         leading: 0
       velocity:
         ss: 2017-04-09T03:21:14.95095011129Z
@@ -1436,13 +1436,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 374
-      landedMade: 83.535 km
+      subtotal: 374.531
+      landedMade: 83.930 km
       stoppedAlt: 335.000 m
   - - - '2'
       - Tony Armstrong
     - place: '28'
-      total: 366.34
+      total: 365.702
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -1459,11 +1459,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 185.113
+        effort: 184.475
         arrival: 0
         time: 0
         reach: 181.227
-        distance: 366.34
+        distance: 365.702
         leading: 0
       velocity:
         ss: 2017-04-09T03:20:25.767523094258Z
@@ -1481,13 +1481,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 366.34
-      landedMade: 82.699 km
+      subtotal: 365.702
+      landedMade: 82.812 km
       stoppedAlt: 346.000 m
   - - - '12'
       - Rory Duncan
     - place: '29'
-      total: 339.741
+      total: 340.379
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -1504,11 +1504,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 164.9
+        effort: 165.538
         arrival: 0
         time: 0
         reach: 174.841
-        distance: 339.741
+        distance: 340.379
         leading: 0
       velocity:
         ss: 2017-04-09T03:40:37.28344758157Z
@@ -1526,13 +1526,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 339.741
-      landedMade: 79.432 km
+      subtotal: 340.379
+      landedMade: 79.894 km
       stoppedAlt: 334.000 m
   - - - '41'
       - Peter Burkitt
     - place: '30'
-      total: 299.665
+      total: 300.517
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -1551,11 +1551,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 135.962
+        effort: 136.814
         arrival: 0
         time: 0
         reach: 163.886
-        distance: 299.848
+        distance: 300.699
         leading: 0
       velocity:
         ss: 2017-04-09T03:19:58.17087191993Z
@@ -1573,13 +1573,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0.183
       demeritReset: 0
-      subtotal: 299.848
-      landedMade: 74.416 km
+      subtotal: 300.699
+      landedMade: 74.888 km
       stoppedAlt: 333.000 m
   - - - '48'
       - Derek Mckee
     - place: '31'
-      total: 262.617
+      total: 263.043
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -1596,11 +1596,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 114.153
+        effort: 114.579
         arrival: 0
         time: 0
         reach: 148.464
-        distance: 262.617
+        distance: 263.043
         leading: 0
       velocity:
         ss: 2017-04-09T03:43:15.775506854046Z
@@ -1618,13 +1618,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 262.617
-      landedMade: 67.694 km
+      subtotal: 263.043
+      landedMade: 67.841 km
       stoppedAlt: 330.000 m
   - - - '28'
       - John Harriot
     - place: '32'
-      total: 247.225
+      total: 247.438
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -1641,11 +1641,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 107.664
+        effort: 107.876
         arrival: 0
         time: 0
         reach: 139.562
-        distance: 247.225
+        distance: 247.438
         leading: 0
       velocity:
         ss: 2017-04-09T03:35:12.44682312047Z
@@ -1663,13 +1663,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 247.225
-      landedMade: 63.774 km
+      subtotal: 247.438
+      landedMade: 63.773 km
       stoppedAlt: 331.000 m
   - - - '18'
       - Peter Adriaans
     - place: '33'
-      total: 213.949
+      total: 215.119
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -1686,11 +1686,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 92.769
+        effort: 93.94
         arrival: 0
         time: 0
         reach: 121.179
-        distance: 213.949
+        distance: 215.119
         leading: 0
       velocity:
         ss: 2017-04-09T03:41:47.892750629039Z
@@ -1708,13 +1708,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 213.949
-      landedMade: 54.989 km
+      subtotal: 215.119
+      landedMade: 55.373 km
       stoppedAlt: 321.000 m
   - - - '34'
       - dave moore
     - place: '34'
-      total: 212.964
+      total: 213.389
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -1731,11 +1731,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 92.769
+        effort: 93.195
         arrival: 0
         time: 0
         reach: 120.194
-        distance: 212.964
+        distance: 213.389
         leading: 0
       velocity:
         ss: 2017-04-09T03:44:20.09458946867Z
@@ -1753,13 +1753,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 212.964
-      landedMade: 54.924 km
+      subtotal: 213.389
+      landedMade: 54.923 km
       stoppedAlt: 1739.000 m
   - - - '10'
       - Craig Taylor
     - place: '35'
-      total: 201.923
+      total: 202.667
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -1776,11 +1776,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 86.812
+        effort: 87.556
         arrival: 0
         time: 0
         reach: 115.111
-        distance: 201.923
+        distance: 202.667
         leading: 0
       velocity:
         ss: 2017-04-09T03:41:10.31341520159Z
@@ -1798,13 +1798,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 201.923
-      landedMade: 52.518 km
+      subtotal: 202.667
+      landedMade: 52.600 km
       stoppedAlt: 322.000 m
   - - - '8'
       - Rod Flockhart
     - place: '36'
-      total: 192.815
+      total: 193.24
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -1821,11 +1821,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 81.812
+        effort: 82.237
         arrival: 0
         time: 0
         reach: 111.003
-        distance: 192.815
+        distance: 193.24
         leading: 0
       velocity:
         ss: 2017-04-09T03:40:58.306267477226Z
@@ -1843,13 +1843,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 192.815
-      landedMade: 50.720 km
+      subtotal: 193.24
+      landedMade: 50.723 km
       stoppedAlt: 0.000 m
   - - - '43'
       - Simon West
     - place: '37'
-      total: 88.59
+      total: 89.76
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -1866,11 +1866,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 41.065
+        effort: 42.236
         arrival: 0
         time: 0
         reach: 47.524
-        distance: 88.59
+        distance: 89.76
         leading: 0
       velocity:
         ss: 2017-04-09T03:22:45.25363207079Z
@@ -1888,13 +1888,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 88.59
-      landedMade: 21.551 km
+      subtotal: 89.76
+      landedMade: 21.716 km
       stoppedAlt: 0.000 m
   - - - '31'
       - Tomas Kellner
     - place: '38'
-      total: 83.247
+      total: 85.268
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -1911,11 +1911,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 38.938
+        effort: 40.959
         arrival: 0
         time: 0
         reach: 44.31
-        distance: 83.247
+        distance: 85.268
         leading: 0
       velocity:
         ss: 2017-04-09T03:22:45.25363207079Z
@@ -1933,13 +1933,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 83.247
-      landedMade: 18.955 km
+      subtotal: 85.268
+      landedMade: 20.247 km
       stoppedAlt: 359.000 m
   - - - '42'
       - Mikhail Karmazin
     - place: '39'
-      total: 34.587
+      total: 35.438
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -1956,11 +1956,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 21.49
+        effort: 22.341
         arrival: 0
         time: 0
         reach: 13.096
-        distance: 34.587
+        distance: 35.438
         leading: 0
       velocity:
         ss: 2017-04-09T04:33:18.265127417272Z
@@ -1978,8 +1978,8 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 34.587
-      landedMade: 5.549 km
+      subtotal: 35.438
+      landedMade: 5.984 km
       stoppedAlt: 377.000 m
   - - - '40'
       - Hossain Tefaili
@@ -2024,12 +2024,12 @@ score:
       demeritPoint: 0
       demeritReset: 0
       subtotal: 32.749
-      landedMade: 5.289 km
+      landedMade: 5.290 km
       stoppedAlt: 344.000 m
   - - - '49'
       - Damian Peauril
     - place: '41'
-      total: 31.687
+      total: 31.581
       essNotGoal: null
       penaltiesEssNotGoal:
         adds: []
@@ -2046,11 +2046,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 20.745
+        effort: 20.639
         arrival: 0
         time: 0
         reach: 10.942
-        distance: 31.687
+        distance: 31.581
         leading: 0
       velocity: null
       penaltyReason: ''
@@ -2060,13 +2060,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 31.687
+      subtotal: 31.581
       landedMade: 0.000 km
       stoppedAlt: null
   - - - '29'
       - Guy Hubbard
     - place: '42'
-      total: 30.304
+      total: 30.624
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -2083,11 +2083,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 19.362
+        effort: 19.682
         arrival: 0
         time: 0
         reach: 10.942
-        distance: 30.304
+        distance: 30.624
         leading: 0
       velocity:
         ss: 2017-04-09T04:21:46.08057819058Z
@@ -2105,8 +2105,8 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 30.304
-      landedMade: 4.660 km
+      subtotal: 30.624
+      landedMade: 4.770 km
       stoppedAlt: 350.000 m
   - - - '15'
       - Andrew Sharpe
@@ -2133,11 +2133,11 @@ score:
         resets:
         - penalty-reset: 11
       breakdown:
-        effort: 52.768
+        effort: 55.215
         arrival: 0
         time: 0
         reach: 91.259
-        distance: 144.027
+        distance: 146.474
         leading: 0
       velocity:
         ss: 2017-04-09T03:14:35.530620023408Z
@@ -2154,9 +2154,9 @@ score:
         flown: 41.701 km
       demeritFrac: 0
       demeritPoint: 0
-      demeritReset: 133.027
-      subtotal: 144.027
-      landedMade: 40.892 km
+      demeritReset: 135.474
+      subtotal: 146.474
+      landedMade: 41.701 km
       stoppedAlt: 416.000 m
   - - - '38'
       - Dave Stevens
@@ -2206,7 +2206,7 @@ score:
       demeritPoint: 0
       demeritReset: 424.203
       subtotal: 435.203
-      landedMade: 99.307 km
+      landedMade: 99.306 km
       stoppedAlt: 350.000 m
   - - - '37'
       - John Spencer
@@ -2283,11 +2283,11 @@ score:
         resets:
         - penalty-reset: 11
       breakdown:
-        effort: 21.171
+        effort: 22.767
         arrival: 0
         time: 0
         reach: 14.046
-        distance: 35.217
+        distance: 36.813
         leading: 0
       velocity:
         ss: 2017-04-09T03:13:37.88771248291Z
@@ -2304,9 +2304,9 @@ score:
         flown: 6.418 km
       demeritFrac: 0
       demeritPoint: 0
-      demeritReset: 24.217
-      subtotal: 35.217
-      landedMade: 5.229 km
+      demeritReset: 25.813
+      subtotal: 36.813
+      landedMade: 6.418 km
       stoppedAlt: 336.000 m
   - - - '14'
       - Tony Giammichele
@@ -3526,12 +3526,12 @@ score:
       demeritPoint: 0
       demeritReset: 0
       subtotal: 474.098
-      landedMade: 110.743 km
+      landedMade: 110.744 km
       stoppedAlt: 291.000 m
   - - - '19'
       - Scott Barrett
     - place: '27'
-      total: 446.958
+      total: 447.451
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -3548,11 +3548,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 196.566
+        effort: 197.059
         arrival: 0
         time: 0
         reach: 194.217
-        distance: 390.782
+        distance: 391.275
         leading: 56.2
       velocity:
         ss: 2017-04-12T03:21:15.358460519895Z
@@ -3570,8 +3570,8 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 446.958
-      landedMade: 106.789 km
+      subtotal: 447.451
+      landedMade: 107.032 km
       stoppedAlt: 289.000 m
   - - - '34'
       - dave moore
@@ -3706,12 +3706,12 @@ score:
       demeritPoint: 0
       demeritReset: 0
       subtotal: 390.931
-      landedMade: 106.897 km
+      landedMade: 106.951 km
       stoppedAlt: 293.000 m
   - - - '18'
       - Peter Adriaans
     - place: 30=
-      total: 390.806
+      total: 390.609
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -3728,11 +3728,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 196.861
+        effort: 196.664
         arrival: 0
         time: 0
         reach: 193.945
-        distance: 390.806
+        distance: 390.609
         leading: 0
       velocity:
         ss: 2017-04-12T03:23:51.118448569344Z
@@ -3750,13 +3750,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 390.806
+      subtotal: 390.609
       landedMade: 106.882 km
       stoppedAlt: 281.000 m
   - - - '17'
       - Trevor Purcell
     - place: '32'
-      total: 360.249
+      total: 360.15
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -3773,11 +3773,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 158.613
+        effort: 158.514
         arrival: 0
         time: 0
         reach: 172.371
-        distance: 330.984
+        distance: 330.886
         leading: 29.3
       velocity:
         ss: 2017-04-12T03:21:57.038001726299Z
@@ -3795,13 +3795,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 360.249
-      landedMade: 94.992 km
+      subtotal: 360.15
+      landedMade: 94.993 km
       stoppedAlt: 262.000 m
   - - - '36'
       - Brad Porter
     - place: '33'
-      total: 322.16
+      total: 322.455
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -3818,11 +3818,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 147.572
+        effort: 147.868
         arrival: 0
         time: 0
         reach: 163.817
-        distance: 311.389
+        distance: 311.685
         leading: 10.8
       velocity:
         ss: 2017-04-12T03:44:28.941754280791Z
@@ -3840,13 +3840,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 322.16
-      landedMade: 89.947 km
+      subtotal: 322.455
+      landedMade: 90.279 km
       stoppedAlt: 360.000 m
   - - - '41'
       - Peter Burkitt
     - place: '34'
-      total: 306.256
+      total: 306.157
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -3865,11 +3865,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 131.602
+        effort: 131.504
         arrival: 0
         time: 0
         reach: 137.878
-        distance: 269.48
+        distance: 269.382
         leading: 53.1
       velocity:
         ss: 2017-04-12T02:57:17.052469853965Z
@@ -3887,13 +3887,13 @@ score:
       demeritFrac: 0
       demeritPoint: 16.295
       demeritReset: 0
-      subtotal: 322.55
-      landedMade: 75.952 km
+      subtotal: 322.452
+      landedMade: 75.984 km
       stoppedAlt: 303.000 m
   - - - '40'
       - Hossain Tefaili
     - place: '35'
-      total: 264.003
+      total: 264.496
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -3910,11 +3910,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 129.039
+        effort: 129.532
         arrival: 0
         time: 0
         reach: 134.964
-        distance: 264.003
+        distance: 264.496
         leading: 0
       velocity:
         ss: 2017-04-12T03:12:39.787191402338Z
@@ -3932,13 +3932,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 264.003
-      landedMade: 73.945 km
+      subtotal: 264.496
+      landedMade: 74.378 km
       stoppedAlt: 0.000 m
   - - - '48'
       - Derek Mckee
     - place: '36'
-      total: 250.074
+      total: 250.173
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -3955,11 +3955,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 123.519
+        effort: 123.617
         arrival: 0
         time: 0
         reach: 126.555
-        distance: 250.074
+        distance: 250.173
         leading: 0
       velocity:
         ss: 2017-04-12T03:12:05.4338970101Z
@@ -3977,58 +3977,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 250.074
-      landedMade: 69.641 km
+      subtotal: 250.173
+      landedMade: 69.744 km
       stoppedAlt: 296.000 m
-  - - - '1'
-      - Mark Alton
-    - place: '37'
-      total: 237.32
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 117.013
-        arrival: 0
-        time: 0
-        reach: 120.308
-        distance: 237.32
-        leading: 0
-      velocity:
-        ss: 2017-04-12T03:21:36.54636482725Z
-        gs: 2017-04-12T03:20:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 66.301 km
-        flown: 66.301 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 237.32
-      landedMade: 66.237 km
-      stoppedAlt: 303.000 m
   - - - '51'
       - Billy Miller-Macleod
-    - place: '38'
-      total: 234.071
+    - place: '37'
+      total: 238.606
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -4045,11 +4000,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 112.872
+        effort: 117.407
         arrival: 0
         time: 0
         reach: 120.79
-        distance: 233.663
+        distance: 238.197
         leading: 0.4
       velocity:
         ss: 2017-04-12T03:21:11.70108161297Z
@@ -4067,13 +4022,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 234.071
-      landedMade: 64.602 km
+      subtotal: 238.606
+      landedMade: 66.567 km
       stoppedAlt: 289.000 m
-  - - - '43'
-      - Simon West
-    - place: '39'
-      total: 220.287
+  - - - '1'
+      - Mark Alton
+    - place: '38'
+      total: 237.222
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -4090,11 +4045,56 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 106.169
+        effort: 116.914
+        arrival: 0
+        time: 0
+        reach: 120.308
+        distance: 237.222
+        leading: 0
+      velocity:
+        ss: 2017-04-12T03:21:36.54636482725Z
+        gs: 2017-04-12T03:20:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 66.301 km
+        flown: 66.301 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 237.222
+      landedMade: 66.301 km
+      stoppedAlt: 303.000 m
+  - - - '43'
+      - Simon West
+    - place: '39'
+      total: 219.794
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 105.676
         arrival: 0
         time: 0
         reach: 114.118
-        distance: 220.287
+        distance: 219.794
         leading: 0
       velocity:
         ss: 2017-04-12T03:52:56.85759684078Z
@@ -4112,13 +4112,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 220.287
-      landedMade: 62.516 km
+      subtotal: 219.794
+      landedMade: 62.890 km
       stoppedAlt: 288.000 m
   - - - '32'
       - Rob Larkin
     - place: '40'
-      total: 160.92
+      total: 161.215
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -4135,11 +4135,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 70.779
+        effort: 71.075
         arrival: 0
         time: 0
         reach: 90.14
-        distance: 160.92
+        distance: 161.215
         leading: 0
       velocity:
         ss: 2017-04-12T05:34:25.64312421286Z
@@ -4157,148 +4157,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 160.92
-      landedMade: 49.012 km
+      subtotal: 161.215
+      landedMade: 49.676 km
       stoppedAlt: 277.000 m
-  - - - '3'
-      - Paul Allen
-    - place: 41=
-      total: 99.414
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 58.851
-        arrival: 0
-        time: 0
-        reach: 40.563
-        distance: 99.414
-        leading: 0
-      velocity:
-        ss: 2017-04-12T03:11:43.59986543507Z
-        gs: 2017-04-12T03:00:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 22.354 km
-        flown: 22.354 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 99.414
-      landedMade: 22.188 km
-      stoppedAlt: 296.000 m
-  - - - '15'
-      - Andrew Sharpe
-    - place: 41=
-      total: 99.245
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 58.851
-        arrival: 0
-        time: 0
-        reach: 40.394
-        distance: 99.245
-        leading: 0
-      velocity:
-        ss: 2017-04-12T03:15:37.777071365487Z
-        gs: 2017-04-12T03:00:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 22.261 km
-        flown: 22.261 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 99.245
-      landedMade: 22.154 km
-      stoppedAlt: 385.000 m
-  - - - '23'
-      - Noel Collins
-    - place: 41=
-      total: 99.245
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 58.851
-        arrival: 0
-        time: 0
-        reach: 40.394
-        distance: 99.245
-        leading: 0
-      velocity:
-        ss: 2017-04-12T03:15:37.777071365487Z
-        gs: 2017-04-12T03:00:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 22.261 km
-        flown: 22.261 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 99.245
-      landedMade: 22.154 km
-      stoppedAlt: 385.000 m
   - - - '31'
       - Tomas Kellner
     - place: 41=
-      total: 99.128
+      total: 99.819
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -4315,11 +4180,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 58.457
+        effort: 59.147
         arrival: 0
         time: 0
         reach: 40.671
-        distance: 99.128
+        distance: 99.819
         leading: 0
       velocity:
         ss: 2017-04-12T03:11:02.19995903546Z
@@ -4337,13 +4202,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 99.128
-      landedMade: 21.923 km
+      subtotal: 99.819
+      landedMade: 22.414 km
       stoppedAlt: 310.000 m
-  - - - '28'
-      - John Harriot
-    - place: '45'
-      total: 77.771
+  - - - '3'
+      - Paul Allen
+    - place: 41=
+      total: 99.611
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -4360,11 +4225,146 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 46.43
+        effort: 59.049
+        arrival: 0
+        time: 0
+        reach: 40.563
+        distance: 99.611
+        leading: 0
+      velocity:
+        ss: 2017-04-12T03:11:43.59986543507Z
+        gs: 2017-04-12T03:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 22.354 km
+        flown: 22.354 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 99.611
+      landedMade: 22.354 km
+      stoppedAlt: 296.000 m
+  - - - '15'
+      - Andrew Sharpe
+    - place: 43=
+      total: 99.344
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 58.95
+        arrival: 0
+        time: 0
+        reach: 40.394
+        distance: 99.344
+        leading: 0
+      velocity:
+        ss: 2017-04-12T03:15:37.777071365487Z
+        gs: 2017-04-12T03:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 22.261 km
+        flown: 22.261 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 99.344
+      landedMade: 22.261 km
+      stoppedAlt: 385.000 m
+  - - - '23'
+      - Noel Collins
+    - place: 43=
+      total: 99.344
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 58.95
+        arrival: 0
+        time: 0
+        reach: 40.394
+        distance: 99.344
+        leading: 0
+      velocity:
+        ss: 2017-04-12T03:15:37.777071365487Z
+        gs: 2017-04-12T03:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 22.261 km
+        flown: 22.261 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 99.344
+      landedMade: 22.261 km
+      stoppedAlt: 385.000 m
+  - - - '28'
+      - John Harriot
+    - place: '45'
+      total: 77.476
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 46.135
         arrival: 0
         time: 0
         reach: 31.341
-        distance: 77.771
+        distance: 77.476
         leading: 0
       velocity:
         ss: 2017-04-12T03:11:32.76412041494Z
@@ -4382,13 +4382,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 77.771
-      landedMade: 17.269 km
+      subtotal: 77.476
+      landedMade: 17.272 km
       stoppedAlt: 299.000 m
   - - - '27'
       - Guy Williams
     - place: '46'
-      total: 27.088
+      total: 28.763
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -4405,11 +4405,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 13.308
+        effort: 14.984
         arrival: 0
         time: 0
         reach: 13.779
-        distance: 27.088
+        distance: 28.763
         leading: 0
       velocity:
         ss: 2017-04-12T03:01:24.04459305553Z
@@ -4427,13 +4427,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 27.088
-      landedMade: 6.933 km
+      subtotal: 28.763
+      landedMade: 7.594 km
       stoppedAlt: 288.000 m
   - - - '49'
       - Damian Peauril
     - place: '47'
-      total: 18.044
+      total: 17.945
       essNotGoal: null
       penaltiesEssNotGoal:
         adds: []
@@ -4450,11 +4450,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 8.971
+        effort: 8.872
         arrival: 0
         time: 0
         reach: 9.073
-        distance: 18.044
+        distance: 17.945
         leading: 0
       velocity: null
       penaltyReason: ''
@@ -4464,7 +4464,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 18.044
+      subtotal: 17.945
       landedMade: 0.000 km
       stoppedAlt: null
 - - - - '19'
@@ -5187,9 +5187,54 @@ score:
       subtotal: 501.801
       landedMade: 96.889 km
       stoppedAlt: null
+  - - - '33'
+      - Niki Longshore
+    - place: '17'
+      total: 493.555
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 221.647
+        arrival: 0
+        time: 0
+        reach: 212.176
+        distance: 433.824
+        leading: 59.7
+      velocity:
+        ss: 2017-04-13T03:00:40.37151903369Z
+        gs: 2017-04-13T03:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 90.077 km
+        flown: 90.077 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 493.555
+      landedMade: 90.077 km
+      stoppedAlt: 307.000 m
   - - - '23'
       - Noel Collins
-    - place: 17=
+    - place: 18=
       total: 493.422
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -5234,7 +5279,7 @@ score:
       stoppedAlt: null
   - - - '42'
       - Mikhail Karmazin
-    - place: 17=
+    - place: 18=
       total: 492.716
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -5279,7 +5324,7 @@ score:
       stoppedAlt: null
   - - - '18'
       - Peter Adriaans
-    - place: 19=
+    - place: '20'
       total: 491.438
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -5322,51 +5367,6 @@ score:
       subtotal: 491.438
       landedMade: 96.889 km
       stoppedAlt: null
-  - - - '33'
-      - Niki Longshore
-    - place: 19=
-      total: 490.546
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 218.639
-        arrival: 0
-        time: 0
-        reach: 212.176
-        distance: 430.815
-        leading: 59.7
-      velocity:
-        ss: 2017-04-13T03:00:40.37151903369Z
-        gs: 2017-04-13T03:00:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 90.077 km
-        flown: 90.077 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 490.546
-      landedMade: 88.230 km
-      stoppedAlt: 307.000 m
   - - - '25'
       - Hagen Bruggemann
     - place: '21'
@@ -5410,7 +5410,7 @@ score:
       demeritPoint: 0
       demeritReset: 0
       subtotal: 482.649
-      landedMade: 95.593 km
+      landedMade: 95.592 km
       stoppedAlt: 309.000 m
   - - - '35'
       - Anatoly Reyter
@@ -5505,7 +5505,7 @@ score:
   - - - '36'
       - Brad Porter
     - place: 24=
-      total: 423.479
+      total: 422.031
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -5522,11 +5522,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 203.037
+        effort: 201.589
         arrival: 0
         time: 0
         reach: 189.458
-        distance: 392.495
+        distance: 391.046
         leading: 31
       velocity:
         ss: 2017-04-13T03:00:39.868238363576Z
@@ -5544,13 +5544,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 423.479
-      landedMade: 80.433 km
+      subtotal: 422.031
+      landedMade: 80.432 km
       stoppedAlt: 410.000 m
   - - - '13'
       - Matthew Barlow
     - place: 24=
-      total: 423.281
+      total: 421.833
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -5567,11 +5567,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 204.709
+        effort: 203.26
         arrival: 0
         time: 0
         reach: 191.823
-        distance: 396.532
+        distance: 395.083
         leading: 26.7
       velocity:
         ss: 2017-04-13T03:00:41.880741269315Z
@@ -5589,13 +5589,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 423.281
-      landedMade: 81.437 km
+      subtotal: 421.833
+      landedMade: 81.436 km
       stoppedAlt: 324.000 m
   - - - '37'
       - John Spencer
     - place: '26'
-      total: 399.606
+      total: 401.946
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -5612,11 +5612,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 192.562
+        effort: 194.903
         arrival: 0
         time: 0
         reach: 181.157
-        distance: 373.719
+        distance: 376.06
         leading: 25.9
       velocity:
         ss: 2017-04-13T03:00:56.2904393434Z
@@ -5634,13 +5634,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 399.606
-      landedMade: 75.629 km
+      subtotal: 401.946
+      landedMade: 76.908 km
       stoppedAlt: 376.000 m
   - - - '17'
       - Trevor Purcell
     - place: '27'
-      total: 351.855
+      total: 350.517
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -5657,11 +5657,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 176.293
+        effort: 174.955
         arrival: 0
         time: 0
         reach: 158.21
-        distance: 334.502
+        distance: 333.165
         leading: 17.4
       velocity:
         ss: 2017-04-13T03:01:05.65557514635Z
@@ -5679,13 +5679,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 351.855
+      subtotal: 350.517
       landedMade: 67.166 km
       stoppedAlt: 276.000 m
   - - - '38'
       - Dave Stevens
     - place: '28'
-      total: 344.935
+      total: 344.49
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -5702,11 +5702,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 176.627
+        effort: 176.181
         arrival: 0
         time: 0
         reach: 159.708
-        distance: 336.335
+        distance: 335.889
         leading: 8.6
       velocity:
         ss: 2017-04-13T03:00:46.88178847176Z
@@ -5724,13 +5724,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 344.935
-      landedMade: 67.314 km
+      subtotal: 344.49
+      landedMade: 67.802 km
       stoppedAlt: 339.000 m
   - - - '9'
       - Rohan Taylor
     - place: '29'
-      total: 332.811
+      total: 331.697
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -5747,11 +5747,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 165.372
+        effort: 164.257
         arrival: 0
         time: 0
         reach: 149.094
-        distance: 314.466
+        distance: 313.352
         leading: 18.3
       velocity:
         ss: 2017-04-13T03:00:37.55425205041Z
@@ -5769,54 +5769,9 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 332.811
+      subtotal: 331.697
       landedMade: 63.296 km
       stoppedAlt: 294.000 m
-  - - - '43'
-      - Simon West
-    - place: 30=
-      total: 323.369
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 170.609
-        arrival: 0
-        time: 0
-        reach: 152.759
-        distance: 323.369
-        leading: 0
-      velocity:
-        ss: 2017-04-13T03:34:32.501065450005Z
-        gs: 2017-04-13T03:20:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 64.852 km
-        flown: 64.852 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 323.369
-      landedMade: 64.852 km
-      stoppedAlt: 311.000 m
   - - - '1'
       - Mark Alton
     - place: 30=
@@ -5860,12 +5815,12 @@ score:
       demeritPoint: 0
       demeritReset: 0
       subtotal: 323.148
-      landedMade: 64.702 km
+      landedMade: 64.853 km
       stoppedAlt: 328.000 m
-  - - - '32'
-      - Rob Larkin
-    - place: '32'
-      total: 314.721
+  - - - '43'
+      - Simon West
+    - place: 30=
+      total: 323.146
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -5882,11 +5837,56 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 163.366
+        effort: 170.386
+        arrival: 0
+        time: 0
+        reach: 152.759
+        distance: 323.146
+        leading: 0
+      velocity:
+        ss: 2017-04-13T03:34:32.501065450005Z
+        gs: 2017-04-13T03:20:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 64.852 km
+        flown: 64.852 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 323.146
+      landedMade: 64.852 km
+      stoppedAlt: 311.000 m
+  - - - '32'
+      - Rob Larkin
+    - place: '32'
+      total: 319.736
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 168.381
         arrival: 0
         time: 0
         reach: 151.355
-        distance: 314.721
+        distance: 319.736
         leading: 0
       velocity:
         ss: 2017-04-13T03:06:13.705248895626Z
@@ -5904,13 +5904,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 314.721
-      landedMade: 62.873 km
+      subtotal: 319.736
+      landedMade: 64.256 km
       stoppedAlt: 0.000 m
   - - - '48'
       - Derek Mckee
     - place: '33'
-      total: 314.461
+      total: 313.347
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -5927,11 +5927,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 165.372
+        effort: 164.257
         arrival: 0
         time: 0
         reach: 149.089
-        distance: 314.461
+        distance: 313.347
         leading: 0
       velocity:
         ss: 2017-04-13T03:01:07.997467218734Z
@@ -5949,13 +5949,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 314.461
+      subtotal: 313.347
       landedMade: 63.294 km
       stoppedAlt: 312.000 m
   - - - '27'
       - Guy Williams
     - place: '34'
-      total: 299.644
+      total: 305.105
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -5972,11 +5972,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 153.002
+        effort: 158.463
         arrival: 0
         time: 0
         reach: 146.642
-        distance: 299.644
+        distance: 305.105
         leading: 0
       velocity:
         ss: 2017-04-13T03:05:36.131529893855Z
@@ -5994,13 +5994,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 299.644
-      landedMade: 61.018 km
+      subtotal: 305.105
+      landedMade: 62.255 km
       stoppedAlt: 294.000 m
   - - - '40'
       - Hossain Tefaili
     - place: '35'
-      total: 292.98
+      total: 289.859
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -6017,11 +6017,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 150.328
+        effort: 147.208
         arrival: 0
         time: 0
         reach: 142.652
-        distance: 292.98
+        distance: 289.859
         leading: 0
       velocity:
         ss: 2017-04-13T03:34:10.47186176151Z
@@ -6039,13 +6039,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 292.98
-      landedMade: 60.640 km
+      subtotal: 289.859
+      landedMade: 60.561 km
       stoppedAlt: 0.000 m
   - - - '34'
       - dave moore
     - place: '36'
-      total: 245.856
+      total: 245.299
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -6062,11 +6062,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 114.334
+        effort: 113.777
         arrival: 0
         time: 0
         reach: 131.522
-        distance: 245.856
+        distance: 245.299
         leading: 0
       velocity:
         ss: 2017-04-13T03:00:11.957043692928Z
@@ -6084,13 +6084,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 245.856
-      landedMade: 55.623 km
+      subtotal: 245.299
+      landedMade: 55.836 km
       stoppedAlt: 322.000 m
   - - - '31'
       - Tomas Kellner
     - place: '37'
-      total: 198.061
+      total: 198.396
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -6107,11 +6107,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 87.032
+        effort: 87.366
         arrival: 0
         time: 0
         reach: 111.029
-        distance: 198.061
+        distance: 198.396
         leading: 0
       velocity:
         ss: 2017-04-13T03:45:50.89537615747Z
@@ -6129,13 +6129,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 198.061
-      landedMade: 47.124 km
+      subtotal: 198.396
+      landedMade: 47.136 km
       stoppedAlt: 298.000 m
   - - - '45'
       - steve crosby
-    - place: '38'
-      total: 176.192
+    - place: 38=
+      total: 176.972
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -6152,11 +6152,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 79.677
+        effort: 80.457
         arrival: 0
         time: 0
         reach: 96.515
-        distance: 176.192
+        distance: 176.972
         leading: 0
       velocity:
         ss: 2017-04-13T03:00:48.34906405395Z
@@ -6174,58 +6174,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 176.192
-      landedMade: 40.577 km
+      subtotal: 176.972
+      landedMade: 40.974 km
       stoppedAlt: 282.000 m
-  - - - '41'
-      - Peter Burkitt
-    - place: '39'
-      total: 174.329
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 79.343
-        arrival: 0
-        time: 0
-        reach: 94.986
-        distance: 174.329
-        leading: 0
-      velocity:
-        ss: 2017-04-13T03:00:32.238495419789Z
-        gs: 2017-04-13T03:00:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 40.325 km
-        flown: 40.325 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 174.329
-      landedMade: 40.323 km
-      stoppedAlt: 279.000 m
   - - - '14'
       - Tony Giammichele
-    - place: '40'
-      total: 172.531
+    - place: 38=
+      total: 176.543
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -6242,11 +6197,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 76.334
+        effort: 80.346
         arrival: 0
         time: 0
         reach: 96.197
-        distance: 172.531
+        distance: 176.543
         leading: 0
       velocity:
         ss: 2017-04-13T03:01:19.073770585988Z
@@ -6264,13 +6219,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 172.531
-      landedMade: 39.133 km
+      subtotal: 176.543
+      landedMade: 40.839 km
       stoppedAlt: 272.000 m
-  - - - '8'
-      - Rod Flockhart
-    - place: '41'
-      total: 166.603
+  - - - '41'
+      - Peter Burkitt
+    - place: '40'
+      total: 174.106
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -6287,11 +6242,56 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 74.997
+        effort: 79.12
+        arrival: 0
+        time: 0
+        reach: 94.986
+        distance: 174.106
+        leading: 0
+      velocity:
+        ss: 2017-04-13T03:00:32.238495419789Z
+        gs: 2017-04-13T03:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 40.325 km
+        flown: 40.325 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 174.106
+      landedMade: 40.325 km
+      stoppedAlt: 279.000 m
+  - - - '8'
+      - Rod Flockhart
+    - place: '41'
+      total: 165.711
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 74.105
         arrival: 0
         time: 0
         reach: 91.606
-        distance: 166.603
+        distance: 165.711
         leading: 0
       velocity:
         ss: 2017-04-13T03:00:46.509737572026Z
@@ -6309,13 +6309,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 166.603
-      landedMade: 38.728 km
+      subtotal: 165.711
+      landedMade: 38.890 km
       stoppedAlt: 0.000 m
   - - - '20'
       - Konrad Heilmann
     - place: '42'
-      total: 161.659
+      total: 161.101
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -6332,11 +6332,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 71.765
+        effort: 71.208
         arrival: 0
         time: 0
         reach: 89.893
-        distance: 161.659
+        distance: 161.101
         leading: 0
       velocity:
         ss: 2017-04-13T03:00:58.34008513049Z
@@ -6354,13 +6354,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 161.659
-      landedMade: 37.948 km
+      subtotal: 161.101
+      landedMade: 38.163 km
       stoppedAlt: 265.000 m
   - - - '24'
       - Brodrick Osborne
     - place: '43'
-      total: 74.411
+      total: 75.08
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -6377,11 +6377,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 31.425
+        effort: 32.094
         arrival: 0
         time: 0
         reach: 42.986
-        distance: 74.411
+        distance: 75.08
         leading: 0
       velocity:
         ss: 2017-04-13T03:01:10.573266943694Z
@@ -6399,13 +6399,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 74.411
-      landedMade: 17.703 km
+      subtotal: 75.08
+      landedMade: 18.249 km
       stoppedAlt: 288.000 m
   - - - '3'
       - Paul Allen
     - place: '44'
-      total: 58.16
+      total: 58.606
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -6422,11 +6422,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 27.413
+        effort: 27.859
         arrival: 0
         time: 0
         reach: 30.747
-        distance: 58.16
+        distance: 58.606
         leading: 0
       velocity:
         ss: 2017-04-13T03:53:21.06418473894Z
@@ -6444,13 +6444,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 58.16
-      landedMade: 12.893 km
+      subtotal: 58.606
+      landedMade: 13.053 km
       stoppedAlt: 282.000 m
   - - - '15'
       - Andrew Sharpe
     - place: '45'
-      total: 43.436
+      total: 44.662
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -6467,11 +6467,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 20.839
+        effort: 22.064
         arrival: 0
         time: 0
         reach: 22.597
-        distance: 43.436
+        distance: 44.662
         leading: 0
       velocity:
         ss: 2017-04-13T03:21:46.652933093529Z
@@ -6489,8 +6489,8 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 43.436
-      landedMade: 8.843 km
+      subtotal: 44.662
+      landedMade: 9.593 km
       stoppedAlt: 377.000 m
   - - - '49'
       - Damian Peauril
@@ -6532,7 +6532,7 @@ score:
   - - - '28'
       - John Harriot
     - place: '47'
-      total: 18.018
+      total: 18.464
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -6549,11 +6549,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 6.24
+        effort: 6.686
         arrival: 0
         time: 0
         reach: 11.777
-        distance: 18.018
+        distance: 18.464
         leading: 0
       velocity:
         ss: 2017-04-13T03:05:24.60686135815Z
@@ -6571,8 +6571,8 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 18.018
-      landedMade: 2.347 km
+      subtotal: 18.464
+      landedMade: 2.534 km
       stoppedAlt: 301.000 m
 - - - - '5'
       - Jonny Durand
@@ -7342,7 +7342,7 @@ score:
   - - - '16'
       - Andrew Barnes
     - place: '18'
-      total: 520.625
+      total: 522.1
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -7359,11 +7359,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 238.187
+        effort: 239.661
         arrival: 0
         time: 0
         reach: 220.416
-        distance: 458.602
+        distance: 460.077
         leading: 62
       velocity:
         ss: 2017-04-14T03:03:35.7673175581Z
@@ -7381,8 +7381,8 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 520.625
-      landedMade: 99.596 km
+      subtotal: 522.1
+      landedMade: 100.156 km
       stoppedAlt: 342.000 m
   - - - '42'
       - Mikhail Karmazin
@@ -7472,12 +7472,12 @@ score:
       demeritPoint: 0
       demeritReset: 0
       subtotal: 502.281
-      landedMade: 108.025 km
+      landedMade: 108.028 km
       stoppedAlt: 372.000 m
   - - - '24'
       - Brodrick Osborne
     - place: '21'
-      total: 489.166
+      total: 488.552
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -7494,11 +7494,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 236.343
+        effort: 235.728
         arrival: 0
         time: 0
         reach: 217.903
-        distance: 454.246
+        distance: 453.631
         leading: 34.9
       velocity:
         ss: 2017-04-14T03:06:02.352920574582Z
@@ -7516,13 +7516,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 489.166
-      landedMade: 99.012 km
+      subtotal: 488.552
+      landedMade: 99.014 km
       stoppedAlt: 339.000 m
   - - - '10'
       - Craig Taylor
     - place: '22'
-      total: 482.744
+      total: 482.99
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -7539,11 +7539,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 238.187
+        effort: 238.432
         arrival: 0
         time: 0
         reach: 219.509
-        distance: 457.696
+        distance: 457.942
         leading: 25
       velocity:
         ss: 2017-04-14T03:20:32.90422579003Z
@@ -7561,13 +7561,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 482.744
-      landedMade: 99.596 km
+      subtotal: 482.99
+      landedMade: 99.744 km
       stoppedAlt: 336.000 m
   - - - '7'
       - James Atkinson
     - place: '23'
-      total: 470.744
+      total: 470.129
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -7584,11 +7584,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 234.991
+        effort: 234.377
         arrival: 0
         time: 0
         reach: 217.234
-        distance: 452.225
+        distance: 451.61
         leading: 18.5
       velocity:
         ss: 2017-04-14T03:03:05.88101619163Z
@@ -7606,13 +7606,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 470.744
+      subtotal: 470.129
       landedMade: 98.710 km
       stoppedAlt: 0.000 m
   - - - '45'
       - steve crosby
     - place: '24'
-      total: 441.201
+      total: 442.921
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -7629,11 +7629,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 210.41
+        effort: 212.131
         arrival: 0
         time: 0
         reach: 207.37
-        distance: 417.78
+        distance: 419.501
         leading: 23.4
       velocity:
         ss: 2017-04-14T03:01:59.21548048567Z
@@ -7651,13 +7651,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 441.201
-      landedMade: 93.693 km
+      subtotal: 442.921
+      landedMade: 94.228 km
       stoppedAlt: 352.000 m
   - - - '6'
       - Viv Clements
     - place: '25'
-      total: 422.588
+      total: 421.481
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -7674,11 +7674,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 200.824
+        effort: 199.718
         arrival: 0
         time: 0
         reach: 201.437
-        distance: 402.261
+        distance: 401.155
         leading: 20.3
       velocity:
         ss: 2017-04-14T03:21:38.156323881571Z
@@ -7696,13 +7696,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 422.588
-      landedMade: 91.529 km
+      subtotal: 421.481
+      landedMade: 91.532 km
       stoppedAlt: 376.000 m
   - - - '51'
       - Billy Miller-Macleod
     - place: '26'
-      total: 416.219
+      total: 416.956
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -7719,11 +7719,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 180.791
+        effort: 181.528
         arrival: 0
         time: 0
         reach: 192.02
-        distance: 372.811
+        distance: 373.548
         leading: 43.4
       velocity:
         ss: 2017-04-14T03:02:45.77302965191Z
@@ -7741,13 +7741,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 416.219
-      landedMade: 86.915 km
+      subtotal: 416.956
+      landedMade: 87.253 km
       stoppedAlt: 397.000 m
   - - - '38'
       - Dave Stevens
     - place: '27'
-      total: 413.058
+      total: 412.689
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -7764,11 +7764,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 183.003
+        effort: 182.634
         arrival: 0
         time: 0
         reach: 192.64
-        distance: 375.643
+        distance: 375.275
         leading: 37.4
       velocity:
         ss: 2017-04-14T03:05:48.03576751462Z
@@ -7786,13 +7786,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 413.058
+      subtotal: 412.689
       landedMade: 87.535 km
       stoppedAlt: 381.000 m
   - - - '37'
       - John Spencer
     - place: '28'
-      total: 406.764
+      total: 406.395
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -7809,11 +7809,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 183.003
+        effort: 182.634
         arrival: 0
         time: 0
         reach: 192.599
-        distance: 375.602
+        distance: 375.233
         leading: 31.2
       velocity:
         ss: 2017-04-14T03:06:15.97726252819Z
@@ -7831,13 +7831,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 406.764
-      landedMade: 87.515 km
+      subtotal: 406.395
+      landedMade: 87.516 km
       stoppedAlt: 445.000 m
   - - - '18'
       - Peter Adriaans
     - place: '29'
-      total: 378.662
+      total: 378.294
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -7854,11 +7854,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 181.897
+        effort: 181.528
         arrival: 0
         time: 0
         reach: 192.121
-        distance: 374.018
+        distance: 373.649
         leading: 4.6
       velocity:
         ss: 2017-04-14T03:20:19.0273642455Z
@@ -7876,13 +7876,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 378.662
+      subtotal: 378.294
       landedMade: 87.299 km
       stoppedAlt: 378.000 m
   - - - '35'
       - Anatoly Reyter
     - place: '30'
-      total: 346.733
+      total: 347.102
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -7899,11 +7899,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 161.495
+        effort: 161.864
         arrival: 0
         time: 0
         reach: 182.66
-        distance: 344.155
+        distance: 344.524
         leading: 2.6
       velocity:
         ss: 2017-04-14T03:10:29.234580276654Z
@@ -7921,13 +7921,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 346.733
-      landedMade: 82.764 km
+      subtotal: 347.102
+      landedMade: 83.000 km
       stoppedAlt: 390.000 m
   - - - '23'
       - Noel Collins
     - place: '31'
-      total: 341.027
+      total: 343.608
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -7944,11 +7944,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 149.573
+        effort: 152.154
         arrival: 0
         time: 0
         reach: 177.83
-        distance: 327.403
+        distance: 329.984
         leading: 13.6
       velocity:
         ss: 2017-04-14T03:20:41.677946609891Z
@@ -7966,13 +7966,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 341.027
-      landedMade: 80.241 km
+      subtotal: 343.608
+      landedMade: 80.805 km
       stoppedAlt: 0.000 m
   - - - '17'
       - Trevor Purcell
     - place: '32'
-      total: 330.304
+      total: 329.566
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -7989,11 +7989,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 143.551
+        effort: 142.814
         arrival: 0
         time: 0
         reach: 173.771
-        distance: 317.322
+        distance: 316.585
         leading: 13
       velocity:
         ss: 2017-04-14T03:21:16.769672527837Z
@@ -8011,13 +8011,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 330.304
-      landedMade: 78.960 km
+      subtotal: 329.566
+      landedMade: 78.961 km
       stoppedAlt: 346.000 m
   - - - '43'
       - Simon West
     - place: '33'
-      total: 265.068
+      total: 265.56
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -8034,11 +8034,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 111.719
+        effort: 112.211
         arrival: 0
         time: 0
         reach: 143.397
-        distance: 255.116
+        distance: 255.608
         leading: 10
       velocity:
         ss: 2017-04-14T03:06:20.52572598088Z
@@ -8056,13 +8056,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 265.068
-      landedMade: 63.527 km
+      subtotal: 265.56
+      landedMade: 65.159 km
       stoppedAlt: 328.000 m
   - - - '21'
       - Frank Chetcuti
     - place: '34'
-      total: 254.194
+      total: 253.333
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -8079,11 +8079,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 109.998
+        effort: 109.138
         arrival: 0
         time: 0
         reach: 138.17
-        distance: 248.169
+        distance: 247.308
         leading: 6
       velocity:
         ss: 2017-04-14T03:05:32.08370865103Z
@@ -8101,13 +8101,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 254.194
-      landedMade: 62.592 km
+      subtotal: 253.333
+      landedMade: 62.784 km
       stoppedAlt: 0.000 m
   - - - '41'
       - Peter Burkitt
     - place: '35'
-      total: 252.82
+      total: 251.959
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -8124,11 +8124,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 112.088
+        effort: 111.227
         arrival: 0
         time: 0
         reach: 140.732
-        distance: 252.82
+        distance: 251.959
         leading: 0
       velocity:
         ss: 2017-04-14T03:22:15.649367015571Z
@@ -8146,13 +8146,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 252.82
-      landedMade: 63.950 km
+      subtotal: 251.959
+      landedMade: 63.948 km
       stoppedAlt: 326.000 m
   - - - '14'
       - Tony Giammichele
     - place: '36'
-      total: 249.206
+      total: 248.591
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -8169,11 +8169,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 110.49
+        effort: 109.876
         arrival: 0
         time: 0
         reach: 138.716
-        distance: 249.206
+        distance: 248.591
         leading: 0
       velocity:
         ss: 2017-04-14T03:20:46.9289628718Z
@@ -8191,13 +8191,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 249.206
-      landedMade: 62.737 km
+      subtotal: 248.591
+      landedMade: 63.032 km
       stoppedAlt: 315.000 m
   - - - '1'
       - Mark Alton
     - place: '37'
-      total: 166.395
+      total: 166.886
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -8214,11 +8214,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 76.815
+        effort: 77.306
         arrival: 0
         time: 0
         reach: 89.58
-        distance: 166.395
+        distance: 166.886
         leading: 0
       velocity:
         ss: 2017-04-14T03:04:19.59409066901Z
@@ -8236,13 +8236,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 166.395
-      landedMade: 39.270 km
+      subtotal: 166.886
+      landedMade: 40.705 km
       stoppedAlt: 326.000 m
   - - - '32'
       - Rob Larkin
     - place: '38'
-      total: 164.413
+      total: 163.799
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -8259,11 +8259,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 77.06
+        effort: 76.446
         arrival: 0
         time: 0
         reach: 87.353
-        distance: 164.413
+        distance: 163.799
         leading: 0
       velocity:
         ss: 2017-04-14T03:03:54.722932153735Z
@@ -8281,13 +8281,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 164.413
-      landedMade: 39.692 km
+      subtotal: 163.799
+      landedMade: 39.693 km
       stoppedAlt: 0.000 m
   - - - '40'
       - Hossain Tefaili
     - place: '39'
-      total: 127.99
+      total: 127.13
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -8304,11 +8304,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 62.312
+        effort: 61.452
         arrival: 0
         time: 0
         reach: 65.678
-        distance: 127.99
+        distance: 127.13
         leading: 0
       velocity:
         ss: 2017-04-14T03:39:25.718494296792Z
@@ -8326,13 +8326,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 127.99
-      landedMade: 29.716 km
+      subtotal: 127.13
+      landedMade: 29.844 km
       stoppedAlt: 0.000 m
   - - - '31'
       - Tomas Kellner
     - place: '40'
-      total: 108.835
+      total: 109.449
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -8349,11 +8349,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 55.061
+        effort: 55.675
         arrival: 0
         time: 0
         reach: 53.774
-        distance: 108.835
+        distance: 109.449
         leading: 0
       velocity:
         ss: 2017-04-14T03:30:07.779967887015Z
@@ -8371,13 +8371,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 108.835
-      landedMade: 23.707 km
+      subtotal: 109.449
+      landedMade: 24.435 km
       stoppedAlt: 297.000 m
   - - - '48'
       - Derek Mckee
     - place: '41'
-      total: 95.422
+      total: 95.053
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -8394,11 +8394,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 50.145
+        effort: 49.776
         arrival: 0
         time: 0
         reach: 45.277
-        distance: 95.422
+        distance: 95.053
         leading: 0
       velocity:
         ss: 2017-04-14T03:39:54.313555005602Z
@@ -8416,13 +8416,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 95.422
-      landedMade: 20.576 km
+      subtotal: 95.053
+      landedMade: 20.574 km
       stoppedAlt: 305.000 m
   - - - '27'
       - Guy Williams
     - place: '42'
-      total: 80.59
+      total: 82.433
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -8439,11 +8439,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 41.787
+        effort: 43.631
         arrival: 0
         time: 0
         reach: 38.803
-        distance: 80.59
+        distance: 82.433
         leading: 0
       velocity:
         ss: 2017-04-14T03:06:56.263738074315Z
@@ -8461,13 +8461,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 80.59
-      landedMade: 16.142 km
+      subtotal: 82.433
+      landedMade: 17.632 km
       stoppedAlt: 286.000 m
   - - - '15'
       - Andrew Sharpe
     - place: '43'
-      total: 54.129
+      total: 53.638
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -8484,11 +8484,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 30.234
+        effort: 29.743
         arrival: 0
         time: 0
         reach: 23.895
-        distance: 54.129
+        distance: 53.638
         leading: 0
       velocity:
         ss: 2017-04-14T03:09:57.377045221806Z
@@ -8506,13 +8506,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 54.129
-      landedMade: 10.512 km
+      subtotal: 53.638
+      landedMade: 10.858 km
       stoppedAlt: 372.000 m
   - - - '28'
       - John Harriot
     - place: '44'
-      total: 52.267
+      total: 51.038
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -8529,11 +8529,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 29.62
+        effort: 28.391
         arrival: 0
         time: 0
         reach: 22.647
-        distance: 52.267
+        distance: 51.038
         leading: 0
       velocity:
         ss: 2017-04-14T03:42:48.640048720063Z
@@ -8551,13 +8551,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 52.267
-      landedMade: 10.279 km
+      subtotal: 51.038
+      landedMade: 10.291 km
       stoppedAlt: 297.000 m
   - - - '34'
       - dave moore
     - place: '45'
-      total: 33.335
+      total: 32.106
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -8574,11 +8574,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 19.542
+        effort: 18.313
         arrival: 0
         time: 0
         reach: 13.794
-        distance: 33.335
+        distance: 32.106
         leading: 0
       velocity:
         ss: 2017-04-14T03:22:19.559732104664Z
@@ -8596,13 +8596,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 33.335
-      landedMade: 6.258 km
+      subtotal: 32.106
+      landedMade: 6.268 km
       stoppedAlt: 280.000 m
   - - - '49'
       - Damian Peauril
     - place: '46'
-      total: 26.858
+      total: 26.612
       essNotGoal: null
       penaltiesEssNotGoal:
         adds: []
@@ -8619,11 +8619,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 15.855
+        effort: 15.609
         arrival: 0
         time: 0
         reach: 11.004
-        distance: 26.858
+        distance: 26.612
         leading: 0
       velocity: null
       penaltyReason: ''
@@ -8633,7 +8633,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 26.858
+      subtotal: 26.612
       landedMade: 0.000 km
       stoppedAlt: null
 - - - - '19'
@@ -9939,12 +9939,12 @@ score:
       demeritPoint: 0
       demeritReset: 0
       subtotal: 374.635
-      landedMade: 82.285 km
+      landedMade: 82.478 km
       stoppedAlt: 0.000 m
   - - - '5'
       - Jonny Durand
     - place: '30'
-      total: 355.55
+      total: 354.791
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -9961,11 +9961,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 181.975
+        effort: 181.216
         arrival: 0
         time: 0
         reach: 128.419
-        distance: 310.395
+        distance: 309.635
         leading: 45.2
       velocity:
         ss: 2017-04-15T03:00:15.500277730508Z
@@ -9983,13 +9983,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 355.55
-      landedMade: 58.575 km
+      subtotal: 354.791
+      landedMade: 58.770 km
       stoppedAlt: 314.000 m
   - - - '9'
       - Rohan Taylor
     - place: '31'
-      total: 325.914
+      total: 326.863
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -10006,11 +10006,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 181.69
+        effort: 182.64
         arrival: 0
         time: 0
         reach: 131
-        distance: 312.69
+        distance: 313.64
         leading: 13.2
       velocity:
         ss: 2017-04-15T03:04:24.19316444868Z
@@ -10028,13 +10028,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 325.914
-      landedMade: 58.396 km
+      subtotal: 326.863
+      landedMade: 59.951 km
       stoppedAlt: 328.000 m
   - - - '48'
       - Derek Mckee
     - place: '32'
-      total: 311.944
+      total: 311.565
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -10051,11 +10051,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 182.45
+        effort: 182.07
         arrival: 0
         time: 0
         reach: 129.495
-        distance: 311.944
+        distance: 311.565
         leading: 0
       velocity:
         ss: 2017-04-15T03:22:41.403347612296Z
@@ -10073,13 +10073,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 311.944
-      landedMade: 59.184 km
+      subtotal: 311.565
+      landedMade: 59.262 km
       stoppedAlt: 319.000 m
   - - - '32'
       - Rob Larkin
     - place: '33'
-      total: 304.185
+      total: 302.761
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -10096,11 +10096,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 179.032
+        effort: 177.608
         arrival: 0
         time: 0
         reach: 125.153
-        distance: 304.185
+        distance: 302.761
         leading: 0
       velocity:
         ss: 2017-04-15T03:44:04.958929372144Z
@@ -10118,13 +10118,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 304.185
+      subtotal: 302.761
       landedMade: 57.275 km
       stoppedAlt: 0.000 m
   - - - '18'
       - Peter Adriaans
     - place: '34'
-      total: 296.337
+      total: 295.293
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -10141,11 +10141,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 174.191
+        effort: 173.147
         arrival: 0
         time: 0
         reach: 122.146
-        distance: 296.337
+        distance: 295.293
         leading: 0
       velocity:
         ss: 2017-04-15T03:20:32.084209264811Z
@@ -10163,58 +10163,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 296.337
-      landedMade: 55.737 km
+      subtotal: 295.293
+      landedMade: 55.899 km
       stoppedAlt: 319.000 m
-  - - - '15'
-      - Andrew Sharpe
-    - place: 35=
-      total: 293.429
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 172.293
-        arrival: 0
-        time: 0
-        reach: 121.136
-        distance: 293.429
-        leading: 0
-      velocity:
-        ss: 2017-04-15T03:19:24.095270879919Z
-        gs: 2017-04-15T03:00:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 55.437 km
-        flown: 55.437 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 293.429
-      landedMade: 55.393 km
-      stoppedAlt: 404.000 m
   - - - '35'
       - Anatoly Reyter
     - place: 35=
-      total: 292.966
+      total: 292.302
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -10233,11 +10188,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 174.191
+        effort: 173.527
         arrival: 0
         time: 0
         reach: 122.301
-        distance: 296.492
+        distance: 295.828
         leading: 0
       velocity:
         ss: 2017-04-15T02:59:24.741038397228Z
@@ -10255,13 +10210,13 @@ score:
       demeritFrac: 0
       demeritPoint: 3.526
       demeritReset: 0
-      subtotal: 296.492
-      landedMade: 55.713 km
+      subtotal: 295.828
+      landedMade: 55.970 km
       stoppedAlt: 317.000 m
-  - - - '7'
-      - James Atkinson
-    - place: '37'
-      total: 290.966
+  - - - '15'
+      - Andrew Sharpe
+    - place: 35=
+      total: 292.29
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -10278,11 +10233,56 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 170.584
+        effort: 171.153
+        arrival: 0
+        time: 0
+        reach: 121.136
+        distance: 292.29
+        leading: 0
+      velocity:
+        ss: 2017-04-15T03:19:24.095270879919Z
+        gs: 2017-04-15T03:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 55.437 km
+        flown: 55.437 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 292.29
+      landedMade: 55.437 km
+      stoppedAlt: 404.000 m
+  - - - '7'
+      - James Atkinson
+    - place: '37'
+      total: 289.353
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 168.97
         arrival: 0
         time: 0
         reach: 120.382
-        distance: 290.966
+        distance: 289.353
         leading: 0
       velocity:
         ss: 2017-04-15T03:21:10.846959997634Z
@@ -10300,13 +10300,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 290.966
-      landedMade: 55.017 km
+      subtotal: 289.353
+      landedMade: 55.092 km
       stoppedAlt: 0.000 m
   - - - '34'
       - dave moore
     - place: '38'
-      total: 273.223
+      total: 273.033
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -10323,11 +10323,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 157.009
+        effort: 156.819
         arrival: 0
         time: 0
         reach: 116.213
-        distance: 273.223
+        distance: 273.033
         leading: 0
       velocity:
         ss: 2017-04-15T03:23:47.276345757789Z
@@ -10345,13 +10345,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 273.223
-      landedMade: 52.929 km
+      subtotal: 273.033
+      landedMade: 53.184 km
       stoppedAlt: 339.000 m
   - - - '13'
       - Matthew Barlow
     - place: '39'
-      total: 252.904
+      total: 251.385
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -10368,11 +10368,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 141.821
+        effort: 140.302
         arrival: 0
         time: 0
         reach: 111.083
-        distance: 252.904
+        distance: 251.385
         leading: 0
       velocity:
         ss: 2017-04-15T03:54:14.216680099625Z
@@ -10390,13 +10390,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 252.904
-      landedMade: 50.837 km
+      subtotal: 251.385
+      landedMade: 50.836 km
       stoppedAlt: 330.000 m
   - - - '27'
       - Guy Williams
     - place: '40'
-      total: 191.617
+      total: 205.761
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -10413,11 +10413,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 90.276
+        effort: 104.42
         arrival: 0
         time: 0
         reach: 101.341
-        distance: 191.617
+        distance: 205.761
         leading: 0
       velocity:
         ss: 2017-04-15T03:25:08.74407885375Z
@@ -10435,13 +10435,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 191.617
-      landedMade: 44.424 km
+      subtotal: 205.761
+      landedMade: 46.378 km
       stoppedAlt: 312.000 m
   - - - '1'
       - Mark Alton
-    - place: '41'
-      total: 156.632
+    - place: 41=
+      total: 156.347
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -10458,11 +10458,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 67.208
+        effort: 66.924
         arrival: 0
         time: 0
         reach: 89.423
-        distance: 156.632
+        distance: 156.347
         leading: 0
       velocity:
         ss: 2017-04-15T03:22:58.20522595301Z
@@ -10480,13 +10480,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 156.632
-      landedMade: 40.870 km
+      subtotal: 156.347
+      landedMade: 40.924 km
       stoppedAlt: 320.000 m
   - - - '40'
       - Hossain Tefaili
-    - place: '42'
-      total: 154.314
+    - place: 41=
+      total: 156.308
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -10503,11 +10503,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 64.93
+        effort: 66.924
         arrival: 0
         time: 0
         reach: 89.384
-        distance: 154.314
+        distance: 156.308
         leading: 0
       velocity:
         ss: 2017-04-15T03:28:36.789019015226Z
@@ -10525,13 +10525,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 154.314
-      landedMade: 40.325 km
+      subtotal: 156.308
+      landedMade: 40.906 km
       stoppedAlt: 0.000 m
   - - - '38'
       - Dave Stevens
     - place: '43'
-      total: 78.54
+      total: 80.059
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -10548,11 +10548,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 27.529
+        effort: 29.048
         arrival: 0
         time: 0
         reach: 51.011
-        distance: 78.54
+        distance: 80.059
         leading: 0
       velocity:
         ss: 2017-04-15T03:00:48.73644360815Z
@@ -10570,13 +10570,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 78.54
-      landedMade: 22.468 km
+      subtotal: 80.059
+      landedMade: 23.345 km
       stoppedAlt: 301.000 m
   - - - '28'
       - John Harriot
     - place: '44'
-      total: 48.32
+      total: 49.554
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -10593,11 +10593,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 19.65
+        effort: 20.884
         arrival: 0
         time: 0
         reach: 28.67
-        distance: 48.32
+        distance: 49.554
         leading: 0
       velocity:
         ss: 2017-04-15T03:30:15.447054518172Z
@@ -10615,13 +10615,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 48.32
-      landedMade: 12.673 km
+      subtotal: 49.554
+      landedMade: 13.121 km
       stoppedAlt: 311.000 m
   - - - '49'
       - Damian Peauril
     - place: '45'
-      total: 20.418
+      total: 21.652
       essNotGoal: null
       penaltiesEssNotGoal:
         adds: []
@@ -10638,11 +10638,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 9.493
+        effort: 10.727
         arrival: 0
         time: 0
         reach: 10.926
-        distance: 20.418
+        distance: 21.652
         leading: 0
       velocity: null
       penaltyReason: ''
@@ -10652,13 +10652,13 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 20.418
+      subtotal: 21.652
       landedMade: 0.000 km
       stoppedAlt: null
   - - - '31'
       - Tomas Kellner
     - place: '46'
-      total: 14.818
+      total: 18.805
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -10675,11 +10675,11 @@ score:
         muls: []
         resets: []
       breakdown:
-        effort: 3.892
+        effort: 7.879
         arrival: 0
         time: 0
         reach: 10.926
-        distance: 14.818
+        distance: 18.805
         leading: 0
       velocity:
         ss: 2017-04-15T03:33:33.281089924755Z
@@ -10697,8 +10697,8 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 14.818
-      landedMade: 1.526 km
+      subtotal: 18.805
+      landedMade: 3.214 km
       stoppedAlt: 307.000 m
 scoreDf:
 - - - - '5'
@@ -11606,7 +11606,7 @@ scoreDf:
   - - - '23'
       - Noel Collins
     - place: '21'
-      total: 414.837
+      total: 415.05
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -11623,11 +11623,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 212.135
+        effort: 212.348
         arrival: 0
         time: 0
         reach: 202.702
-        distance: 414.837
+        distance: 415.05
         leading: 0
       velocity:
         ss: 2017-04-09T03:43:44.404673626039Z
@@ -11645,13 +11645,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 414.837
-      landedMade: 92.436 km
+      subtotal: 415.05
+      landedMade: 92.625 km
       stoppedAlt: 352.000 m
   - - - '1'
       - Mark Alton
     - place: '22'
-      total: 405.843
+      total: 406.269
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -11668,11 +11668,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 208.199
+        effort: 208.625
         arrival: 0
         time: 0
         reach: 197.644
-        distance: 405.843
+        distance: 406.269
         leading: 0
       velocity:
         ss: 2017-04-09T03:21:04.657384050835Z
@@ -11690,13 +11690,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 405.843
-      landedMade: 90.054 km
+      subtotal: 406.269
+      landedMade: 90.314 km
       stoppedAlt: 352.000 m
   - - - '7'
       - James Atkinson
     - place: '23'
-      total: 395.006
+      total: 395.75
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -11713,11 +11713,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 202.241
+        effort: 202.986
         arrival: 0
         time: 0
         reach: 192.764
-        distance: 395.006
+        distance: 395.75
         leading: 0
       velocity:
         ss: 2017-04-09T03:42:18.790249779956Z
@@ -11735,13 +11735,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 395.006
-      landedMade: 87.693 km
+      subtotal: 395.75
+      landedMade: 88.084 km
       stoppedAlt: 0.000 m
   - - - '4'
       - Nick Purcell
     - place: '24'
-      total: 383.124
+      total: 383.443
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -11758,11 +11758,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 195.965
+        effort: 196.284
         arrival: 0
         time: 0
         reach: 187.16
-        distance: 383.124
+        distance: 383.443
         leading: 0
       velocity:
         ss: 2017-04-09T03:20:32.670287449434Z
@@ -11780,58 +11780,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 383.124
-      landedMade: 85.111 km
+      subtotal: 383.443
+      landedMade: 85.523 km
       stoppedAlt: 0.000 m
-  - - - '9'
-      - Rohan Taylor
-    - place: '25'
-      total: 375.613
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 191.922
-        arrival: 0
-        time: 0
-        reach: 183.691
-        distance: 375.613
-        leading: 0
-      velocity:
-        ss: 2017-04-09T03:40:35.045001744228Z
-        gs: 2017-04-09T03:40:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 83.938 km
-        flown: 83.938 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 375.613
-      landedMade: 83.937 km
-      stoppedAlt: 352.000 m
   - - - '35'
       - Anatoly Reyter
-    - place: '26'
-      total: 374.755
+    - place: '25'
+      total: 376.457
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -11848,11 +11803,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 190.326
+        effort: 192.028
         arrival: 0
         time: 0
         reach: 184.428
-        distance: 374.755
+        distance: 376.457
         leading: 0
       velocity:
         ss: 2017-04-09T03:43:50.386820095704Z
@@ -11870,13 +11825,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 374.755
-      landedMade: 83.572 km
+      subtotal: 376.457
+      landedMade: 84.275 km
       stoppedAlt: 339.000 m
-  - - - '32'
-      - Rob Larkin
-    - place: '27'
-      total: 374
+  - - - '9'
+      - Rohan Taylor
+    - place: 26=
+      total: 374.549
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -11893,11 +11848,56 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 190.326
+        effort: 190.858
+        arrival: 0
+        time: 0
+        reach: 183.691
+        distance: 374.549
+        leading: 0
+      velocity:
+        ss: 2017-04-09T03:40:35.045001744228Z
+        gs: 2017-04-09T03:40:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 83.938 km
+        flown: 83.938 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 374.549
+      landedMade: 83.938 km
+      stoppedAlt: 352.000 m
+  - - - '32'
+      - Rob Larkin
+    - place: 26=
+      total: 374.531
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 190.858
         arrival: 0
         time: 0
         reach: 183.673
-        distance: 374
+        distance: 374.531
         leading: 0
       velocity:
         ss: 2017-04-09T03:21:14.95095011129Z
@@ -11915,13 +11915,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 374
-      landedMade: 83.535 km
+      subtotal: 374.531
+      landedMade: 83.930 km
       stoppedAlt: 335.000 m
   - - - '2'
       - Tony Armstrong
     - place: '28'
-      total: 366.34
+      total: 365.702
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -11938,11 +11938,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 185.113
+        effort: 184.475
         arrival: 0
         time: 0
         reach: 181.227
-        distance: 366.34
+        distance: 365.702
         leading: 0
       velocity:
         ss: 2017-04-09T03:20:25.767523094258Z
@@ -11960,13 +11960,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 366.34
-      landedMade: 82.699 km
+      subtotal: 365.702
+      landedMade: 82.812 km
       stoppedAlt: 346.000 m
   - - - '12'
       - Rory Duncan
     - place: '29'
-      total: 339.741
+      total: 340.379
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -11983,11 +11983,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 164.9
+        effort: 165.538
         arrival: 0
         time: 0
         reach: 174.841
-        distance: 339.741
+        distance: 340.379
         leading: 0
       velocity:
         ss: 2017-04-09T03:40:37.28344758157Z
@@ -12005,13 +12005,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 339.741
-      landedMade: 79.432 km
+      subtotal: 340.379
+      landedMade: 79.894 km
       stoppedAlt: 334.000 m
   - - - '41'
       - Peter Burkitt
     - place: '30'
-      total: 299.665
+      total: 300.517
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -12030,11 +12030,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 135.962
+        effort: 136.814
         arrival: 0
         time: 0
         reach: 163.886
-        distance: 299.848
+        distance: 300.699
         leading: 0
       velocity:
         ss: 2017-04-09T03:19:58.17087191993Z
@@ -12052,13 +12052,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0.183
       demeritReset: 0
-      subtotal: 299.848
-      landedMade: 74.416 km
+      subtotal: 300.699
+      landedMade: 74.888 km
       stoppedAlt: 333.000 m
   - - - '48'
       - Derek Mckee
     - place: '31'
-      total: 262.617
+      total: 263.043
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -12075,11 +12075,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 114.153
+        effort: 114.579
         arrival: 0
         time: 0
         reach: 148.464
-        distance: 262.617
+        distance: 263.043
         leading: 0
       velocity:
         ss: 2017-04-09T03:43:15.775506854046Z
@@ -12097,13 +12097,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 262.617
-      landedMade: 67.694 km
+      subtotal: 263.043
+      landedMade: 67.841 km
       stoppedAlt: 330.000 m
   - - - '28'
       - John Harriot
     - place: '32'
-      total: 247.225
+      total: 247.438
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -12120,11 +12120,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 107.664
+        effort: 107.876
         arrival: 0
         time: 0
         reach: 139.562
-        distance: 247.225
+        distance: 247.438
         leading: 0
       velocity:
         ss: 2017-04-09T03:35:12.44682312047Z
@@ -12142,13 +12142,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 247.225
-      landedMade: 63.774 km
+      subtotal: 247.438
+      landedMade: 63.773 km
       stoppedAlt: 331.000 m
   - - - '18'
       - Peter Adriaans
     - place: '33'
-      total: 213.949
+      total: 215.119
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -12165,11 +12165,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 92.769
+        effort: 93.94
         arrival: 0
         time: 0
         reach: 121.179
-        distance: 213.949
+        distance: 215.119
         leading: 0
       velocity:
         ss: 2017-04-09T03:41:47.892750629039Z
@@ -12187,13 +12187,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 213.949
-      landedMade: 54.989 km
+      subtotal: 215.119
+      landedMade: 55.373 km
       stoppedAlt: 321.000 m
   - - - '34'
       - dave moore
     - place: '34'
-      total: 212.964
+      total: 213.389
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -12210,11 +12210,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 92.769
+        effort: 93.195
         arrival: 0
         time: 0
         reach: 120.194
-        distance: 212.964
+        distance: 213.389
         leading: 0
       velocity:
         ss: 2017-04-09T03:44:20.09458946867Z
@@ -12232,13 +12232,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 212.964
-      landedMade: 54.924 km
+      subtotal: 213.389
+      landedMade: 54.923 km
       stoppedAlt: 1739.000 m
   - - - '10'
       - Craig Taylor
     - place: '35'
-      total: 201.923
+      total: 202.667
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -12255,11 +12255,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 86.812
+        effort: 87.556
         arrival: 0
         time: 0
         reach: 115.111
-        distance: 201.923
+        distance: 202.667
         leading: 0
       velocity:
         ss: 2017-04-09T03:41:10.31341520159Z
@@ -12277,13 +12277,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 201.923
-      landedMade: 52.518 km
+      subtotal: 202.667
+      landedMade: 52.600 km
       stoppedAlt: 322.000 m
   - - - '8'
       - Rod Flockhart
     - place: '36'
-      total: 192.815
+      total: 193.24
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -12300,11 +12300,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 81.812
+        effort: 82.237
         arrival: 0
         time: 0
         reach: 111.003
-        distance: 192.815
+        distance: 193.24
         leading: 0
       velocity:
         ss: 2017-04-09T03:40:58.306267477226Z
@@ -12322,13 +12322,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 192.815
-      landedMade: 50.720 km
+      subtotal: 193.24
+      landedMade: 50.723 km
       stoppedAlt: 0.000 m
   - - - '43'
       - Simon West
     - place: '37'
-      total: 88.59
+      total: 89.76
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -12345,11 +12345,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 41.065
+        effort: 42.236
         arrival: 0
         time: 0
         reach: 47.524
-        distance: 88.59
+        distance: 89.76
         leading: 0
       velocity:
         ss: 2017-04-09T03:22:45.25363207079Z
@@ -12367,13 +12367,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 88.59
-      landedMade: 21.551 km
+      subtotal: 89.76
+      landedMade: 21.716 km
       stoppedAlt: 0.000 m
   - - - '31'
       - Tomas Kellner
     - place: '38'
-      total: 83.247
+      total: 85.268
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -12390,11 +12390,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 38.938
+        effort: 40.959
         arrival: 0
         time: 0
         reach: 44.31
-        distance: 83.247
+        distance: 85.268
         leading: 0
       velocity:
         ss: 2017-04-09T03:22:45.25363207079Z
@@ -12412,13 +12412,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 83.247
-      landedMade: 18.955 km
+      subtotal: 85.268
+      landedMade: 20.247 km
       stoppedAlt: 359.000 m
   - - - '42'
       - Mikhail Karmazin
     - place: '39'
-      total: 34.587
+      total: 35.438
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -12435,11 +12435,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 21.49
+        effort: 22.341
         arrival: 0
         time: 0
         reach: 13.096
-        distance: 34.587
+        distance: 35.438
         leading: 0
       velocity:
         ss: 2017-04-09T04:33:18.265127417272Z
@@ -12457,8 +12457,8 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 34.587
-      landedMade: 5.549 km
+      subtotal: 35.438
+      landedMade: 5.984 km
       stoppedAlt: 377.000 m
   - - - '40'
       - Hossain Tefaili
@@ -12503,12 +12503,12 @@ scoreDf:
       demeritPoint: 0
       demeritReset: 0
       subtotal: 32.749
-      landedMade: 5.289 km
+      landedMade: 5.290 km
       stoppedAlt: 344.000 m
   - - - '29'
       - Guy Hubbard
     - place: '41'
-      total: 30.304
+      total: 30.624
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -12525,11 +12525,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 19.362
+        effort: 19.682
         arrival: 0
         time: 0
         reach: 10.942
-        distance: 30.304
+        distance: 30.624
         leading: 0
       velocity:
         ss: 2017-04-09T04:21:46.08057819058Z
@@ -12547,8 +12547,8 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 30.304
-      landedMade: 4.660 km
+      subtotal: 30.624
+      landedMade: 4.770 km
       stoppedAlt: 350.000 m
   - - - '15'
       - Andrew Sharpe
@@ -12575,11 +12575,11 @@ scoreDf:
         resets:
         - penalty-reset: 11
       breakdown:
-        effort: 52.768
+        effort: 55.215
         arrival: 0
         time: 0
         reach: 91.259
-        distance: 144.027
+        distance: 146.474
         leading: 0
       velocity:
         ss: 2017-04-09T03:14:35.530620023408Z
@@ -12596,9 +12596,9 @@ scoreDf:
         flown: 41.701 km
       demeritFrac: 0
       demeritPoint: 0
-      demeritReset: 133.027
-      subtotal: 144.027
-      landedMade: 40.892 km
+      demeritReset: 135.474
+      subtotal: 146.474
+      landedMade: 41.701 km
       stoppedAlt: 416.000 m
   - - - '38'
       - Dave Stevens
@@ -12648,7 +12648,7 @@ scoreDf:
       demeritPoint: 0
       demeritReset: 424.203
       subtotal: 435.203
-      landedMade: 99.307 km
+      landedMade: 99.306 km
       stoppedAlt: 350.000 m
   - - - '37'
       - John Spencer
@@ -12725,11 +12725,11 @@ scoreDf:
         resets:
         - penalty-reset: 11
       breakdown:
-        effort: 21.171
+        effort: 22.767
         arrival: 0
         time: 0
         reach: 14.046
-        distance: 35.217
+        distance: 36.813
         leading: 0
       velocity:
         ss: 2017-04-09T03:13:37.88771248291Z
@@ -12746,9 +12746,9 @@ scoreDf:
         flown: 6.418 km
       demeritFrac: 0
       demeritPoint: 0
-      demeritReset: 24.217
-      subtotal: 35.217
-      landedMade: 5.229 km
+      demeritReset: 25.813
+      subtotal: 36.813
+      landedMade: 6.418 km
       stoppedAlt: 336.000 m
   - - - '14'
       - Tony Giammichele
@@ -13968,12 +13968,12 @@ scoreDf:
       demeritPoint: 0
       demeritReset: 0
       subtotal: 474.098
-      landedMade: 110.743 km
+      landedMade: 110.744 km
       stoppedAlt: 291.000 m
   - - - '19'
       - Scott Barrett
     - place: '27'
-      total: 446.958
+      total: 447.451
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -13990,11 +13990,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 196.566
+        effort: 197.059
         arrival: 0
         time: 0
         reach: 194.217
-        distance: 390.782
+        distance: 391.275
         leading: 56.2
       velocity:
         ss: 2017-04-12T03:21:15.358460519895Z
@@ -14012,8 +14012,8 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 446.958
-      landedMade: 106.789 km
+      subtotal: 447.451
+      landedMade: 107.032 km
       stoppedAlt: 289.000 m
   - - - '34'
       - dave moore
@@ -14148,12 +14148,12 @@ scoreDf:
       demeritPoint: 0
       demeritReset: 0
       subtotal: 390.931
-      landedMade: 106.897 km
+      landedMade: 106.951 km
       stoppedAlt: 293.000 m
   - - - '18'
       - Peter Adriaans
     - place: 30=
-      total: 390.806
+      total: 390.609
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -14170,11 +14170,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 196.861
+        effort: 196.664
         arrival: 0
         time: 0
         reach: 193.945
-        distance: 390.806
+        distance: 390.609
         leading: 0
       velocity:
         ss: 2017-04-12T03:23:51.118448569344Z
@@ -14192,13 +14192,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 390.806
+      subtotal: 390.609
       landedMade: 106.882 km
       stoppedAlt: 281.000 m
   - - - '17'
       - Trevor Purcell
     - place: '32'
-      total: 360.249
+      total: 360.15
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -14215,11 +14215,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 158.613
+        effort: 158.514
         arrival: 0
         time: 0
         reach: 172.371
-        distance: 330.984
+        distance: 330.886
         leading: 29.3
       velocity:
         ss: 2017-04-12T03:21:57.038001726299Z
@@ -14237,13 +14237,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 360.249
-      landedMade: 94.992 km
+      subtotal: 360.15
+      landedMade: 94.993 km
       stoppedAlt: 262.000 m
   - - - '36'
       - Brad Porter
     - place: '33'
-      total: 322.16
+      total: 322.455
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -14260,11 +14260,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 147.572
+        effort: 147.868
         arrival: 0
         time: 0
         reach: 163.817
-        distance: 311.389
+        distance: 311.685
         leading: 10.8
       velocity:
         ss: 2017-04-12T03:44:28.941754280791Z
@@ -14282,13 +14282,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 322.16
-      landedMade: 89.947 km
+      subtotal: 322.455
+      landedMade: 90.279 km
       stoppedAlt: 360.000 m
   - - - '41'
       - Peter Burkitt
     - place: '34'
-      total: 306.256
+      total: 306.157
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -14307,11 +14307,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 131.602
+        effort: 131.504
         arrival: 0
         time: 0
         reach: 137.878
-        distance: 269.48
+        distance: 269.382
         leading: 53.1
       velocity:
         ss: 2017-04-12T02:57:17.052469853965Z
@@ -14329,13 +14329,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 16.295
       demeritReset: 0
-      subtotal: 322.55
-      landedMade: 75.952 km
+      subtotal: 322.452
+      landedMade: 75.984 km
       stoppedAlt: 303.000 m
   - - - '40'
       - Hossain Tefaili
     - place: '35'
-      total: 264.003
+      total: 264.496
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -14352,11 +14352,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 129.039
+        effort: 129.532
         arrival: 0
         time: 0
         reach: 134.964
-        distance: 264.003
+        distance: 264.496
         leading: 0
       velocity:
         ss: 2017-04-12T03:12:39.787191402338Z
@@ -14374,13 +14374,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 264.003
-      landedMade: 73.945 km
+      subtotal: 264.496
+      landedMade: 74.378 km
       stoppedAlt: 0.000 m
   - - - '48'
       - Derek Mckee
     - place: '36'
-      total: 250.074
+      total: 250.173
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -14397,11 +14397,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 123.519
+        effort: 123.617
         arrival: 0
         time: 0
         reach: 126.555
-        distance: 250.074
+        distance: 250.173
         leading: 0
       velocity:
         ss: 2017-04-12T03:12:05.4338970101Z
@@ -14419,58 +14419,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 250.074
-      landedMade: 69.641 km
+      subtotal: 250.173
+      landedMade: 69.744 km
       stoppedAlt: 296.000 m
-  - - - '1'
-      - Mark Alton
-    - place: '37'
-      total: 237.32
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 117.013
-        arrival: 0
-        time: 0
-        reach: 120.308
-        distance: 237.32
-        leading: 0
-      velocity:
-        ss: 2017-04-12T03:21:36.54636482725Z
-        gs: 2017-04-12T03:20:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 66.301 km
-        flown: 66.301 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 237.32
-      landedMade: 66.237 km
-      stoppedAlt: 303.000 m
   - - - '51'
       - Billy Miller-Macleod
-    - place: '38'
-      total: 234.071
+    - place: '37'
+      total: 238.606
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -14487,11 +14442,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 112.872
+        effort: 117.407
         arrival: 0
         time: 0
         reach: 120.79
-        distance: 233.663
+        distance: 238.197
         leading: 0.4
       velocity:
         ss: 2017-04-12T03:21:11.70108161297Z
@@ -14509,13 +14464,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 234.071
-      landedMade: 64.602 km
+      subtotal: 238.606
+      landedMade: 66.567 km
       stoppedAlt: 289.000 m
-  - - - '43'
-      - Simon West
-    - place: '39'
-      total: 220.287
+  - - - '1'
+      - Mark Alton
+    - place: '38'
+      total: 237.222
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -14532,11 +14487,56 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 106.169
+        effort: 116.914
+        arrival: 0
+        time: 0
+        reach: 120.308
+        distance: 237.222
+        leading: 0
+      velocity:
+        ss: 2017-04-12T03:21:36.54636482725Z
+        gs: 2017-04-12T03:20:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 66.301 km
+        flown: 66.301 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 237.222
+      landedMade: 66.301 km
+      stoppedAlt: 303.000 m
+  - - - '43'
+      - Simon West
+    - place: '39'
+      total: 219.794
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 105.676
         arrival: 0
         time: 0
         reach: 114.118
-        distance: 220.287
+        distance: 219.794
         leading: 0
       velocity:
         ss: 2017-04-12T03:52:56.85759684078Z
@@ -14554,13 +14554,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 220.287
-      landedMade: 62.516 km
+      subtotal: 219.794
+      landedMade: 62.890 km
       stoppedAlt: 288.000 m
   - - - '32'
       - Rob Larkin
     - place: '40'
-      total: 160.92
+      total: 161.215
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -14577,11 +14577,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 70.779
+        effort: 71.075
         arrival: 0
         time: 0
         reach: 90.14
-        distance: 160.92
+        distance: 161.215
         leading: 0
       velocity:
         ss: 2017-04-12T05:34:25.64312421286Z
@@ -14599,148 +14599,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 160.92
-      landedMade: 49.012 km
+      subtotal: 161.215
+      landedMade: 49.676 km
       stoppedAlt: 277.000 m
-  - - - '3'
-      - Paul Allen
-    - place: 41=
-      total: 99.414
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 58.851
-        arrival: 0
-        time: 0
-        reach: 40.563
-        distance: 99.414
-        leading: 0
-      velocity:
-        ss: 2017-04-12T03:11:43.59986543507Z
-        gs: 2017-04-12T03:00:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 22.354 km
-        flown: 22.354 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 99.414
-      landedMade: 22.188 km
-      stoppedAlt: 296.000 m
-  - - - '15'
-      - Andrew Sharpe
-    - place: 41=
-      total: 99.245
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 58.851
-        arrival: 0
-        time: 0
-        reach: 40.394
-        distance: 99.245
-        leading: 0
-      velocity:
-        ss: 2017-04-12T03:15:37.777071365487Z
-        gs: 2017-04-12T03:00:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 22.261 km
-        flown: 22.261 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 99.245
-      landedMade: 22.154 km
-      stoppedAlt: 385.000 m
-  - - - '23'
-      - Noel Collins
-    - place: 41=
-      total: 99.245
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 58.851
-        arrival: 0
-        time: 0
-        reach: 40.394
-        distance: 99.245
-        leading: 0
-      velocity:
-        ss: 2017-04-12T03:15:37.777071365487Z
-        gs: 2017-04-12T03:00:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 22.261 km
-        flown: 22.261 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 99.245
-      landedMade: 22.154 km
-      stoppedAlt: 385.000 m
   - - - '31'
       - Tomas Kellner
     - place: 41=
-      total: 99.128
+      total: 99.819
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -14757,11 +14622,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 58.457
+        effort: 59.147
         arrival: 0
         time: 0
         reach: 40.671
-        distance: 99.128
+        distance: 99.819
         leading: 0
       velocity:
         ss: 2017-04-12T03:11:02.19995903546Z
@@ -14779,13 +14644,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 99.128
-      landedMade: 21.923 km
+      subtotal: 99.819
+      landedMade: 22.414 km
       stoppedAlt: 310.000 m
-  - - - '28'
-      - John Harriot
-    - place: '45'
-      total: 77.771
+  - - - '3'
+      - Paul Allen
+    - place: 41=
+      total: 99.611
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -14802,11 +14667,146 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 46.43
+        effort: 59.049
+        arrival: 0
+        time: 0
+        reach: 40.563
+        distance: 99.611
+        leading: 0
+      velocity:
+        ss: 2017-04-12T03:11:43.59986543507Z
+        gs: 2017-04-12T03:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 22.354 km
+        flown: 22.354 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 99.611
+      landedMade: 22.354 km
+      stoppedAlt: 296.000 m
+  - - - '15'
+      - Andrew Sharpe
+    - place: 43=
+      total: 99.344
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 58.95
+        arrival: 0
+        time: 0
+        reach: 40.394
+        distance: 99.344
+        leading: 0
+      velocity:
+        ss: 2017-04-12T03:15:37.777071365487Z
+        gs: 2017-04-12T03:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 22.261 km
+        flown: 22.261 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 99.344
+      landedMade: 22.261 km
+      stoppedAlt: 385.000 m
+  - - - '23'
+      - Noel Collins
+    - place: 43=
+      total: 99.344
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 58.95
+        arrival: 0
+        time: 0
+        reach: 40.394
+        distance: 99.344
+        leading: 0
+      velocity:
+        ss: 2017-04-12T03:15:37.777071365487Z
+        gs: 2017-04-12T03:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 22.261 km
+        flown: 22.261 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 99.344
+      landedMade: 22.261 km
+      stoppedAlt: 385.000 m
+  - - - '28'
+      - John Harriot
+    - place: '45'
+      total: 77.476
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 46.135
         arrival: 0
         time: 0
         reach: 31.341
-        distance: 77.771
+        distance: 77.476
         leading: 0
       velocity:
         ss: 2017-04-12T03:11:32.76412041494Z
@@ -14824,13 +14824,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 77.771
-      landedMade: 17.269 km
+      subtotal: 77.476
+      landedMade: 17.272 km
       stoppedAlt: 299.000 m
   - - - '27'
       - Guy Williams
     - place: '46'
-      total: 27.088
+      total: 28.763
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -14847,11 +14847,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 13.308
+        effort: 14.984
         arrival: 0
         time: 0
         reach: 13.779
-        distance: 27.088
+        distance: 28.763
         leading: 0
       velocity:
         ss: 2017-04-12T03:01:24.04459305553Z
@@ -14869,8 +14869,8 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 27.088
-      landedMade: 6.933 km
+      subtotal: 28.763
+      landedMade: 7.594 km
       stoppedAlt: 288.000 m
 - - - - '19'
       - Scott Barrett
@@ -15592,9 +15592,54 @@ scoreDf:
       subtotal: 501.801
       landedMade: 96.889 km
       stoppedAlt: null
+  - - - '33'
+      - Niki Longshore
+    - place: '17'
+      total: 493.555
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 221.647
+        arrival: 0
+        time: 0
+        reach: 212.176
+        distance: 433.824
+        leading: 59.7
+      velocity:
+        ss: 2017-04-13T03:00:40.37151903369Z
+        gs: 2017-04-13T03:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 90.077 km
+        flown: 90.077 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 493.555
+      landedMade: 90.077 km
+      stoppedAlt: 307.000 m
   - - - '23'
       - Noel Collins
-    - place: 17=
+    - place: 18=
       total: 493.422
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -15639,7 +15684,7 @@ scoreDf:
       stoppedAlt: null
   - - - '42'
       - Mikhail Karmazin
-    - place: 17=
+    - place: 18=
       total: 492.716
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -15684,7 +15729,7 @@ scoreDf:
       stoppedAlt: null
   - - - '18'
       - Peter Adriaans
-    - place: 19=
+    - place: '20'
       total: 491.438
       essNotGoal: false
       penaltiesEssNotGoal:
@@ -15727,51 +15772,6 @@ scoreDf:
       subtotal: 491.438
       landedMade: 96.889 km
       stoppedAlt: null
-  - - - '33'
-      - Niki Longshore
-    - place: 19=
-      total: 490.546
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 218.639
-        arrival: 0
-        time: 0
-        reach: 212.176
-        distance: 430.815
-        leading: 59.7
-      velocity:
-        ss: 2017-04-13T03:00:40.37151903369Z
-        gs: 2017-04-13T03:00:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 90.077 km
-        flown: 90.077 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 490.546
-      landedMade: 88.230 km
-      stoppedAlt: 307.000 m
   - - - '25'
       - Hagen Bruggemann
     - place: '21'
@@ -15815,7 +15815,7 @@ scoreDf:
       demeritPoint: 0
       demeritReset: 0
       subtotal: 482.649
-      landedMade: 95.593 km
+      landedMade: 95.592 km
       stoppedAlt: 309.000 m
   - - - '35'
       - Anatoly Reyter
@@ -15910,7 +15910,7 @@ scoreDf:
   - - - '36'
       - Brad Porter
     - place: 24=
-      total: 423.479
+      total: 422.031
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -15927,11 +15927,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 203.037
+        effort: 201.589
         arrival: 0
         time: 0
         reach: 189.458
-        distance: 392.495
+        distance: 391.046
         leading: 31
       velocity:
         ss: 2017-04-13T03:00:39.868238363576Z
@@ -15949,13 +15949,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 423.479
-      landedMade: 80.433 km
+      subtotal: 422.031
+      landedMade: 80.432 km
       stoppedAlt: 410.000 m
   - - - '13'
       - Matthew Barlow
     - place: 24=
-      total: 423.281
+      total: 421.833
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -15972,11 +15972,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 204.709
+        effort: 203.26
         arrival: 0
         time: 0
         reach: 191.823
-        distance: 396.532
+        distance: 395.083
         leading: 26.7
       velocity:
         ss: 2017-04-13T03:00:41.880741269315Z
@@ -15994,13 +15994,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 423.281
-      landedMade: 81.437 km
+      subtotal: 421.833
+      landedMade: 81.436 km
       stoppedAlt: 324.000 m
   - - - '37'
       - John Spencer
     - place: '26'
-      total: 399.606
+      total: 401.946
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -16017,11 +16017,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 192.562
+        effort: 194.903
         arrival: 0
         time: 0
         reach: 181.157
-        distance: 373.719
+        distance: 376.06
         leading: 25.9
       velocity:
         ss: 2017-04-13T03:00:56.2904393434Z
@@ -16039,13 +16039,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 399.606
-      landedMade: 75.629 km
+      subtotal: 401.946
+      landedMade: 76.908 km
       stoppedAlt: 376.000 m
   - - - '17'
       - Trevor Purcell
     - place: '27'
-      total: 351.855
+      total: 350.517
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -16062,11 +16062,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 176.293
+        effort: 174.955
         arrival: 0
         time: 0
         reach: 158.21
-        distance: 334.502
+        distance: 333.165
         leading: 17.4
       velocity:
         ss: 2017-04-13T03:01:05.65557514635Z
@@ -16084,13 +16084,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 351.855
+      subtotal: 350.517
       landedMade: 67.166 km
       stoppedAlt: 276.000 m
   - - - '38'
       - Dave Stevens
     - place: '28'
-      total: 344.935
+      total: 344.49
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -16107,11 +16107,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 176.627
+        effort: 176.181
         arrival: 0
         time: 0
         reach: 159.708
-        distance: 336.335
+        distance: 335.889
         leading: 8.6
       velocity:
         ss: 2017-04-13T03:00:46.88178847176Z
@@ -16129,13 +16129,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 344.935
-      landedMade: 67.314 km
+      subtotal: 344.49
+      landedMade: 67.802 km
       stoppedAlt: 339.000 m
   - - - '9'
       - Rohan Taylor
     - place: '29'
-      total: 332.811
+      total: 331.697
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -16152,11 +16152,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 165.372
+        effort: 164.257
         arrival: 0
         time: 0
         reach: 149.094
-        distance: 314.466
+        distance: 313.352
         leading: 18.3
       velocity:
         ss: 2017-04-13T03:00:37.55425205041Z
@@ -16174,54 +16174,9 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 332.811
+      subtotal: 331.697
       landedMade: 63.296 km
       stoppedAlt: 294.000 m
-  - - - '43'
-      - Simon West
-    - place: 30=
-      total: 323.369
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 170.609
-        arrival: 0
-        time: 0
-        reach: 152.759
-        distance: 323.369
-        leading: 0
-      velocity:
-        ss: 2017-04-13T03:34:32.501065450005Z
-        gs: 2017-04-13T03:20:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 64.852 km
-        flown: 64.852 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 323.369
-      landedMade: 64.852 km
-      stoppedAlt: 311.000 m
   - - - '1'
       - Mark Alton
     - place: 30=
@@ -16265,12 +16220,12 @@ scoreDf:
       demeritPoint: 0
       demeritReset: 0
       subtotal: 323.148
-      landedMade: 64.702 km
+      landedMade: 64.853 km
       stoppedAlt: 328.000 m
-  - - - '32'
-      - Rob Larkin
-    - place: '32'
-      total: 314.721
+  - - - '43'
+      - Simon West
+    - place: 30=
+      total: 323.146
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -16287,11 +16242,56 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 163.366
+        effort: 170.386
+        arrival: 0
+        time: 0
+        reach: 152.759
+        distance: 323.146
+        leading: 0
+      velocity:
+        ss: 2017-04-13T03:34:32.501065450005Z
+        gs: 2017-04-13T03:20:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 64.852 km
+        flown: 64.852 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 323.146
+      landedMade: 64.852 km
+      stoppedAlt: 311.000 m
+  - - - '32'
+      - Rob Larkin
+    - place: '32'
+      total: 319.736
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 168.381
         arrival: 0
         time: 0
         reach: 151.355
-        distance: 314.721
+        distance: 319.736
         leading: 0
       velocity:
         ss: 2017-04-13T03:06:13.705248895626Z
@@ -16309,13 +16309,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 314.721
-      landedMade: 62.873 km
+      subtotal: 319.736
+      landedMade: 64.256 km
       stoppedAlt: 0.000 m
   - - - '48'
       - Derek Mckee
     - place: '33'
-      total: 314.461
+      total: 313.347
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -16332,11 +16332,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 165.372
+        effort: 164.257
         arrival: 0
         time: 0
         reach: 149.089
-        distance: 314.461
+        distance: 313.347
         leading: 0
       velocity:
         ss: 2017-04-13T03:01:07.997467218734Z
@@ -16354,13 +16354,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 314.461
+      subtotal: 313.347
       landedMade: 63.294 km
       stoppedAlt: 312.000 m
   - - - '27'
       - Guy Williams
     - place: '34'
-      total: 299.644
+      total: 305.105
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -16377,11 +16377,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 153.002
+        effort: 158.463
         arrival: 0
         time: 0
         reach: 146.642
-        distance: 299.644
+        distance: 305.105
         leading: 0
       velocity:
         ss: 2017-04-13T03:05:36.131529893855Z
@@ -16399,13 +16399,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 299.644
-      landedMade: 61.018 km
+      subtotal: 305.105
+      landedMade: 62.255 km
       stoppedAlt: 294.000 m
   - - - '40'
       - Hossain Tefaili
     - place: '35'
-      total: 292.98
+      total: 289.859
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -16422,11 +16422,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 150.328
+        effort: 147.208
         arrival: 0
         time: 0
         reach: 142.652
-        distance: 292.98
+        distance: 289.859
         leading: 0
       velocity:
         ss: 2017-04-13T03:34:10.47186176151Z
@@ -16444,13 +16444,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 292.98
-      landedMade: 60.640 km
+      subtotal: 289.859
+      landedMade: 60.561 km
       stoppedAlt: 0.000 m
   - - - '34'
       - dave moore
     - place: '36'
-      total: 245.856
+      total: 245.299
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -16467,11 +16467,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 114.334
+        effort: 113.777
         arrival: 0
         time: 0
         reach: 131.522
-        distance: 245.856
+        distance: 245.299
         leading: 0
       velocity:
         ss: 2017-04-13T03:00:11.957043692928Z
@@ -16489,13 +16489,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 245.856
-      landedMade: 55.623 km
+      subtotal: 245.299
+      landedMade: 55.836 km
       stoppedAlt: 322.000 m
   - - - '31'
       - Tomas Kellner
     - place: '37'
-      total: 198.061
+      total: 198.396
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -16512,11 +16512,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 87.032
+        effort: 87.366
         arrival: 0
         time: 0
         reach: 111.029
-        distance: 198.061
+        distance: 198.396
         leading: 0
       velocity:
         ss: 2017-04-13T03:45:50.89537615747Z
@@ -16534,13 +16534,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 198.061
-      landedMade: 47.124 km
+      subtotal: 198.396
+      landedMade: 47.136 km
       stoppedAlt: 298.000 m
   - - - '45'
       - steve crosby
-    - place: '38'
-      total: 176.192
+    - place: 38=
+      total: 176.972
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -16557,11 +16557,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 79.677
+        effort: 80.457
         arrival: 0
         time: 0
         reach: 96.515
-        distance: 176.192
+        distance: 176.972
         leading: 0
       velocity:
         ss: 2017-04-13T03:00:48.34906405395Z
@@ -16579,58 +16579,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 176.192
-      landedMade: 40.577 km
+      subtotal: 176.972
+      landedMade: 40.974 km
       stoppedAlt: 282.000 m
-  - - - '41'
-      - Peter Burkitt
-    - place: '39'
-      total: 174.329
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 79.343
-        arrival: 0
-        time: 0
-        reach: 94.986
-        distance: 174.329
-        leading: 0
-      velocity:
-        ss: 2017-04-13T03:00:32.238495419789Z
-        gs: 2017-04-13T03:00:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 40.325 km
-        flown: 40.325 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 174.329
-      landedMade: 40.323 km
-      stoppedAlt: 279.000 m
   - - - '14'
       - Tony Giammichele
-    - place: '40'
-      total: 172.531
+    - place: 38=
+      total: 176.543
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -16647,11 +16602,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 76.334
+        effort: 80.346
         arrival: 0
         time: 0
         reach: 96.197
-        distance: 172.531
+        distance: 176.543
         leading: 0
       velocity:
         ss: 2017-04-13T03:01:19.073770585988Z
@@ -16669,13 +16624,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 172.531
-      landedMade: 39.133 km
+      subtotal: 176.543
+      landedMade: 40.839 km
       stoppedAlt: 272.000 m
-  - - - '8'
-      - Rod Flockhart
-    - place: '41'
-      total: 166.603
+  - - - '41'
+      - Peter Burkitt
+    - place: '40'
+      total: 174.106
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -16692,11 +16647,56 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 74.997
+        effort: 79.12
+        arrival: 0
+        time: 0
+        reach: 94.986
+        distance: 174.106
+        leading: 0
+      velocity:
+        ss: 2017-04-13T03:00:32.238495419789Z
+        gs: 2017-04-13T03:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 40.325 km
+        flown: 40.325 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 174.106
+      landedMade: 40.325 km
+      stoppedAlt: 279.000 m
+  - - - '8'
+      - Rod Flockhart
+    - place: '41'
+      total: 165.711
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 74.105
         arrival: 0
         time: 0
         reach: 91.606
-        distance: 166.603
+        distance: 165.711
         leading: 0
       velocity:
         ss: 2017-04-13T03:00:46.509737572026Z
@@ -16714,13 +16714,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 166.603
-      landedMade: 38.728 km
+      subtotal: 165.711
+      landedMade: 38.890 km
       stoppedAlt: 0.000 m
   - - - '20'
       - Konrad Heilmann
     - place: '42'
-      total: 161.659
+      total: 161.101
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -16737,11 +16737,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 71.765
+        effort: 71.208
         arrival: 0
         time: 0
         reach: 89.893
-        distance: 161.659
+        distance: 161.101
         leading: 0
       velocity:
         ss: 2017-04-13T03:00:58.34008513049Z
@@ -16759,13 +16759,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 161.659
-      landedMade: 37.948 km
+      subtotal: 161.101
+      landedMade: 38.163 km
       stoppedAlt: 265.000 m
   - - - '24'
       - Brodrick Osborne
     - place: '43'
-      total: 74.411
+      total: 75.08
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -16782,11 +16782,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 31.425
+        effort: 32.094
         arrival: 0
         time: 0
         reach: 42.986
-        distance: 74.411
+        distance: 75.08
         leading: 0
       velocity:
         ss: 2017-04-13T03:01:10.573266943694Z
@@ -16804,13 +16804,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 74.411
-      landedMade: 17.703 km
+      subtotal: 75.08
+      landedMade: 18.249 km
       stoppedAlt: 288.000 m
   - - - '3'
       - Paul Allen
     - place: '44'
-      total: 58.16
+      total: 58.606
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -16827,11 +16827,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 27.413
+        effort: 27.859
         arrival: 0
         time: 0
         reach: 30.747
-        distance: 58.16
+        distance: 58.606
         leading: 0
       velocity:
         ss: 2017-04-13T03:53:21.06418473894Z
@@ -16849,13 +16849,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 58.16
-      landedMade: 12.893 km
+      subtotal: 58.606
+      landedMade: 13.053 km
       stoppedAlt: 282.000 m
   - - - '15'
       - Andrew Sharpe
     - place: '45'
-      total: 43.436
+      total: 44.662
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -16872,11 +16872,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 20.839
+        effort: 22.064
         arrival: 0
         time: 0
         reach: 22.597
-        distance: 43.436
+        distance: 44.662
         leading: 0
       velocity:
         ss: 2017-04-13T03:21:46.652933093529Z
@@ -16894,13 +16894,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 43.436
-      landedMade: 8.843 km
+      subtotal: 44.662
+      landedMade: 9.593 km
       stoppedAlt: 377.000 m
   - - - '28'
       - John Harriot
     - place: '46'
-      total: 18.018
+      total: 18.464
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -16917,11 +16917,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 6.24
+        effort: 6.686
         arrival: 0
         time: 0
         reach: 11.777
-        distance: 18.018
+        distance: 18.464
         leading: 0
       velocity:
         ss: 2017-04-13T03:05:24.60686135815Z
@@ -16939,8 +16939,8 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 18.018
-      landedMade: 2.347 km
+      subtotal: 18.464
+      landedMade: 2.534 km
       stoppedAlt: 301.000 m
 - - - - '5'
       - Jonny Durand
@@ -17710,7 +17710,7 @@ scoreDf:
   - - - '16'
       - Andrew Barnes
     - place: '18'
-      total: 520.625
+      total: 522.1
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -17727,11 +17727,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 238.187
+        effort: 239.661
         arrival: 0
         time: 0
         reach: 220.416
-        distance: 458.602
+        distance: 460.077
         leading: 62
       velocity:
         ss: 2017-04-14T03:03:35.7673175581Z
@@ -17749,8 +17749,8 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 520.625
-      landedMade: 99.596 km
+      subtotal: 522.1
+      landedMade: 100.156 km
       stoppedAlt: 342.000 m
   - - - '42'
       - Mikhail Karmazin
@@ -17840,12 +17840,12 @@ scoreDf:
       demeritPoint: 0
       demeritReset: 0
       subtotal: 502.281
-      landedMade: 108.025 km
+      landedMade: 108.028 km
       stoppedAlt: 372.000 m
   - - - '24'
       - Brodrick Osborne
     - place: '21'
-      total: 489.166
+      total: 488.552
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -17862,11 +17862,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 236.343
+        effort: 235.728
         arrival: 0
         time: 0
         reach: 217.903
-        distance: 454.246
+        distance: 453.631
         leading: 34.9
       velocity:
         ss: 2017-04-14T03:06:02.352920574582Z
@@ -17884,13 +17884,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 489.166
-      landedMade: 99.012 km
+      subtotal: 488.552
+      landedMade: 99.014 km
       stoppedAlt: 339.000 m
   - - - '10'
       - Craig Taylor
     - place: '22'
-      total: 482.744
+      total: 482.99
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -17907,11 +17907,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 238.187
+        effort: 238.432
         arrival: 0
         time: 0
         reach: 219.509
-        distance: 457.696
+        distance: 457.942
         leading: 25
       velocity:
         ss: 2017-04-14T03:20:32.90422579003Z
@@ -17929,13 +17929,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 482.744
-      landedMade: 99.596 km
+      subtotal: 482.99
+      landedMade: 99.744 km
       stoppedAlt: 336.000 m
   - - - '7'
       - James Atkinson
     - place: '23'
-      total: 470.744
+      total: 470.129
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -17952,11 +17952,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 234.991
+        effort: 234.377
         arrival: 0
         time: 0
         reach: 217.234
-        distance: 452.225
+        distance: 451.61
         leading: 18.5
       velocity:
         ss: 2017-04-14T03:03:05.88101619163Z
@@ -17974,13 +17974,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 470.744
+      subtotal: 470.129
       landedMade: 98.710 km
       stoppedAlt: 0.000 m
   - - - '45'
       - steve crosby
     - place: '24'
-      total: 441.201
+      total: 442.921
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -17997,11 +17997,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 210.41
+        effort: 212.131
         arrival: 0
         time: 0
         reach: 207.37
-        distance: 417.78
+        distance: 419.501
         leading: 23.4
       velocity:
         ss: 2017-04-14T03:01:59.21548048567Z
@@ -18019,13 +18019,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 441.201
-      landedMade: 93.693 km
+      subtotal: 442.921
+      landedMade: 94.228 km
       stoppedAlt: 352.000 m
   - - - '6'
       - Viv Clements
     - place: '25'
-      total: 422.588
+      total: 421.481
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -18042,11 +18042,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 200.824
+        effort: 199.718
         arrival: 0
         time: 0
         reach: 201.437
-        distance: 402.261
+        distance: 401.155
         leading: 20.3
       velocity:
         ss: 2017-04-14T03:21:38.156323881571Z
@@ -18064,13 +18064,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 422.588
-      landedMade: 91.529 km
+      subtotal: 421.481
+      landedMade: 91.532 km
       stoppedAlt: 376.000 m
   - - - '51'
       - Billy Miller-Macleod
     - place: '26'
-      total: 416.219
+      total: 416.956
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -18087,11 +18087,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 180.791
+        effort: 181.528
         arrival: 0
         time: 0
         reach: 192.02
-        distance: 372.811
+        distance: 373.548
         leading: 43.4
       velocity:
         ss: 2017-04-14T03:02:45.77302965191Z
@@ -18109,13 +18109,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 416.219
-      landedMade: 86.915 km
+      subtotal: 416.956
+      landedMade: 87.253 km
       stoppedAlt: 397.000 m
   - - - '38'
       - Dave Stevens
     - place: '27'
-      total: 413.058
+      total: 412.689
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -18132,11 +18132,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 183.003
+        effort: 182.634
         arrival: 0
         time: 0
         reach: 192.64
-        distance: 375.643
+        distance: 375.275
         leading: 37.4
       velocity:
         ss: 2017-04-14T03:05:48.03576751462Z
@@ -18154,13 +18154,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 413.058
+      subtotal: 412.689
       landedMade: 87.535 km
       stoppedAlt: 381.000 m
   - - - '37'
       - John Spencer
     - place: '28'
-      total: 406.764
+      total: 406.395
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -18177,11 +18177,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 183.003
+        effort: 182.634
         arrival: 0
         time: 0
         reach: 192.599
-        distance: 375.602
+        distance: 375.233
         leading: 31.2
       velocity:
         ss: 2017-04-14T03:06:15.97726252819Z
@@ -18199,13 +18199,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 406.764
-      landedMade: 87.515 km
+      subtotal: 406.395
+      landedMade: 87.516 km
       stoppedAlt: 445.000 m
   - - - '18'
       - Peter Adriaans
     - place: '29'
-      total: 378.662
+      total: 378.294
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -18222,11 +18222,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 181.897
+        effort: 181.528
         arrival: 0
         time: 0
         reach: 192.121
-        distance: 374.018
+        distance: 373.649
         leading: 4.6
       velocity:
         ss: 2017-04-14T03:20:19.0273642455Z
@@ -18244,13 +18244,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 378.662
+      subtotal: 378.294
       landedMade: 87.299 km
       stoppedAlt: 378.000 m
   - - - '35'
       - Anatoly Reyter
     - place: '30'
-      total: 346.733
+      total: 347.102
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -18267,11 +18267,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 161.495
+        effort: 161.864
         arrival: 0
         time: 0
         reach: 182.66
-        distance: 344.155
+        distance: 344.524
         leading: 2.6
       velocity:
         ss: 2017-04-14T03:10:29.234580276654Z
@@ -18289,13 +18289,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 346.733
-      landedMade: 82.764 km
+      subtotal: 347.102
+      landedMade: 83.000 km
       stoppedAlt: 390.000 m
   - - - '23'
       - Noel Collins
     - place: '31'
-      total: 341.027
+      total: 343.608
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -18312,11 +18312,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 149.573
+        effort: 152.154
         arrival: 0
         time: 0
         reach: 177.83
-        distance: 327.403
+        distance: 329.984
         leading: 13.6
       velocity:
         ss: 2017-04-14T03:20:41.677946609891Z
@@ -18334,13 +18334,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 341.027
-      landedMade: 80.241 km
+      subtotal: 343.608
+      landedMade: 80.805 km
       stoppedAlt: 0.000 m
   - - - '17'
       - Trevor Purcell
     - place: '32'
-      total: 330.304
+      total: 329.566
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -18357,11 +18357,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 143.551
+        effort: 142.814
         arrival: 0
         time: 0
         reach: 173.771
-        distance: 317.322
+        distance: 316.585
         leading: 13
       velocity:
         ss: 2017-04-14T03:21:16.769672527837Z
@@ -18379,13 +18379,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 330.304
-      landedMade: 78.960 km
+      subtotal: 329.566
+      landedMade: 78.961 km
       stoppedAlt: 346.000 m
   - - - '43'
       - Simon West
     - place: '33'
-      total: 265.068
+      total: 265.56
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -18402,11 +18402,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 111.719
+        effort: 112.211
         arrival: 0
         time: 0
         reach: 143.397
-        distance: 255.116
+        distance: 255.608
         leading: 10
       velocity:
         ss: 2017-04-14T03:06:20.52572598088Z
@@ -18424,13 +18424,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 265.068
-      landedMade: 63.527 km
+      subtotal: 265.56
+      landedMade: 65.159 km
       stoppedAlt: 328.000 m
   - - - '21'
       - Frank Chetcuti
     - place: '34'
-      total: 254.194
+      total: 253.333
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -18447,11 +18447,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 109.998
+        effort: 109.138
         arrival: 0
         time: 0
         reach: 138.17
-        distance: 248.169
+        distance: 247.308
         leading: 6
       velocity:
         ss: 2017-04-14T03:05:32.08370865103Z
@@ -18469,13 +18469,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 254.194
-      landedMade: 62.592 km
+      subtotal: 253.333
+      landedMade: 62.784 km
       stoppedAlt: 0.000 m
   - - - '41'
       - Peter Burkitt
     - place: '35'
-      total: 252.82
+      total: 251.959
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -18492,11 +18492,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 112.088
+        effort: 111.227
         arrival: 0
         time: 0
         reach: 140.732
-        distance: 252.82
+        distance: 251.959
         leading: 0
       velocity:
         ss: 2017-04-14T03:22:15.649367015571Z
@@ -18514,13 +18514,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 252.82
-      landedMade: 63.950 km
+      subtotal: 251.959
+      landedMade: 63.948 km
       stoppedAlt: 326.000 m
   - - - '14'
       - Tony Giammichele
     - place: '36'
-      total: 249.206
+      total: 248.591
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -18537,11 +18537,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 110.49
+        effort: 109.876
         arrival: 0
         time: 0
         reach: 138.716
-        distance: 249.206
+        distance: 248.591
         leading: 0
       velocity:
         ss: 2017-04-14T03:20:46.9289628718Z
@@ -18559,13 +18559,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 249.206
-      landedMade: 62.737 km
+      subtotal: 248.591
+      landedMade: 63.032 km
       stoppedAlt: 315.000 m
   - - - '1'
       - Mark Alton
     - place: '37'
-      total: 166.395
+      total: 166.886
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -18582,11 +18582,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 76.815
+        effort: 77.306
         arrival: 0
         time: 0
         reach: 89.58
-        distance: 166.395
+        distance: 166.886
         leading: 0
       velocity:
         ss: 2017-04-14T03:04:19.59409066901Z
@@ -18604,13 +18604,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 166.395
-      landedMade: 39.270 km
+      subtotal: 166.886
+      landedMade: 40.705 km
       stoppedAlt: 326.000 m
   - - - '32'
       - Rob Larkin
     - place: '38'
-      total: 164.413
+      total: 163.799
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -18627,11 +18627,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 77.06
+        effort: 76.446
         arrival: 0
         time: 0
         reach: 87.353
-        distance: 164.413
+        distance: 163.799
         leading: 0
       velocity:
         ss: 2017-04-14T03:03:54.722932153735Z
@@ -18649,13 +18649,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 164.413
-      landedMade: 39.692 km
+      subtotal: 163.799
+      landedMade: 39.693 km
       stoppedAlt: 0.000 m
   - - - '40'
       - Hossain Tefaili
     - place: '39'
-      total: 127.99
+      total: 127.13
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -18672,11 +18672,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 62.312
+        effort: 61.452
         arrival: 0
         time: 0
         reach: 65.678
-        distance: 127.99
+        distance: 127.13
         leading: 0
       velocity:
         ss: 2017-04-14T03:39:25.718494296792Z
@@ -18694,13 +18694,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 127.99
-      landedMade: 29.716 km
+      subtotal: 127.13
+      landedMade: 29.844 km
       stoppedAlt: 0.000 m
   - - - '31'
       - Tomas Kellner
     - place: '40'
-      total: 108.835
+      total: 109.449
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -18717,11 +18717,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 55.061
+        effort: 55.675
         arrival: 0
         time: 0
         reach: 53.774
-        distance: 108.835
+        distance: 109.449
         leading: 0
       velocity:
         ss: 2017-04-14T03:30:07.779967887015Z
@@ -18739,13 +18739,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 108.835
-      landedMade: 23.707 km
+      subtotal: 109.449
+      landedMade: 24.435 km
       stoppedAlt: 297.000 m
   - - - '48'
       - Derek Mckee
     - place: '41'
-      total: 95.422
+      total: 95.053
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -18762,11 +18762,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 50.145
+        effort: 49.776
         arrival: 0
         time: 0
         reach: 45.277
-        distance: 95.422
+        distance: 95.053
         leading: 0
       velocity:
         ss: 2017-04-14T03:39:54.313555005602Z
@@ -18784,13 +18784,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 95.422
-      landedMade: 20.576 km
+      subtotal: 95.053
+      landedMade: 20.574 km
       stoppedAlt: 305.000 m
   - - - '27'
       - Guy Williams
     - place: '42'
-      total: 80.59
+      total: 82.433
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -18807,11 +18807,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 41.787
+        effort: 43.631
         arrival: 0
         time: 0
         reach: 38.803
-        distance: 80.59
+        distance: 82.433
         leading: 0
       velocity:
         ss: 2017-04-14T03:06:56.263738074315Z
@@ -18829,13 +18829,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 80.59
-      landedMade: 16.142 km
+      subtotal: 82.433
+      landedMade: 17.632 km
       stoppedAlt: 286.000 m
   - - - '15'
       - Andrew Sharpe
     - place: '43'
-      total: 54.129
+      total: 53.638
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -18852,11 +18852,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 30.234
+        effort: 29.743
         arrival: 0
         time: 0
         reach: 23.895
-        distance: 54.129
+        distance: 53.638
         leading: 0
       velocity:
         ss: 2017-04-14T03:09:57.377045221806Z
@@ -18874,13 +18874,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 54.129
-      landedMade: 10.512 km
+      subtotal: 53.638
+      landedMade: 10.858 km
       stoppedAlt: 372.000 m
   - - - '28'
       - John Harriot
     - place: '44'
-      total: 52.267
+      total: 51.038
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -18897,11 +18897,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 29.62
+        effort: 28.391
         arrival: 0
         time: 0
         reach: 22.647
-        distance: 52.267
+        distance: 51.038
         leading: 0
       velocity:
         ss: 2017-04-14T03:42:48.640048720063Z
@@ -18919,13 +18919,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 52.267
-      landedMade: 10.279 km
+      subtotal: 51.038
+      landedMade: 10.291 km
       stoppedAlt: 297.000 m
   - - - '34'
       - dave moore
     - place: '45'
-      total: 33.335
+      total: 32.106
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -18942,11 +18942,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 19.542
+        effort: 18.313
         arrival: 0
         time: 0
         reach: 13.794
-        distance: 33.335
+        distance: 32.106
         leading: 0
       velocity:
         ss: 2017-04-14T03:22:19.559732104664Z
@@ -18964,8 +18964,8 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 33.335
-      landedMade: 6.258 km
+      subtotal: 32.106
+      landedMade: 6.268 km
       stoppedAlt: 280.000 m
 - - - - '19'
       - Scott Barrett
@@ -20270,12 +20270,12 @@ scoreDf:
       demeritPoint: 0
       demeritReset: 0
       subtotal: 374.635
-      landedMade: 82.285 km
+      landedMade: 82.478 km
       stoppedAlt: 0.000 m
   - - - '5'
       - Jonny Durand
     - place: '30'
-      total: 355.55
+      total: 354.791
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -20292,11 +20292,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 181.975
+        effort: 181.216
         arrival: 0
         time: 0
         reach: 128.419
-        distance: 310.395
+        distance: 309.635
         leading: 45.2
       velocity:
         ss: 2017-04-15T03:00:15.500277730508Z
@@ -20314,13 +20314,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 355.55
-      landedMade: 58.575 km
+      subtotal: 354.791
+      landedMade: 58.770 km
       stoppedAlt: 314.000 m
   - - - '9'
       - Rohan Taylor
     - place: '31'
-      total: 325.914
+      total: 326.863
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -20337,11 +20337,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 181.69
+        effort: 182.64
         arrival: 0
         time: 0
         reach: 131
-        distance: 312.69
+        distance: 313.64
         leading: 13.2
       velocity:
         ss: 2017-04-15T03:04:24.19316444868Z
@@ -20359,13 +20359,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 325.914
-      landedMade: 58.396 km
+      subtotal: 326.863
+      landedMade: 59.951 km
       stoppedAlt: 328.000 m
   - - - '48'
       - Derek Mckee
     - place: '32'
-      total: 311.944
+      total: 311.565
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -20382,11 +20382,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 182.45
+        effort: 182.07
         arrival: 0
         time: 0
         reach: 129.495
-        distance: 311.944
+        distance: 311.565
         leading: 0
       velocity:
         ss: 2017-04-15T03:22:41.403347612296Z
@@ -20404,13 +20404,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 311.944
-      landedMade: 59.184 km
+      subtotal: 311.565
+      landedMade: 59.262 km
       stoppedAlt: 319.000 m
   - - - '32'
       - Rob Larkin
     - place: '33'
-      total: 304.185
+      total: 302.761
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -20427,11 +20427,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 179.032
+        effort: 177.608
         arrival: 0
         time: 0
         reach: 125.153
-        distance: 304.185
+        distance: 302.761
         leading: 0
       velocity:
         ss: 2017-04-15T03:44:04.958929372144Z
@@ -20449,13 +20449,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 304.185
+      subtotal: 302.761
       landedMade: 57.275 km
       stoppedAlt: 0.000 m
   - - - '18'
       - Peter Adriaans
     - place: '34'
-      total: 296.337
+      total: 295.293
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -20472,11 +20472,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 174.191
+        effort: 173.147
         arrival: 0
         time: 0
         reach: 122.146
-        distance: 296.337
+        distance: 295.293
         leading: 0
       velocity:
         ss: 2017-04-15T03:20:32.084209264811Z
@@ -20494,58 +20494,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 296.337
-      landedMade: 55.737 km
+      subtotal: 295.293
+      landedMade: 55.899 km
       stoppedAlt: 319.000 m
-  - - - '15'
-      - Andrew Sharpe
-    - place: 35=
-      total: 293.429
-      essNotGoal: false
-      penaltiesEssNotGoal:
-        adds: []
-        muls: []
-        resets: []
-      jump: null
-      penaltiesJumpRaw: null
-      penaltiesJumpEffective:
-        adds: []
-        muls: []
-        resets: []
-      penalties:
-        adds: []
-        muls: []
-        resets: []
-      breakdown:
-        effort: 172.293
-        arrival: 0
-        time: 0
-        reach: 121.136
-        distance: 293.429
-        leading: 0
-      velocity:
-        ss: 2017-04-15T03:19:24.095270879919Z
-        gs: 2017-04-15T03:00:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      penaltyReason: ''
-      reach:
-        extra: 55.437 km
-        flown: 55.437 km
-      demeritFrac: 0
-      demeritPoint: 0
-      demeritReset: 0
-      subtotal: 293.429
-      landedMade: 55.393 km
-      stoppedAlt: 404.000 m
   - - - '35'
       - Anatoly Reyter
     - place: 35=
-      total: 292.966
+      total: 292.302
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -20564,11 +20519,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 174.191
+        effort: 173.527
         arrival: 0
         time: 0
         reach: 122.301
-        distance: 296.492
+        distance: 295.828
         leading: 0
       velocity:
         ss: 2017-04-15T02:59:24.741038397228Z
@@ -20586,13 +20541,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 3.526
       demeritReset: 0
-      subtotal: 296.492
-      landedMade: 55.713 km
+      subtotal: 295.828
+      landedMade: 55.970 km
       stoppedAlt: 317.000 m
-  - - - '7'
-      - James Atkinson
-    - place: '37'
-      total: 290.966
+  - - - '15'
+      - Andrew Sharpe
+    - place: 35=
+      total: 292.29
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -20609,11 +20564,56 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 170.584
+        effort: 171.153
+        arrival: 0
+        time: 0
+        reach: 121.136
+        distance: 292.29
+        leading: 0
+      velocity:
+        ss: 2017-04-15T03:19:24.095270879919Z
+        gs: 2017-04-15T03:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      penaltyReason: ''
+      reach:
+        extra: 55.437 km
+        flown: 55.437 km
+      demeritFrac: 0
+      demeritPoint: 0
+      demeritReset: 0
+      subtotal: 292.29
+      landedMade: 55.437 km
+      stoppedAlt: 404.000 m
+  - - - '7'
+      - James Atkinson
+    - place: '37'
+      total: 289.353
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
+      jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
+      breakdown:
+        effort: 168.97
         arrival: 0
         time: 0
         reach: 120.382
-        distance: 290.966
+        distance: 289.353
         leading: 0
       velocity:
         ss: 2017-04-15T03:21:10.846959997634Z
@@ -20631,13 +20631,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 290.966
-      landedMade: 55.017 km
+      subtotal: 289.353
+      landedMade: 55.092 km
       stoppedAlt: 0.000 m
   - - - '34'
       - dave moore
     - place: '38'
-      total: 273.223
+      total: 273.033
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -20654,11 +20654,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 157.009
+        effort: 156.819
         arrival: 0
         time: 0
         reach: 116.213
-        distance: 273.223
+        distance: 273.033
         leading: 0
       velocity:
         ss: 2017-04-15T03:23:47.276345757789Z
@@ -20676,13 +20676,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 273.223
-      landedMade: 52.929 km
+      subtotal: 273.033
+      landedMade: 53.184 km
       stoppedAlt: 339.000 m
   - - - '13'
       - Matthew Barlow
     - place: '39'
-      total: 252.904
+      total: 251.385
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -20699,11 +20699,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 141.821
+        effort: 140.302
         arrival: 0
         time: 0
         reach: 111.083
-        distance: 252.904
+        distance: 251.385
         leading: 0
       velocity:
         ss: 2017-04-15T03:54:14.216680099625Z
@@ -20721,13 +20721,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 252.904
-      landedMade: 50.837 km
+      subtotal: 251.385
+      landedMade: 50.836 km
       stoppedAlt: 330.000 m
   - - - '27'
       - Guy Williams
     - place: '40'
-      total: 191.617
+      total: 205.761
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -20744,11 +20744,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 90.276
+        effort: 104.42
         arrival: 0
         time: 0
         reach: 101.341
-        distance: 191.617
+        distance: 205.761
         leading: 0
       velocity:
         ss: 2017-04-15T03:25:08.74407885375Z
@@ -20766,13 +20766,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 191.617
-      landedMade: 44.424 km
+      subtotal: 205.761
+      landedMade: 46.378 km
       stoppedAlt: 312.000 m
   - - - '1'
       - Mark Alton
-    - place: '41'
-      total: 156.632
+    - place: 41=
+      total: 156.347
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -20789,11 +20789,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 67.208
+        effort: 66.924
         arrival: 0
         time: 0
         reach: 89.423
-        distance: 156.632
+        distance: 156.347
         leading: 0
       velocity:
         ss: 2017-04-15T03:22:58.20522595301Z
@@ -20811,13 +20811,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 156.632
-      landedMade: 40.870 km
+      subtotal: 156.347
+      landedMade: 40.924 km
       stoppedAlt: 320.000 m
   - - - '40'
       - Hossain Tefaili
-    - place: '42'
-      total: 154.314
+    - place: 41=
+      total: 156.308
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -20834,11 +20834,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 64.93
+        effort: 66.924
         arrival: 0
         time: 0
         reach: 89.384
-        distance: 154.314
+        distance: 156.308
         leading: 0
       velocity:
         ss: 2017-04-15T03:28:36.789019015226Z
@@ -20856,13 +20856,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 154.314
-      landedMade: 40.325 km
+      subtotal: 156.308
+      landedMade: 40.906 km
       stoppedAlt: 0.000 m
   - - - '38'
       - Dave Stevens
     - place: '43'
-      total: 78.54
+      total: 80.059
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -20879,11 +20879,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 27.529
+        effort: 29.048
         arrival: 0
         time: 0
         reach: 51.011
-        distance: 78.54
+        distance: 80.059
         leading: 0
       velocity:
         ss: 2017-04-15T03:00:48.73644360815Z
@@ -20901,13 +20901,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 78.54
-      landedMade: 22.468 km
+      subtotal: 80.059
+      landedMade: 23.345 km
       stoppedAlt: 301.000 m
   - - - '28'
       - John Harriot
     - place: '44'
-      total: 48.32
+      total: 49.554
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -20924,11 +20924,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 19.65
+        effort: 20.884
         arrival: 0
         time: 0
         reach: 28.67
-        distance: 48.32
+        distance: 49.554
         leading: 0
       velocity:
         ss: 2017-04-15T03:30:15.447054518172Z
@@ -20946,13 +20946,13 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 48.32
-      landedMade: 12.673 km
+      subtotal: 49.554
+      landedMade: 13.121 km
       stoppedAlt: 311.000 m
   - - - '31'
       - Tomas Kellner
     - place: '45'
-      total: 14.818
+      total: 18.805
       essNotGoal: false
       penaltiesEssNotGoal:
         adds: []
@@ -20969,11 +20969,11 @@ scoreDf:
         muls: []
         resets: []
       breakdown:
-        effort: 3.892
+        effort: 7.879
         arrival: 0
         time: 0
         reach: 10.926
-        distance: 14.818
+        distance: 18.805
         leading: 0
       velocity:
         ss: 2017-04-15T03:33:33.281089924755Z
@@ -20991,14 +20991,14 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 14.818
-      landedMade: 1.526 km
+      subtotal: 18.805
+      landedMade: 3.214 km
       stoppedAlt: 307.000 m
 scoreDfNoTrack:
 - - - - '49'
       - Damian Peauril
     - place: '1'
-      total: 31.687
+      total: 31.581
       essNotGoal: null
       penaltiesEssNotGoal:
         adds: []
@@ -21015,11 +21015,11 @@ scoreDfNoTrack:
         muls: []
         resets: []
       breakdown:
-        effort: 20.745
+        effort: 20.639
         arrival: 0
         time: 0
         reach: 10.942
-        distance: 31.687
+        distance: 31.581
         leading: 0
       velocity: null
       penaltyReason: ''
@@ -21029,13 +21029,13 @@ scoreDfNoTrack:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 31.687
+      subtotal: 31.581
       landedMade: 0.000 km
       stoppedAlt: null
 - - - - '49'
       - Damian Peauril
     - place: '1'
-      total: 18.044
+      total: 17.945
       essNotGoal: null
       penaltiesEssNotGoal:
         adds: []
@@ -21052,11 +21052,11 @@ scoreDfNoTrack:
         muls: []
         resets: []
       breakdown:
-        effort: 8.971
+        effort: 8.872
         arrival: 0
         time: 0
         reach: 9.073
-        distance: 18.044
+        distance: 17.945
         leading: 0
       velocity: null
       penaltyReason: ''
@@ -21066,7 +21066,7 @@ scoreDfNoTrack:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 18.044
+      subtotal: 17.945
       landedMade: 0.000 km
       stoppedAlt: null
 - - - - '49'
@@ -21109,7 +21109,7 @@ scoreDfNoTrack:
 - - - - '49'
       - Damian Peauril
     - place: '1'
-      total: 26.858
+      total: 26.612
       essNotGoal: null
       penaltiesEssNotGoal:
         adds: []
@@ -21126,11 +21126,11 @@ scoreDfNoTrack:
         muls: []
         resets: []
       breakdown:
-        effort: 15.855
+        effort: 15.609
         arrival: 0
         time: 0
         reach: 11.004
-        distance: 26.858
+        distance: 26.612
         leading: 0
       velocity: null
       penaltyReason: ''
@@ -21140,13 +21140,13 @@ scoreDfNoTrack:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 26.858
+      subtotal: 26.612
       landedMade: 0.000 km
       stoppedAlt: null
 - - - - '49'
       - Damian Peauril
     - place: '1'
-      total: 20.418
+      total: 21.652
       essNotGoal: null
       penaltiesEssNotGoal:
         adds: []
@@ -21163,11 +21163,11 @@ scoreDfNoTrack:
         muls: []
         resets: []
       breakdown:
-        effort: 9.493
+        effort: 10.727
         arrival: 0
         time: 0
         reach: 10.926
-        distance: 20.418
+        distance: 21.652
         leading: 0
       velocity: null
       penaltyReason: ''
@@ -21177,6 +21177,6 @@ scoreDfNoTrack:
       demeritFrac: 0
       demeritPoint: 0
       demeritReset: 0
-      subtotal: 20.418
+      subtotal: 21.652
       landedMade: 0.000 km
       stoppedAlt: null
