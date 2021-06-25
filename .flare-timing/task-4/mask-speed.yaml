@@ -1,0 +1,222 @@
+ssBestTime: 2.591819 h
+gsBestTime: 2.607669 h
+taskDistance: 114.373717 km
+taskSpeedDistance: 114.373717 km
+ssSpeed:
+- - - '5'
+    - Jonny Durand
+  - time: 2.591819 h
+    frac: 1
+- - - '26'
+    - Jason Kath
+  - time: 2.674956 h
+    frac: 0.86132636
+- - - '2'
+    - Tony Armstrong
+  - time: 2.826143 h
+    frac: 0.72329977
+- - - '29'
+    - Guy Hubbard
+  - time: 2.832229 h
+    frac: 0.71852932
+- - - '22'
+    - Steve Blenkinsop
+  - time: 2.838253 h
+    frac: 0.7138469
+- - - '12'
+    - Rory Duncan
+  - time: 2.920687 h
+    frac: 0.65314636
+- - - '46'
+    - Harrison Rowntree
+  - time: 2.961751 h
+    frac: 0.62484304
+- - - '4'
+    - Nick Purcell
+  - time: 2.977706 h
+    frac: 0.61413274
+- - - '20'
+    - Konrad Heilmann
+  - time: 2.991608 h
+    frac: 0.60491939
+- - - '44'
+    - Josh Woods
+  - time: 3.012944 h
+    frac: 0.59098551
+- - - '33'
+    - Niki Longshore
+  - time: 3.018760 h
+    frac: 0.58722818
+- - - '9'
+    - Rohan Taylor
+  - time: 3.092939 h
+    frac: 0.54070371
+- - - '19'
+    - Scott Barrett
+  - time: 3.159997 h
+    frac: 0.50059294
+- - - '25'
+    - Hagen Bruggemann
+  - time: 3.478180 h
+    frac: 0.32825328
+- - - '13'
+    - Matthew Barlow
+  - time: 3.508523 h
+    frac: 0.31300871
+- - - '8'
+    - Rod Flockhart
+  - time: 3.592046 h
+    frac: 0.27188948
+gsSpeed:
+- - - '5'
+    - Jonny Durand
+  - time: 2.607669 h
+    frac: 1
+- - - '26'
+    - Jason Kath
+  - time: 2.688177 h
+    frac: 0.86454039
+- - - '2'
+    - Tony Armstrong
+  - time: 2.835293 h
+    frac: 0.72915086
+- - - '22'
+    - Steve Blenkinsop
+  - time: 2.853860 h
+    frac: 0.71461563
+- - - '29'
+    - Guy Hubbard
+  - time: 2.889141 h
+    frac: 0.68796308
+- - - '12'
+    - Rory Duncan
+  - time: 2.947400 h
+    frac: 0.64626913
+- - - '46'
+    - Harrison Rowntree
+  - time: 2.993597 h
+    frac: 0.61488832
+- - - '20'
+    - Konrad Heilmann
+  - time: 3.020018 h
+    frac: 0.59750648
+- - - '44'
+    - Josh Woods
+  - time: 3.020486 h
+    frac: 0.59720181
+- - - '4'
+    - Nick Purcell
+  - time: 3.039980 h
+    frac: 0.58461923
+- - - '33'
+    - Niki Longshore
+  - time: 3.051425 h
+    frac: 0.57731995
+- - - '9'
+    - Rohan Taylor
+  - time: 3.118921 h
+    frac: 0.53547839
+- - - '19'
+    - Scott Barrett
+  - time: 3.232942 h
+    frac: 0.46875392
+- - - '13'
+    - Matthew Barlow
+  - time: 3.540397 h
+    frac: 0.30643733
+- - - '25'
+    - Hagen Bruggemann
+  - time: 3.573254 h
+    frac: 0.29024314
+- - - '8'
+    - Rod Flockhart
+  - time: 3.636516 h
+    frac: 0.25957154
+altStopped:
+- - - '35'
+    - Anatoly Reyter
+  - 390.000 m
+- - - '16'
+    - Andrew Barnes
+  - 342.000 m
+- - - '15'
+    - Andrew Sharpe
+  - 372.000 m
+- - - '51'
+    - Billy Miller-Macleod
+  - 397.000 m
+- - - '36'
+    - Brad Porter
+  - 372.000 m
+- - - '24'
+    - Brodrick Osborne
+  - 339.000 m
+- - - '10'
+    - Craig Taylor
+  - 336.000 m
+- - - '38'
+    - Dave Stevens
+  - 381.000 m
+- - - '48'
+    - Derek Mckee
+  - 305.000 m
+- - - '21'
+    - Frank Chetcuti
+  - 0.000 m
+- - - '27'
+    - Guy Williams
+  - 286.000 m
+- - - '40'
+    - Hossain Tefaili
+  - 0.000 m
+- - - '7'
+    - James Atkinson
+  - 0.000 m
+- - - '28'
+    - John Harriot
+  - 297.000 m
+- - - '37'
+    - John Spencer
+  - 445.000 m
+- - - '1'
+    - Mark Alton
+  - 326.000 m
+- - - '42'
+    - Mikhail Karmazin
+  - 371.000 m
+- - - '23'
+    - Noel Collins
+  - 0.000 m
+- - - '18'
+    - Peter Adriaans
+  - 378.000 m
+- - - '41'
+    - Peter Burkitt
+  - 326.000 m
+- - - '32'
+    - Rob Larkin
+  - 0.000 m
+- - - '43'
+    - Simon West
+  - 328.000 m
+- - - '31'
+    - Tomas Kellner
+  - 297.000 m
+- - - '14'
+    - Tony Giammichele
+  - 315.000 m
+- - - '17'
+    - Trevor Purcell
+  - 346.000 m
+- - - '6'
+    - Viv Clements
+  - 376.000 m
+- - - '34'
+    - dave moore
+  - 280.000 m
+- - - '39'
+    - rob degroot
+  - 365.000 m
+- - - '45'
+    - steve crosby
+  - 352.000 m

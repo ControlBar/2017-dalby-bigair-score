@@ -1,0 +1,725 @@
+suspectDnf: []
+flying:
+- - - '35'
+    - Anatoly Reyter
+  - loggedFixes: 5935
+    flyingFixes:
+    - 0
+    - 5891
+    loggedSeconds: 12163
+    flyingSeconds:
+    - 0
+    - 12077
+    loggedTimes:
+    - 2017-04-14T02:35:00Z
+    - 2017-04-14T05:57:43Z
+    flyingTimes:
+    - 2017-04-14T02:35:00Z
+    - 2017-04-14T05:56:17Z
+- - - '16'
+    - Andrew Barnes
+  - loggedFixes: 2831
+    flyingFixes:
+    - 17
+    - 2819
+    loggedSeconds: 14197
+    flyingSeconds:
+    - 86
+    - 14142
+    loggedTimes:
+    - 2017-04-14T02:07:03Z
+    - 2017-04-14T06:03:40Z
+    flyingTimes:
+    - 2017-04-14T02:08:29Z
+    - 2017-04-14T06:02:45Z
+- - - '15'
+    - Andrew Sharpe
+  - loggedFixes: 2894
+    flyingFixes:
+    - 0
+    - 2802
+    loggedSeconds: 2893
+    flyingSeconds:
+    - 0
+    - 2802
+    loggedTimes:
+    - 2017-04-14T02:46:08Z
+    - 2017-04-14T03:34:21Z
+    flyingTimes:
+    - 2017-04-14T02:46:08Z
+    - 2017-04-14T03:32:50Z
+- - - '51'
+    - Billy Miller-Macleod
+  - loggedFixes: 1133
+    flyingFixes:
+    - 5
+    - 1132
+    loggedSeconds: 11497
+    flyingSeconds:
+    - 150
+    - 11497
+    loggedTimes:
+    - 2017-04-14T02:19:43Z
+    - 2017-04-14T05:31:20Z
+    flyingTimes:
+    - 2017-04-14T02:22:13Z
+    - 2017-04-14T05:31:20Z
+- - - '36'
+    - Brad Porter
+  - loggedFixes: 7668
+    flyingFixes:
+    - 0
+    - 7667
+    loggedSeconds: 17091
+    flyingSeconds:
+    - 0
+    - 17091
+    loggedTimes:
+    - 2017-04-14T02:27:19Z
+    - 2017-04-14T07:12:10Z
+    flyingTimes:
+    - 2017-04-14T02:27:19Z
+    - 2017-04-14T07:12:10Z
+- - - '24'
+    - Brodrick Osborne
+  - loggedFixes: 6974
+    flyingFixes:
+    - 22
+    - 6928
+    loggedSeconds: 14005
+    flyingSeconds:
+    - 45
+    - 13915
+    loggedTimes:
+    - 2017-04-14T02:39:56Z
+    - 2017-04-14T06:33:21Z
+    flyingTimes:
+    - 2017-04-14T02:40:41Z
+    - 2017-04-14T06:31:51Z
+- - - '10'
+    - Craig Taylor
+  - loggedFixes: 1495
+    flyingFixes:
+    - 10
+    - 1494
+    loggedSeconds: 15132
+    flyingSeconds:
+    - 301
+    - 15132
+    loggedTimes:
+    - 2017-04-14T01:55:07Z
+    - 2017-04-14T06:07:19Z
+    flyingTimes:
+    - 2017-04-14T02:00:08Z
+    - 2017-04-14T06:07:19Z
+- - - '49'
+    - Damian Peauril
+  - null
+- - - '38'
+    - Dave Stevens
+  - loggedFixes: 1173
+    flyingFixes:
+    - 2
+    - 1172
+    loggedSeconds: 11885
+    flyingSeconds:
+    - 60
+    - 11885
+    loggedTimes:
+    - 2017-04-14T02:30:13Z
+    - 2017-04-14T05:48:18Z
+    flyingTimes:
+    - 2017-04-14T02:31:13Z
+    - 2017-04-14T05:48:18Z
+- - - '48'
+    - Derek Mckee
+  - loggedFixes: 6146
+    flyingFixes:
+    - 0
+    - 6058
+    loggedSeconds: 12597
+    flyingSeconds:
+    - 0
+    - 12423
+    loggedTimes:
+    - 2017-04-14T01:42:56Z
+    - 2017-04-14T05:12:53Z
+    flyingTimes:
+    - 2017-04-14T01:42:56Z
+    - 2017-04-14T05:09:59Z
+- - - '21'
+    - Frank Chetcuti
+  - loggedFixes: 1697
+    flyingFixes:
+    - 0
+    - 1696
+    loggedSeconds: 11181
+    flyingSeconds:
+    - 0
+    - 11181
+    loggedTimes:
+    - 2017-04-14T02:17:49Z
+    - 2017-04-14T05:24:10Z
+    flyingTimes:
+    - 2017-04-14T02:17:49Z
+    - 2017-04-14T05:24:10Z
+- - - '29'
+    - Guy Hubbard
+  - loggedFixes: 1652
+    flyingFixes:
+    - 0
+    - 1545
+    loggedSeconds: 14437
+    flyingSeconds:
+    - 0
+    - 14331
+    loggedTimes:
+    - 2017-04-14T01:56:52Z
+    - 2017-04-14T05:57:29Z
+    flyingTimes:
+    - 2017-04-14T01:56:52Z
+    - 2017-04-14T05:55:43Z
+- - - '27'
+    - Guy Williams
+  - loggedFixes: 1700
+    flyingFixes:
+    - 4
+    - 1699
+    loggedSeconds: 8754
+    flyingSeconds:
+    - 120
+    - 8754
+    loggedTimes:
+    - 2017-04-14T01:38:23Z
+    - 2017-04-14T04:04:17Z
+    flyingTimes:
+    - 2017-04-14T01:40:23Z
+    - 2017-04-14T04:04:17Z
+- - - '25'
+    - Hagen Bruggemann
+  - loggedFixes: 5943
+    flyingFixes:
+    - 24
+    - 5850
+    loggedSeconds: 16980
+    flyingSeconds:
+    - 73
+    - 16888
+    loggedTimes:
+    - 2017-04-14T01:59:46Z
+    - 2017-04-14T06:42:46Z
+    flyingTimes:
+    - 2017-04-14T02:00:59Z
+    - 2017-04-14T06:41:14Z
+- - - '46'
+    - Harrison Rowntree
+  - loggedFixes: 4879
+    flyingFixes:
+    - 7
+    - 4775
+    loggedSeconds: 14195
+    flyingSeconds:
+    - 211
+    - 14092
+    loggedTimes:
+    - 2017-04-14T02:09:57Z
+    - 2017-04-14T06:06:32Z
+    flyingTimes:
+    - 2017-04-14T02:13:28Z
+    - 2017-04-14T06:04:49Z
+- - - '40'
+    - Hossain Tefaili
+  - loggedFixes: 3577
+    flyingFixes:
+    - 8
+    - 3576
+    loggedSeconds: 7227
+    flyingSeconds:
+    - 16
+    - 7227
+    loggedTimes:
+    - 2017-04-14T02:51:50Z
+    - 2017-04-14T04:52:17Z
+    flyingTimes:
+    - 2017-04-14T02:52:06Z
+    - 2017-04-14T04:52:17Z
+- - - '7'
+    - James Atkinson
+  - loggedFixes: 8092
+    flyingFixes:
+    - 607
+    - 8047
+    loggedSeconds: 16190
+    flyingSeconds:
+    - 1214
+    - 16102
+    loggedTimes:
+    - 2017-04-14T02:02:46Z
+    - 2017-04-14T06:32:36Z
+    flyingTimes:
+    - 2017-04-14T02:23:00Z
+    - 2017-04-14T06:31:08Z
+- - - '26'
+    - Jason Kath
+  - loggedFixes: 12051
+    flyingFixes:
+    - 2
+    - 12050
+    loggedSeconds: 14983
+    flyingSeconds:
+    - 571
+    - 14983
+    loggedTimes:
+    - 2017-04-14T01:57:41Z
+    - 2017-04-14T06:07:24Z
+    flyingTimes:
+    - 2017-04-14T02:07:12Z
+    - 2017-04-14T06:07:24Z
+- - - '28'
+    - John Harriot
+  - loggedFixes: 869
+    flyingFixes:
+    - 9
+    - 868
+    loggedSeconds: 4516
+    flyingSeconds:
+    - 251
+    - 4516
+    loggedTimes:
+    - 2017-04-14T02:49:38Z
+    - 2017-04-14T04:04:54Z
+    flyingTimes:
+    - 2017-04-14T02:53:49Z
+    - 2017-04-14T04:04:54Z
+- - - '37'
+    - John Spencer
+  - loggedFixes: 2520
+    flyingFixes:
+    - 28
+    - 2519
+    loggedSeconds: 12647
+    flyingSeconds:
+    - 140
+    - 12647
+    loggedTimes:
+    - 2017-04-14T02:17:33Z
+    - 2017-04-14T05:48:20Z
+    flyingTimes:
+    - 2017-04-14T02:19:53Z
+    - 2017-04-14T05:48:20Z
+- - - '5'
+    - Jonny Durand
+  - loggedFixes: 3965
+    flyingFixes:
+    - 5
+    - 3865
+    loggedSeconds: 11813
+    flyingSeconds:
+    - 152
+    - 11713
+    loggedTimes:
+    - 2017-04-14T02:43:17Z
+    - 2017-04-14T06:00:10Z
+    flyingTimes:
+    - 2017-04-14T02:45:49Z
+    - 2017-04-14T05:58:30Z
+- - - '44'
+    - Josh Woods
+  - loggedFixes: 2845
+    flyingFixes:
+    - 9
+    - 2750
+    loggedSeconds: 13684
+    flyingSeconds:
+    - 270
+    - 13590
+    loggedTimes:
+    - 2017-04-14T02:16:27Z
+    - 2017-04-14T06:04:31Z
+    flyingTimes:
+    - 2017-04-14T02:20:57Z
+    - 2017-04-14T06:02:57Z
+- - - '20'
+    - Konrad Heilmann
+  - loggedFixes: 1930
+    flyingFixes:
+    - 0
+    - 1845
+    loggedSeconds: 15182
+    flyingSeconds:
+    - 0
+    - 15098
+    loggedTimes:
+    - 2017-04-14T01:55:45Z
+    - 2017-04-14T06:08:47Z
+    flyingTimes:
+    - 2017-04-14T01:55:45Z
+    - 2017-04-14T06:07:23Z
+- - - '1'
+    - Mark Alton
+  - loggedFixes: 757
+    flyingFixes:
+    - 24
+    - 756
+    loggedSeconds: 7544
+    flyingSeconds:
+    - 240
+    - 7544
+    loggedTimes:
+    - 2017-04-14T02:30:19Z
+    - 2017-04-14T04:36:03Z
+    flyingTimes:
+    - 2017-04-14T02:34:19Z
+    - 2017-04-14T04:36:03Z
+- - - '13'
+    - Matthew Barlow
+  - loggedFixes: 3814
+    flyingFixes:
+    - 9
+    - 3725
+    loggedSeconds: 15918
+    flyingSeconds:
+    - 45
+    - 15830
+    loggedTimes:
+    - 2017-04-14T02:20:18Z
+    - 2017-04-14T06:45:36Z
+    flyingTimes:
+    - 2017-04-14T02:21:03Z
+    - 2017-04-14T06:44:08Z
+- - - '42'
+    - Mikhail Karmazin
+  - loggedFixes: 7025
+    flyingFixes:
+    - 0
+    - 7024
+    loggedSeconds: 14078
+    flyingSeconds:
+    - 0
+    - 14078
+    loggedTimes:
+    - 2017-04-14T02:32:29Z
+    - 2017-04-14T06:27:07Z
+    flyingTimes:
+    - 2017-04-14T02:32:29Z
+    - 2017-04-14T06:27:07Z
+- - - '4'
+    - Nick Purcell
+  - loggedFixes: 6885
+    flyingFixes:
+    - 0
+    - 6880
+    loggedSeconds: 15291
+    flyingSeconds:
+    - 0
+    - 14919
+    loggedTimes:
+    - 2017-04-14T01:59:33Z
+    - 2017-04-14T06:14:24Z
+    flyingTimes:
+    - 2017-04-14T01:59:33Z
+    - 2017-04-14T06:08:12Z
+- - - '33'
+    - Niki Longshore
+  - loggedFixes: 1756
+    flyingFixes:
+    - 9
+    - 1651
+    loggedSeconds: 14792
+    flyingSeconds:
+    - 273
+    - 14686
+    loggedTimes:
+    - 2017-04-14T02:02:14Z
+    - 2017-04-14T06:08:46Z
+    flyingTimes:
+    - 2017-04-14T02:06:47Z
+    - 2017-04-14T06:07:00Z
+- - - '23'
+    - Noel Collins
+  - loggedFixes: 10463
+    flyingFixes:
+    - 0
+    - 10391
+    loggedSeconds: 10462
+    flyingSeconds:
+    - 0
+    - 10391
+    loggedTimes:
+    - 2017-04-14T02:49:47Z
+    - 2017-04-14T05:44:09Z
+    flyingTimes:
+    - 2017-04-14T02:49:47Z
+    - 2017-04-14T05:42:58Z
+- - - '18'
+    - Peter Adriaans
+  - loggedFixes: 13499
+    flyingFixes:
+    - 45
+    - 13406
+    loggedSeconds: 13498
+    flyingSeconds:
+    - 45
+    - 13406
+    loggedTimes:
+    - 2017-04-14T02:33:29Z
+    - 2017-04-14T06:18:27Z
+    flyingTimes:
+    - 2017-04-14T02:34:14Z
+    - 2017-04-14T06:16:55Z
+- - - '41'
+    - Peter Burkitt
+  - loggedFixes: 2110
+    flyingFixes:
+    - 3
+    - 2109
+    loggedSeconds: 10528
+    flyingSeconds:
+    - 66
+    - 10528
+    loggedTimes:
+    - 2017-04-14T02:52:09Z
+    - 2017-04-14T05:47:37Z
+    flyingTimes:
+    - 2017-04-14T02:53:15Z
+    - 2017-04-14T05:47:37Z
+- - - '32'
+    - Rob Larkin
+  - loggedFixes: 3183
+    flyingFixes:
+    - 15
+    - 3182
+    loggedSeconds: 7076
+    flyingSeconds:
+    - 36
+    - 7076
+    loggedTimes:
+    - 2017-04-14T02:39:21Z
+    - 2017-04-14T04:37:17Z
+    flyingTimes:
+    - 2017-04-14T02:39:57Z
+    - 2017-04-14T04:37:17Z
+- - - '8'
+    - Rod Flockhart
+  - loggedFixes: 5366
+    flyingFixes:
+    - 550
+    - 5249
+    loggedSeconds: 16105
+    flyingSeconds:
+    - 1650
+    - 15757
+    loggedTimes:
+    - 2017-04-14T02:18:01Z
+    - 2017-04-14T06:46:26Z
+    flyingTimes:
+    - 2017-04-14T02:45:31Z
+    - 2017-04-14T06:40:38Z
+- - - '9'
+    - Rohan Taylor
+  - loggedFixes: 3143
+    flyingFixes:
+    - 0
+    - 3142
+    loggedSeconds: 13038
+    flyingSeconds:
+    - 0
+    - 13038
+    loggedTimes:
+    - 2017-04-14T02:33:21Z
+    - 2017-04-14T06:10:39Z
+    flyingTimes:
+    - 2017-04-14T02:33:21Z
+    - 2017-04-14T06:10:39Z
+- - - '12'
+    - Rory Duncan
+  - loggedFixes: 1824
+    flyingFixes:
+    - 0
+    - 1720
+    loggedSeconds: 14353
+    flyingSeconds:
+    - 0
+    - 14250
+    loggedTimes:
+    - 2017-04-14T02:05:07Z
+    - 2017-04-14T06:04:20Z
+    flyingTimes:
+    - 2017-04-14T02:05:07Z
+    - 2017-04-14T06:02:37Z
+- - - '19'
+    - Scott Barrett
+  - loggedFixes: 3177
+    flyingFixes:
+    - 6
+    - 3099
+    loggedSeconds: 14888
+    flyingSeconds:
+    - 180
+    - 14811
+    loggedTimes:
+    - 2017-04-14T02:10:56Z
+    - 2017-04-14T06:19:04Z
+    flyingTimes:
+    - 2017-04-14T02:13:56Z
+    - 2017-04-14T06:17:47Z
+- - - '43'
+    - Simon West
+  - loggedFixes: 1716
+    flyingFixes:
+    - 6
+    - 1706
+    loggedSeconds: 8832
+    flyingSeconds:
+    - 180
+    - 8787
+    loggedTimes:
+    - 2017-04-14T02:37:13Z
+    - 2017-04-14T05:04:25Z
+    flyingTimes:
+    - 2017-04-14T02:40:13Z
+    - 2017-04-14T05:03:40Z
+- - - '22'
+    - Steve Blenkinsop
+  - loggedFixes: 13288
+    flyingFixes:
+    - 0
+    - 13231
+    loggedSeconds: 13287
+    flyingSeconds:
+    - 0
+    - 13231
+    loggedTimes:
+    - 2017-04-14T02:15:35Z
+    - 2017-04-14T05:57:02Z
+    flyingTimes:
+    - 2017-04-14T02:15:35Z
+    - 2017-04-14T05:56:06Z
+- - - '31'
+    - Tomas Kellner
+  - loggedFixes: 1209
+    flyingFixes:
+    - 2
+    - 1208
+    loggedSeconds: 6247
+    flyingSeconds:
+    - 60
+    - 6247
+    loggedTimes:
+    - 2017-04-14T02:47:23Z
+    - 2017-04-14T04:31:30Z
+    flyingTimes:
+    - 2017-04-14T02:48:23Z
+    - 2017-04-14T04:31:30Z
+- - - '2'
+    - Tony Armstrong
+  - loggedFixes: 4733
+    flyingFixes:
+    - 8
+    - 4644
+    loggedSeconds: 13770
+    flyingSeconds:
+    - 240
+    - 13682
+    loggedTimes:
+    - 2017-04-14T02:06:28Z
+    - 2017-04-14T05:55:58Z
+    flyingTimes:
+    - 2017-04-14T02:10:28Z
+    - 2017-04-14T05:54:30Z
+- - - '14'
+    - Tony Giammichele
+  - loggedFixes: 3171
+    flyingFixes:
+    - 3
+    - 3170
+    loggedSeconds: 9842
+    flyingSeconds:
+    - 91
+    - 9842
+    loggedTimes:
+    - 2017-04-14T02:24:38Z
+    - 2017-04-14T05:08:40Z
+    flyingTimes:
+    - 2017-04-14T02:26:09Z
+    - 2017-04-14T05:08:40Z
+- - - '17'
+    - Trevor Purcell
+  - loggedFixes: 3864
+    flyingFixes:
+    - 0
+    - 3790
+    loggedSeconds: 11586
+    flyingSeconds:
+    - 0
+    - 11367
+    loggedTimes:
+    - 2017-04-14T02:29:07Z
+    - 2017-04-14T05:42:13Z
+    flyingTimes:
+    - 2017-04-14T02:29:07Z
+    - 2017-04-14T05:38:34Z
+- - - '6'
+    - Viv Clements
+  - loggedFixes: 15088
+    flyingFixes:
+    - 0
+    - 14675
+    loggedSeconds: 15087
+    flyingSeconds:
+    - 0
+    - 14675
+    loggedTimes:
+    - 2017-04-14T02:03:14Z
+    - 2017-04-14T06:14:41Z
+    flyingTimes:
+    - 2017-04-14T02:03:14Z
+    - 2017-04-14T06:07:49Z
+- - - '34'
+    - dave moore
+  - loggedFixes: 1787
+    flyingFixes:
+    - 55
+    - 1786
+    loggedSeconds: 3205
+    flyingSeconds:
+    - 275
+    - 3205
+    loggedTimes:
+    - 2017-04-14T02:42:36Z
+    - 2017-04-14T03:36:01Z
+    flyingTimes:
+    - 2017-04-14T02:47:11Z
+    - 2017-04-14T03:36:01Z
+- - - '39'
+    - rob degroot
+  - loggedFixes: 3412
+    flyingFixes:
+    - 0
+    - 3411
+    loggedSeconds: 13641
+    flyingSeconds:
+    - 0
+    - 13641
+    loggedTimes:
+    - 2017-04-14T02:02:25Z
+    - 2017-04-14T05:49:46Z
+    flyingTimes:
+    - 2017-04-14T02:02:25Z
+    - 2017-04-14T05:49:46Z
+- - - '45'
+    - steve crosby
+  - loggedFixes: 1419
+    flyingFixes:
+    - 11
+    - 1413
+    loggedSeconds: 14146
+    flyingSeconds:
+    - 110
+    - 14096
+    loggedTimes:
+    - 2017-04-14T02:17:15Z
+    - 2017-04-14T06:13:01Z
+    flyingTimes:
+    - 2017-04-14T02:19:05Z
+    - 2017-04-14T06:12:11Z

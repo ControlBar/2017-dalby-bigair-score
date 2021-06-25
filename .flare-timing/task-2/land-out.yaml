@@ -1,0 +1,255 @@
+bestDistance: 111.259762 km
+chunking:
+  startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 1121
+  - 112.1 km
+  sumOf: 3142
+landout: 21
+lookahead: 159
+difficulty:
+- chunk: 50
+  startChunk: 5.0 km
+  endChunk: 5.1 km
+  endAhead: 21.0 km
+  down: 1
+  downs:
+  - 5.000 km
+  downers:
+  - - '49'
+    - Damian Peauril
+  downward: 3
+  rel: 4.774e-4
+  frac: 2.22168e-2
+- chunk: 69
+  startChunk: 6.9 km
+  endChunk: 7.0 km
+  endAhead: 22.9 km
+  down: 1
+  downs:
+  - 6.933 km
+  downers:
+  - - '27'
+    - Guy Williams
+  downward: 6
+  rel: 9.5481e-4
+  frac: 3.295898e-2
+- chunk: 172
+  startChunk: 17.2 km
+  endChunk: 17.3 km
+  endAhead: 33.2 km
+  down: 1
+  downs:
+  - 17.269 km
+  downers:
+  - - '28'
+    - John Harriot
+  downward: 5
+  rel: 7.9567e-4
+  frac: 0.11499023
+- chunk: 219
+  startChunk: 21.9 km
+  endChunk: 22.0 km
+  endAhead: 37.9 km
+  down: 1
+  downs:
+  - 21.923 km
+  downers:
+  - - '31'
+    - Tomas Kellner
+  downward: 4
+  rel: 6.3654e-4
+  frac: 0.14477539
+- chunk: 221
+  startChunk: 22.1 km
+  endChunk: 22.2 km
+  endAhead: 38.1 km
+  down: 3
+  downs:
+  - 22.154 km
+  - 22.154 km
+  - 22.188 km
+  downers:
+  - - '15'
+    - Andrew Sharpe
+  - - '23'
+    - Noel Collins
+  - - '3'
+    - Paul Allen
+  downward: 3
+  rel: 4.774e-4
+  frac: 0.14575195
+- chunk: 490
+  startChunk: 49.0 km
+  endChunk: 49.1 km
+  endAhead: 65.0 km
+  down: 1
+  downs:
+  - 49.012 km
+  downers:
+  - - '32'
+    - Rob Larkin
+  downward: 3
+  rel: 4.774e-4
+  frac: 0.17529297
+- chunk: 625
+  startChunk: 62.5 km
+  endChunk: 62.6 km
+  endAhead: 78.5 km
+  down: 1
+  downs:
+  - 62.516 km
+  downers:
+  - - '43'
+    - Simon West
+  downward: 6
+  rel: 9.5481e-4
+  frac: 0.26293945
+- chunk: 646
+  startChunk: 64.6 km
+  endChunk: 64.7 km
+  endAhead: 80.6 km
+  down: 1
+  downs:
+  - 64.602 km
+  downers:
+  - - '51'
+    - Billy Miller-Macleod
+  downward: 5
+  rel: 7.9567e-4
+  frac: 0.27954102
+- chunk: 662
+  startChunk: 66.2 km
+  endChunk: 66.3 km
+  endAhead: 82.2 km
+  down: 1
+  downs:
+  - 66.237 km
+  downers:
+  - - '1'
+    - Mark Alton
+  downward: 4
+  rel: 6.3654e-4
+  frac: 0.28979492
+- chunk: 696
+  startChunk: 69.6 km
+  endChunk: 69.7 km
+  endAhead: 85.6 km
+  down: 1
+  downs:
+  - 69.641 km
+  downers:
+  - - '48'
+    - Derek Mckee
+  downward: 3
+  rel: 4.774e-4
+  frac: 0.3059082
+- chunk: 739
+  startChunk: 73.9 km
+  endChunk: 74.0 km
+  endAhead: 89.9 km
+  down: 1
+  downs:
+  - 73.945 km
+  downers:
+  - - '40'
+    - Hossain Tefaili
+  downward: 2
+  rel: 3.1827e-4
+  frac: 0.31958008
+- chunk: 759
+  startChunk: 75.9 km
+  endChunk: 76.0 km
+  endAhead: 91.9 km
+  down: 1
+  downs:
+  - 75.952 km
+  downers:
+  - - '41'
+    - Peter Burkitt
+  downward: 2
+  rel: 3.1827e-4
+  frac: 0.32592773
+- chunk: 899
+  startChunk: 89.9 km
+  endChunk: 90.0 km
+  endAhead: 105.9 km
+  down: 1
+  downs:
+  - 89.947 km
+  downers:
+  - - '36'
+    - Brad Porter
+  downward: 2
+  rel: 3.1827e-4
+  frac: 0.36547852
+- chunk: 949
+  startChunk: 94.9 km
+  endChunk: 95.0 km
+  endAhead: 110.9 km
+  down: 1
+  downs:
+  - 94.992 km
+  downers:
+  - - '17'
+    - Trevor Purcell
+  downward: 5
+  rel: 7.9567e-4
+  frac: 0.39282227
+- chunk: 1067
+  startChunk: 106.7 km
+  endChunk: 106.8 km
+  endAhead: 122.7 km
+  down: 1
+  downs:
+  - 106.789 km
+  downers:
+  - - '19'
+    - Scott Barrett
+  downward: 5
+  rel: 7.9567e-4
+  frac: 0.48681641
+- chunk: 1068
+  startChunk: 106.8 km
+  endChunk: 106.9 km
+  endAhead: 122.8 km
+  down: 2
+  downs:
+  - 106.882 km
+  - 106.897 km
+  downers:
+  - - '18'
+    - Peter Adriaans
+  - - '35'
+    - Anatoly Reyter
+  downward: 4
+  rel: 6.3654e-4
+  frac: 0.48754883
+- chunk: 1107
+  startChunk: 110.7 km
+  endChunk: 110.8 km
+  endAhead: 126.7 km
+  down: 1
+  downs:
+  - 110.743 km
+  downers:
+  - - '13'
+    - Matthew Barlow
+  downward: 2
+  rel: 3.1827e-4
+  frac: 0.49975586
+- chunk: 1108
+  startChunk: 110.8 km
+  endChunk: 110.9 km
+  endAhead: 126.8 km
+  down: 1
+  downs:
+  - 110.820 km
+  downers:
+  - - '24'
+    - Brodrick Osborne
+  downward: 1
+  rel: 1.5913e-4
+  frac: 0.5

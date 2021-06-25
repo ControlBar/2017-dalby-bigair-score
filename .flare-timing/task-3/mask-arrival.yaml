@@ -1,0 +1,102 @@
+pilotsAtEss: 20
+arrivalRank:
+- - - '19'
+    - Scott Barrett
+  - lag: 0.000000 h
+    rank: '1'
+    frac: 1
+- - - '2'
+    - Tony Armstrong
+  - lag: 0.113578 h
+    rank: '2'
+    frac: 0.89519338
+- - - '22'
+    - Steve Blenkinsop
+  - lag: 0.116066 h
+    rank: '3'
+    frac: 0.800057
+- - - '12'
+    - Rory Duncan
+  - lag: 0.123237 h
+    rank: '4'
+    frac: 0.71411612
+- - - '29'
+    - Guy Hubbard
+  - lag: 0.126113 h
+    rank: '5'
+    frac: 0.636896
+- - - '44'
+    - Josh Woods
+  - lag: 0.135689 h
+    rank: '6'
+    frac: 0.56792188
+- - - '26'
+    - Jason Kath
+  - lag: 0.348956 h
+    rank: '7'
+    frac: 0.506719
+- - - '10'
+    - Craig Taylor
+  - lag: 0.350055 h
+    rank: '8'
+    frac: 0.45281262
+- - - '5'
+    - Jonny Durand
+  - lag: 0.454928 h
+    rank: '9'
+    frac: 0.405728
+- - - '46'
+    - Harrison Rowntree
+  - lag: 0.467449 h
+    rank: '10'
+    frac: 0.36499038
+- - - '4'
+    - Nick Purcell
+  - lag: 0.517940 h
+    rank: '11'
+    frac: 0.330125
+- - - '16'
+    - Andrew Barnes
+  - lag: 1.307277 h
+    rank: '12'
+    frac: 0.30065712
+- - - '21'
+    - Frank Chetcuti
+  - lag: 1.351487 h
+    rank: '13'
+    frac: 0.276112
+- - - '7'
+    - James Atkinson
+  - lag: 1.391600 h
+    rank: '14'
+    frac: 0.25601488
+- - - '6'
+    - Viv Clements
+  - lag: 1.445904 h
+    rank: '15'
+    frac: 0.239891
+- - - '42'
+    - Mikhail Karmazin
+  - lag: 1.663244 h
+    rank: '16'
+    frac: 0.22726562
+- - - '18'
+    - Peter Adriaans
+  - lag: 1.700090 h
+    rank: '17'
+    frac: 0.217664
+- - - '51'
+    - Billy Miller-Macleod
+  - lag: 1.845260 h
+    rank: '18'
+    frac: 0.21061138
+- - - '23'
+    - Noel Collins
+  - lag: 1.848917 h
+    rank: '19'
+    frac: 0.205633
+- - - '35'
+    - Anatoly Reyter
+  - lag: 1.997709 h
+    rank: '20'
+    frac: 0.20225412

@@ -1,0 +1,82 @@
+pilotsAtEss: 16
+arrivalRank:
+- - - '2'
+    - Tony Armstrong
+  - lag: 0.000000 h
+    rank: '1'
+    frac: 1
+- - - '22'
+    - Steve Blenkinsop
+  - lag: 0.018567 h
+    rank: '2'
+    frac: 0.87052124
+- - - '29'
+    - Guy Hubbard
+  - lag: 0.053848 h
+    rank: '3'
+    frac: 0.7559668
+- - - '5'
+    - Jonny Durand
+  - lag: 0.105710 h
+    rank: '4'
+    frac: 0.65540942
+- - - '12'
+    - Rory Duncan
+  - lag: 0.112108 h
+    rank: '5'
+    frac: 0.56792188
+- - - '46'
+    - Harrison Rowntree
+  - lag: 0.158304 h
+    rank: '6'
+    frac: 0.4925769
+- - - '20'
+    - Konrad Heilmann
+  - lag: 0.184725 h
+    rank: '7'
+    frac: 0.42844727
+- - - '44'
+    - Josh Woods
+  - lag: 0.185193 h
+    rank: '8'
+    frac: 0.37460571
+- - - '26'
+    - Jason Kath
+  - lag: 0.186218 h
+    rank: '9'
+    frac: 0.330125
+- - - '4'
+    - Nick Purcell
+  - lag: 0.204687 h
+    rank: '10'
+    frac: 0.29407788
+- - - '33'
+    - Niki Longshore
+  - lag: 0.216132 h
+    rank: '11'
+    frac: 0.26553711
+- - - '9'
+    - Rohan Taylor
+  - lag: 0.283628 h
+    rank: '12'
+    frac: 0.24357544
+- - - '19'
+    - Scott Barrett
+  - lag: 0.397650 h
+    rank: '13'
+    frac: 0.22726562
+- - - '13'
+    - Matthew Barlow
+  - lag: 0.705104 h
+    rank: '14'
+    frac: 0.21568042
+- - - '25'
+    - Hagen Bruggemann
+  - lag: 0.737962 h
+    rank: '15'
+    frac: 0.20789258
+- - - '8'
+    - Rod Flockhart
+  - lag: 0.801224 h
+    rank: '16'
+    frac: 0.20297485

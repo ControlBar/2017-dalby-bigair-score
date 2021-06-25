@@ -1,0 +1,382 @@
+bestDistance: 114.373717 km
+chunking:
+  startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 1151
+  - 115.1 km
+  sumOf: 3290
+landout: 30
+lookahead: 114
+difficulty:
+- chunk: 50
+  startChunk: 5.0 km
+  endChunk: 5.1 km
+  endAhead: 16.5 km
+  down: 1
+  downs:
+  - 5.000 km
+  downers:
+  - - '49'
+    - Damian Peauril
+  downward: 4
+  rel: 6.079e-4
+  frac: 3.100586e-2
+- chunk: 62
+  startChunk: 6.2 km
+  endChunk: 6.3 km
+  endAhead: 17.7 km
+  down: 1
+  downs:
+  - 6.268 km
+  downers:
+  - - '34'
+    - dave moore
+  downward: 3
+  rel: 4.5593e-4
+  frac: 3.637695e-2
+- chunk: 102
+  startChunk: 10.2 km
+  endChunk: 10.3 km
+  endAhead: 21.7 km
+  down: 1
+  downs:
+  - 10.291 km
+  downers:
+  - - '28'
+    - John Harriot
+  downward: 4
+  rel: 6.079e-4
+  frac: 5.639648e-2
+- chunk: 108
+  startChunk: 10.8 km
+  endChunk: 10.9 km
+  endAhead: 22.3 km
+  down: 1
+  downs:
+  - 10.858 km
+  downers:
+  - - '15'
+    - Andrew Sharpe
+  downward: 3
+  rel: 4.5593e-4
+  frac: 5.908203e-2
+- chunk: 176
+  startChunk: 17.6 km
+  endChunk: 17.7 km
+  endAhead: 29.1 km
+  down: 1
+  downs:
+  - 17.632 km
+  downers:
+  - - '27'
+    - Guy Williams
+  downward: 3
+  rel: 4.5593e-4
+  frac: 8.666992e-2
+- chunk: 205
+  startChunk: 20.5 km
+  endChunk: 20.6 km
+  endAhead: 32.0 km
+  down: 1
+  downs:
+  - 20.574 km
+  downers:
+  - - '48'
+    - Derek Mckee
+  downward: 3
+  rel: 4.5593e-4
+  frac: 9.887695e-2
+- chunk: 244
+  startChunk: 24.4 km
+  endChunk: 24.5 km
+  endAhead: 35.9 km
+  down: 1
+  downs:
+  - 24.435 km
+  downers:
+  - - '31'
+    - Tomas Kellner
+  downward: 2
+  rel: 3.0395e-4
+  frac: 0.1105957
+- chunk: 298
+  startChunk: 29.8 km
+  endChunk: 29.9 km
+  endAhead: 41.3 km
+  down: 1
+  downs:
+  - 29.844 km
+  downers:
+  - - '40'
+    - Hossain Tefaili
+  downward: 3
+  rel: 4.5593e-4
+  frac: 0.12207031
+- chunk: 396
+  startChunk: 39.6 km
+  endChunk: 39.7 km
+  endAhead: 51.1 km
+  down: 1
+  downs:
+  - 39.693 km
+  downers:
+  - - '32'
+    - Rob Larkin
+  downward: 2
+  rel: 3.0395e-4
+  frac: 0.15185547
+- chunk: 407
+  startChunk: 40.7 km
+  endChunk: 40.8 km
+  endAhead: 52.2 km
+  down: 1
+  downs:
+  - 40.705 km
+  downers:
+  - - '1'
+    - Mark Alton
+  downward: 1
+  rel: 1.5198e-4
+  frac: 0.15356445
+- chunk: 627
+  startChunk: 62.7 km
+  endChunk: 62.8 km
+  endAhead: 74.2 km
+  down: 1
+  downs:
+  - 62.784 km
+  downers:
+  - - '21'
+    - Frank Chetcuti
+  downward: 4
+  rel: 6.079e-4
+  frac: 0.21679688
+- chunk: 630
+  startChunk: 63.0 km
+  endChunk: 63.1 km
+  endAhead: 74.5 km
+  down: 1
+  downs:
+  - 63.032 km
+  downers:
+  - - '14'
+    - Tony Giammichele
+  downward: 3
+  rel: 4.5593e-4
+  frac: 0.21826172
+- chunk: 639
+  startChunk: 63.9 km
+  endChunk: 64.0 km
+  endAhead: 75.4 km
+  down: 1
+  downs:
+  - 63.948 km
+  downers:
+  - - '41'
+    - Peter Burkitt
+  downward: 2
+  rel: 3.0395e-4
+  frac: 0.22094727
+- chunk: 651
+  startChunk: 65.1 km
+  endChunk: 65.2 km
+  endAhead: 76.6 km
+  down: 1
+  downs:
+  - 65.159 km
+  downers:
+  - - '43'
+    - Simon West
+  downward: 1
+  rel: 1.5198e-4
+  frac: 0.22290039
+- chunk: 789
+  startChunk: 78.9 km
+  endChunk: 79.0 km
+  endAhead: 90.4 km
+  down: 1
+  downs:
+  - 78.961 km
+  downers:
+  - - '17'
+    - Trevor Purcell
+  downward: 7
+  rel: 1.06383e-3
+  frac: 0.28369141
+- chunk: 808
+  startChunk: 80.8 km
+  endChunk: 80.9 km
+  endAhead: 92.3 km
+  down: 1
+  downs:
+  - 80.805 km
+  downers:
+  - - '23'
+    - Noel Collins
+  downward: 7
+  rel: 1.06383e-3
+  frac: 0.30224609
+- chunk: 829
+  startChunk: 82.9 km
+  endChunk: 83.0 km
+  endAhead: 94.4 km
+  down: 1
+  downs:
+  - 83.000 km
+  downers:
+  - - '35'
+    - Anatoly Reyter
+  downward: 7
+  rel: 1.06383e-3
+  frac: 0.3215332
+- chunk: 872
+  startChunk: 87.2 km
+  endChunk: 87.3 km
+  endAhead: 98.7 km
+  down: 2
+  downs:
+  - 87.253 km
+  - 87.299 km
+  downers:
+  - - '51'
+    - Billy Miller-Macleod
+  - - '18'
+    - Peter Adriaans
+  downward: 6
+  rel: 9.1185e-4
+  frac: 0.3605957
+- chunk: 875
+  startChunk: 87.5 km
+  endChunk: 87.6 km
+  endAhead: 99.0 km
+  down: 2
+  downs:
+  - 87.516 km
+  - 87.535 km
+  downers:
+  - - '37'
+    - John Spencer
+  - - '38'
+    - Dave Stevens
+  downward: 5
+  rel: 7.5988e-4
+  frac: 0.36279297
+- chunk: 915
+  startChunk: 91.5 km
+  endChunk: 91.6 km
+  endAhead: 103.0 km
+  down: 1
+  downs:
+  - 91.532 km
+  downers:
+  - - '6'
+    - Viv Clements
+  downward: 7
+  rel: 1.06383e-3
+  frac: 0.39672852
+- chunk: 942
+  startChunk: 94.2 km
+  endChunk: 94.3 km
+  endAhead: 105.7 km
+  down: 1
+  downs:
+  - 94.228 km
+  downers:
+  - - '45'
+    - steve crosby
+  downward: 6
+  rel: 9.1185e-4
+  frac: 0.42138672
+- chunk: 987
+  startChunk: 98.7 km
+  endChunk: 98.8 km
+  endAhead: 110.2 km
+  down: 1
+  downs:
+  - 98.710 km
+  downers:
+  - - '7'
+    - James Atkinson
+  downward: 7
+  rel: 1.06383e-3
+  frac: 0.46557617
+- chunk: 990
+  startChunk: 99.0 km
+  endChunk: 99.1 km
+  endAhead: 110.5 km
+  down: 1
+  downs:
+  - 99.014 km
+  downers:
+  - - '24'
+    - Brodrick Osborne
+  downward: 6
+  rel: 9.1185e-4
+  frac: 0.46826172
+- chunk: 997
+  startChunk: 99.7 km
+  endChunk: 99.8 km
+  endAhead: 111.2 km
+  down: 1
+  downs:
+  - 99.744 km
+  downers:
+  - - '10'
+    - Craig Taylor
+  downward: 5
+  rel: 7.5988e-4
+  frac: 0.47363281
+- chunk: 1001
+  startChunk: 100.1 km
+  endChunk: 100.2 km
+  endAhead: 111.6 km
+  down: 1
+  downs:
+  - 100.156 km
+  downers:
+  - - '16'
+    - Andrew Barnes
+  downward: 4
+  rel: 6.079e-4
+  frac: 0.47607422
+- chunk: 1024
+  startChunk: 102.4 km
+  endChunk: 102.5 km
+  endAhead: 113.9 km
+  down: 1
+  downs:
+  - 102.420 km
+  downers:
+  - - '42'
+    - Mikhail Karmazin
+  downward: 3
+  rel: 4.5593e-4
+  frac: 0.48657227
+- chunk: 1057
+  startChunk: 105.7 km
+  endChunk: 105.8 km
+  endAhead: 117.2 km
+  down: 1
+  downs:
+  - 105.786 km
+  downers:
+  - - '39'
+    - rob degroot
+  downward: 2
+  rel: 3.0395e-4
+  frac: 0.49658203
+- chunk: 1080
+  startChunk: 108.0 km
+  endChunk: 108.1 km
+  endAhead: 119.5 km
+  down: 1
+  downs:
+  - 108.028 km
+  downers:
+  - - '36'
+    - Brad Porter
+  downward: 1
+  rel: 1.5198e-4
+  frac: 0.5

@@ -1,0 +1,3964 @@
+stopWindow: null
+stopFlying:
+- - - '35'
+    - Anatoly Reyter
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 0
+      - 5891
+      scoredSeconds:
+      - 0
+      - 12077
+      scoredTimes:
+      - 2017-04-14T02:35:00Z
+      - 2017-04-14T05:56:17Z
+      scoredWindowSeconds: 12077
+- - - '16'
+    - Andrew Barnes
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 17
+      - 2819
+      scoredSeconds:
+      - 86
+      - 14142
+      scoredTimes:
+      - 2017-04-14T02:08:29Z
+      - 2017-04-14T06:02:45Z
+      scoredWindowSeconds: 14056
+- - - '15'
+    - Andrew Sharpe
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 0
+      - 2802
+      scoredSeconds:
+      - 0
+      - 2802
+      scoredTimes:
+      - 2017-04-14T02:46:08Z
+      - 2017-04-14T03:32:50Z
+      scoredWindowSeconds: 2802
+- - - '51'
+    - Billy Miller-Macleod
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 5
+      - 1132
+      scoredSeconds:
+      - 150
+      - 11497
+      scoredTimes:
+      - 2017-04-14T02:22:13Z
+      - 2017-04-14T05:31:20Z
+      scoredWindowSeconds: 11347
+- - - '36'
+    - Brad Porter
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 0
+      - 7667
+      scoredSeconds:
+      - 0
+      - 17091
+      scoredTimes:
+      - 2017-04-14T02:27:19Z
+      - 2017-04-14T07:12:10Z
+      scoredWindowSeconds: 17091
+- - - '24'
+    - Brodrick Osborne
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 22
+      - 6928
+      scoredSeconds:
+      - 45
+      - 13915
+      scoredTimes:
+      - 2017-04-14T02:40:41Z
+      - 2017-04-14T06:31:51Z
+      scoredWindowSeconds: 13870
+- - - '10'
+    - Craig Taylor
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 10
+      - 1494
+      scoredSeconds:
+      - 301
+      - 15132
+      scoredTimes:
+      - 2017-04-14T02:00:08Z
+      - 2017-04-14T06:07:19Z
+      scoredWindowSeconds: 14831
+- - - '49'
+    - Damian Peauril
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored: null
+- - - '38'
+    - Dave Stevens
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 2
+      - 1172
+      scoredSeconds:
+      - 60
+      - 11885
+      scoredTimes:
+      - 2017-04-14T02:31:13Z
+      - 2017-04-14T05:48:18Z
+      scoredWindowSeconds: 11825
+- - - '48'
+    - Derek Mckee
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 0
+      - 6058
+      scoredSeconds:
+      - 0
+      - 12423
+      scoredTimes:
+      - 2017-04-14T01:42:56Z
+      - 2017-04-14T05:09:59Z
+      scoredWindowSeconds: 12423
+- - - '21'
+    - Frank Chetcuti
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 0
+      - 1696
+      scoredSeconds:
+      - 0
+      - 11181
+      scoredTimes:
+      - 2017-04-14T02:17:49Z
+      - 2017-04-14T05:24:10Z
+      scoredWindowSeconds: 11181
+- - - '29'
+    - Guy Hubbard
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 0
+      - 1545
+      scoredSeconds:
+      - 0
+      - 14331
+      scoredTimes:
+      - 2017-04-14T01:56:52Z
+      - 2017-04-14T05:55:43Z
+      scoredWindowSeconds: 14331
+- - - '27'
+    - Guy Williams
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 4
+      - 1699
+      scoredSeconds:
+      - 120
+      - 8754
+      scoredTimes:
+      - 2017-04-14T01:40:23Z
+      - 2017-04-14T04:04:17Z
+      scoredWindowSeconds: 8634
+- - - '25'
+    - Hagen Bruggemann
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 24
+      - 5850
+      scoredSeconds:
+      - 73
+      - 16888
+      scoredTimes:
+      - 2017-04-14T02:00:59Z
+      - 2017-04-14T06:41:14Z
+      scoredWindowSeconds: 16815
+- - - '46'
+    - Harrison Rowntree
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 7
+      - 4775
+      scoredSeconds:
+      - 211
+      - 14092
+      scoredTimes:
+      - 2017-04-14T02:13:28Z
+      - 2017-04-14T06:04:49Z
+      scoredWindowSeconds: 13881
+- - - '40'
+    - Hossain Tefaili
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 8
+      - 3576
+      scoredSeconds:
+      - 16
+      - 7227
+      scoredTimes:
+      - 2017-04-14T02:52:06Z
+      - 2017-04-14T04:52:17Z
+      scoredWindowSeconds: 7211
+- - - '7'
+    - James Atkinson
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 607
+      - 8047
+      scoredSeconds:
+      - 1214
+      - 16102
+      scoredTimes:
+      - 2017-04-14T02:23:00Z
+      - 2017-04-14T06:31:08Z
+      scoredWindowSeconds: 14888
+- - - '26'
+    - Jason Kath
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 2
+      - 12050
+      scoredSeconds:
+      - 571
+      - 14983
+      scoredTimes:
+      - 2017-04-14T02:07:12Z
+      - 2017-04-14T06:07:24Z
+      scoredWindowSeconds: 14412
+- - - '28'
+    - John Harriot
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 9
+      - 868
+      scoredSeconds:
+      - 251
+      - 4516
+      scoredTimes:
+      - 2017-04-14T02:53:49Z
+      - 2017-04-14T04:04:54Z
+      scoredWindowSeconds: 4265
+- - - '37'
+    - John Spencer
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 28
+      - 2519
+      scoredSeconds:
+      - 140
+      - 12647
+      scoredTimes:
+      - 2017-04-14T02:19:53Z
+      - 2017-04-14T05:48:20Z
+      scoredWindowSeconds: 12507
+- - - '5'
+    - Jonny Durand
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 5
+      - 3865
+      scoredSeconds:
+      - 152
+      - 11713
+      scoredTimes:
+      - 2017-04-14T02:45:49Z
+      - 2017-04-14T05:58:30Z
+      scoredWindowSeconds: 11561
+- - - '44'
+    - Josh Woods
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 9
+      - 2750
+      scoredSeconds:
+      - 270
+      - 13590
+      scoredTimes:
+      - 2017-04-14T02:20:57Z
+      - 2017-04-14T06:02:57Z
+      scoredWindowSeconds: 13320
+- - - '20'
+    - Konrad Heilmann
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 0
+      - 1845
+      scoredSeconds:
+      - 0
+      - 15098
+      scoredTimes:
+      - 2017-04-14T01:55:45Z
+      - 2017-04-14T06:07:23Z
+      scoredWindowSeconds: 15098
+- - - '1'
+    - Mark Alton
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 24
+      - 756
+      scoredSeconds:
+      - 240
+      - 7544
+      scoredTimes:
+      - 2017-04-14T02:34:19Z
+      - 2017-04-14T04:36:03Z
+      scoredWindowSeconds: 7304
+- - - '13'
+    - Matthew Barlow
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 9
+      - 3725
+      scoredSeconds:
+      - 45
+      - 15830
+      scoredTimes:
+      - 2017-04-14T02:21:03Z
+      - 2017-04-14T06:44:08Z
+      scoredWindowSeconds: 15785
+- - - '42'
+    - Mikhail Karmazin
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 0
+      - 7024
+      scoredSeconds:
+      - 0
+      - 14078
+      scoredTimes:
+      - 2017-04-14T02:32:29Z
+      - 2017-04-14T06:27:07Z
+      scoredWindowSeconds: 14078
+- - - '4'
+    - Nick Purcell
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 0
+      - 6880
+      scoredSeconds:
+      - 0
+      - 14919
+      scoredTimes:
+      - 2017-04-14T01:59:33Z
+      - 2017-04-14T06:08:12Z
+      scoredWindowSeconds: 14919
+- - - '33'
+    - Niki Longshore
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 9
+      - 1651
+      scoredSeconds:
+      - 273
+      - 14686
+      scoredTimes:
+      - 2017-04-14T02:06:47Z
+      - 2017-04-14T06:07:00Z
+      scoredWindowSeconds: 14413
+- - - '23'
+    - Noel Collins
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 0
+      - 10391
+      scoredSeconds:
+      - 0
+      - 10391
+      scoredTimes:
+      - 2017-04-14T02:49:47Z
+      - 2017-04-14T05:42:58Z
+      scoredWindowSeconds: 10391
+- - - '18'
+    - Peter Adriaans
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 45
+      - 13406
+      scoredSeconds:
+      - 45
+      - 13406
+      scoredTimes:
+      - 2017-04-14T02:34:14Z
+      - 2017-04-14T06:16:55Z
+      scoredWindowSeconds: 13361
+- - - '41'
+    - Peter Burkitt
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 3
+      - 2109
+      scoredSeconds:
+      - 66
+      - 10528
+      scoredTimes:
+      - 2017-04-14T02:53:15Z
+      - 2017-04-14T05:47:37Z
+      scoredWindowSeconds: 10462
+- - - '32'
+    - Rob Larkin
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 15
+      - 3182
+      scoredSeconds:
+      - 36
+      - 7076
+      scoredTimes:
+      - 2017-04-14T02:39:57Z
+      - 2017-04-14T04:37:17Z
+      scoredWindowSeconds: 7040
+- - - '8'
+    - Rod Flockhart
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 550
+      - 5249
+      scoredSeconds:
+      - 1650
+      - 15757
+      scoredTimes:
+      - 2017-04-14T02:45:31Z
+      - 2017-04-14T06:40:38Z
+      scoredWindowSeconds: 14107
+- - - '9'
+    - Rohan Taylor
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 0
+      - 3142
+      scoredSeconds:
+      - 0
+      - 13038
+      scoredTimes:
+      - 2017-04-14T02:33:21Z
+      - 2017-04-14T06:10:39Z
+      scoredWindowSeconds: 13038
+- - - '12'
+    - Rory Duncan
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 0
+      - 1720
+      scoredSeconds:
+      - 0
+      - 14250
+      scoredTimes:
+      - 2017-04-14T02:05:07Z
+      - 2017-04-14T06:02:37Z
+      scoredWindowSeconds: 14250
+- - - '19'
+    - Scott Barrett
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 6
+      - 3099
+      scoredSeconds:
+      - 180
+      - 14811
+      scoredTimes:
+      - 2017-04-14T02:13:56Z
+      - 2017-04-14T06:17:47Z
+      scoredWindowSeconds: 14631
+- - - '43'
+    - Simon West
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 6
+      - 1706
+      scoredSeconds:
+      - 180
+      - 8787
+      scoredTimes:
+      - 2017-04-14T02:40:13Z
+      - 2017-04-14T05:03:40Z
+      scoredWindowSeconds: 8607
+- - - '22'
+    - Steve Blenkinsop
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 0
+      - 13231
+      scoredSeconds:
+      - 0
+      - 13231
+      scoredTimes:
+      - 2017-04-14T02:15:35Z
+      - 2017-04-14T05:56:06Z
+      scoredWindowSeconds: 13231
+- - - '31'
+    - Tomas Kellner
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 2
+      - 1208
+      scoredSeconds:
+      - 60
+      - 6247
+      scoredTimes:
+      - 2017-04-14T02:48:23Z
+      - 2017-04-14T04:31:30Z
+      scoredWindowSeconds: 6187
+- - - '2'
+    - Tony Armstrong
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 8
+      - 4644
+      scoredSeconds:
+      - 240
+      - 13682
+      scoredTimes:
+      - 2017-04-14T02:10:28Z
+      - 2017-04-14T05:54:30Z
+      scoredWindowSeconds: 13442
+- - - '14'
+    - Tony Giammichele
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 3
+      - 3170
+      scoredSeconds:
+      - 91
+      - 9842
+      scoredTimes:
+      - 2017-04-14T02:26:09Z
+      - 2017-04-14T05:08:40Z
+      scoredWindowSeconds: 9751
+- - - '17'
+    - Trevor Purcell
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 0
+      - 3790
+      scoredSeconds:
+      - 0
+      - 11367
+      scoredTimes:
+      - 2017-04-14T02:29:07Z
+      - 2017-04-14T05:38:34Z
+      scoredWindowSeconds: 11367
+- - - '6'
+    - Viv Clements
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 0
+      - 14675
+      scoredSeconds:
+      - 0
+      - 14675
+      scoredTimes:
+      - 2017-04-14T02:03:14Z
+      - 2017-04-14T06:07:49Z
+      scoredWindowSeconds: 14675
+- - - '34'
+    - dave moore
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 55
+      - 1786
+      scoredSeconds:
+      - 275
+      - 3205
+      scoredTimes:
+      - 2017-04-14T02:47:11Z
+      - 2017-04-14T03:36:01Z
+      scoredWindowSeconds: 2930
+- - - '39'
+    - rob degroot
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 0
+      - 3411
+      scoredSeconds:
+      - 0
+      - 13641
+      scoredTimes:
+      - 2017-04-14T02:02:25Z
+      - 2017-04-14T05:49:46Z
+      scoredWindowSeconds: 13641
+- - - '45'
+    - steve crosby
+  - stopRacingGate: null
+    stopRacingStart: null
+    stopScored:
+      scoredFixes:
+      - 11
+      - 1413
+      scoredSeconds:
+      - 110
+      - 14096
+      scoredTimes:
+      - 2017-04-14T02:19:05Z
+      - 2017-04-14T06:12:11Z
+      scoredWindowSeconds: 13986
+timing:
+  zonesSum:
+  - 45
+  - 38
+  - 29
+  - 16
+  zonesFirst:
+  - 2017-04-14T03:00:27.152002862855Z
+  - 2017-04-14T04:01:23.107037494918Z
+  - 2017-04-14T05:03:46.428154103972Z
+  - 2017-04-14T05:50:07.053592388802Z
+  zonesLast:
+  - 2017-04-14T03:42:48.640048720063Z
+  - 2017-04-14T04:44:15.207088642284Z
+  - 2017-04-14T06:01:58.914611753976Z
+  - 2017-04-14T06:38:11.458322843564Z
+  zonesRankTime:
+  - - 2017-04-14T03:00:27.152002862855Z
+    - 2017-04-14T03:00:32.937971425424Z
+    - 2017-04-14T03:00:56.183897977748Z
+    - 2017-04-14T03:01:08.421010223876Z
+    - 2017-04-14T03:01:33.5343538309Z
+    - 2017-04-14T03:01:36.1667345542Z
+    - 2017-04-14T03:01:42.27332319623Z
+    - 2017-04-14T03:01:54.644535841182Z
+    - 2017-04-14T03:01:54.74301242342Z
+    - 2017-04-14T03:01:57.59307478278Z
+    - 2017-04-14T03:01:59.21548048567Z
+    - 2017-04-14T03:02:40.093778966544Z
+    - 2017-04-14T03:02:45.77302965191Z
+    - 2017-04-14T03:03:05.88101619163Z
+    - 2017-04-14T03:03:24.88290825742Z
+    - 2017-04-14T03:03:35.7673175581Z
+    - 2017-04-14T03:03:44.186441897792Z
+    - 2017-04-14T03:03:54.722932153735Z
+    - 2017-04-14T03:04:19.59409066901Z
+    - 2017-04-14T03:04:22.6018922772Z
+    - 2017-04-14T03:05:32.08370865103Z
+    - 2017-04-14T03:05:42.265846918212Z
+    - 2017-04-14T03:05:48.03576751462Z
+    - 2017-04-14T03:06:02.352920574582Z
+    - 2017-04-14T03:06:04.655755525498Z
+    - 2017-04-14T03:06:15.97726252819Z
+    - 2017-04-14T03:06:20.52572598088Z
+    - 2017-04-14T03:06:56.263738074315Z
+    - 2017-04-14T03:09:57.377045221806Z
+    - 2017-04-14T03:10:29.234580276654Z
+    - 2017-04-14T03:20:19.0273642455Z
+    - 2017-04-14T03:20:32.90422579003Z
+    - 2017-04-14T03:20:41.677946609891Z
+    - 2017-04-14T03:20:46.9289628718Z
+    - 2017-04-14T03:20:47.596550830363Z
+    - 2017-04-14T03:20:54.618175225959Z
+    - 2017-04-14T03:20:57.058881879096Z
+    - 2017-04-14T03:21:16.769672527837Z
+    - 2017-04-14T03:21:38.156323881571Z
+    - 2017-04-14T03:22:15.649367015571Z
+    - 2017-04-14T03:22:19.559732104664Z
+    - 2017-04-14T03:30:07.779967887015Z
+    - 2017-04-14T03:39:25.718494296792Z
+    - 2017-04-14T03:39:54.313555005602Z
+    - 2017-04-14T03:42:48.640048720063Z
+  - - 2017-04-14T04:01:23.107037494918Z
+    - 2017-04-14T04:01:49.025350850414Z
+    - 2017-04-14T04:01:54.9984707397Z
+    - 2017-04-14T04:02:00.556543563043Z
+    - 2017-04-14T04:03:07.068861003296Z
+    - 2017-04-14T04:03:09.23185057606Z
+    - 2017-04-14T04:03:29.199113697423Z
+    - 2017-04-14T04:03:37.29313598784Z
+    - 2017-04-14T04:04:20.506652225696Z
+    - 2017-04-14T04:04:39.587169244034Z
+    - 2017-04-14T04:04:45.630597440516Z
+    - 2017-04-14T04:10:23.677410219586Z
+    - 2017-04-14T04:10:24.7695788259Z
+    - 2017-04-14T04:10:26.035085716834Z
+    - 2017-04-14T04:10:43.758932912595Z
+    - 2017-04-14T04:10:59.058017911192Z
+    - 2017-04-14T04:13:46.93306914547Z
+    - 2017-04-14T04:14:09.65998314574Z
+    - 2017-04-14T04:14:44.743585221288Z
+    - 2017-04-14T04:15:08.28483657767Z
+    - 2017-04-14T04:15:55.03174588634Z
+    - 2017-04-14T04:16:46.163433862712Z
+    - 2017-04-14T04:17:07.340158628542Z
+    - 2017-04-14T04:17:54.73111969188Z
+    - 2017-04-14T04:19:29.372100148472Z
+    - 2017-04-14T04:20:41.881000051302Z
+    - 2017-04-14T04:21:08.19027301311Z
+    - 2017-04-14T04:21:45.797351492858Z
+    - 2017-04-14T04:21:55.437393577845Z
+    - 2017-04-14T04:23:58.183602867567Z
+    - 2017-04-14T04:25:26.345627456015Z
+    - 2017-04-14T04:26:20.13880194336Z
+    - 2017-04-14T04:28:59.89639894094Z
+    - 2017-04-14T04:29:39.692871505936Z
+    - 2017-04-14T04:33:41.10002026022Z
+    - 2017-04-14T04:40:51.016934231506Z
+    - 2017-04-14T04:43:06.509240811108Z
+    - 2017-04-14T04:44:15.207088642284Z
+  - - 2017-04-14T05:03:46.428154103972Z
+    - 2017-04-14T05:05:14.376606740439Z
+    - 2017-04-14T05:06:18.094720466908Z
+    - 2017-04-14T05:06:20.106743623719Z
+    - 2017-04-14T05:06:45.486354401752Z
+    - 2017-04-14T05:07:07.333420303112Z
+    - 2017-04-14T05:07:13.819936996944Z
+    - 2017-04-14T05:12:40.06773350958Z
+    - 2017-04-14T05:12:46.2914466281Z
+    - 2017-04-14T05:17:24.68425488854Z
+    - 2017-04-14T05:18:15.786051972276Z
+    - 2017-04-14T05:18:55.495921625358Z
+    - 2017-04-14T05:19:36.011150380971Z
+    - 2017-04-14T05:19:38.524882713644Z
+    - 2017-04-14T05:20:55.549151872271Z
+    - 2017-04-14T05:21:28.40712063921Z
+    - 2017-04-14T05:30:28.528850841365Z
+    - 2017-04-14T05:30:42.20465056379Z
+    - 2017-04-14T05:30:54.9719299018Z
+    - 2017-04-14T05:33:38.77438984858Z
+    - 2017-04-14T05:39:20.40774140364Z
+    - 2017-04-14T05:40:45.960000133718Z
+    - 2017-04-14T05:41:23.707523357805Z
+    - 2017-04-14T05:52:48.289382638946Z
+    - 2017-04-14T05:57:31.511916237116Z
+    - 2017-04-14T05:58:29.618604614692Z
+    - 2017-04-14T06:01:32.096816041757Z
+    - 2017-04-14T06:01:50.36839297814Z
+    - 2017-04-14T06:01:58.914611753976Z
+  - - 2017-04-14T05:50:07.053592388802Z
+    - 2017-04-14T05:51:13.894592595627Z
+    - 2017-04-14T05:53:20.90754905825Z
+    - 2017-04-14T05:56:27.608348494058Z
+    - 2017-04-14T05:56:50.641334150765Z
+    - 2017-04-14T05:59:36.949097574838Z
+    - 2017-04-14T06:01:12.063494557462Z
+    - 2017-04-14T06:01:13.749275439856Z
+    - 2017-04-14T06:01:17.438441738785Z
+    - 2017-04-14T06:02:23.926261990747Z
+    - 2017-04-14T06:03:05.128560086432Z
+    - 2017-04-14T06:07:08.115946184979Z
+    - 2017-04-14T06:13:58.591996209914Z
+    - 2017-04-14T06:32:25.42750274672Z
+    - 2017-04-14T06:34:23.715316361061Z
+    - 2017-04-14T06:38:11.458322843564Z
+  zonesRankPilot:
+  - - - '44'
+      - Josh Woods
+    - - '2'
+      - Tony Armstrong
+    - - '22'
+      - Steve Blenkinsop
+    - - '39'
+      - rob degroot
+    - - '9'
+      - Rohan Taylor
+    - - '12'
+      - Rory Duncan
+    - - '20'
+      - Konrad Heilmann
+    - - '46'
+      - Harrison Rowntree
+    - - '13'
+      - Matthew Barlow
+    - - '33'
+      - Niki Longshore
+    - - '45'
+      - steve crosby
+    - - '8'
+      - Rod Flockhart
+    - - '51'
+      - Billy Miller-Macleod
+    - - '7'
+      - James Atkinson
+    - - '29'
+      - Guy Hubbard
+    - - '16'
+      - Andrew Barnes
+    - - '4'
+      - Nick Purcell
+    - - '32'
+      - Rob Larkin
+    - - '1'
+      - Mark Alton
+    - - '19'
+      - Scott Barrett
+    - - '21'
+      - Frank Chetcuti
+    - - '25'
+      - Hagen Bruggemann
+    - - '38'
+      - Dave Stevens
+    - - '24'
+      - Brodrick Osborne
+    - - '42'
+      - Mikhail Karmazin
+    - - '37'
+      - John Spencer
+    - - '43'
+      - Simon West
+    - - '27'
+      - Guy Williams
+    - - '15'
+      - Andrew Sharpe
+    - - '35'
+      - Anatoly Reyter
+    - - '18'
+      - Peter Adriaans
+    - - '10'
+      - Craig Taylor
+    - - '23'
+      - Noel Collins
+    - - '14'
+      - Tony Giammichele
+    - - '26'
+      - Jason Kath
+    - - '36'
+      - Brad Porter
+    - - '5'
+      - Jonny Durand
+    - - '17'
+      - Trevor Purcell
+    - - '6'
+      - Viv Clements
+    - - '41'
+      - Peter Burkitt
+    - - '34'
+      - dave moore
+    - - '31'
+      - Tomas Kellner
+    - - '40'
+      - Hossain Tefaili
+    - - '48'
+      - Derek Mckee
+    - - '28'
+      - John Harriot
+  - - - '29'
+      - Guy Hubbard
+    - - '12'
+      - Rory Duncan
+    - - '39'
+      - rob degroot
+    - - '46'
+      - Harrison Rowntree
+    - - '2'
+      - Tony Armstrong
+    - - '33'
+      - Niki Longshore
+    - - '8'
+      - Rod Flockhart
+    - - '4'
+      - Nick Purcell
+    - - '16'
+      - Andrew Barnes
+    - - '44'
+      - Josh Woods
+    - - '22'
+      - Steve Blenkinsop
+    - - '26'
+      - Jason Kath
+    - - '20'
+      - Konrad Heilmann
+    - - '5'
+      - Jonny Durand
+    - - '51'
+      - Billy Miller-Macleod
+    - - '9'
+      - Rohan Taylor
+    - - '43'
+      - Simon West
+    - - '19'
+      - Scott Barrett
+    - - '25'
+      - Hagen Bruggemann
+    - - '24'
+      - Brodrick Osborne
+    - - '37'
+      - John Spencer
+    - - '38'
+      - Dave Stevens
+    - - '21'
+      - Frank Chetcuti
+    - - '42'
+      - Mikhail Karmazin
+    - - '13'
+      - Matthew Barlow
+    - - '14'
+      - Tony Giammichele
+    - - '10'
+      - Craig Taylor
+    - - '17'
+      - Trevor Purcell
+    - - '6'
+      - Viv Clements
+    - - '23'
+      - Noel Collins
+    - - '36'
+      - Brad Porter
+    - - '1'
+      - Mark Alton
+    - - '32'
+      - Rob Larkin
+    - - '45'
+      - steve crosby
+    - - '7'
+      - James Atkinson
+    - - '41'
+      - Peter Burkitt
+    - - '18'
+      - Peter Adriaans
+    - - '35'
+      - Anatoly Reyter
+  - - - '33'
+      - Niki Longshore
+    - - '2'
+      - Tony Armstrong
+    - - '29'
+      - Guy Hubbard
+    - - '22'
+      - Steve Blenkinsop
+    - - '4'
+      - Nick Purcell
+    - - '39'
+      - rob degroot
+    - - '12'
+      - Rory Duncan
+    - - '5'
+      - Jonny Durand
+    - - '20'
+      - Konrad Heilmann
+    - - '9'
+      - Rohan Taylor
+    - - '46'
+      - Harrison Rowntree
+    - - '44'
+      - Josh Woods
+    - - '26'
+      - Jason Kath
+    - - '19'
+      - Scott Barrett
+    - - '8'
+      - Rod Flockhart
+    - - '51'
+      - Billy Miller-Macleod
+    - - '13'
+      - Matthew Barlow
+    - - '42'
+      - Mikhail Karmazin
+    - - '25'
+      - Hagen Bruggemann
+    - - '16'
+      - Andrew Barnes
+    - - '37'
+      - John Spencer
+    - - '38'
+      - Dave Stevens
+    - - '10'
+      - Craig Taylor
+    - - '45'
+      - steve crosby
+    - - '6'
+      - Viv Clements
+    - - '18'
+      - Peter Adriaans
+    - - '36'
+      - Brad Porter
+    - - '7'
+      - James Atkinson
+    - - '24'
+      - Brodrick Osborne
+  - - - '2'
+      - Tony Armstrong
+    - - '22'
+      - Steve Blenkinsop
+    - - '29'
+      - Guy Hubbard
+    - - '5'
+      - Jonny Durand
+    - - '12'
+      - Rory Duncan
+    - - '46'
+      - Harrison Rowntree
+    - - '20'
+      - Konrad Heilmann
+    - - '44'
+      - Josh Woods
+    - - '26'
+      - Jason Kath
+    - - '4'
+      - Nick Purcell
+    - - '33'
+      - Niki Longshore
+    - - '9'
+      - Rohan Taylor
+    - - '19'
+      - Scott Barrett
+    - - '13'
+      - Matthew Barlow
+    - - '25'
+      - Hagen Bruggemann
+    - - '8'
+      - Rod Flockhart
+  lastLanding: 2017-04-14T07:12:10Z
+tagging:
+- - - '35'
+    - Anatoly Reyter
+  - zonesTag:
+    - inter:
+        fixFrac: 924.6172901383279
+        time: 2017-04-14T03:10:29.234580276654Z
+        lat: -27.12896379
+        lng: 151.22569711
+        alt: 1918.62
+      cross:
+        crossingPair:
+        - fix: 924
+          time: 2017-04-14T03:10:28Z
+          lat: -27.12906667
+          lng: 151.2258
+          alt: 1918
+        - fix: 925
+          time: 2017-04-14T03:10:30Z
+          lat: -27.1289
+          lng: 151.22563333
+          alt: 1919
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 3732.2070886422844
+        time: 2017-04-14T04:44:15.207088642284Z
+        lat: -26.93166322
+        lng: 150.93366894
+        alt: 1652.38
+      cross:
+        crossingPair:
+        - fix: 3732
+          time: 2017-04-14T04:44:15Z
+          lat: -26.93166667
+          lng: 150.9337
+          alt: 1653
+        - fix: 3733
+          time: 2017-04-14T04:44:16Z
+          lat: -26.93165
+          lng: 150.93355
+          alt: 1650
+        inZone:
+        - false
+        - true
+    - null
+    - null
+- - - '16'
+    - Andrew Barnes
+  - zonesTag:
+    - inter:
+        fixFrac: 676.5534635116203
+        time: 2017-04-14T03:03:35.7673175581Z
+        lat: -27.140687
+        lng: 151.21728071
+        alt: 1839.13
+      cross:
+        crossingPair:
+        - fix: 676
+          time: 2017-04-14T03:03:33Z
+          lat: -27.14116667
+          lng: 151.21756667
+          alt: 1843
+        - fix: 677
+          time: 2017-04-14T03:03:38Z
+          lat: -27.1403
+          lng: 151.21705
+          alt: 1836
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1402.7533261128488
+        time: 2017-04-14T04:04:20.506652225696Z
+        lat: -26.93014522
+        lng: 150.93396489
+        alt: 1776.49
+      cross:
+        crossingPair:
+        - fix: 1402
+          time: 2017-04-14T04:04:19Z
+          lat: -26.93028333
+          lng: 150.93436667
+          alt: 1778
+        - fix: 1403
+          time: 2017-04-14T04:04:21Z
+          lat: -26.9301
+          lng: 150.93383333
+          alt: 1776
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 2469.9548779697166
+        time: 2017-04-14T05:33:38.77438984858Z
+        lat: -26.92871829
+        lng: 151.42799046
+        alt: 1816.45
+      cross:
+        crossingPair:
+        - fix: 2469
+          time: 2017-04-14T05:33:34Z
+          lat: -26.9284
+          lng: 151.42708333
+          alt: 1826
+        - fix: 2470
+          time: 2017-04-14T05:33:39Z
+          lat: -26.92873333
+          lng: 151.42803333
+          alt: 1816
+        inZone:
+        - false
+        - true
+    - null
+- - - '15'
+    - Andrew Sharpe
+  - zonesTag:
+    - inter:
+        fixFrac: 1429.377045221806
+        time: 2017-04-14T03:09:57.377045221806Z
+        lat: -27.12552705
+        lng: 151.22948934
+        alt: 1979.62
+      cross:
+        crossingPair:
+        - fix: 1429
+          time: 2017-04-14T03:09:57Z
+          lat: -27.12553333
+          lng: 151.22953333
+          alt: 1980
+        - fix: 1430
+          time: 2017-04-14T03:09:58Z
+          lat: -27.12551667
+          lng: 151.22941667
+          alt: 1979
+        inZone:
+        - true
+        - false
+    - null
+    - null
+    - null
+- - - '51'
+    - Billy Miller-Macleod
+  - zonesTag:
+    - inter:
+        fixFrac: 239.3773029651916
+        time: 2017-04-14T03:02:45.77302965191Z
+        lat: -27.16017045
+        lng: 151.21301017
+        alt: 1536.66
+      cross:
+        crossingPair:
+        - fix: 239
+          time: 2017-04-14T03:02:42Z
+          lat: -27.16023333
+          lng: 151.21373333
+          alt: 1551
+        - fix: 240
+          time: 2017-04-14T03:02:52Z
+          lat: -27.16006667
+          lng: 151.21181667
+          alt: 1513
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 646.8621036569559
+        time: 2017-04-14T04:10:43.758932912595Z
+        lat: -26.925296
+        lng: 150.93393732
+        alt: 1682
+      cross:
+        crossingPair:
+        - fix: 646
+          time: 2017-04-14T04:10:36Z
+          lat: -26.92475
+          lng: 150.9349
+          alt: 1707
+        - fix: 647
+          time: 2017-04-14T04:10:45Z
+          lat: -26.92538333
+          lng: 150.93378333
+          alt: 1678
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 1071.9407120639212
+        time: 2017-04-14T05:21:28.40712063921Z
+        lat: -26.92963407
+        lng: 151.42811673
+        alt: 1291.48
+      cross:
+        crossingPair:
+        - fix: 1071
+          time: 2017-04-14T05:21:19Z
+          lat: -26.92911667
+          lng: 151.42626667
+          alt: 1315
+        - fix: 1072
+          time: 2017-04-14T05:21:29Z
+          lat: -26.92966667
+          lng: 151.42823333
+          alt: 1290
+        inZone:
+        - false
+        - true
+    - null
+- - - '36'
+    - Brad Porter
+  - zonesTag:
+    - inter:
+        fixFrac: 3139.2060584086535
+        time: 2017-04-14T03:20:54.618175225959Z
+        lat: -27.14024748
+        lng: 151.21750089
+        alt: 2038.21
+      cross:
+        crossingPair:
+        - fix: 3139
+          time: 2017-04-14T03:20:54Z
+          lat: -27.14033333
+          lng: 151.21758333
+          alt: 2038
+        - fix: 3140
+          time: 2017-04-14T03:20:57Z
+          lat: -27.13991667
+          lng: 151.21718333
+          alt: 2039
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 4403.345627456016
+        time: 2017-04-14T04:25:26.345627456015Z
+        lat: -26.92559423
+        lng: 150.93398149
+        alt: 1181.65
+      cross:
+        crossingPair:
+        - fix: 4403
+          time: 2017-04-14T04:25:26Z
+          lat: -26.9256
+          lng: 150.93403333
+          alt: 1182
+        - fix: 4404
+          time: 2017-04-14T04:25:27Z
+          lat: -26.92558333
+          lng: 150.93388333
+          alt: 1181
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 6287.096816041757
+        time: 2017-04-14T06:01:32.096816041757Z
+        lat: -26.93888011
+        lng: 151.43291775
+        alt: 1564.9
+      cross:
+        crossingPair:
+        - fix: 6287
+          time: 2017-04-14T06:01:32Z
+          lat: -26.93888333
+          lng: 151.4329
+          alt: 1565
+        - fix: 6288
+          time: 2017-04-14T06:01:33Z
+          lat: -26.93885
+          lng: 151.43308333
+          alt: 1564
+        inZone:
+        - false
+        - true
+    - null
+- - - '24'
+    - Brodrick Osborne
+  - zonesTag:
+    - inter:
+        fixFrac: 779.1764602872919
+        time: 2017-04-14T03:06:02.352920574582Z
+        lat: -27.1307657
+        lng: 151.22400196
+        alt: 1804.29
+      cross:
+        crossingPair:
+        - fix: 779
+          time: 2017-04-14T03:06:02Z
+          lat: -27.13078333
+          lng: 151.22406667
+          alt: 1805
+        - fix: 780
+          time: 2017-04-14T03:06:04Z
+          lat: -27.13068333
+          lng: 151.2237
+          alt: 1801
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2841.6424182888354
+        time: 2017-04-14T04:15:08.28483657767Z
+        lat: -26.92971777
+        lng: 150.93402152
+        alt: 1511.36
+      cross:
+        crossingPair:
+        - fix: 2841
+          time: 2017-04-14T04:15:07Z
+          lat: -26.9296
+          lng: 150.93415
+          alt: 1512
+        - fix: 2842
+          time: 2017-04-14T04:15:09Z
+          lat: -26.92978333
+          lng: 150.93395
+          alt: 1511
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 6033.957305876988
+        time: 2017-04-14T06:01:58.914611753976Z
+        lat: -26.93662734
+        lng: 151.43103079
+        alt: 1447.09
+      cross:
+        crossingPair:
+        - fix: 6033
+          time: 2017-04-14T06:01:57Z
+          lat: -26.93686667
+          lng: 151.4306
+          alt: 1449
+        - fix: 6034
+          time: 2017-04-14T06:01:59Z
+          lat: -26.93661667
+          lng: 151.43105
+          alt: 1447
+        inZone:
+        - false
+        - true
+    - null
+- - - '10'
+    - Craig Taylor
+  - zonesTag:
+    - inter:
+        fixFrac: 492.7904225790031
+        time: 2017-04-14T03:20:32.90422579003Z
+        lat: -27.16190558
+        lng: 151.21310389
+        alt: 1859.61
+      cross:
+        crossingPair:
+        - fix: 492
+          time: 2017-04-14T03:20:25Z
+          lat: -27.16236667
+          lng: 151.21425
+          alt: 1877
+        - fix: 493
+          time: 2017-04-14T03:20:35Z
+          lat: -27.16178333
+          lng: 151.2128
+          alt: 1855
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 855.838054602622
+        time: 2017-04-14T04:21:08.19027301311Z
+        lat: -26.92859365
+        lng: 150.93411559
+        alt: 986.78
+      cross:
+        crossingPair:
+        - fix: 855
+          time: 2017-04-14T04:21:04Z
+          lat: -26.92873333
+          lng: 150.9348
+          alt: 996
+        - fix: 856
+          time: 2017-04-14T04:21:09Z
+          lat: -26.92856667
+          lng: 150.93398333
+          alt: 985
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 1337.7415046715612
+        time: 2017-04-14T05:41:23.707523357805Z
+        lat: -26.93961087
+        lng: 151.43367653
+        alt: 1630.07
+      cross:
+        crossingPair:
+        - fix: 1337
+          time: 2017-04-14T05:41:20Z
+          lat: -26.93983333
+          lng: 151.43308333
+          alt: 1636
+        - fix: 1338
+          time: 2017-04-14T05:41:25Z
+          lat: -26.93953333
+          lng: 151.43388333
+          alt: 1628
+        inZone:
+        - false
+        - true
+    - null
+- - - '49'
+    - Damian Peauril
+  - null
+- - - '38'
+    - Dave Stevens
+  - zonesTag:
+    - inter:
+        fixFrac: 194.60357675146273
+        time: 2017-04-14T03:05:48.03576751462Z
+        lat: -27.12697464
+        lng: 151.22779267
+        alt: 1884.53
+      cross:
+        crossingPair:
+        - fix: 194
+          time: 2017-04-14T03:05:42Z
+          lat: -27.12731667
+          lng: 151.22846667
+          alt: 1896
+        - fix: 195
+          time: 2017-04-14T03:05:52Z
+          lat: -27.12675
+          lng: 151.22735
+          alt: 1877
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 620.790858465679
+        time: 2017-04-14T04:16:46.163433862712Z
+        lat: -26.92661591
+        lng: 150.93409019
+        alt: 1611.88
+      cross:
+        crossingPair:
+        - fix: 620
+          time: 2017-04-14T04:16:43Z
+          lat: -26.92655
+          lng: 150.93468333
+          alt: 1619
+        - fix: 621
+          time: 2017-04-14T04:16:47Z
+          lat: -26.92663333
+          lng: 150.93393333
+          alt: 1610
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 1125.826666688953
+        time: 2017-04-14T05:40:45.960000133718Z
+        lat: -26.91608533
+        lng: 151.43198401
+        alt: 988.25
+      cross:
+        crossingPair:
+        - fix: 1125
+          time: 2017-04-14T05:40:41Z
+          lat: -26.9153
+          lng: 151.43206667
+          alt: 999
+        - fix: 1126
+          time: 2017-04-14T05:40:47Z
+          lat: -26.91625
+          lng: 151.43196667
+          alt: 986
+        inZone:
+        - false
+        - true
+    - null
+- - - '48'
+    - Derek Mckee
+  - zonesTag:
+    - inter:
+        fixFrac: 3361.1567775028016
+        time: 2017-04-14T03:39:54.313555005602Z
+        lat: -27.12837226
+        lng: 151.22629412
+        alt: 1793.43
+      cross:
+        crossingPair:
+        - fix: 3361
+          time: 2017-04-14T03:39:54Z
+          lat: -27.12841667
+          lng: 151.22633333
+          alt: 1795
+        - fix: 3362
+          time: 2017-04-14T03:39:56Z
+          lat: -27.12813333
+          lng: 151.22608333
+          alt: 1785
+        inZone:
+        - true
+        - false
+    - null
+    - null
+    - null
+- - - '21'
+    - Frank Chetcuti
+  - zonesTag:
+    - inter:
+        fixFrac: 414.4083708651037
+        time: 2017-04-14T03:05:32.08370865103Z
+        lat: -27.12915263
+        lng: 151.22551091
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 414
+          time: 2017-04-14T03:05:28Z
+          lat: -27.12935
+          lng: 151.22611667
+          alt: 0
+        - fix: 415
+          time: 2017-04-14T03:05:38Z
+          lat: -27.12886667
+          lng: 151.22463333
+          alt: 0
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1162.3343083755065
+        time: 2017-04-14T04:17:07.340158628542Z
+        lat: -26.92499985
+        lng: 150.93388783
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 1162
+          time: 2017-04-14T04:17:05Z
+          lat: -26.92505
+          lng: 150.93425
+          alt: 0
+        - fix: 1163
+          time: 2017-04-14T04:17:12Z
+          lat: -26.9249
+          lng: 150.93316667
+          alt: 0
+        inZone:
+        - false
+        - true
+    - null
+    - null
+- - - '29'
+    - Guy Hubbard
+  - zonesTag:
+    - inter:
+        fixFrac: 380.2882908257424
+        time: 2017-04-14T03:03:24.88290825742Z
+        lat: -27.13836921
+        lng: 151.21851457
+        alt: 1681.1
+      cross:
+        crossingPair:
+        - fix: 380
+          time: 2017-04-14T03:03:22Z
+          lat: -27.13888333
+          lng: 151.21875
+          alt: 1686
+        - fix: 381
+          time: 2017-04-14T03:03:32Z
+          lat: -27.1371
+          lng: 151.21793333
+          alt: 1669
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 728.107037494918
+        time: 2017-04-14T04:01:23.107037494918Z
+        lat: -26.93066488
+        lng: 150.93388038
+        alt: 1659.57
+      cross:
+        crossingPair:
+        - fix: 728
+          time: 2017-04-14T04:01:23Z
+          lat: -26.93066667
+          lng: 150.9339
+          alt: 1660
+        - fix: 729
+          time: 2017-04-14T04:01:24Z
+          lat: -26.93065
+          lng: 150.93371667
+          alt: 1656
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 1119.7736801167277
+        time: 2017-04-14T05:06:18.094720466908Z
+        lat: -26.93021158
+        lng: 151.42822394
+        alt: 2128
+      cross:
+        crossingPair:
+        - fix: 1119
+          time: 2017-04-14T05:06:15Z
+          lat: -26.93065
+          lng: 151.42785
+          alt: 2128
+        - fix: 1120
+          time: 2017-04-14T05:06:19Z
+          lat: -26.93008333
+          lng: 151.42833333
+          alt: 2128
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 1402.990754905825
+        time: 2017-04-14T05:53:20.90754905825Z
+        lat: -27.1529488
+        lng: 151.27146418
+        alt: 505.38
+      cross:
+        crossingPair:
+        - fix: 1402
+          time: 2017-04-14T05:53:11Z
+          lat: -27.15103333
+          lng: 151.27298333
+          alt: 546
+        - fix: 1403
+          time: 2017-04-14T05:53:21Z
+          lat: -27.15296667
+          lng: 151.27145
+          alt: 505
+        inZone:
+        - false
+        - true
+- - - '27'
+    - Guy Williams
+  - zonesTag:
+    - inter:
+        fixFrac: 1011.4527476148636
+        time: 2017-04-14T03:06:56.263738074315Z
+        lat: -27.12804943
+        lng: 151.226629
+        alt: 1777.59
+      cross:
+        crossingPair:
+        - fix: 1011
+          time: 2017-04-14T03:06:54Z
+          lat: -27.12828333
+          lng: 151.22706667
+          alt: 1788
+        - fix: 1012
+          time: 2017-04-14T03:06:59Z
+          lat: -27.12776667
+          lng: 151.2261
+          alt: 1765
+        inZone:
+        - true
+        - false
+    - null
+    - null
+    - null
+- - - '25'
+    - Hagen Bruggemann
+  - zonesTag:
+    - inter:
+        fixFrac: 1305.088615639405
+        time: 2017-04-14T03:05:42.265846918212Z
+        lat: -27.12756413
+        lng: 151.22714493
+        alt: 1813.47
+      cross:
+        crossingPair:
+        - fix: 1305
+          time: 2017-04-14T03:05:42Z
+          lat: -27.12758333
+          lng: 151.22718333
+          alt: 1814
+        - fix: 1306
+          time: 2017-04-14T03:05:45Z
+          lat: -27.12736667
+          lng: 151.22675
+          alt: 1808
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2671.371792610644
+        time: 2017-04-14T04:14:44.743585221288Z
+        lat: -26.92419915
+        lng: 150.93372564
+        alt: 1453.88
+      cross:
+        crossingPair:
+        - fix: 2671
+          time: 2017-04-14T04:14:44Z
+          lat: -26.9241
+          lng: 150.9338
+          alt: 1455
+        - fix: 2672
+          time: 2017-04-14T04:14:46Z
+          lat: -26.92436667
+          lng: 150.9336
+          alt: 1452
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 4180.485964950901
+        time: 2017-04-14T05:30:54.9719299018Z
+        lat: -26.93162243
+        lng: 151.42857819
+        alt: 2009.49
+      cross:
+        crossingPair:
+        - fix: 4180
+          time: 2017-04-14T05:30:54Z
+          lat: -26.93153333
+          lng: 151.4284
+          alt: 2009
+        - fix: 4181
+          time: 2017-04-14T05:30:56Z
+          lat: -26.93171667
+          lng: 151.42876667
+          alt: 2010
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 5439.905105453688
+        time: 2017-04-14T06:34:23.715316361061Z
+        lat: -27.15273979
+        lng: 151.27125463
+        alt: 824.57
+      cross:
+        crossingPair:
+        - fix: 5439
+          time: 2017-04-14T06:34:21Z
+          lat: -27.15248333
+          lng: 151.27161667
+          alt: 830
+        - fix: 5440
+          time: 2017-04-14T06:34:24Z
+          lat: -27.15276667
+          lng: 151.27121667
+          alt: 824
+        inZone:
+        - false
+        - true
+- - - '46'
+    - Harrison Rowntree
+  - zonesTag:
+    - inter:
+        fixFrac: 936.2148452803948
+        time: 2017-04-14T03:01:54.644535841182Z
+        lat: -27.12254615
+        lng: 151.23355333
+        alt: 1651.93
+      cross:
+        crossingPair:
+        - fix: 936
+          time: 2017-04-14T03:01:54Z
+          lat: -27.12265
+          lng: 151.23365
+          alt: 1653
+        - fix: 937
+          time: 2017-04-14T03:01:57Z
+          lat: -27.12216667
+          lng: 151.2332
+          alt: 1648
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2129.8521811876813
+        time: 2017-04-14T04:02:00.556543563043Z
+        lat: -26.92844754
+        lng: 150.93412202
+        alt: 1365.89
+      cross:
+        crossingPair:
+        - fix: 2129
+          time: 2017-04-14T04:01:58Z
+          lat: -26.92843333
+          lng: 150.93463333
+          alt: 1371
+        - fix: 2130
+          time: 2017-04-14T04:02:01Z
+          lat: -26.92845
+          lng: 150.93403333
+          alt: 1365
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 3645.3930259861386
+        time: 2017-04-14T05:18:15.786051972276Z
+        lat: -26.93528633
+        lng: 151.43016799
+        alt: 2006.43
+      cross:
+        crossingPair:
+        - fix: 3645
+          time: 2017-04-14T05:18:15Z
+          lat: -26.93526667
+          lng: 151.42986667
+          alt: 2008
+        - fix: 3646
+          time: 2017-04-14T05:18:17Z
+          lat: -26.93531667
+          lng: 151.43063333
+          alt: 2004
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 4465.474548787419
+        time: 2017-04-14T05:59:36.949097574838Z
+        lat: -27.15291779
+        lng: 151.27143391
+        alt: 837.05
+      cross:
+        crossingPair:
+        - fix: 4465
+          time: 2017-04-14T05:59:36Z
+          lat: -27.15278333
+          lng: 151.2716
+          alt: 838
+        - fix: 4466
+          time: 2017-04-14T05:59:38Z
+          lat: -27.15306667
+          lng: 151.27125
+          alt: 836
+        inZone:
+        - false
+        - true
+- - - '40'
+    - Hossain Tefaili
+  - zonesTag:
+    - inter:
+        fixFrac: 1413.3592471483967
+        time: 2017-04-14T03:39:25.718494296792Z
+        lat: -27.13059821
+        lng: 151.22415211
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 1413
+          time: 2017-04-14T03:39:25Z
+          lat: -27.1307
+          lng: 151.2242
+          alt: 0
+        - fix: 1414
+          time: 2017-04-14T03:39:27Z
+          lat: -27.13041667
+          lng: 151.22406667
+          alt: 0
+        inZone:
+        - true
+        - false
+    - null
+    - null
+    - null
+- - - '7'
+    - James Atkinson
+  - zonesTag:
+    - inter:
+        fixFrac: 1809.9405080958152
+        time: 2017-04-14T03:03:05.88101619163Z
+        lat: -27.1208629
+        lng: 151.23629025
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 1809
+          time: 2017-04-14T03:03:04Z
+          lat: -27.12106667
+          lng: 151.2364
+          alt: 0
+        - fix: 1810
+          time: 2017-04-14T03:03:06Z
+          lat: -27.12085
+          lng: 151.23628333
+          alt: 0
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 4527.05001013011
+        time: 2017-04-14T04:33:41.10002026022Z
+        lat: -26.93251333
+        lng: 150.93343666
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 4527
+          time: 2017-04-14T04:33:41Z
+          lat: -26.93251667
+          lng: 150.93345
+          alt: 0
+        - fix: 4528
+          time: 2017-04-14T04:33:43Z
+          lat: -26.93245
+          lng: 150.93318333
+          alt: 0
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 7168.18419648907
+        time: 2017-04-14T06:01:50.36839297814Z
+        lat: -26.9375228
+        lng: 151.43170833
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 7168
+          time: 2017-04-14T06:01:50Z
+          lat: -26.93751667
+          lng: 151.43165
+          alt: 0
+        - fix: 7169
+          time: 2017-04-14T06:01:52Z
+          lat: -26.93755
+          lng: 151.43196667
+          alt: 0
+        inZone:
+        - false
+        - true
+    - null
+- - - '26'
+    - Jason Kath
+  - zonesTag:
+    - inter:
+        fixFrac: 3043.5965508303634
+        time: 2017-04-14T03:20:47.596550830363Z
+        lat: -27.14257047
+        lng: 151.216407
+        alt: 2019.6
+      cross:
+        crossingPair:
+        - fix: 3043
+          time: 2017-04-14T03:20:47Z
+          lat: -27.14265
+          lng: 151.21646667
+          alt: 2019
+        - fix: 3044
+          time: 2017-04-14T03:20:48Z
+          lat: -27.14251667
+          lng: 151.21636667
+          alt: 2020
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 5882.677410219586
+        time: 2017-04-14T04:10:23.677410219586Z
+        lat: -26.92871667
+        lng: 150.93410914
+        alt: 1676.65
+      cross:
+        crossingPair:
+        - fix: 5882
+          time: 2017-04-14T04:10:23Z
+          lat: -26.92871667
+          lng: 150.93423333
+          alt: 1678
+        - fix: 5883
+          time: 2017-04-14T04:10:24Z
+          lat: -26.92871667
+          lng: 150.93405
+          alt: 1676
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 9771.011150380971
+        time: 2017-04-14T05:19:36.011150380971Z
+        lat: -26.93231704
+        lng: 151.42880242
+        alt: 1900.99
+      cross:
+        crossingPair:
+        - fix: 9771
+          time: 2017-04-14T05:19:36Z
+          lat: -26.93231667
+          lng: 151.4288
+          alt: 1901
+        - fix: 9772
+          time: 2017-04-14T05:19:37Z
+          lat: -26.93235
+          lng: 151.42901667
+          alt: 1900
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 11897.438441738786
+        time: 2017-04-14T06:01:17.438441738785Z
+        lat: -27.15256371
+        lng: 151.27106756
+        alt: 605.25
+      cross:
+        crossingPair:
+        - fix: 11897
+          time: 2017-04-14T06:01:17Z
+          lat: -27.15248333
+          lng: 151.27113333
+          alt: 607
+        - fix: 11898
+          time: 2017-04-14T06:01:18Z
+          lat: -27.15266667
+          lng: 151.27098333
+          alt: 603
+        inZone:
+        - false
+        - true
+- - - '28'
+    - John Harriot
+  - zonesTag:
+    - inter:
+        fixFrac: 598.6400487200635
+        time: 2017-04-14T03:42:48.640048720063Z
+        lat: -27.13146332
+        lng: 151.223392
+        alt: 1516.36
+      cross:
+        crossingPair:
+        - fix: 598
+          time: 2017-04-14T03:42:48Z
+          lat: -27.13151667
+          lng: 151.22346667
+          alt: 1517
+        - fix: 599
+          time: 2017-04-14T03:42:49Z
+          lat: -27.13143333
+          lng: 151.22335
+          alt: 1516
+        inZone:
+        - true
+        - false
+    - null
+    - null
+    - null
+- - - '37'
+    - John Spencer
+  - zonesTag:
+    - inter:
+        fixFrac: 582.1954525056383
+        time: 2017-04-14T03:06:15.97726252819Z
+        lat: -27.13019098
+        lng: 151.22452334
+        alt: 1865.85
+      cross:
+        crossingPair:
+        - fix: 582
+          time: 2017-04-14T03:06:15Z
+          lat: -27.13023333
+          lng: 151.22466667
+          alt: 1868
+        - fix: 583
+          time: 2017-04-14T03:06:20Z
+          lat: -27.13001667
+          lng: 151.22393333
+          alt: 1857
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1413.6772486287805
+        time: 2017-04-14T04:15:55.03174588634Z
+        lat: -26.92333007
+        lng: 150.93350167
+        alt: 1491
+      cross:
+        crossingPair:
+        - fix: 1413
+          time: 2017-04-14T04:15:53Z
+          lat: -26.92318333
+          lng: 150.93375
+          alt: 1491
+        - fix: 1414
+          time: 2017-04-14T04:15:56Z
+          lat: -26.9234
+          lng: 150.93338333
+          alt: 1491
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 2410.4077414036406
+        time: 2017-04-14T05:39:20.40774140364Z
+        lat: -26.93387961
+        lng: 151.42943462
+        alt: 900.18
+      cross:
+        crossingPair:
+        - fix: 2410
+          time: 2017-04-14T05:39:20Z
+          lat: -26.9339
+          lng: 151.42936667
+          alt: 901
+        - fix: 2411
+          time: 2017-04-14T05:39:21Z
+          lat: -26.93385
+          lng: 151.42953333
+          alt: 899
+        inZone:
+        - false
+        - true
+    - null
+- - - '5'
+    - Jonny Durand
+  - zonesTag:
+    - inter:
+        fixFrac: 657.0196272930326
+        time: 2017-04-14T03:20:57.058881879096Z
+        lat: -27.14229149
+        lng: 151.21652941
+        alt: 1954.02
+      cross:
+        crossingPair:
+        - fix: 657
+          time: 2017-04-14T03:20:57Z
+          lat: -27.1423
+          lng: 151.21653333
+          alt: 1954
+        - fix: 658
+          time: 2017-04-14T03:21:00Z
+          lat: -27.14186667
+          lng: 151.21633333
+          alt: 1955
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1638.5175428584173
+        time: 2017-04-14T04:10:26.035085716834Z
+        lat: -26.92679942
+        lng: 150.93410278
+        alt: 1667.96
+      cross:
+        crossingPair:
+        - fix: 1638
+          time: 2017-04-14T04:10:25Z
+          lat: -26.92681667
+          lng: 150.93426667
+          alt: 1669
+        - fix: 1639
+          time: 2017-04-14T04:10:27Z
+          lat: -26.92678333
+          lng: 150.93395
+          alt: 1667
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 2875.533866754791
+        time: 2017-04-14T05:12:40.06773350958Z
+        lat: -26.92744011
+        lng: 151.42790239
+        alt: 1881.86
+      cross:
+        crossingPair:
+        - fix: 2875
+          time: 2017-04-14T05:12:39Z
+          lat: -26.92733333
+          lng: 151.42773333
+          alt: 1884
+        - fix: 2876
+          time: 2017-04-14T05:12:41Z
+          lat: -26.92753333
+          lng: 151.42805
+          alt: 1880
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 3743.6083484940586
+        time: 2017-04-14T05:56:27.608348494058Z
+        lat: -27.15533764
+        lng: 151.27313486
+        alt: 606.96
+      cross:
+        crossingPair:
+        - fix: 3743
+          time: 2017-04-14T05:56:27Z
+          lat: -27.15526667
+          lng: 151.27326667
+          alt: 610
+        - fix: 3744
+          time: 2017-04-14T05:56:28Z
+          lat: -27.15538333
+          lng: 151.27305
+          alt: 605
+        inZone:
+        - false
+        - true
+- - - '44'
+    - Josh Woods
+  - zonesTag:
+    - inter:
+        fixFrac: 478.0304005725712
+        time: 2017-04-14T03:00:27.152002862855Z
+        lat: -27.12298582
+        lng: 151.23289741
+        alt: 1996.85
+      cross:
+        crossingPair:
+        - fix: 478
+          time: 2017-04-14T03:00:27Z
+          lat: -27.123
+          lng: 151.23291667
+          alt: 1997
+        - fix: 479
+          time: 2017-04-14T03:00:32Z
+          lat: -27.12253333
+          lng: 151.23228333
+          alt: 1992
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1247.293584622017
+        time: 2017-04-14T04:04:39.587169244034Z
+        lat: -26.92858732
+        lng: 150.93411589
+        alt: 1191.53
+      cross:
+        crossingPair:
+        - fix: 1247
+          time: 2017-04-14T04:04:39Z
+          lat: -26.92861667
+          lng: 150.93423333
+          alt: 1193
+        - fix: 1248
+          time: 2017-04-14T04:04:41Z
+          lat: -26.92851667
+          lng: 150.93383333
+          alt: 1188
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 2138.495921625359
+        time: 2017-04-14T05:18:55.495921625358Z
+        lat: -26.93435812
+        lng: 151.42966571
+        alt: 1904.01
+      cross:
+        crossingPair:
+        - fix: 2138
+          time: 2017-04-14T05:18:55Z
+          lat: -26.93433333
+          lng: 151.42955
+          alt: 1905
+        - fix: 2139
+          time: 2017-04-14T05:18:56Z
+          lat: -26.93438333
+          lng: 151.42978333
+          alt: 1903
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 2646.9373188599643
+        time: 2017-04-14T06:01:13.749275439856Z
+        lat: -27.15208324
+        lng: 151.27050119
+        alt: 416.32
+      cross:
+        crossingPair:
+        - fix: 2646
+          time: 2017-04-14T06:01:10Z
+          lat: -27.15158333
+          lng: 151.27126667
+          alt: 436
+        - fix: 2647
+          time: 2017-04-14T06:01:14Z
+          lat: -27.15211667
+          lng: 151.27045
+          alt: 415
+        inZone:
+        - false
+        - true
+- - - '20'
+    - Konrad Heilmann
+  - zonesTag:
+    - inter:
+        fixFrac: 397.0273323196237
+        time: 2017-04-14T03:01:42.27332319623Z
+        lat: -27.1598939
+        lng: 151.21300217
+        alt: 1504.29
+      cross:
+        crossingPair:
+        - fix: 397
+          time: 2017-04-14T03:01:42Z
+          lat: -27.15991667
+          lng: 151.21305
+          alt: 1505
+        - fix: 398
+          time: 2017-04-14T03:01:52Z
+          lat: -27.15908333
+          lng: 151.2113
+          alt: 1479
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 808.8769578825904
+        time: 2017-04-14T04:10:24.7695788259Z
+        lat: -26.92932334
+        lng: 150.93406354
+        alt: 1621.72
+      cross:
+        crossingPair:
+        - fix: 808
+          time: 2017-04-14T04:10:16Z
+          lat: -26.92913333
+          lng: 150.93546667
+          alt: 1634
+        - fix: 809
+          time: 2017-04-14T04:10:26Z
+          lat: -26.92935
+          lng: 150.93386667
+          alt: 1620
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 1183.52914466281
+        time: 2017-04-14T05:12:46.2914466281Z
+        lat: -26.92679395
+        lng: 151.42789655
+        alt: 1788.24
+      cross:
+        crossingPair:
+        - fix: 1183
+          time: 2017-04-14T05:12:41Z
+          lat: -26.92645
+          lng: 151.4269
+          alt: 1793
+        - fix: 1184
+          time: 2017-04-14T05:12:51Z
+          lat: -26.9271
+          lng: 151.42878333
+          alt: 1784
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 1474.0634945574623
+        time: 2017-04-14T06:01:12.063494557462Z
+        lat: -27.15436164
+        lng: 151.27259047
+        alt: 674.81
+      cross:
+        crossingPair:
+        - fix: 1474
+          time: 2017-04-14T06:01:12Z
+          lat: -27.15435
+          lng: 151.2726
+          alt: 675
+        - fix: 1475
+          time: 2017-04-14T06:01:13Z
+          lat: -27.15453333
+          lng: 151.27245
+          alt: 672
+        inZone:
+        - false
+        - true
+- - - '1'
+    - Mark Alton
+  - zonesTag:
+    - inter:
+        fixFrac: 205.65940906690165
+        time: 2017-04-14T03:04:19.59409066901Z
+        lat: -27.12572573
+        lng: 151.22924701
+        alt: 1610.47
+      cross:
+        crossingPair:
+        - fix: 205
+          time: 2017-04-14T03:04:13Z
+          lat: -27.12655
+          lng: 151.22998333
+          alt: 1623
+        - fix: 206
+          time: 2017-04-14T03:04:23Z
+          lat: -27.1253
+          lng: 151.22886667
+          alt: 1604
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 696.7129339811208
+        time: 2017-04-14T04:26:20.13880194336Z
+        lat: -26.92469752
+        lng: 150.93383149
+        alt: 923.86
+      cross:
+        crossingPair:
+        - fix: 696
+          time: 2017-04-14T04:26:18Z
+          lat: -26.92465
+          lng: 150.93411667
+          alt: 926
+        - fix: 697
+          time: 2017-04-14T04:26:21Z
+          lat: -26.92471667
+          lng: 150.93371667
+          alt: 923
+        inZone:
+        - false
+        - true
+    - null
+    - null
+- - - '13'
+    - Matthew Barlow
+  - zonesTag:
+    - inter:
+        fixFrac: 499.34860248468425
+        time: 2017-04-14T03:01:54.74301242342Z
+        lat: -27.16639618
+        lng: 151.21369864
+        alt: 1556.91
+      cross:
+        crossingPair:
+        - fix: 499
+          time: 2017-04-14T03:01:53Z
+          lat: -27.16648333
+          lng: 151.21398333
+          alt: 1559
+        - fix: 500
+          time: 2017-04-14T03:01:58Z
+          lat: -27.16623333
+          lng: 151.21316667
+          alt: 1553
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1428.8430250371189
+        time: 2017-04-14T04:19:29.372100148472Z
+        lat: -26.92773594
+        lng: 150.9341344
+        alt: 1615.57
+      cross:
+        crossingPair:
+        - fix: 1428
+          time: 2017-04-14T04:19:26Z
+          lat: -26.92775
+          lng: 150.93476667
+          alt: 1624
+        - fix: 1429
+          time: 2017-04-14T04:19:30Z
+          lat: -26.92773333
+          lng: 150.93401667
+          alt: 1614
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 2279.905770168273
+        time: 2017-04-14T05:30:28.528850841365Z
+        lat: -26.93550882
+        lng: 151.43029949
+        alt: 2136.81
+      cross:
+        crossingPair:
+        - fix: 2279
+          time: 2017-04-14T05:30:24Z
+          lat: -26.93543333
+          lng: 151.42933333
+          alt: 2135
+        - fix: 2280
+          time: 2017-04-14T05:30:29Z
+          lat: -26.93551667
+          lng: 151.4304
+          alt: 2137
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 3022.885500549344
+        time: 2017-04-14T06:32:25.42750274672Z
+        lat: -27.15565038
+        lng: 151.27327595
+        alt: 945.26
+      cross:
+        crossingPair:
+        - fix: 3022
+          time: 2017-04-14T06:32:21Z
+          lat: -27.15526667
+          lng: 151.27425
+          alt: 955
+        - fix: 3023
+          time: 2017-04-14T06:32:26Z
+          lat: -27.1557
+          lng: 151.27315
+          alt: 944
+        inZone:
+        - false
+        - true
+- - - '42'
+    - Mikhail Karmazin
+  - zonesTag:
+    - inter:
+        fixFrac: 996.8278777627495
+        time: 2017-04-14T03:06:04.655755525498Z
+        lat: -27.12836721
+        lng: 151.22629931
+        alt: 1853.55
+      cross:
+        crossingPair:
+        - fix: 996
+          time: 2017-04-14T03:06:03Z
+          lat: -27.12845
+          lng: 151.22661667
+          alt: 1861
+        - fix: 997
+          time: 2017-04-14T03:06:05Z
+          lat: -27.12835
+          lng: 151.22623333
+          alt: 1852
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 3149.86555984594
+        time: 2017-04-14T04:17:54.73111969188Z
+        lat: -26.92886246
+        lng: 150.93410028
+        alt: 1788.6
+      cross:
+        crossingPair:
+        - fix: 3149
+          time: 2017-04-14T04:17:53Z
+          lat: -26.92905
+          lng: 150.93431667
+          alt: 1786
+        - fix: 3150
+          time: 2017-04-14T04:17:55Z
+          lat: -26.92883333
+          lng: 150.93406667
+          alt: 1789
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 5331.602325281895
+        time: 2017-04-14T05:30:42.20465056379Z
+        lat: -26.93208714
+        lng: 151.42872446
+        alt: 2043
+      cross:
+        crossingPair:
+        - fix: 5331
+          time: 2017-04-14T05:30:41Z
+          lat: -26.93196667
+          lng: 151.42843333
+          alt: 2043
+        - fix: 5332
+          time: 2017-04-14T05:30:43Z
+          lat: -26.93216667
+          lng: 151.42891667
+          alt: 2043
+        inZone:
+        - false
+        - true
+    - null
+- - - '4'
+    - Nick Purcell
+  - zonesTag:
+    - inter:
+        fixFrac: 1497.593220948897
+        time: 2017-04-14T03:03:44.186441897792Z
+        lat: -27.13929181
+        lng: 151.21800169
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 1497
+          time: 2017-04-14T03:03:43Z
+          lat: -27.13945
+          lng: 151.21815
+          alt: 0
+        - fix: 1498
+          time: 2017-04-14T03:03:45Z
+          lat: -27.13918333
+          lng: 151.2179
+          alt: 0
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 3337.14656799392
+        time: 2017-04-14T04:03:37.29313598784Z
+        lat: -26.93012514
+        lng: 150.93396781
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 3337
+          time: 2017-04-14T04:03:37Z
+          lat: -26.93016667
+          lng: 150.93401667
+          alt: 0
+        - fix: 3338
+          time: 2017-04-14T04:03:39Z
+          lat: -26.92988333
+          lng: 150.93368333
+          alt: 0
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 5168.486354401753
+        time: 2017-04-14T05:06:45.486354401752Z
+        lat: -26.93263561
+        lng: 151.42891667
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 5168
+          time: 2017-04-14T05:06:45Z
+          lat: -26.93271667
+          lng: 151.42891667
+          alt: 0
+        - fix: 5169
+          time: 2017-04-14T05:06:46Z
+          lat: -26.93255
+          lng: 151.42891667
+          alt: 0
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 6805.926261990748
+        time: 2017-04-14T06:02:23.926261990747Z
+        lat: -27.15388894
+        lng: 151.27226352
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 6805
+          time: 2017-04-14T06:02:23Z
+          lat: -27.15375
+          lng: 151.27243333
+          alt: 0
+        - fix: 6806
+          time: 2017-04-14T06:02:24Z
+          lat: -27.1539
+          lng: 151.27225
+          alt: 0
+        inZone:
+        - false
+        - true
+- - - '33'
+    - Niki Longshore
+  - zonesTag:
+    - inter:
+        fixFrac: 336.45930747827896
+        time: 2017-04-14T03:01:57.59307478278Z
+        lat: -27.12268313
+        lng: 151.2333466
+        alt: 1785.6
+      cross:
+        crossingPair:
+        - fix: 336
+          time: 2017-04-14T03:01:53Z
+          lat: -27.12343333
+          lng: 151.23396667
+          alt: 1798
+        - fix: 337
+          time: 2017-04-14T03:02:03Z
+          lat: -27.1218
+          lng: 151.23261667
+          alt: 1771
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 701.7439501920204
+        time: 2017-04-14T04:03:09.23185057606Z
+        lat: -26.93233028
+        lng: 150.93349083
+        alt: 1737.07
+      cross:
+        crossingPair:
+        - fix: 701
+          time: 2017-04-14T04:03:07Z
+          lat: -26.93246667
+          lng: 150.9339
+          alt: 1746
+        - fix: 702
+          time: 2017-04-14T04:03:10Z
+          lat: -26.93228333
+          lng: 150.93335
+          alt: 1734
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 1064.7140770519864
+        time: 2017-04-14T05:03:46.428154103972Z
+        lat: -26.93247856
+        lng: 151.42885943
+        alt: 1406.14
+      cross:
+        crossingPair:
+        - fix: 1064
+          time: 2017-04-14T05:03:45Z
+          lat: -26.93246667
+          lng: 151.42855
+          alt: 1409
+        - fix: 1065
+          time: 2017-04-14T05:03:47Z
+          lat: -26.93248333
+          lng: 151.42898333
+          alt: 1405
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 1418.8755085837763
+        time: 2017-04-14T06:03:05.128560086432Z
+        lat: -27.15263374
+        lng: 151.27114317
+        alt: 630.98
+      cross:
+        crossingPair:
+        - fix: 1418
+          time: 2017-04-14T06:02:59Z
+          lat: -27.15193333
+          lng: 151.27215
+          alt: 659
+        - fix: 1419
+          time: 2017-04-14T06:03:06Z
+          lat: -27.15273333
+          lng: 151.271
+          alt: 627
+        inZone:
+        - false
+        - true
+- - - '23'
+    - Noel Collins
+  - zonesTag:
+    - inter:
+        fixFrac: 1854.677946609891
+        time: 2017-04-14T03:20:41.677946609891Z
+        lat: -27.15430423
+        lng: 151.21324889
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 1854
+          time: 2017-04-14T03:20:41Z
+          lat: -27.15438333
+          lng: 151.21331667
+          alt: 0
+        - fix: 1855
+          time: 2017-04-14T03:20:42Z
+          lat: -27.15426667
+          lng: 151.21321667
+          alt: 0
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 5651.183602867568
+        time: 2017-04-14T04:23:58.183602867567Z
+        lat: -26.92843638
+        lng: 150.93412246
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 5651
+          time: 2017-04-14T04:23:58Z
+          lat: -26.92843333
+          lng: 150.93415
+          alt: 0
+        - fix: 5652
+          time: 2017-04-14T04:23:59Z
+          lat: -26.92845
+          lng: 150.934
+          alt: 0
+        inZone:
+        - false
+        - true
+    - null
+    - null
+- - - '18'
+    - Peter Adriaans
+  - zonesTag:
+    - inter:
+        fixFrac: 2810.027364245501
+        time: 2017-04-14T03:20:19.0273642455Z
+        lat: -27.12439727
+        lng: 151.23093013
+        alt: 1917
+      cross:
+        crossingPair:
+        - fix: 2810
+          time: 2017-04-14T03:20:19Z
+          lat: -27.1244
+          lng: 151.23093333
+          alt: 1917
+        - fix: 2811
+          time: 2017-04-14T03:20:20Z
+          lat: -27.1243
+          lng: 151.23081667
+          alt: 1917
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 7777.509240811109
+        time: 2017-04-14T04:43:06.509240811108Z
+        lat: -26.92955
+        lng: 150.93404059
+        alt: 1844.98
+      cross:
+        crossingPair:
+        - fix: 7777
+          time: 2017-04-14T04:43:06Z
+          lat: -26.92955
+          lng: 150.9341
+          alt: 1846
+        - fix: 7778
+          time: 2017-04-14T04:43:07Z
+          lat: -26.92955
+          lng: 150.93398333
+          alt: 1844
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 12300.618604614692
+        time: 2017-04-14T05:58:29.618604614692Z
+        lat: -26.91461186
+        lng: 151.43337458
+        alt: 1023.14
+      cross:
+        crossingPair:
+        - fix: 12300
+          time: 2017-04-14T05:58:29Z
+          lat: -26.91455
+          lng: 151.43333333
+          alt: 1025
+        - fix: 12301
+          time: 2017-04-14T05:58:30Z
+          lat: -26.91465
+          lng: 151.4334
+          alt: 1022
+        inZone:
+        - false
+        - true
+    - null
+- - - '41'
+    - Peter Burkitt
+  - zonesTag:
+    - inter:
+        fixFrac: 354.6493670155714
+        time: 2017-04-14T03:22:15.649367015571Z
+        lat: -27.13974091
+        lng: 151.21776255
+        alt: 1932.65
+      cross:
+        crossingPair:
+        - fix: 354
+          time: 2017-04-14T03:22:15Z
+          lat: -27.13981667
+          lng: 151.21781667
+          alt: 1932
+        - fix: 355
+          time: 2017-04-14T03:22:16Z
+          lat: -27.1397
+          lng: 151.21773333
+          alt: 1933
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1302.0169342315064
+        time: 2017-04-14T04:40:51.016934231506Z
+        lat: -26.92445057
+        lng: 150.93378107
+        alt: 1459.97
+      cross:
+        crossingPair:
+        - fix: 1302
+          time: 2017-04-14T04:40:51Z
+          lat: -26.92445
+          lng: 150.93378333
+          alt: 1460
+        - fix: 1303
+          time: 2017-04-14T04:40:52Z
+          lat: -26.92448333
+          lng: 150.93365
+          alt: 1458
+        inZone:
+        - false
+        - true
+    - null
+    - null
+- - - '32'
+    - Rob Larkin
+  - zonesTag:
+    - inter:
+        fixFrac: 553.9076440512459
+        time: 2017-04-14T03:03:54.722932153735Z
+        lat: -27.12550333
+        lng: 151.22951849
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 553
+          time: 2017-04-14T03:03:52Z
+          lat: -27.1257
+          lng: 151.2297
+          alt: 0
+        - fix: 554
+          time: 2017-04-14T03:03:55Z
+          lat: -27.12548333
+          lng: 151.2295
+          alt: 0
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2933.448199470471
+        time: 2017-04-14T04:28:59.89639894094Z
+        lat: -26.92189483
+        lng: 150.93301784
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 2933
+          time: 2017-04-14T04:28:59Z
+          lat: -26.92185
+          lng: 150.9331
+          alt: 0
+        - fix: 2934
+          time: 2017-04-14T04:29:01Z
+          lat: -26.92195
+          lng: 150.93291667
+          alt: 0
+        inZone:
+        - false
+        - true
+    - null
+    - null
+- - - '8'
+    - Rod Flockhart
+  - zonesTag:
+    - inter:
+        fixFrac: 892.364592988848
+        time: 2017-04-14T03:02:40.093778966544Z
+        lat: -27.12242534
+        lng: 151.2337375
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 892
+          time: 2017-04-14T03:02:39Z
+          lat: -27.12258333
+          lng: 151.23388333
+          alt: 0
+        - fix: 893
+          time: 2017-04-14T03:02:42Z
+          lat: -27.12215
+          lng: 151.23348333
+          alt: 0
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2107.733037899141
+        time: 2017-04-14T04:03:29.199113697423Z
+        lat: -26.93206342
+        lng: 150.93356568
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 2107
+          time: 2017-04-14T04:03:27Z
+          lat: -26.93228333
+          lng: 150.93388333
+          alt: 0
+        - fix: 2108
+          time: 2017-04-14T04:03:30Z
+          lat: -26.93198333
+          lng: 150.93345
+          alt: 0
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 3655.8497172907573
+        time: 2017-04-14T05:20:55.549151872271Z
+        lat: -26.93199162
+        lng: 151.42869316
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 3655
+          time: 2017-04-14T05:20:53Z
+          lat: -26.93185
+          lng: 151.42818333
+          alt: 0
+        - fix: 3656
+          time: 2017-04-14T05:20:56Z
+          lat: -26.93201667
+          lng: 151.42878333
+          alt: 0
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 5200.152774281189
+        time: 2017-04-14T06:38:11.458322843564Z
+        lat: -27.15335208
+        lng: 151.2718338
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 5200
+          time: 2017-04-14T06:38:11Z
+          lat: -27.15328333
+          lng: 151.2719
+          alt: 0
+        - fix: 5201
+          time: 2017-04-14T06:38:14Z
+          lat: -27.15373333
+          lng: 151.27146667
+          alt: 0
+        inZone:
+        - false
+        - true
+- - - '9'
+    - Rohan Taylor
+  - zonesTag:
+    - inter:
+        fixFrac: 411.13358845772586
+        time: 2017-04-14T03:01:33.5343538309Z
+        lat: -27.16060214
+        lng: 151.21302647
+        alt: 1528.8
+      cross:
+        crossingPair:
+        - fix: 411
+          time: 2017-04-14T03:01:33Z
+          lat: -27.16063333
+          lng: 151.21313333
+          alt: 1530
+        - fix: 412
+          time: 2017-04-14T03:01:37Z
+          lat: -27.1604
+          lng: 151.21233333
+          alt: 1521
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1413.7645044777987
+        time: 2017-04-14T04:10:59.058017911192Z
+        lat: -26.92807833
+        lng: 150.93413237
+        alt: 1549.88
+      cross:
+        crossingPair:
+        - fix: 1413
+          time: 2017-04-14T04:10:56Z
+          lat: -26.92768333
+          lng: 150.93418333
+          alt: 1556
+        - fix: 1414
+          time: 2017-04-14T04:11:00Z
+          lat: -26.9282
+          lng: 150.93411667
+          alt: 1548
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 2369.56141829618
+        time: 2017-04-14T05:17:24.68425488854Z
+        lat: -26.94004912
+        lng: 151.43417428
+        alt: 1558.75
+      cross:
+        crossingPair:
+        - fix: 2369
+          time: 2017-04-14T05:17:23Z
+          lat: -26.94013333
+          lng: 151.4338
+          alt: 1561
+        - fix: 2370
+          time: 2017-04-14T05:17:26Z
+          lat: -26.93998333
+          lng: 151.43446667
+          alt: 1557
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 3092.7053153949932
+        time: 2017-04-14T06:07:08.115946184979Z
+        lat: -27.15492335
+        lng: 151.27292383
+        alt: 492.24
+      cross:
+        crossingPair:
+        - fix: 3092
+          time: 2017-04-14T06:07:06Z
+          lat: -27.1547
+          lng: 151.2733
+          alt: 500
+        - fix: 3093
+          time: 2017-04-14T06:07:09Z
+          lat: -27.15501667
+          lng: 151.27276667
+          alt: 489
+        inZone:
+        - false
+        - true
+- - - '12'
+    - Rory Duncan
+  - zonesTag:
+    - inter:
+        fixFrac: 320.4166734554204
+        time: 2017-04-14T03:01:36.1667345542Z
+        lat: -27.16011248
+        lng: 151.21300833
+        alt: 1674.75
+      cross:
+        crossingPair:
+        - fix: 320
+          time: 2017-04-14T03:01:32Z
+          lat: -27.16038333
+          lng: 151.21355
+          alt: 1681
+        - fix: 321
+          time: 2017-04-14T03:01:42Z
+          lat: -27.15973333
+          lng: 151.21225
+          alt: 1666
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 681.8607644072029
+        time: 2017-04-14T04:01:49.025350850414Z
+        lat: -26.928619
+        lng: 150.93411434
+        alt: 1494.51
+      cross:
+        crossingPair:
+        - fix: 681
+          time: 2017-04-14T04:01:43Z
+          lat: -26.92863333
+          lng: 150.93523333
+          alt: 1510
+        - fix: 682
+          time: 2017-04-14T04:01:50Z
+          lat: -26.92861667
+          lng: 150.93393333
+          alt: 1492
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 1075.6066456656483
+        time: 2017-04-14T05:07:13.819936996944Z
+        lat: -26.93309068
+        lng: 151.42909267
+        alt: 1540.82
+      cross:
+        crossingPair:
+        - fix: 1075
+          time: 2017-04-14T05:07:12Z
+          lat: -26.93333333
+          lng: 151.42885
+          alt: 1539
+        - fix: 1076
+          time: 2017-04-14T05:07:15Z
+          lat: -26.93293333
+          lng: 151.42925
+          alt: 1542
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 1374.9282668301532
+        time: 2017-04-14T05:56:50.641334150765Z
+        lat: -27.15465098
+        lng: 151.27276927
+        alt: 653.36
+      cross:
+        crossingPair:
+        - fix: 1374
+          time: 2017-04-14T05:56:46Z
+          lat: -27.15401667
+          lng: 151.27345
+          alt: 658
+        - fix: 1375
+          time: 2017-04-14T05:56:51Z
+          lat: -27.1547
+          lng: 151.27271667
+          alt: 653
+        inZone:
+        - false
+        - true
+- - - '19'
+    - Scott Barrett
+  - zonesTag:
+    - inter:
+        fixFrac: 593.7203784554406
+        time: 2017-04-14T03:04:22.6018922772Z
+        lat: -27.14049842
+        lng: 151.21737441
+        alt: 1667.19
+      cross:
+        crossingPair:
+        - fix: 593
+          time: 2017-04-14T03:04:19Z
+          lat: -27.14096667
+          lng: 151.21786667
+          alt: 1678
+        - fix: 594
+          time: 2017-04-14T03:04:24Z
+          lat: -27.14031667
+          lng: 151.21718333
+          alt: 1663
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1430.9319966291487
+        time: 2017-04-14T04:14:09.65998314574Z
+        lat: -26.92734661
+        lng: 150.93412787
+        alt: 1376.29
+      cross:
+        crossingPair:
+        - fix: 1430
+          time: 2017-04-14T04:14:05Z
+          lat: -26.9273
+          lng: 150.93496667
+          alt: 1394
+        - fix: 1431
+          time: 2017-04-14T04:14:10Z
+          lat: -26.92735
+          lng: 150.93406667
+          alt: 1375
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 2218.5248827136447
+        time: 2017-04-14T05:19:38.524882713644Z
+        lat: -26.93227624
+        lng: 151.42878831
+        alt: 1978
+      cross:
+        crossingPair:
+        - fix: 2218
+          time: 2017-04-14T05:19:38Z
+          lat: -26.93225
+          lng: 151.42868333
+          alt: 1978
+        - fix: 2219
+          time: 2017-04-14T05:19:39Z
+          lat: -26.9323
+          lng: 151.42888333
+          alt: 1978
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 2871.8639987366387
+        time: 2017-04-14T06:13:58.591996209914Z
+        lat: -27.14994867
+        lng: 151.26208413
+        alt: 467.41
+      cross:
+        crossingPair:
+        - fix: 2871
+          time: 2017-04-14T06:13:56Z
+          lat: -27.14951667
+          lng: 151.26198333
+          alt: 470
+        - fix: 2872
+          time: 2017-04-14T06:13:59Z
+          lat: -27.15001667
+          lng: 151.2621
+          alt: 467
+        inZone:
+        - false
+        - true
+- - - '43'
+    - Simon West
+  - zonesTag:
+    - inter:
+        fixFrac: 300.50514519617604
+        time: 2017-04-14T03:06:20.52572598088Z
+        lat: -27.16688986
+        lng: 151.21379555
+        alt: 1669.04
+      cross:
+        crossingPair:
+        - fix: 300
+          time: 2017-04-14T03:06:18Z
+          lat: -27.16706667
+          lng: 151.21423333
+          alt: 1665
+        - fix: 301
+          time: 2017-04-14T03:06:23Z
+          lat: -27.16671667
+          lng: 151.21336667
+          alt: 1673
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1107.7866138290942
+        time: 2017-04-14T04:13:46.93306914547Z
+        lat: -26.92541332
+        lng: 150.93395537
+        alt: 1510.71
+      cross:
+        crossingPair:
+        - fix: 1107
+          time: 2017-04-14T04:13:43Z
+          lat: -26.92521667
+          lng: 150.93446667
+          alt: 1517
+        - fix: 1108
+          time: 2017-04-14T04:13:48Z
+          lat: -26.92546667
+          lng: 150.93381667
+          alt: 1509
+        inZone:
+        - false
+        - true
+    - null
+    - null
+- - - '22'
+    - Steve Blenkinsop
+  - zonesTag:
+    - inter:
+        fixFrac: 2721.183897977749
+        time: 2017-04-14T03:00:56.183897977748Z
+        lat: -27.12468603
+        lng: 151.23055133
+        alt: 1790.63
+      cross:
+        crossingPair:
+        - fix: 2721
+          time: 2017-04-14T03:00:56Z
+          lat: -27.12471667
+          lng: 151.23056667
+          alt: 1791
+        - fix: 2722
+          time: 2017-04-14T03:00:57Z
+          lat: -27.12455
+          lng: 151.23048333
+          alt: 1789
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 6550.630597440516
+        time: 2017-04-14T04:04:45.630597440516Z
+        lat: -26.93048515
+        lng: 150.93391157
+        alt: 1796.37
+      cross:
+        crossingPair:
+        - fix: 6550
+          time: 2017-04-14T04:04:45Z
+          lat: -26.93051667
+          lng: 150.93401667
+          alt: 1797
+        - fix: 6551
+          time: 2017-04-14T04:04:46Z
+          lat: -26.93046667
+          lng: 150.93385
+          alt: 1796
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 10245.106743623719
+        time: 2017-04-14T05:06:20.106743623719Z
+        lat: -26.92962978
+        lng: 151.42811601
+        alt: 1945.11
+      cross:
+        crossingPair:
+        - fix: 10245
+          time: 2017-04-14T05:06:20Z
+          lat: -26.92963333
+          lng: 151.4281
+          alt: 1945
+        - fix: 10246
+          time: 2017-04-14T05:06:21Z
+          lat: -26.9296
+          lng: 151.42825
+          alt: 1946
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 12938.894592595627
+        time: 2017-04-14T05:51:13.894592595627Z
+        lat: -27.15721928
+        lng: 151.27376933
+        alt: 561.32
+      cross:
+        crossingPair:
+        - fix: 12938
+          time: 2017-04-14T05:51:13Z
+          lat: -27.1571
+          lng: 151.27393333
+          alt: 564
+        - fix: 12939
+          time: 2017-04-14T05:51:14Z
+          lat: -27.15723333
+          lng: 151.27375
+          alt: 561
+        inZone:
+        - false
+        - true
+- - - '31'
+    - Tomas Kellner
+  - zonesTag:
+    - inter:
+        fixFrac: 471.55599357740374
+        time: 2017-04-14T03:30:07.779967887015Z
+        lat: -27.13627941
+        lng: 151.2197886
+        alt: 2011.45
+      cross:
+        crossingPair:
+        - fix: 471
+          time: 2017-04-14T03:30:05Z
+          lat: -27.13656667
+          lng: 151.22015
+          alt: 2007
+        - fix: 472
+          time: 2017-04-14T03:30:10Z
+          lat: -27.13605
+          lng: 151.2195
+          alt: 2015
+        inZone:
+        - true
+        - false
+    - null
+    - null
+    - null
+- - - '2'
+    - Tony Armstrong
+  - zonesTag:
+    - inter:
+        fixFrac: 991.3126571418084
+        time: 2017-04-14T03:00:32.937971425424Z
+        lat: -27.12513742
+        lng: 151.22997391
+        alt: 1820.12
+      cross:
+        crossingPair:
+        - fix: 991
+          time: 2017-04-14T03:00:32Z
+          lat: -27.12528333
+          lng: 151.23008333
+          alt: 1822
+        - fix: 992
+          time: 2017-04-14T03:00:35Z
+          lat: -27.12481667
+          lng: 151.22973333
+          alt: 1816
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2240.5344305016483
+        time: 2017-04-14T04:03:07.068861003296Z
+        lat: -26.93185088
+        lng: 150.93362186
+        alt: 1732.33
+      cross:
+        crossingPair:
+        - fix: 2240
+          time: 2017-04-14T04:03:06Z
+          lat: -26.93196667
+          lng: 150.9338
+          alt: 1735
+        - fix: 2241
+          time: 2017-04-14T04:03:08Z
+          lat: -26.93175
+          lng: 150.93346667
+          alt: 1730
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 3482.7922022468138
+        time: 2017-04-14T05:05:14.376606740439Z
+        lat: -26.93399286
+        lng: 151.42948767
+        alt: 1810.29
+      cross:
+        crossingPair:
+        - fix: 3482
+          time: 2017-04-14T05:05:12Z
+          lat: -26.93428333
+          lng: 151.42925
+          alt: 1819
+        - fix: 3483
+          time: 2017-04-14T05:05:15Z
+          lat: -26.93391667
+          lng: 151.42955
+          alt: 1808
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 4381.053592388802
+        time: 2017-04-14T05:50:07.053592388802Z
+        lat: -27.15700447
+        lng: 151.27372172
+        alt: 563.79
+      cross:
+        crossingPair:
+        - fix: 4381
+          time: 2017-04-14T05:50:07Z
+          lat: -27.157
+          lng: 151.27373333
+          alt: 564
+        - fix: 4382
+          time: 2017-04-14T05:50:08Z
+          lat: -27.15708333
+          lng: 151.27351667
+          alt: 560
+        inZone:
+        - false
+        - true
+- - - '14'
+    - Tony Giammichele
+  - zonesTag:
+    - inter:
+        fixFrac: 1023.3096542906001
+        time: 2017-04-14T03:20:46.9289628718Z
+        lat: -27.16169957
+        lng: 151.21308883
+        alt: 1799.9
+      cross:
+        crossingPair:
+        - fix: 1023
+          time: 2017-04-14T03:20:46Z
+          lat: -27.16176667
+          lng: 151.21323333
+          alt: 1803
+        - fix: 1024
+          time: 2017-04-14T03:20:49Z
+          lat: -27.16155
+          lng: 151.21276667
+          alt: 1793
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2212.960333350434
+        time: 2017-04-14T04:20:41.881000051302Z
+        lat: -26.92881734
+        lng: 150.93410316
+        alt: 1182.24
+      cross:
+        crossingPair:
+        - fix: 2212
+          time: 2017-04-14T04:20:39Z
+          lat: -26.92883333
+          lng: 150.93458333
+          alt: 1188
+        - fix: 2213
+          time: 2017-04-14T04:20:42Z
+          lat: -26.92881667
+          lng: 150.93408333
+          alt: 1182
+        inZone:
+        - false
+        - true
+    - null
+    - null
+- - - '17'
+    - Trevor Purcell
+  - zonesTag:
+    - inter:
+        fixFrac: 1043.2565575092792
+        time: 2017-04-14T03:21:16.769672527837Z
+        lat: -27.14275505
+        lng: 151.21632732
+        alt: 1813.46
+      cross:
+        crossingPair:
+        - fix: 1043
+          time: 2017-04-14T03:21:16Z
+          lat: -27.14288333
+          lng: 151.2164
+          alt: 1815
+        - fix: 1044
+          time: 2017-04-14T03:21:19Z
+          lat: -27.14238333
+          lng: 151.21611667
+          alt: 1809
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2253.599117164287
+        time: 2017-04-14T04:21:45.797351492858Z
+        lat: -26.92900337
+        lng: 150.93409045
+        alt: 1108.41
+      cross:
+        crossingPair:
+        - fix: 2253
+          time: 2017-04-14T04:21:44Z
+          lat: -26.92903333
+          lng: 150.9344
+          alt: 1112
+        - fix: 2254
+          time: 2017-04-14T04:21:47Z
+          lat: -26.92898333
+          lng: 150.93388333
+          alt: 1106
+        inZone:
+        - false
+        - true
+    - null
+    - null
+- - - '6'
+    - Viv Clements
+  - zonesTag:
+    - inter:
+        fixFrac: 4704.156323881572
+        time: 2017-04-14T03:21:38.156323881571Z
+        lat: -27.14144062
+        lng: 151.21691769
+        alt: 1843.16
+      cross:
+        crossingPair:
+        - fix: 4704
+          time: 2017-04-14T03:21:38Z
+          lat: -27.14146667
+          lng: 151.21693333
+          alt: 1843
+        - fix: 4705
+          time: 2017-04-14T03:21:39Z
+          lat: -27.1413
+          lng: 151.21683333
+          alt: 1844
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 8321.437393577846
+        time: 2017-04-14T04:21:55.437393577845Z
+        lat: -26.93256876
+        lng: 150.93341981
+        alt: 1126.13
+      cross:
+        crossingPair:
+        - fix: 8321
+          time: 2017-04-14T04:21:55Z
+          lat: -26.93258333
+          lng: 150.9335
+          alt: 1127
+        - fix: 8322
+          time: 2017-04-14T04:21:56Z
+          lat: -26.93255
+          lng: 150.93331667
+          alt: 1125
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 14057.511916237116
+        time: 2017-04-14T05:57:31.511916237116Z
+        lat: -26.91868492
+        lng: 151.43015119
+        alt: 1454.46
+      cross:
+        crossingPair:
+        - fix: 14057
+          time: 2017-04-14T05:57:31Z
+          lat: -26.91861667
+          lng: 151.4301
+          alt: 1456
+        - fix: 14058
+          time: 2017-04-14T05:57:32Z
+          lat: -26.91875
+          lng: 151.4302
+          alt: 1453
+        inZone:
+        - false
+        - true
+    - null
+- - - '34'
+    - dave moore
+  - zonesTag:
+    - inter:
+        fixFrac: 1473.639933026167
+        time: 2017-04-14T03:22:19.559732104664Z
+        lat: -27.15719332
+        lng: 151.21302404
+        alt: 1567.88
+      cross:
+        crossingPair:
+        - fix: 1473
+          time: 2017-04-14T03:22:17Z
+          lat: -27.1573
+          lng: 151.21333333
+          alt: 1573
+        - fix: 1474
+          time: 2017-04-14T03:22:21Z
+          lat: -27.15713333
+          lng: 151.21285
+          alt: 1565
+        inZone:
+        - true
+        - false
+    - null
+    - null
+    - null
+- - - '39'
+    - rob degroot
+  - zonesTag:
+    - inter:
+        fixFrac: 880.8552525559691
+        time: 2017-04-14T03:01:08.421010223876Z
+        lat: -27.12495834
+        lng: 151.23020088
+        alt: 1771.16
+      cross:
+        crossingPair:
+        - fix: 880
+          time: 2017-04-14T03:01:05Z
+          lat: -27.1255
+          lng: 151.2306
+          alt: 1778
+        - fix: 881
+          time: 2017-04-14T03:01:09Z
+          lat: -27.12486667
+          lng: 151.23013333
+          alt: 1770
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1792.4996176849252
+        time: 2017-04-14T04:01:54.9984707397Z
+        lat: -26.93309174
+        lng: 150.93325025
+        alt: 1798
+      cross:
+        crossingPair:
+        - fix: 1792
+          time: 2017-04-14T04:01:53Z
+          lat: -26.93318333
+          lng: 150.93358333
+          alt: 1801
+        - fix: 1793
+          time: 2017-04-14T04:01:57Z
+          lat: -26.933
+          lng: 150.93291667
+          alt: 1795
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 2770.583355075779
+        time: 2017-04-14T05:07:07.333420303112Z
+        lat: -26.93288473
+        lng: 151.42901113
+        alt: 1566.67
+      cross:
+        crossingPair:
+        - fix: 2770
+          time: 2017-04-14T05:07:05Z
+          lat: -26.93293333
+          lng: 151.42858333
+          alt: 1562
+        - fix: 2771
+          time: 2017-04-14T05:07:09Z
+          lat: -26.93285
+          lng: 151.42931667
+          alt: 1570
+        inZone:
+        - false
+        - true
+    - null
+- - - '45'
+    - steve crosby
+  - zonesTag:
+    - inter:
+        fixFrac: 269.7215480485676
+        time: 2017-04-14T03:01:59.21548048567Z
+        lat: -27.15895144
+        lng: 151.21298919
+        alt: 1527.68
+      cross:
+        crossingPair:
+        - fix: 269
+          time: 2017-04-14T03:01:52Z
+          lat: -27.15951667
+          lng: 151.2143
+          alt: 1545
+        - fix: 270
+          time: 2017-04-14T03:02:02Z
+          lat: -27.15873333
+          lng: 151.21248333
+          alt: 1521
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 795.6732178764845
+        time: 2017-04-14T04:29:39.692871505936Z
+        lat: -26.93324738
+        lng: 150.93319607
+        alt: 1587.27
+      cross:
+        crossingPair:
+        - fix: 795
+          time: 2017-04-14T04:29:37Z
+          lat: -26.93351667
+          lng: 150.9336
+          alt: 1594
+        - fix: 796
+          time: 2017-04-14T04:29:41Z
+          lat: -26.93311667
+          lng: 150.933
+          alt: 1584
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 1295.6446913194732
+        time: 2017-04-14T05:52:48.289382638946Z
+        lat: -26.93103224
+        lng: 151.4284138
+        alt: 1607.78
+      cross:
+        crossingPair:
+        - fix: 1295
+          time: 2017-04-14T05:52:47Z
+          lat: -26.931
+          lng: 151.42816667
+          alt: 1611
+        - fix: 1296
+          time: 2017-04-14T05:52:49Z
+          lat: -26.93105
+          lng: 151.42855
+          alt: 1606
+        inZone:
+        - false
+        - true
+    - null
